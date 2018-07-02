@@ -1,0 +1,198 @@
+61680 China
+2777 USA
+2557 Singapore
+2181 Taiwan
+1347 Germany
+995 Canada
+860 Japan
+685 India
+677 France
+644 Australia
+502 Italy
+424 United States
+397 Lebanon
+380 Cuba
+377 St Lucia
+346 United Kingdom
+337 Spain
+311 Sweden
+305 Poland
+264 Switzerland
+261 Israel
+240 Georgia
+209 Mexico
+206 Denmark
+203 Jordan
+194 Iran
+192 Belgium
+174 Turkey
+169 Brazil
+167 Finland
+146 Russian Federation
+134 Czech Republic
+126 South Africa
+123 Austria
+121 Portugal
+117 Norway
+105 Hungary
+101 New Zealand
+100 Greece
+87 Jamaica
+85 Netherlands
+83 Luxembourg
+79 Romania
+78 Egypt
+74 Argentina
+66 Oman
+66 Nigeria
+61 Ukraine
+56 Monaco
+53 Thailand
+51 Saudi Arabia
+46 Malaysia
+43 Chile
+40 Malta
+40 Kuwait
+39 Slovenia
+37 US
+33 Vietnam
+32 Serbia
+32 Nepal
+32 Colombia
+25 Tunisia
+23 United Arab Emirates
+23 Croatia
+22 Costa Rica
+19 Uganda
+19 Indonesia
+18 San Marino
+18 Bulgaria
+18 Barbados
+17 Kazakhstan
+16 Cyprus
+15 Venezuela
+15 Togo
+15 Peru
+15 Pakistan
+15 Iceland
+14 Tanzania
+14 Guatemala
+14 Ghana
+13 Sri Lanka
+13 Montenegro
+13 Benin
+12 Uruguay
+12 Sierra Leone
+12 Mauritius
+12 Mali
+12 Belarus
+11 Qatar
+11 Morocco
+11 Kenya
+11 Iraq
+10 Sudan
+10 Panama
+10 Latvia
+10 Estonia
+10 Bahrain
+9 Palau
+9 Ethiopia
+9 Angola
+8 Zimbabwe
+8 Libya
+8 Dominica
+8 Algeria
+8 Albania
+7 Philippines
+7 Madagascar
+7 Brunei
+6 Lithuania
+6 Botswana
+6 Bangladesh
+5 Slovakia
+5 Guinea
+5 El Salvador
+5 Ecuador
+5 Dominican Republic
+5 Cameroon
+5 Bahamas
+5 Armenia
+4 Zambia
+4 Papua New Guinea
+4 Fiji
+3 Uzbekistan
+3 Solomon Islands
+3 Niger
+3 Nicaragua
+3 Mongolia
+3 Moldova
+3 Malawi
+3 Liberia
+3 Honduras
+3 Guyana
+3 Grenada
+2 Senegal
+2 Nauru
+2 Macedonia
+2 Gambia
+2 Cambodia
+2 Burundi
+2 Azerbaijan
+1 Vatican City
+1 Trinidad & Tobago
+1 Syria
+1 St Kitts & Nevis
+1 Somalia
+1 Seychelles
+1 Namibia
+1 Liechtenstein
+1 Lesotho
+1 Laos
+1 Kosovo
+1 Haiti
+1 Equatorial Guinea
+1 East Timor
+1 Djibouti
+1 Chad
+1 Bolivia
+ Yemen
+ Vanuatu
+ Tuvalu
+ Turkmenistan
+ Tonga
+ Tajikistan
+ Swaziland
+ Suriname
+ South Sudan
+ Sao Tome & Principe
+ Samoa
+ Saint Vincent & the Grenadines
+ Rwanda
+ Paraguay
+ Myanmar, {Burma}
+ Mozambique
+ Micronesia
+ Mauritania
+ Marshall Islands
+ Maldives
+ Kyrgyzstan
+ Korea South
+ Korea North
+ Kiribati
+ Ivory Coast
+ Ireland {Republic}
+ Guinea-Bissau
+ Gabon
+ Eritrea
+ Congo {Democratic Rep}
+ Congo
+ Comoros
+ Central African Rep
+ Cape Verde
+ Burkina
+ Bosnia Herzegovina
+ Bhutan
+ Belize
+ Antigua & Deps
+ Andorra
+ Afghanistan

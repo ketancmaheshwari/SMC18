@@ -1,0 +1,72 @@
+43 Los Angeles
+38 Toronto
+28 London
+19 Kyoto
+14 Vancouver
+13 Sydney
+7 Gifu
+6 Teresina
+6 Ottawa
+6 Edmonton
+6 Dundee
+6 Chandigarh
+5 Melbourne
+5 Kiel
+5 Bochum
+4 Umeå
+4 Rouen
+4 Newcastle
+4 Halifax
+3 Sheffield
+3 Manchester
+3 Malmö
+3 Heidelberg
+3 Etawah
+3 Edirne
+3 Cambridge
+2 Zürich
+2 Victoria
+2 Trondheim
+2 Toulouse
+2 Tomsk
+2 Telford
+2 Santa Rosa
+2 Otsu
+2 Modena
+2 Kisarazu
+2 Hamamatsu
+2 Groningen
+2 Brugge
+2 Bristol
+2 Adelaide
+1 Wroclaw
+1 Verona
+1 Utrecht
+1 Uppsala
+1 Turku
+1 Tabriz
+1 Szeged
+1 Strasbourg
+1 Southampton
+1 Sao Paulo
+1 Remscheid
+1 Porto Alegre
+1 Peshawar
+1 Oxford
+1 Orebro
+1 Montréal
+1 Milano
+1 Mannheim
+1 Liverpool
+1 Leiden
+1 Kassel
+1 Hospitalet de Llobregat
+1 Glasgow
+1 Diyarbakir
+1 Debrecen
+1 Chiba
+1 Calgary
+1 Cagliari
+1 Bergen
+1 Bangalore
+1 Alcalá de Henares

@@ -1,0 +1,3845 @@
+18 economics
+15 websearch
+15 knowledge
+15 human
+13 neural network
+13 homme
+13 hombre
+12 research production
+12 research impact
+12 rankings
+12 impact factor
+12 humans
+12 h index
+12 data mining
+12 citations
+12 algorithms
+11 qualitative research
+11 my publications
+10 uncertainty
+10 statistical analysis
+10 business intelligence
+9 pattern recognition
+9 maximum likelihood
+9 machine learning
+9 it security
+9 hep
+9 book
+8 techniques
+8 statistics
+8 physics
+8 organizational structures
+8 management
+8 bibliography
+7 time series
+7 social structures
+7 risk architecture
+7 proteins
+7 process improvement
+7 models
+7 methodology
+7 mathematical models
+7 libro
+7 foresight innovation policy
+7 factor analysis
+7 estimation
+7 defence management
+7 data journal
+7 data analysis
+7 consult
+7 behavioral science
+7 animals
+6 world wide web
+6 systematic review
+6 structured data
+6 strategic management
+6 stochastic processes
+6 social psychology
+6 social networks
+6 social capital
+6 sequence alignment
+6 review
+6 quality control
+6 monte carlo method
+6 image processing
+6 grupo de excelencia
+6 development
+6 computer simulation
+6 computer program
+6 cern document server
+6 article
+6 51
+5 theoretical study
+5 support vector machine
+5 social structure
+5 social behavior
+5 simulation
+5 sample selection bias
+5 psychology
+5 personality
+5 peace
+5 oscillations
+5 nucleic acid
+5 neural networks
+5 multivariate analysis
+5 molecules
+5 molecular cloning
+5 molecular biology
+5 maximum likelihood estimate
+5 mathematical model
+5 marketing
+5 innovation
+5 indexing terms
+5 high resolution
+5 hartree fock
+5 grupo a
+5 genetic algorithm
+5 fuzzy set
+5 experimental design
+5 etude theorique
+5 economic development
+5 dna
+5 crystal structure
+5 competitive advantage
+5 cognitive processes
+5 ciencias basicas y experimentales
+5 atoms
+5 artificial intelligence
+5 analysis
+4 wireless communication
+4 wiki
+4 weblog
+4 transition metal
+4 thermodynamics
+4 theory
+4 support vector
+4 structural equation model
+4 statistical significance
+4 statistical model
+4 statistical method
+4 standard model
+4 standard error
+4 software
+4 social theory
+4 signal processing
+4 scholar
+4 sample size
+4 rna
+4 resource management
+4 research method
+4 reinforcement learning
+4 regression analysis
+4 random variable
+4 random graph
+4 purification
+4 protein data bank
+4 problem solving
+4 polymerase chain reaction
+4 pena
+4 particle physics
+4 panel data
+4 organizational change
+4 organizational behavior
+4 operations research
+4 nonprofit
+4 ngo
+4 networks
+4 multiple regression
+4 motivation
+4 monte carlo
+4 molecular dynamic
+4 mathematics
+4 lopez
+4 ismael
+4 intrinsic motivation
+4 internet
+4 interactions
+4 innovation process
+4 information and communication technologies for development
+4 ictlogy
+4 ictlogist
+4 ict4d
+4 ict
+4 human factors
+4 high energy physics
+4 ground state
+4 grounded theory
+4 genetics
+4 genes
+4 gases
+4 finite element method
+4 e volunteering
+4 e volunteer
+4 evidence based practice
+4 errors
+4 environment
+4 electronic structure
+4 e learning
+4 edge detection
+4 ecommunication
+4 divide
+4 digital
+4 density functional
+4 courses
+4 computer vision
+4 complex system
+4 classification
+4 capital
+4 campus
+4 blog
+4 biotechnology
+4 behavior
+4 articulo sintesis
+4 article synthese
+4 analysis of covariance
+4 amino acid sequence
+4 academic
+3 эконометрическая модель
+3 x ray diffraction
+3 water
+3 violence prevention
+3 unit root
+3 trust relationships
+3 treatment effect
+3 transformation
+3 traitement image
+3 traffic safety
+3 textbook
+3 testing
+3 terminology as topic
+3 technological change
+3 teaching
+3 system identification
+3 survival
+3 suicide prevention
+3 subjective well being
+3 subatomar fysik
+3 structure
+3 structural model
+3 strategic planning
+3 stochastic process
+3 statistical power
+3 statistical mechanics
+3 social norms
+3 social network
+3 socialization
+3 signal to noise ratio
+3 set theory
+3 service quality
+3 self consistent
+3 selection
+3 scale free
+3 satisfiability
+3 safety research
+3 safety literature
+3 safety abstracts
+3 safety
+3 research methodology
+3 regression model
+3 rates of return
+3 random sampling
+3 radial basis function
+3 quantitative study statistical data
+3 publishing
+3 publication bias
+3 publication
+3 psychometrics
+3 psychologie
+3 protein structure
+3 protein sequence
+3 probability theory
+3 probability distribution
+3 probability and statistics
+3 probabilistic reasoning
+3 prisma
+3 principal component analysis
+3 power law
+3 positive affect
+3 poisoning prevention
+3 poison control
+3 plane waves
+3 pharmacology
+3 pesquisa
+3 pedestrian safety
+3 particle detector
+3 other
+3 organizational objectives
+3 organizational learning
+3 occupational safety
+3 nutrition
+3 neutron diffraction
+3 mutation
+3 moving average
+3 mortality
+3 molecular sequence data
+3 metodo
+3 methode
+3 method
+3 meta analysis
+3 mathematical analysis
+3 materials science
+3 machine vision
+3 livre
+3 legitimacy
+3 least square
+3 learning
+3 latent variable
+3 language
+3 kohn sham
+3 isomorphism
+3 iron
+3 interpersonal relations
+3 institutional
+3 injury research
+3 injury prevention
+3 injury control
+3 information theory
+3 information technology
+3 indexation
+3 incidence
+3 image reconstruction
+3 image matching
+3 image analysis
+3 hypothesis test
+3 human behavior
+3 home safety
+3 history
+3 higgs particle
+3 higgs boson
+3 goodness of fit
+3 geociencias medio ambiente generalidades
+3 geociencias medio ambiente
+3 genotypes
+3 genetic algorithms
+3 gene expression
+3 fractal geometry
+3 forecasting
+3 finite temperature
+3 feature extraction
+3 falls
+3 evolution
+3 etude comparative
+3 ethics
+3 estudio comparativo
+3 escherichia coli
+3 ergonomics
+3 enzyme
+3 energy minimization
+3 energy function
+3 em algorithm
+3 electron microscopy
+3 electron correlation
+3 economic theory
+3 econometrics
+3 econometric models
+3 diffusion coefficient
+3 differential equation
+3 developing country
+3 density function theory
+3 data compression
+3 data collection
+3 databases factual
+3 database search
+3 databases
+3 culture
+3 conceptual model
+3 computers
+3 computational modeling
+3 computational biology
+3 comparative study
+3 comparative advantage
+3 cognition
+3 ciencias biologicas generalidades
+3 ciencias biologicas
+3 ciencias basicas y experimentales generalidades
+3 chemotherapy
+3 chemical reaction
+3 cancer
+3 calculation methods
+3 bicycle safety
+3 astrophysics
+3 analytical method
+3 analyse statistique
+3 analisis estadistico
+3 affect affectivity
+3 affect affectivite
+3 afecto afectividad
+3 ad hoc network
+3 accident prevention
+2 関連検索
+2 遺伝子
+2 資料
+2 論文
+2 統合検索
+2 科学技術用語
+2 科学技術振興機構
+2 科学技術
+2 研究開発
+2 研究資源
+2 研究課題
+2 研究者
+2 発想
+2 産学連携
+2 独立行政法人
+2 特許
+2 機関
+2 横断検索
+2 検索エンジン
+2 検索
+2 書誌情報
+2 文献
+2 技術動向
+2 専門
+2 学術
+2 国立研究開発法人
+2 化学物質
+2 экономическая модель
+2 эконометрический метод
+2 эб бгу естественные и точные науки физика
+2 регрессионная модель
+2 математическая модель
+2 wireless networks
+2 weight
+2 wavelet transform
+2 wavelet representation
+2 vision ordinateur
+2 vision ordenador
+2 ventaja comparativa
+2 vector space
+2 vector autoregression
+2 value function
+2 validation test
+2 validacion prueba
+2 utility theory
+2 user computer interface
+2 universe of discourse
+2 undergraduate level
+2 trends
+2 transaction costs
+2 toxicologia
+2 total energy
+2 top quark
+2 tissue culture
+2 time series analysis
+2 time factors
+2 theory of the firm
+2 theory of planned behavior
+2 thematic analysis
+2 text mining
+2 textbooks
+2 test validation
+2 tables
+2 table
+2 systematic reviews
+2 support vector machines
+2 supersymmetric standard model
+2 sun
+2 sum of squares
+2 subatomic physics
+2 students
+2 structure function
+2 structure factors
+2 structure factor
+2 structural equations
+2 structural biology
+2 strategy
+2 stock market
+2 statistik
+2 statistical techniques
+2 statistical pattern recognition
+2 statistical learning theory
+2 statistical computing
+2 standards
+2 specific activity
+2 spatial resolution
+2 spatial orientation
+2 source code
+2 sorting
+2 solids
+2 sodium dodecyl sulfate
+2 social well being
+2 social sciences statistical methods
+2 social sciences research methodology
+2 social sciences
+2 social relation
+2 social factors
+2 social environment
+2 social cognitive theory
+2 small world
+2 simultaneous equations
+2 simulation study
+2 simulated annealing
+2 silicon
+2 share
+2 shape
+2 serie temporelle
+2 serial correlation
+2 sequence analysis dna
+2 sequence analysis
+2 sensitivity and specificity
+2 semantic web
+2 self organizing system
+2 self efficacy
+2 self determination theory
+2 self
+2 selection bias
+2 selected works
+2 second order
+2 search strategies
+2 scientific research
+2 scientific computing
+2 scene analysis
+2 scaling
+2 scale space
+2 scale invariance
+2 scale free network
+2 satisfaction
+2 rule of thumb
+2 routing protocols
+2 root mean square
+2 risk factors
+2 risk aversion
+2 ridge regression
+2 revue systematique
+2 revue bibliographique
+2 revista bibliografica
+2 revision sistematica
+2 review literature as topic
+2 reverse transcriptase polymerase chain reaction
+2 restriction endonuclease
+2 resource model
+2 research methods
+2 research design
+2 research and development
+2 reliability
+2 relationship marketing
+2 relational well being
+2 relational model
+2 relational data
+2 regulations
+2 recherche scientifique
+2 real time polymerase chain reaction
+2 real time
+2 read
+2 rationalization
+2 rat brain
+2 random walk
+2 random process
+2 radial basis function network
+2 radial basis function classifiers
+2 quimioterapia
+2 quasi newton method
+2 quantum theory
+2 quantum information
+2 quantum efficiency
+2 quantum computer
+2 quantum chromodynamics
+2 qualitative psychology
+2 qualitative data
+2 quadrature mirror filter
+2 purificacion
+2 purchasing
+2 psychometrie
+2 psychologie sociale
+2 psychological well being
+2 psychological studies
+2 psicometria
+2 protocols
+2 proteine
+2 protein conformation
+2 prospect theory
+2 propagation
+2 projetos de pesquisa
+2 projector augmented wave
+2 programme ordinateur
+2 probability density function
+2 probability
+2 prices
+2 pratique basee sur des preuves
+2 praguicidas
+2 practica basada en la evidencia
+2 power
+2 potential function
+2 potential energy
+2 posterior mode
+2 population size
+2 population model
+2 polarization
+2 poisson distribution
+2 planificacion estrategica
+2 physics of elementary particles and fields
+2 physics and astronomy
+2 physical sciences
+2 phylogeny
+2 phylogenetic tree
+2 personnalite
+2 personalidad
+2 personal computer
+2 periodicals as topic
+2 performance
+2 perception
+2 patterns
+2 path dependency
+2 path analysis
+2 pareto distribution
+2 parametric model
+2 parameter selection
+2 parameter estimation
+2 parallel distributed processing
+2 organization theory
+2 organizational cultures
+2 organizational
+2 optimization problem
+2 optimization
+2 open access
+2 object recognition
+2 numerical analysis
+2 number of factors
+2 nucleotide sequence
+2 nucleotides
+2 nucleic acids
+2 nuclear physics
+2 noise
+2 new section
+2 new edition
+2 network topology
+2 network model
+2 neoplasms
+2 neoclassical economics
+2 neighbor joining
+2 near real time
+2 nearest neighbor
+2 natural selection
+2 natural sciences
+2 natural language
+2 nanotechnology
+2 mutations
+2 muscles
+2 multivariate data analysis
+2 multiresolution signal decomposition
+2 multiple testing
+2 multiple sequence alignment
+2 multiple comparisons
+2 multiobjective optimization
+2 multi objective optimization
+2 multi layer perceptron
+2 motion tracking
+2 monte carlo simulation
+2 monograph
+2 molecular structure
+2 molecular evolution
+2 models genetic
+2 model selection
+2 modelisation
+2 modele autoregressif
+2 mobile computing
+2 mixed method
+2 microscopy electron
+2 microsatellites
+2 microsatellite loci
+2 metodologia
+2 metodo analitico
+2 methode analytique
+2 meteorology
+2 meta analysis as topic
+2 metaanalysis
+2 metaanalyse
+2 meta analisis
+2 mesoscopic systems and quantum hall effect
+2 meson
+2 mental health
+2 membership function
+2 medicine
+2 medicina basada en pruebas
+2 medical
+2 medecine factuelle
+2 measurement error
+2 measurement
+2 mathematics tables
+2 marx
+2 marketing management
+2 mapping
+2 manufacturing industries
+2 managers
+2 management decisions
+2 magnetic resonance spectroscopy
+2 macromolecule
+2 longitudinal study
+2 local spin density
+2 local minima
+2 liver
+2 liquids
+2 lipids
+2 linguistics
+2 linear relations
+2 linear regression
+2 linear model
+2 life table
+2 life satisfaction
+2 lepton
+2 least squares method
+2 latent variables
+2 knowledge base
+2 knowledge assets
+2 jst
+2 journal article
+2 journal
+2 j global
+2 jglobal
+2 jdream
+2 investment
+2 investigacion cientifica
+2 invariant features
+2 interfirm alliances
+2 interdependence
+2 intelligent system
+2 inteligencia artificial 1e 8
+2 information utilization
+2 information theoretic
+2 information processing
+2 information management
+2 information dissemination
+2 information content
+2 information analysis
+2 industry
+2 industrial society
+2 incomplete data
+2 image resolution
+2 image features
+2 image coding
+2 identity
+2 hydrology
+2 hydrogen bond
+2 hydrogen
+2 hybrid zone
+2 hybrids
+2 humanos
+2 human capital
+2 hough transform
+2 homogeneity
+2 homeostasis
+2 higher education
+2 heat conduction
+2 health care
+2 growth
+2 graph theory
+2 graduate student
+2 gradients
+2 gradient descent method
+2 gradient descent
+2 goodness of fit test
+2 genotype
+2 genomics
+2 genetic markers
+2 genetic marker
+2 genetic engineering
+2 general population
+2 generalized least squares
+2 gel electrophoresis
+2 gauge boson
+2 garch model
+2 garch
+2 functions
+2 fractal analysis
+2 fourier transform
+2 fourier analysis
+2 forests
+2 fluids
+2 fluid dynamics
+2 first principle
+2 firm strategies
+2 firm management
+2 firm growth
+2 firm control
+2 filters
+2 field theory
+2 feed forward neural network
+2 feature space
+2 fast algorithm
+2 familywise error rate
+2 false discovery rate
+2 expected utility theory
+2 expectation
+2 exchange interactions
+2 evolutionary computation
+2 evidence based medicine
+2 evaluation methods
+2 evaluation
+2 estudio teorico
+2 estructura
+2 estimation method
+2 errors in variables
+2 error rate
+2 error propagation
+2 error correction model
+2 error correction
+2 equilibrium
+2 epistemology
+2 engineering
+2 energy levels
+2 energy density
+2 energy
+2 energie totale
+2 energia total
+2 encoding
+2 empirical study
+2 emotion emotivite
+2 emocion emotividad
+2 electrophoresis polyacrylamide gel
+2 electrons
+2 electronic structure calculation
+2 electron gas
+2 electron density
+2 efficient learning algorithms
+2 educational research
+2 economic analysis
+2 economic action
+2 economia y empresa
+2 dynamic routing
+2 double beta decay
+2 dna polymerase
+2 dna complementary
+2 distance vector routing
+2 discipline
+2 dimension reduction
+2 diffusion of innovations
+2 differential equations
+2 detectors
+2 design method
+2 density functional method
+2 degree of freedom
+2 degree distribution
+2 deep inelastic scattering
+2 death rates
+2 data quality
+2 data assimilation
+2 dark matter
+2 cybernetics
+2 cultures
+2 culture cellulaire
+2 cultivo celular
+2 cross section data
+2 cross section
+2 criteria
+2 covariance structures
+2 covariance structure
+2 cosmic background radiation
+2 correlation function
+2 correlation coefficient
+2 convolutions
+2 convolutional codes
+2 convolution
+2 convergence
+2 contingency table
+2 construct validity
+2 constraint optimization
+2 conditional variance
+2 condensed matter
+2 conceptual framework
+2 computerized simulation
+2 computer codes
+2 computational complexity
+2 comportement
+2 complex network
+2 competitividad
+2 competitive advantages
+2 competences
+2 comparisons
+2 community of practice
+2 community
+2 communication
+2 colorimetry
+2 co integration
+2 cognitive process
+2 cognicion
+2 cluster analysis
+2 clinical trial
+2 climate change
+2 class of 1963
+2 classification libsvm optimization regression support vector machines svm
+2 classification and regression tree
+2 classical economics
+2 ciencias sociais
+2 chimiotherapie
+2 chemical reactions
+2 cern document server websearch cern document server
+2 cells
+2 cell culture
+2 categorical data
+2 case study research
+2 cardiovascular disease
+2 carbon
+2 capitalism
+2 capabilities
+2 cancer statistics
+2 cancer cases
+2 calibration
+2 business ethics
+2 bureaucracy
+2 brownian motion
+2 broadcasting
+2 brain
+2 boundary value problem
+2 books
+2 bond markets
+2 biometry
+2 biological evolution
+2 bioinformatics
+2 biochemistry
+2 big bang
+2 bien etre psychologique
+2 bienestar psicologico
+2 bibliographies
+2 bibliographic review
+2 bepress selected works
+2 bepress
+2 behavior theories
+2 bayes theorem
+2 basic local alignment search tool
+2 basic biological sciences
+2 baryon
+2 back propagation
+2 autoregressive model
+2 autoregressive conditional heteroskedasticity
+2 autoregressive
+2 attitude
+2 atomic and molecular physics
+2 atlas
+2 association rule
+2 artificial intelligent
+2 arch model
+2 aqueous solution
+2 appareil circulatoire pathologie
+2 aparato circulatorio patologia
+2 aodv
+2 anomalous magnetic moment
+2 annotate
+2 analysis of variance
+2 analyse factorielle
+2 analisis factorial
+2 amorphous semiconductors
+2 amino acid substitution
+2 amino acid
+2 allele frequency
+2 algorithme
+2 administracion industrial
+2 administracion de empresas
+2 ad hoc on demand distance vector routing
+2 ad hoc networks
+2 ad hoc networking
+2 adaptive systems
+2 adaptive system
+2 active contour model
+2 acide nucleique
+2 acetylcholinesterase
+2 access
+2 0
+2 リンクセンター
+2 ｊｇｌｏｂａｌ
+2 データベース
+2 アイディア
+2 つながる
+2 ひろがる
+2 ひらめく
+2 ｊｓｔ
+2 ｊ ｇｌｏｂａｌ
+1 高感度法
+1 たんぱく質 色素結合の原理を用いるμg量のたんぱく質の定量のための迅速
+1 社会心理学
+1 古典学派前史 経済学
+1 偏微分方程式
+1 экономическая теория
+1 фирма
+1 стохастический процесс
+1 рынок ценных бумаг
+1 регрессионный анализ
+1 процесс
+1 производство
+1 потребление
+1 оценка стоимости
+1 опционная цена
+1 модель линейной регрессии
+1 метод монте карло
+1 математический метод
+1 ковариационный анализ
+1 инфляция
+1 временной ряд
+1 виды временных рядов
+1 анализ портфеля
+1 ξバリオン電磁形状因子と半レプトン崩壊ξ c ξe v e に対する光円錐qcd総和則アプローチ
+1 z0 lepton lepton
+1 x rays
+1 x ray photoelectron spectroscopy
+1 x ray crystallography
+1 x ray computed
+1 x ray and neutron diffraction
+1 x-ray
+1 xenopus laevis
+1 world-wide standard
+1 world politics 1989
+1 world literature
+1 world
+1 work motivation
+1 working paper university of michigan graduate school of business administration division of research
+1 working group
+1 work function
+1 w lepton neutrino
+1 wireless communication systems
+1 wireless communication service
+1 wireless communications
+1 williams beuren syndrome
+1 wide popularity
+1 wide area wireless communication
+1 whole
+1 Weyr canonical form
+1 western united states
+1 west africa
+1 weight measurement scales
+1 web mining
+1 weber
+1 web dotnetnuke
+1 weak ties
+1 wavelet orthonormal basis
+1 water supply
+1 water pollution
+1 warrooms
+1 wahrscheinlichkeitsrechnung
+1 vu
+1 vtls
+1 voltage clamp
+1 volonte d apprendre
+1 vocabulary
+1 vlsi implementation
+1 vitamins
+1 vital
+1 visual perception
+1 visual media
+1 visual interaction
+1 virtual worlds
+1 virial coefficients
+1 vibrational transition
+1 vibration
+1 very large databases
+1 vertebrata
+1 versus teaching
+1 versus nonparticipation
+1 verification
+1 verhaltenswissenschaften
+1 vc dimension
+1 vaso sanguineo patologia
+1 vascular plants
+1 vascular disease
+1 various classical learning algorithm
+1 variations
+1 variance maximization
+1 vapor pressure
+1 value
+1 valuation
+1 valor
+1 validity
+1 valeur
+1 valence band elec field effects on transport in at carbon films
+1 vaisseau sanguin pathologie
+1 uv light
+1 user needs
+1 user measurement
+1 user acceptance
+1 use case
+1 up-to-date information
+1 Unsupervised learning
+1 unsupervised learning
+1 unresolved issues in theory of planned behavior
+1 unix environment
+1 university level
+1 universiteitsbibliotheek
+1 unit roots
+1 united states dept of health and human services
+1 united kingdom
+1 ungulata
+1 understanding
+1 ultrasonography
+1 ucl research
+1 ucl library
+1 ucl discovery
+1 ucl
+1 ub vertical bar
+1 typology
+1 typologie
+1 type 2 diabetes
+1 two dimensional electrophoresis
+1 tutorial hidden markov models speech recognition
+1 tutorial
+1 turbulent flow
+1 tunnel diodes
+1 tumor solido
+1 tumors classification
+1 tumor progression
+1 tumor maligno
+1 tumor
+1 tumeur solide
+1 tumeur maligne
+1 tuberculosis
+1 tropics
+1 tropical forests
+1 triatomic molecules ligands
+1 triads
+1 tremas
+1 tree classifier
+1 treatment outcome
+1 treatment guidelines
+1 treatment efficiency
+1 treatment efficacy
+1 traveling wave
+1 tratamiento informatico
+1 tratamiento datos
+1 tratamento da agua
+1 transport processes
+1 transparency
+1 transmission sans fil
+1 transmission electron microscopy
+1 transmission
+1 transition vibrationnelle
+1 transitions
+1 transition elements
+1 transistors power devices tunnel diodes photodetectors solar cells led
+1 transistors
+1 transform coding
+1 transformation ondelette
+1 transfer functions
+1 transfer function
+1  transcriptomics
+1 transcriptomics
+1 transcription genetic
+1 trajectories of participation
+1 traitement informatique
+1 traitement donnee
+1 traitement des signaux
+1 training data
+1 trace elements
+1 total lipid
+1 total economic value
+1 top of the atmosphere
+1 top down
+1 tools and techniques
+1 tomografia computadorizada por raios x
+1 tomografia computadorizada de emissao
+1 toma decision
+1 to leading order
+1 tobacco
+1 titanium oxides
+1 titanium oxide
+1 titanium dioxide
+1 titanium
+1 titanio oxido
+1 titane oxyde
+1 tissue
+1 tissu
+1 tipologia
+1 time varying variance
+1 time to market
+1 time series xt
+1 time domain
+1 three dimensional
+1 thorough grounding
+1 thomas fermi model
+1 thomas fermi
+1 Thirteenth International conference
+1 thin films
+1 the state trait anxiety inventory
+1 theses
+1 thermus aquaticus
+1 thermostable
+1 thermodynamic properties
+1 thermochimie
+1 thermochemistry
+1 thermochemical processes
+1 theory of learning social practice meaning identity
+1 theory of
+1 theory and practice
+1 theory and modeling
+1 theories
+1 theorie du comportement
+1 theorie cognitive
+1 theorie
+1 theoretical framework
+1 theoretical foundation
+1 theoretical convergence multiclass classification
+1 theoretical coherence
+1 thalamus
+1 tgf beta
+1 texture discrimination
+1 texture
+1 text blends theory
+1 text benefit
+1 text
+1 test statistique
+1 test power
+1 test personnalite
+1 testing maximum likelihood estimation time series analysis estimation theory linear systems roundoff errors history stochastic processes sampling methods art
+1 test hypothese
+1 test hipotesis
+1 test estadistico
+1 testes psicologicos
+1 testes de hipotese
+1 test cytotoxicite
+1 test clinique
+1 termoquimica
+1 termoestable
+1 terminology
+1 teoria cognocitiva
+1 teoria
+1 temperature measurement
+1 temperature distribution
+1 temperature
+1 telomere length
+1 telecommunication systems
+1 telecommunications systèmes de
+1 telecommunication network routing
+1 tejido
+1 tecnicas de analises
+1 tecidos
+1 technology transfer
+1 technology assessment
+1 technology
+1 technological innovation
+1 technique clamp glucose
+1 technique
+1 team rooms
+1 teachers
+1 tdar
+1 taylor francis
+1 taylor and francis
+1 taux erreur
+1 taste to luxury
+1 tamano muestra
+1 tailors
+1 taille echantillon
+1 tables and charts
+1 tablas
+1 system theory fuzzy set theory identification process control
+1 system theory
+1 systems engineering
+1 systems biology
+1  systems biology
+1 systems and applications
+1 systems analysis
+1 system performance
+1 systeme lineaire
+1 systeme fractal
+1 system analysis
+1 synthesis
+1 syntax
+1 symptome positif
+1 symptome negatif
+1 symbolic exchanges
+1 symbol
+1 svm optimization problem
+1 sustitucion de importaciones
+1 sustainable development
+1 sustainable competitive advantage
+1 sustainability
+1 survie
+1 surveys
+1 surface tension
+1 surface energy
+1 support-vector networks
+1 support-vector network
+1 support u s govt p h s
+1 support system
+1 support non u s govt
+1 supply of claims
+1 suppliers
+1 sup n
+1 sup j
+1 supersymmetry
+1 superoxide dismutase
+1 sun workstation
+1 sulfur compounds
+1 sugars
+1 successful data mining
+1 substitution rate
+1 substâncias perigosas
+1 subspace method
+1 subset selection
+1 subjective valuation
+1 subjective evaluation
+1 structure validation
+1 structure refinement
+1 structure moleculaire
+1 structure electronique
+1 structure economique
+1 structure determination
+1 structural risk minimization
+1 structural models.
+1 structural models
+1 structural materials
+1 structural equations modeling
+1 structural embeddedness
+1 structural change
+1  structural biology
+1 structural analysis
+1 structural adjustments
+1 stress tensor
+1 strength pareto evolutionary algorithm
+1 stratified
+1 strategie
+1 stories
+1 stock returns
+1 stochastic processes bayesian methods image restoration degradation markov random fields additive noise deformable models temperature distribution energy states annealing
+1 stereotaxic
+1 stereo matching
+1 stereochimie
+1 stereochemistry
+1 steps iteratively computing eigendecomposition
+1 step edge detector performance
+1 step edge
+1 stem like cells
+1 stem cell
+1 steel making process industrial process control fuzzy identification systems identification modelling fuzzy model input output data water cleaning process
+1 steady state
+1 status
+1 statistische analyse
+1 statistics as topic
+1 statistical test
+1 statistical research
+1 statistical regression
+1 statistical power analysis effect size indexes conventional values for statistical tests
+1 statistical mechanic
+1 statistical hypothesis testing
+1 statistical estimation
+1 state trait anxiety inventory
+1 standardized variables
+1 standardisation
+1 stairs
+1 staining and labeling
+1 stai
+1 spss
+1 sprache
+1 spin polarization
+1 spinning motion
+1 spin
+1 speech recognition markov processes
+1 speech recognition
+1 spectrum
+1 spectra
+1 specification tests
+1 specification error
+1 species specificity
+1 specialized router
+1 special functions
+1 spatial degradation annealing gibbs distribution image restoration line process map estimate markov random field relaxation scene modeling
+1 spatial degradation
+1 sparse matrices
+1 space of styles
+1 soziologie anthropologie
+1 sozialwissenschaften
+1 sozialpsychologie
+1 sozialphilosophie
+1 sozialismus und demokratie allemand capitalisme
+1 source term
+1 sorting genetic algorithms operations research computational complexity pareto distribution simulation convergence constraint theory
+1 solution spread
+1 solution optimale
+1 solution fitness
+1 solucion optima
+1 solid tumor
+1 solar energy
+1 solar cells
+1 solar cell
+1 soil analysis
+1 softwarewerkzeug
+1 software systems
+1 soft or
+1 sociometry
+1 sociology anthropology
+1 society
+1 social sciences research
+1 social science
+1 social role
+1 social psychology research
+1 social philosophy
+1 social network analysis
+1 socialisme et democratie francais joseph alois schumpeter 1883 1950 joseph schumpeter
+1 socialism and democracy anglais kapitalismus
+1 socialism
+1 social interaction
+1 social development
+1 social context
+1 social change
+1 social
+1 smoothing mathematics
+1 smart materials
+1 smart
+1 small world network
+1 small sample size
+1 six atomic molecules ligands
+1 situatedness as a theoretical perspective
+1 situated learning
+1 situated
+1 sistema fractal
+1 sire
+1 single object
+1 single nucleotide polymorphisms
+1 single mode fiber
+1 single feature
+1 single edge
+1 single crystal
+1 single channel
+1 single cell
+1 simulation result
+1 simulation 990200 mathematics computers
+1 simplex method
+1 simple detector
+1 simple decisions
+1 silicon compounds
+1 signal transduction
+1  signal transduction
+1 signal synthesis
+1 signals
+1 signal resolution spatial resolution image analysis image resolution information analysis data mining convolutional codes convolution mirrors filters
+1 signal resolution
+1 shubnikov de haas effect
+1 shrinkage
+1 shredcif
+1 short form
+1 shift in theoretical perspective
+1 shelxl
+1 shelx
+1 shared knowledge
+1 shape measurement
+1 sewage
+1 severity of illness
+1 seven atomic molecules ligands
+1 settore fis 01 fisica sperimentale
+1 serum creatinine
+1 serie temporal
+1 sequestration
+1 sequence similarity
+1 sequence homology nucleic acid
+1 sequence comparison
+1 separation processes
+1 separation anxiety in children
+1 sensitivity resistance
+1 sensibilite resistance
+1 sensibilidad resistencia
+1 semimetals 640302 atomic molecular chemical physics atomic molecular properties theory
+1 semiconductors
+1 semiconductor devices
+1 self pollination
+1 self organization
+1 self diffusion
+1 self determination theory of psychological factors enhancing vs thwarting intrinsic motivation self regulation well being
+1 self consistent field
+1 selection sousensemble
+1 selection operator
+1 security analysis
+1 second harmonic
+1 secondary structure
+1 search problems artificial intelligence genetic algorithms simulation neural nets
+1 search problems
+1 search method
+1 search algorithm
+1 score vector contributions to recorded data matrix
+1 scientific personnel
+1 Scientific Computing
+1 science policy
+1  science policy
+1 science news
+1  science news
+1 science fiction
+1 science education
+1 science computer science neural nets
+1 science computer science evolutionary algorithms
+1 science artificial life complex systems
+1  science
+1 schumpeter
+1 schooling
+1 schizophrenie
+1 schizophrenia
+1 scheduling
+1 scene modeling
+1 scattering theory
+1 scale-invariant keypoints
+1 satisficing
+1 satisfaccion
+1 satellite remote sensing
+1 satellite data
+1 sangue
+1 saneamento
+1 sampling theory
+1 sampling methods
+1 sampling
+1 salts
+1 saline solution hypertonic
+1 s
+1 ruta metodologica
+1 runtime system
+1 ruminant animal
+1 rule
+1 ruido gaussiano
+1 r research
+1 rpp
+1 routledge
+1 routing protocol
+1 routing algorithm
+1 roundoff errors
+1 ross quinlan
+1 roots
+1 root mean square error of approximation
+1 room temperature
+1 roc curve
+1 robust matching
+1 robotics
+1 rna messenger
+1 rna isolation
+1  RNA
+1 risk orientation
+1 ribosomal rna genes
+1 ribosomal rna gene
+1 ribosomal rna
+1 ribosomal proteins
+1 ribosomal protein
+1 rhizosphere
+1 rheumatoid arthritis
+1 reviews
+1 reverse transcription polymerase chain reaction
+1 return on equity
+1 retrospective studies
+1 retrecissement
+1 retention
+1 restriction fragment
+1 restauration image
+1 rest apis
+1 response function
+1 respiratory system
+1 resources
+1 resource dependency
+1 resource based view
+1 resource allocation
+1 resolution de probleme
+1 resistencia
+1 resistance
+1 reseau neuronal
+1 reseau aleatoire
+1 reseau
+1 research tool
+1 research paper
+1 research outcome
+1 researcher
+1 research articles
+1 research and evaluation method
+1 reproducibility of results
+1 representation theorem
+1 representation
+1 reporting guidelines
+1 repetitive sequences
+1 rendimiento
+1 renal function
+1 religious ethics
+1 reliable matching
+1 reliability and validity
+1 relaxation stochastique
+1 relaxation
+1 relations with old timers
+1 relational perspective
+1 reivestment policy
+1 regular expression
+1 regression tree
+1 regression statistique
+1 regression pseudo orthogonale
+1 regression estimator
+1 regression
+1 regresion ridge
+1 regresion estadistica
+1 reglerteknik
+1 refs
+1 reflection
+1 reference standards
+1 reference software
+1 redundant state
+1 red aleatoria
+1 red
+1 recurrent network
+1 recuit
+1 recording.
+1 recognition proceed
+1 reception
+1 receiver operator characteristic
+1 receiver operating characteristic curve
+1 real-world data mining situation
+1 real world application
+1 real world
+1 real time rt pcr
+1 real time quantitative pcr
+1 real time pcr
+1 real published research datasets
+1 reaction en chaine polymerase
+1 r d expenditures
+1 rayleigh scattering
+1 rats
+1 rationality
+1 rational choice
+1 rational action
+1 rating scale
+1 ratings
+1 rare gases
+1 rapid software development
+1 rapid methods
+1 random vector
+1 random selection
+1 random phase approximation
+1 random networks
+1 randomness
+1 randomized controlled trials
+1 random grating
+1 Random Forests
+1 random forest
+1 random effects model
+1 random effects
+1 random
+1 raman spectroscopy
+1 radiolabelling
+1 radiography
+1 radiocommunications mobiles
+1 radio
+1 radiation pattern
+1 radiation mechanism
+1 quorom
+1 questionnaires
+1 quantum physics
+1  quantum physics
+1 quantum mechanics
+1 quantum mechanical calculation
+1 quantum logic
+1 quantum hall effect
+1 quantum computing
+1 quantum computers
+1 quantitative polymerase chain reaction
+1 quantitative genetics
+1 quantitative data analysis
+1 quantitative
+1 quality of reporting of meta-analyses
+1 quality of life
+1 qualite vie
+1 qualitative evaluation
+1 qualitative data analysis
+1 qualitative
+1 qualidade ambiental
+1 quadrature mirror filters
+1 quadratic programming
+1 qd chemistry
+1 qc physics
+1 pyrographite
+1 pyramid algorithm
+1 pyramidal algorithm
+1 puissance test
+1 puissance statistique
+1 public sector
+1 psychosis
+1 psychose
+1 psychophysics
+1 psychopathology
+1 psychology social
+1 psychology pathological
+1 psychologie cognitive
+1 psychological tests
+1 psychological factor
+1 psychological distress
+1 psychological characteristics
+1 psychiatry
+1 psychiatric status rating scales
+1 psicosis
+1 psicologia y educacion
+1 psicologia social
+1 pseudopotentiel
+1 pseudopotential
+1 prueba personalidad
+1 prueba clinica
+1 proyecto bilingue
+1 protozoal infections
+1 protocols mobile computing telecommunication network routing
+1  proteomics
+1 proteomics
+1 proteome
+1 protein structure secondary
+1 protein hormone
+1 proteina
+1 propriete thermique
+1 property value
+1 property rights
+1 properties
+1 promedio movil
+1 project management
+1 projective geometry
+1 projection pursuit
+1 program package
+1 programming model
+1 programming languages
+1 programming
+1 programmation quadratique
+1 programmation multiobjectif
+1 programa computador
+1 programacion multiobjetivo
+1 programacion cuadratica
+1 profit strategies
+1 profit motive
+1 professions
+1 professional personnel
+1 product management
+1 productivity
+1 production costs
+1 production
+1 process control
+1 procesamiento imagen
+1 procesamiento de imagen
+1 procedure bonferroni
+1 probability estimate
+1 probabilities
+1 probabilistic reasoning in intelligent systems networks of plausible inference
+1 probabilistic function
+1 probabilidades 1d 1
+1 private sector
+1 prise decision
+1 priorities analytic hierarchy process
+1 priorities analytical hierarchy process
+1 primer
+1 preservation
+1 present day
+1 prescriptive interpretation of a concept
+1 preprocessor
+1 preprocesseur
+1 preprocesor
+1 preparation
+1 preparacion
+1 preferred reporting items for systematic reviews and meta-analyses
+1 preferential attachment
+1 predictor
+1 predictive validity
+1 prediction error
+1 prediction
+1 predicteur
+1 prediccion
+1 precordial catch syndrome
+1 pratique reflexive
+1 pragmatismus
+1 pragmatism
+1 practice
+1 practical wireless communications problem
+1 practical planning
+1 practical machine learning tools
+1 practical machine
+1 practical information
+1 practical communication
+1 practical advice
+1 p p scattering
+1 powerpoint slide
+1 power law distribution
+1 power grid
+1 power devices
+1 power density
+1 powder photographs
+1 potentiel ionisation
+1 potentiel echange
+1 potential theory
+1 potentials
+1 potencial intercambio
+1 potencial de ionizacion
+1 posterior distribution
+1 post communism
+1 possibility distribution
+1 positive symptom
+1 positive and negative syndrome scale
+1 positive and negative symptoms
+1 positive and negative affect schedule
+1 position specific scoring matrix
+1 position location
+1 position finding
+1 portfolio analysis
+1 portacaval shunt surgical
+1 portable computers
+1 porc
+1 population structure
+1 population genetics
+1 population dynamics
+1 population
+1 popular weka machine
+1 polysaccharides
+1 polyphenoloxidase
+1 polynomial classifiers.
+1 polynomial classifiers
+1 polymerase chain raction
+1 polyarthrite rhumatoide
+1 poluicao da agua
+1 polucion del agua
+1 pollution de l eau
+1 pollination
+1 political power
+1 political economy of institutions and decisions
+1 political economy
+1 political attitudes
+1 politica internacional
+1 politica industrial
+1 policy making
+1 poliartritis reumatoidea
+1 polarized light
+1 polarizacion spin
+1 polarisation spin
+1 point defects
+1 poder
+1 pn
+1 plausible inference
+1 plastic materials
+1 plasmas physics
+1 plasma physics and thermonuclear processes
+1 plasma physics
+1 plasma glucose
+1 plasma
+1 plant water relations
+1 plant physiology
+1 plant nutrition
+1 plant genetic resources
+1 plant breeding
+1 plano
+1 planning
+1 planete terre
+1 planeta tierra
+1 plane
+1 plan
+1 pixel
+1 pipe flow
+1 pig
+1 picture processing data compression encoding pattern recognition
+1 picture processing
+1 physiopathologie
+1 physics of semiconductor devices
+1  physics
+1 physical properties
+1 physical optics
+1 physical health
+1 physical activity
+1 phylogenetics
+1 phylogenetic inference
+1 phylogenetic analysis
+1 photovoltaic cell
+1 photon factory
+1 photon correlation spectroscopy
+1 photolysis
+1 photogrammetry
+1 photoelectrochemical cell
+1 photodetectors
+1 photochemical reactions 080100 hydrogen production
+1 phosphorus compounds
+1 phonons
+1 philosophy ethics religion
+1 philosophy
+1 philosophie theologie
+1 philosophie
+1 phenotypes
+1 phenomene transport
+1 phenomene collectif
+1 phasing
+1 phase space
+1 pharmacy periodicals
+1 pharmacy
+1  pharmacology
+1 pharmacologie
+1 phagocytosis
+1 pests
+1 pesticides
+1 pesquisa qualitativa
+1 perturbation theory
+1 personnel
+1 personality trait
+1 personality test
+1 personal integrity
+1 personal computers
+1 personal communication system
+1 person
+1 peroxidase
+1 peripherally of participation
+1 periodic advertisements
+1 performance systeme
+1 performance measurement system
+1 performance measure
+1 performance analysis
+1 perceptual cognitive psychology
+1 perceived usefulness
+1 perceived ease of use
+1 pca statistical inference
+1 pca model properties
+1 pca data dimensionality reduction
+1 pca algorithm linear combinations of variables
+1 pc
+1 pattern recognition systems
+1 pattern classification
+1 patogenia
+1 patient disposition
+1 pathophysiology
+1 pathogenie
+1 pathogenesis
+1 path dependence
+1 patch clamp technique
+1 patch clamp
+1 paste
+1 pascal
+1 particules fisica nuclear
+1 particular
+1 particle swarm optimizer
+1 particle swarm optimization birds educational institutions marine animals testing humans genetic algorithms optimization methods artificial neural networks performance evaluation
+1 particle swarm
+1 particle size distribution
+1 participation
+1 partial correlation
+1 parochialism
+1 pareto optimum
+1 pareto-optimal solutions.
+1 pareto optimal solution
+1 pareto optimality
+1 pareto optimal front
+1 pareto archived evolution strategy
+1 parent offspring population combination
+1 parasites
+1 parametric estimation
+1 parametre densite
+1 parameter identification
+1 panne
+1 pancreatic cancer
+1 pancreas endocrino
+1 pana
+1  palaeobiology
+1 palaeobiology
+1 packing
+1 oxygen compounds
+1 oxygen
+1 overinvestment
+1 outside equity
+1 outcome assessment health care
+1 outcome assessment
+1 orthogonal multiresolution representation
+1 or society
+1 origine humaine
+1 original articles
+1 origin
+1 origen humano
+1 orientation selectivity
+1 orientation
+1 organometallic chemistry
+1 organization of experience
+1 organization effectiveness
+1 organizational practices
+1 organizational goals
+1 organizational culture
+1 organizational capabilities
+1 organizacion de la empresa
+1 organisational culture
+1 organic materials
+1 organic compounds
+1 orcids
+1 orbit
+1 or and risk
+1 option pricing
+1 optimum pareto
+1 optimo pareto
+1 optimization and machine learning
+1 optimizacion combinatoria
+1 optimizacion
+1 optimisation
+1 optimal solution
+1 optimal detector
+1 optimal debt
+1 optimal capital structure
+1 optical properties
+1 optical fiber
+1 optical constant
+1 optical characteristic
+1 operator point spread function
+1 operator impulse response
+1 operational taxonomic unit
+1 operational research
+1 open source
+1 open access repository
+1 onde plane
+1 oligosaccharides
+1 oligonucleotide
+1 olfactory receptor genes
+1 of persons
+1 of naval research
+1 of mastery
+1 of learning
+1 œuvre auteur resume editions manuscrits critiques au sujet de the general theory of employment
+1 œuvre auteur resume editions manuscrits critiques au sujet de the clash of civilizations and the remaking of world order anglais le choc des civilisations francais samuel p huntington
+1 œuvre auteur resume editions manuscrits critiques au sujet de how to do things with words anglais quand dire c est faire francais john langshaw austin 1911 1960 john austin 1911 1960 j l austin 1911 1960
+1 œuvre auteur resume editions manuscrits critiques au sujet de capitalism
+1 ocupacion terreno
+1 occupation sol
+1 observational cohort
+1 observation
+1 object oriented systems
+1 object oriented software
+1 object oriented design
+1 objectives
+1 objective function
+1 nutricion
+1 nutricao em saude publica
+1 numerous new topic
+1 numerical technique
+1 numerical solution
+1 numerical simulation
+1 Numerical Recipes Third Edition
+1 numerical recipes
+1 numerical recipe
+1 numerical method
+1 numerical calculation
+1 numerical algorithm
+1 nucleotide substitution
+1 nuclear magnetic resonance
+1 nsp
+1 nsga ii
+1 nsc
+1 north
+1 norme
+1 normal distribution
+1 norma
+1 nonstructural carbohydrates
+1 nonstationary
+1 nonstarch polysaccharides
+1 nonparametric statistic
+1 nonparametric estimation
+1 nonmetals
+1 non metal
+1 non linear system
+1 nonlinear programming
+1 nonlinear problem
+1 nonlinear optics
+1 nonlinear model
+1 nondominated sorting genetic algorithm ii
+1 non dominated sorting genetic algorithm
+1 non-dominated sorting-based moea
+1 nondominated sharing
+1 no metal
+1 noise sound
+1 node yields error rate
+1 no 307
+1 nmr
+1 nitrogeno monoxido
+1 nitrogen monoxide
+1 nitrogen compounds
+1 nitrogen
+1 nitric oxide
+1 next generation
+1 new variety
+1 new statistical distribution
+1 new routine
+1 new physics
+1 new particle spin
+1 new particle higgs particle
+1 new particle
+1 new learning machine
+1 new key feature
+1 newcomers
+1 New Classification
+1 new chapter
+1 new application
+1 new appendix
+1 neutrino oscillation
+1 neutrino mass
+1 neutral detergent fiber
+1 neutral detergent
+1  neuroscience
+1 neuroscience
+1 neuropsychological tests
+1 neurons
+1 neuro fuzzy
+1  neurobiology
+1 neurobiology
+1 neural networks computer science
+1 neural nets
+1 neural computation
+1 network theory
+1 network
+1 neon
+1 negotiation of meaning
+1 negative symptom
+1 negative affect
+1 necessary mathematical analysis
+1 nd
+1 navigation
+1 naturvetenskap
+1 nature publishing group
+1 nature materials
+1 nature conservation
+1 Nature
+1 natural environment
+1 natural capital
+1 natural
+1 nationalism history
+1  nanotechnology
+1 naive bayes classifier
+1 mycorrhizas
+1 multivariate time series
+1 multivariate statistical analysis
+1 multivariate data analysis statistics statistical research structural equations modeling
+1 multiscale image analysis edge detection feature extraction image processing machine vision
+1 multiscale image analysis
+1 multiresolution representation
+1 multi resolution
+1 multiresolution
+1 multiplication cellulaire
+1 multiple view geometry
+1 multiple signal classification
+1 multiple comparison
+1 multiobjective programming
+1 multiobjective genetic algorithm
+1 multi-objective evolutionary algorithm
+1 multi objective evolutionary algorithm
+1 multidimensional search particle swarm optimization nonlinear functions evolution neural network artificial life genetic algorithms social metaphor simulation
+1 multi criterion decision making fast elitist multi objective genetic algorithm nsga ii nondominated sorting genetic algorithm ii multi objective evolutionary algorithm nondominated sharing computational complexity objectives population size selection operator mating pool parent offspring population combination solution fitness solution spread simulation convergence pareto optimal front pareto archived evolution strategy strength pareto evolutionary algorithm dominance definition constrained multi objective problems nonlinear problem multi objective optimization algorithm performance constraint handling
+1 multicriterion decision making
+1 multi criterion decision making
+1 multicriteria analysis
+1 multiclass classification
+1 moyenne mobile
+1 motivation de l etudiant
+1 monton
+1 monte carlo integration
+1 monotone function
+1 money
+1 molecular weight
+1 molecular orbital
+1 molecular modeling
+1 molecular interactions
+1  molecular interactions
+1 molecular genetics
+1 molecular dynamics visualization
+1 molecular dynamic simulation
+1 molecular cloning laboratory manuals
+1  molecular biology
+1 molecular
+1 modernization
+1 modernisation
+1 modern approach
+1 model theory
+1 models to sampling
+1 models theoretical
+1 models psychological
+1 models neurological
+1 model simulation
+1 modelos lineares
+1 modelo matematico
+1 modelo lineal
+1 modelo estructura
+1 modelo estadistico
+1 modelo autorregresivo
+1 modelling probability density function
+1 modelizacion
+1 modeling
+1 model fitting
+1 modele structure
+1 modele statistique
+1 modele mathematique
+1 modele lineaire
+1 modele flou
+1 modele collectif
+1 modele
+1 model based clustering
+1 mobilite porteur charge
+1 mobilfunk
+1 mobile telekommunikation
+1 mobile nodes
+1 mobile node
+1 mobile networking
+1 mobile host
+1 mobile communication systems
+1 mixed model
+1 mit press collaboration
+1 mitosis
+1 mitogene
+1 mitogen
+1 missing data
+1 mirrors
+1 mining association rule
+1 mineral nutrition
+1 milieu naturel
+1 milieu culturel
+1 migration
+1 migrants
+1 mie scattering
+1 midbrain
+1 microwave anisotropy probe
+1 microtubulo
+1 microtubule
+1 microstructure
+1 microsoft windows trade mark sign
+1 microsoft windows
+1 microscopie electronique transmission
+1 microscopia electronica transmision
+1 microorganisms
+1 microfisica del poder
+1 microeconomics
+1 microbial sensitivity tests
+1 mice
+1 metrics
+1 metodos de analisis
+1 metodos
+1 metodo monte carlo
+1 metodo estadistico
+1 metodo de investigacion
+1 metodo cuadrado menor
+1 metodo analisis
+1 methyl radicals
+1 methodological bias
+1 methode statistique
+1 methodes numeriques
+1 methode numerique
+1 methode monte carlo
+1 methode moindre carre
+1 methode mesure
+1 methode lasso
+1 methode immunologique
+1 methode empirique
+1 methode analyse
+1 metaphysics
+1  metabolomics
+1 metabolomics
+1 metabolismo
+1 metabolisme
+1 metabolism
+1 meta-analysis
+1 meta-analyses
+1 messenger rna
+1 mesoscopic system
+1 meson resonance
+1 mesoderm
+1 mesenquima
+1 mesenchyme
+1 mesenchymal stem cells
+1 mesenchyma
+1 mental disorders
+1 mental disorder
+1 memory
+1 membrane current
+1 membership
+1 medlars
+1 medium temperature
+1 medios de ensenanza
+1 medio natural
+1 medio cultural
+1 medio ambiente social
+1 medicine research statistical methods
+1 medicine and health sciences
+1  medicine
+1 medical statistics
+1 medical research
+1  medical research
+1 medical outcomes study
+1 medical journals
+1 medical application
+1 mediateur chimique
+1 mechanics
+1 measurement technique
+1 measurements
+1 measurement method
+1 measurement and metrics
+1 meaning
+1 md simulation
+1 maximum vraisemblance
+1 maximum likelihood principle
+1 maximum likelihood ml estimation parameter identification time series
+1 maximum likelihood ml estimation
+1 maximum likelihood fit
+1 maximum likelihood estimation
+1 : maximum likelihood
+1 maximum entropy
+1 max
+1 matrix theory
+1 Matrix Analysis
+1 matrix analysis
+1 matrices
+1 mating pool
+1 mating
+1 mathematiques
+1 mathematics tests
+1 mathematics 550400 genetics
+1 mathematical theory
+1 mathematical technique
+1 mathematical sophistication
+1 mathematical prediction
+1 mathematical logic
+1 maternal deprivation
+1  materials science
+1 materials engineering
+1 materials
+1 matematicas
+1 matching
+1 mastery jan7
+1 mastery
+1 master
+1 mass transfer
+1 masculinity
+1 maschinelles lernen
+1 marquage radioisotopique
+1 markov source
+1 markov random fields
+1 markov random field
+1 markov processes
+1 market structures
+1 markets
+1 market resources
+1 market price
+1 market economy
+1 market consolidation
+1 market competition
+1 marine biology
+1  marine biology
+1 map estimation
+1 map estimate
+1 manuals
+1 manual
+1 management science
+1 management decisionsmarket competition
+1 mammary neoplasms experimental
+1 mammalia
+1 malignant tumor
+1 major wireless standard
+1 major wireless communication standard
+1 majority rule
+1 maize
+1 maintenance
+1 magnetoresistance
+1 magnetic monopole
+1 magnetic fields
+1 magnetic field
+1 magnesium oxide
+1 Machine Learning
+1 machine conceptually
+1 m
+1 lý thuyết tro chơi
+1 lymphokine
+1 low energy
+1 low density
+1 loop free routes
+1 long run growth
+1 loi puissance
+1 loi probabilite
+1 logistics
+1 logistic regression
+1 logical reasoning
+1 logical process
+1 location determination
+1 location
+1 local spin density approximation
+1 localization
+1 localizacion
+1 localisation
+1 living standards
+1 livestock
+1 literature search
+1 literature reviews
+1 literary history
+1 literary criticism
+1 liquid liquid equilibria
+1 lipid peroxide
+1 lipid bilayer
+1 line process
+1 linear systems
+1 linear system
+1 linear response
+1 linear regression model
+1 linear operator
+1 linearized augmented plane wave
+1 linear filtering
+1 linear filter
+1 linear algebra
+1 limited liability
+1 limited dependent variables
+1 likelihood functions
+1 light scattering
+1 light harvesting
+1 life sciences
+1  life
+1 life
+1 licensing
+1 library software
+1 library management
+1 liberia
+1 ley probabilidad
+1 ley poder
+1 lexis
+1 lengua inglesa
+1 lehrbuch
+1 legitimate peripheral participation
+1 legitimate peripherality
+1 legitimacy of participation
+1 legal systems
+1 left right models ergodic models hidden markov models speech recognition discrete markov chains hidden states probabilistic function coin tossing balls in urns system
+1 left right models
+1 led
+1 least squares solution
+1 least squares estimate
+1 least square fit
+1 learning organization
+1 learning networks
+1 learning machines
+1 learning in doing social
+1 learning and scholarship
+1 learning algorithm
+1 leadership
+1 lead
+1 law and finance
+1 lattices
+1 large scale distributed systems
+1 large scale
+1 large data sets
+1 large dataset
+1 large database
+1 laplace transforms
+1 laplace transformation
+1 laplace transform
+1 languages
+1 langerhansian islet
+1 land use
+1 labor supply
+1 laboratory tests
+1 kommunikationstechnik
+1 kommunikation
+1 known object
+1 knowledge representation
+1 knowledge-based system
+1 knowledge asset
+1 knowledgeable skill
+1 k intrinsic linear dimensionality
+1 kinh tế toan học
+1 kinetics
+1 kinetic energy
+1 khai thac dữ liệu
+1 karl
+1 kardiologi
+1 k
+1 judgements
+1 jt auth
+1 journal of the operational research society
+1 josephson junction array
+1 joseph a
+1 jors
+1 Jordan canonical form
+1 jeremy miles
+1 java implementation
+1 java
+1 iterative pca algorithm
+1 iteration method
+1 isolement
+1 isolation
+1 isoelectric focusing
+1 ir spectra
+1 ionization potential
+1 investor protection
+1 investigacion operativa 1d 8
+1 investigacion educativa
+1 inverted
+1 inverse scattering
+1 inventory
+1 invariant feature
+1 interviews
+1 interstitial
+1 interpretive sociology
+1 interpretacao estatistica de dados
+1 international
+1 internal structure
+1 internal representation
+1 internal medicine
+1 internal external locus of control
+1 internal estimate
+1 internal equity
+1 internal control systems
+1 internal control
+1 internal
+1 intermolecular forces
+1 intermediate infrared radiation
+1 interindividual comparison
+1 intergroup relations
+1 interest and usury
+1 interest and money anglais la theorie generale de l emploi
+1  interdisciplinary science
+1 interdisciplinar
+1 interaktion
+1 interactive visualization
+1 interaction
+1 intelligent tutoring systems
+1 intelligent systems
+1 integrable system
+1 intangibles
+1 insulin resistant
+1 insuline
+1 insulina
+1 insulin
+1 institutional theory
+1 institutional repositories
+1 institutionalized relationships
+1 institutional change
+1 institute of medicine
+1 institute for research on learning
+1 instance based learning
+1 in situ hybridization
+1 in situ
+1 inovacion
+1 inorganic organic physical and analytical chemistry
+1 inorganic compounds
+1 inhomogeneous media
+1 ingenieria biomedica
+1 infrastructure
+1 infrared spectroscopy
+1 infrared radiation
+1 informed search methods
+1 informatique
+1 information transfer
+1 information systems
+1 information storage and retrieval systems
+1 information storage and retrieval
+1 information sharing
+1 information services
+1 information seeking
+1 information retrieval
+1 information networks
+1 information litereacy bibliography
+1 information acquisition
+1 info eu repo semantics article
+1 inflation rate
+1 inflation
+1 inflammatory disease
+1 inflammation
+1 inflamacion
+1 Inference chapter
+1 inference
+1 infectious disease
+1 inequalities
+1 inefficiency
+1 industry structures
+1 industries
+1 industrial management
+1 individual tree
+1 individualism
+1 indice error
+1 index terms—constraint handling
+1 indexicality
+1 independent variables
+1 inbreeding
+1 inborn
+1 improving quality
+1 implementation reality
+1 implementation detail
+1 imperialism
+1 impedance matching
+1 immunostimulation
+1  immunology
+1 immunology
+1 immunologic techniques
+1 immunological method
+1 immune stimulation
+1 image sensors
+1 image sampling
+1 image restoration
+1 image representation
+1 image numerique
+1 image modeling
+1 image edge detection detectors machine vision shape measurement performance analysis uncertainty gaussian approximation signal to noise ratio signal synthesis feature extraction
+1 image edge detection
+1 ilyenkov
+1 ils
+1 ilot langerhans
+1 illegitimate participation
+1 identitat
+1 identification systeme
+1 identification
+1 hypotheses
+1 hypothalamus
+1 hypertension arterielle
+1 hypertension
+1 hyperglycemie provoquee
+1 hydrogen production
+1 hydrogen ion concentration
+1 hydrogen compounds
+1 hydrogen bonds
+1 hybridization
+1 human serum
+1 human populations
+1 human origin
+1 human nature
+1 human mesenchymal stem cells
+1 human genome project
+1 human factors engineering
+1 human cells
+1 hospital anxiety and depression scale
+1 horticultural crops
+1 hormone proteine
+1 hormona proteica
+1 homogenization
+1 homeostasis model assessment
+1 homeostasie
+1 hole mobility
+1 hoa học
+1 hm sociology
+1 history of the concept
+1 history of or
+1 historical cultural theory
+1 histograms marine vehicles radar tracking least squares approximation surveillance target tracking gaussian distribution displays q measurement sea measurements
+1 histiocytes
+1 hipertension arterial
+1 hiperglucemia provocada
+1 high throughput
+1 high school students
+1 high generalization ability
+1 high frequency retrotransposition
+1 higher order
+1 high efficiency
+1 high-dimension feature space
+1 high dimension
+1 high density
+1 higgs particle w w
+1 higgs particle tau tau
+1 higgs particle radiative decay
+1 higgs particle mass measured
+1 higgs particle decay modes
+1 higgs particle bottom anti bottom
+1 higgs particle 2z0
+1 higgs particle 2photon
+1 higgs boson mass
+1 higgs
+1 hierarchical structure
+1 hidden states
+1 hidden markov models
+1 hidden markov model
+1 heuristics and biases
+1 heteroskedasticity
+1 heterosis
+1 heteroscedasticity
+1 heteroscedasticite
+1 heterogeneous data
+1 heterogeneity of treatment effects
+1 heritability
+1 heredity
+1 hep ex
+1 helminths
+1 helminthoses
+1 helical shape
+1 hegemony
+1 heat transmission
+1 heat transfer
+1 heat flow
+1 heat capacity
+1 heat and mass transfer
+1 heat
+1 heart disease
+1 health survey
+1 health status
+1 health services research
+1 health services drugs and alcohol research
+1 health problems
+1 health policy
+1 health disparities
+1 healthcare quality assessment
+1 health and human services
+1 hazard function
+1 haute resolution
+1 hartree fock method
+1 hartree fock approximation
+1 harmonics
+1 hardware
+1 happiness
+1 handedness assessment
+1 halogens
+1 hall effect
+1 hall
+1 habitus
+1 habitats
+1 habitat destruction
+1 guia o manual
+1 growth strategies
+1 growth process
+1 growth pattern
+1 growth factor
+1 group frequency charts
+1 group behavior
+1 ground state energy
+1 gross national product
+1 grief in children
+1 green function
+1 graphiques
+1 graphic user interface
+1 graphical programming
+1 graphene
+1 graphe aleatoire
+1 graph connectivity
+1 grand unified theories
+1 grafo aleatorio
+1 grafito pirolitico
+1 glucose tolerance test
+1 glucose clamp technic
+1 glucido
+1 glucide
+1 glossaries
+1 globins
+1 glass box
+1 gibbs distribution
+1 gestion de l entreprise
+1 gestion
+1 gesellschaft
+1  geophysics
+1 geophysics
+1 geometry projective
+1 Geometry chapter
+1 geometric optics
+1 geometrical theory of diffraction
+1 genomics and proteomics
+1  genomics
+1 genome sequence
+1 genomes
+1 genome
+1 genie biomedical
+1 gene transcription
+1 genetics population
+1 genetics nucleic acid processing
+1  genetics
+1 genetic resources
+1 genetic parameters
+1 genetic network
+1 genetic linkage map
+1 genetic distance
+1 genetic diseases
+1 genetic control
+1 genetic algorithms sorting computational complexity evolutionary computation computational modeling testing decision making associate members diversity reception constraint optimization
+1 genetic algorithms in search
+1 gene structure
+1 genes structural
+1 general sociology basic research general concepts and history of sociology sociological theories
+1 general methods
+1 generalized method of moment
+1 generalized gradient approximation
+1 generalized additive model
+1 generalization error
+1 generality
+1 general health
+1 general and miscellaneous mathematics computing and information science
+1 general
+1 gene ontology
+1 gene frequency
+1 gene expression regulation
+1 gene expression data
+1 gene duplication
+1 gene amplification
+1 gene
+1 gender
+1 gc rich sequence
+1 gaz electron
+1 gauss newton
+1 gaussian-smoothed image
+1 gaussian noise
+1 gaussian approximation
+1 gauge boson pair production
+1 gate potential
+1 gasto
+1 gases 640302 atomic molecular chemical physics atomic molecular properties theory
+1 gas electron
+1 ganado
+1 galaxies
+1 g
+1 fysik
+1 fuzzy variable
+1 fuzzy systems
+1 fuzzy set theory
+1 fuzzy sets
+1 future wireless system
+1 funknetz
+1 funding
+1 fundamental parameters
+1 fundamental aspect
+1 function optimization
+1 functionals
+1 functional genomics
+1  functional genomics
+1 functional dependency
+1 funcion green
+1 funcion distribucion
+1 funcional densidad
+1 full text
+1 full participation
+1 fulfillment
+1 friction
+1 frequency response
+1 frequency domain
+1 frequency
+1 free volume
+1 free radicals
+1 free radical
+1 free energy
+1 frame analysis
+1 fragment restriction
+1 fractional
+1 fractal system
+1 fractal analysis picture processing encoding pattern recognition multiresolution signal decomposition wavelet representation pyramidal algorithm convolutions quadrature mirror filters data compression image coding texture discrimination
+1 four wave mixing
+1 fourier optics
+1 fourier method
+1 fourier domain
+1 four atomic molecules ligands
+1 fotometria
+1 fortran
+1 formulaire
+1 forms of
+1 forme helicoidale
+1 formal versus informal
+1 forma helicoidal
+1 foremost engineering textbook author
+1 foreign countries
+1 force field
+1 fonction repartition
+1 fonctionnelle densite
+1 fonction green
+1 fonction de forme
+1 following idea
+1 fluorine
+1 fluids 400201 chemical physicochemical properties
+1 fluid manner
+1 fluid flow
+1 flow rate
+1 flow field
+1 flexible organization
+1 flexibility
+1 five atomic molecules ligands
+1 fitness
+1 fisiopatologia
+1 first-order logic
+1 first mover advantage
+1 firm survival
+1 firm size
+1 firm resources
+1 firm governance
+1 firm characteristics
+1 firm
+1 finite variance
+1 financing
+1 financial performance
+1 final state two photon
+1 filtro lineal
+1 filtre lineaire
+1 filtration
+1 files
+1 field tests
+1 fields of
+1 fields
+1 field experimentation
+1 field crops
+1 fibre alimentaire
+1 fibra alimenticia
+1 fiber optic
+1 fiabilite
+1 fiabilidad
+1 fertilizantes
+1 fenomeno colectivo
+1 female labor supply
+1 feed-forward neural network
+1 feedback loop
+1 feedback
+1 fedora
+1 fausse decouverte
+1 fasting plasma glucose
+1 fast elitist multi objective genetic algorithm
+1 farmacologia
+1 family networks
+1 family background
+1 familial alzheimers disease
+1 failure rate
+1 factual
+1 factor structure
+1 facteur relaxation derive de l endothelium
+1 facteur edrf
+1 face to face
+1 extrinsic motivators
+1 extra dimension
+1 extraction caracteristique
+1 extensive bibliography
+1 expiration
+1 expert systems course
+1 experimental results
+1 experimental methods
+1 experiential learning
+1 experience
+1 expectations
+1 expectacion
+1 expanded treatment
+1 expanded index
+1 exciting field
+1 excitable media
+1 exchange relationships
+1 exchange potential
+1 exchange interaction
+1 exact solution
+1 evolution molecular
+1 evolution moleculaire
+1 evolution model
+1 evolution biologique
+1 evolutionary theory
+1 evolutionary rate
+1 evolutionary model
+1 evolutionary genetics
+1 evolutionary economics
+1 evolutionary biology
+1  evolutionary biology
+1 evolutionary algorithm
+1  evolution
+1 evolucion molecular
+1 evolucion biologica
+1 everyday life
+1 evaporation
+1 evaporacion
+1 evaluation subjective
+1 evaluation scale
+1 evaluation model
+1 evaluation methodology ad hoc on demand distance vector routing ad hoc network cooperative engagement mobile nodes centralized access point ad hoc on demand distance vector routing mobile host specialized router periodic advertisements routing algorithm dynamic self starting network aodv loop free routes broken links basic distance vector routing mechanisms
+1 evaluation methodology
+1 evaluation method
+1 evaluating health interventions
+1 evaluacion subjetiva
+1 e v
+1 europe pubmed central
+1 europe pmc
+1 european society of cardiology
+1 eukaryotic cells
+1 etude experimentale
+1 etude critique
+1 estudos de coortes
+1 estudos de casos e controles
+1 estudio experimental
+1 estudio critico
+1 estructura molecular
+1 estructura economica
+1 estructura del comercio internacional
+1 estrategias
+1 estrategia
+1 estimation theory
+1 estimation statistique
+1 estimation procedure
+1 estimation parametre
+1 estimacion parametro
+1 estimacion estadistica
+1 esters
+1 estereoquimica
+1 estados unidos
+1 estadistica matematica 1d
+1 essai clinique
+1 esquizofrenia
+1 espiracion
+1 espectrofotometria
+1 escala evaluacion
+1 erythroblasts
+1 error of measurement
+1 error function minimalization
+1 error function
+1 errores
+1 error correction representation
+1 error
+1 erreur
+1 erosion
+1 eritrocitos
+1 ergodic models
+1 equation of state
+1 equation
+1 epoxy resin
+1 epithelial mesenchymal transition
+1 epidemiology
+1 epidemiologic studies
+1 enzymes periodicals
+1 enzymes
+1 enzyme activity
+1 enzimas
+1 enzima
+1 environnement social
+1 environmental science
+1  environmental science
+1 environmental constraints
+1 entry barrier
+1 entrevistas como assunto
+1 entreprise
+1 entrepreneurial economies
+1 ensemble flou
+1 ensemble
+1 ensayo clinico
+1 ensaios clinicos como assunto
+1 engineering perspective
+1 energy states
+1 energy conversion
+1 energie correlation
+1 energie atomisation
+1 energia correlacion
+1 energia atomizacion
+1 end user computing
+1 endothelium derived relaxing factor
+1 endothelial cell
+1 endoscopy
+1 endocrinopatia
+1 endocrinopathy
+1 endocrinopathie
+1 endemic species
+1 encoding psychology
+1 empresa
+1 empirical validation
+1 empirical method
+1 emotion emotionality
+1 emotionality
+1 emotional evaluation
+1 emission computed tomography
+1 embryos
+1 embryonic development
+1 embededdness
+1 elliptic partial differential equation
+1 elitist multiobjective genetic algorithm
+1 elitisme
+1 elitism
+1 eliminating redundant states and utilizing the time conditions for receiving and recording data. key words: counter
+1 elements finis
+1 elements
+1 elementary particles
+1 elementary level
+1 elektronika radiasi
+1 electroweak symmetry breaking
+1 electron mobility
+1 electron exchange
+1 electron diffraction
+1 electron affinity
+1 electromagnetic theory
+1 electromagnetic scattering
+1 electromagnetic field
+1 electrochemical methods
+1 electrochemical method
+1 electric resistance
+1 electric potential
+1 electric field effects
+1 electric field effect
+1 electrical impedance
+1 electrical characteristic
+1 eficacia tratamiento
+1 eficacia sistema
+1 efficacite traitement
+1 effet shubnikov de haas
+1 effet hall
+1 effet champ electrique
+1 effect size
+1 effects
+1 effective potential
+1 effectiveness of educational forms
+1 education research
+1 educational forms
+1 educational
+1 edition new
+1 edinburgh inventory
+1 edge point
+1 eddies
+1 ecuacion
+1 ecosystem service
+1 ecosysteme
+1 ecosystem
+1 ecosistema
+1 economies
+1 economie marche
+1 economic value
+1 economic structure
+1 economic rationality
+1 economic policies
+1 economic performance
+1 economic growth
+1 economic forecasting
+1 economic dynamism
+1 economic aspect
+1 economic
+1 economia mercado
+1 econometrics asymptotic theory
+1 econometric analysis
+1  ecology
+1 ecology
+1 echelle evaluation
+1 eau usee domestique
+1 eau
+1 easy-to-read pseudocode
+1 easy-to-do exercise
+1 earth science
+1  earth science
+1 earth planet
+1 earnings per share
+1 dynamique
+1 dynamic systems theory
+1 dynamic systems
+1 dynamic system
+1 dynamic self starting network
+1 dynamics
+1 dynamic model
+1 dynamic linking
+1 dynamic capability
+1 dynamic capabilities
+1 dyes
+1 dyads
+1 drug therapy
+1 drugs
+1 drug industry
+1 drug discovery
+1  drug discovery
+1 douglass cecil
+1 double edged sword
+1 dominance definition
+1 doenca de alzheimer
+1 document types
+1 dna transposable elements
+1 dna sequencing
+1 dna sequence
+1 dna regulatory motifs
+1 dna primers
+1 dna fragmentation
+1 dna damage response
+1  DNA
+1 division of labour
+1 dividend policy
+1 diversity reception
+1 diverse pareto-optimal front
+1 divergence time
+1 distribution theory
+1 distribution of treatment effects
+1 distribution gibbs
+1 distribution function
+1 distributed computing
+1 distortion
+1 distinctive invariant feature
+1 distinctive image features
+1 distancia genetica
+1 distance measurement
+1 distance genetique
+1 distance estimation
+1 dissertation
+1 dispersion
+1 disordered system
+1 diseases
+1 disease free survival
+1 discriminant analysis
+1 discrete markov chains
+1 discovery
+1 discovering statistics
+1 direct sequence
+1 diploidy
+1 dimension effet
+1 dimensionality
+1 dimensional analysis
+1 dimension
+1 digital web resources
+1 digital systems
+1 digital repository
+1 digital library
+1 digital image
+1 digital filters
+1 digital filter
+1 digital computers
+1 digital camera
+1 digital antiquity
+1 difraccion electronica
+1 diffusion mathematical models
+1 diffusion communication
+1 diffusion
+1 diffraction electron
+1 difficult test problem
+1 differencing
+1 diferenciacion celular
+1 dietary fiber
+1 điện hoa
+1 dickey fuller tests
+1 dichroism
+1 dichotomies
+1 diatomic molecules ligands
+1 dialog
+1 diagnostic and statistical manual of mental disorders
+1 diagnostic and statistical manual
+1 diabetes mellitus
+1 diabetes
+1 diabete
+1 dft calculation
+1 developpement economique
+1 developpement de la personne
+1 development theory
+1 developmental psychology
+1 developmental biology
+1  developmental biology
+1  development
+1 detectors de radiacio
+1 detection bord
+1 deteccion borde
+1 detailed analysis
+1 design pattern
+1 description of modeling methods
+1 descent
+1 desarrollo economico
+1 derivatives
+1 depressive disorders
+1 depression
+1 department of health and human services
+1 density of state
+1 density matrix spin density
+1 density matrix
+1 density functional calculation
+1 density
+1 densite porteur charge
+1 demographic factors
+1 democracy
+1 demand for security analysis
+1 de l interet et de la monnaie francais john maynard keynes 1883 1946
+1 degradation
+1 deformable models
+1 deflation on t score vector computation
+1 deflation and p loading vector mutual orthogonality
+1 deflation and orthogonality of t score vectors
+1 definitions
+1 defensive behavior
+1 default risk
+1 decomposition
+1 decision under risk
+1 decision tree
+1 decision theory
+1 decision surface
+1 decision problem
+1 decision making unit
+1 decision making skills
+1 decision maker
+1 debit
+1 data uncertainty
+1 data type
+1 data transformations
+1 data processing
+1 data mining tasks-in
+1 data mining project
+1 data display
+1 data compilation
+1 databases genetic
+1 database searching
+1 database management systems
+1 database
+1 data assimilation system
+1 data
+1 cytotoxicity test
+1 cytoplasmic membrane
+1 cytodifferenciation
+1 customer satisfaction
+1 curriculum
+1 current distribution
+1 current density
+1 culture tissu
+1 culture techniques
+1 culture emersence managing internal integration nature of time and space human nature human relationships cultural creation manage cultural change
+1 cultural identity
+1 cultural environment
+1 cultural differences
+1 cultural context
+1 cultural capital
+1 cultural attitudes
+1 cultivo tejido
+1 crystal structure refinement
+1 crystal structure determination
+1 crystal growth
+1 crystal chemistry
+1 cross platform
+1 cross phase modulation
+1 cross licensing
+1 crops
+1 crop improvement
+1 croissance cristalline
+1 croissance
+1 critical value
+1 critical study
+1 cristaloquimica
+1 cristallochimie
+1 crecimiento cristalino
+1 creativite
+1 creatinine excretion
+1 creatinine clearance
+1 craft production
+1 cpg islands
+1 covariate information
+1 covariance matrix estimator
+1 covariance matrix
+1 covariance estimation
+1 couche mince
+1 cost effectiveness
+1 cosmological parameter
+1 correlation techniques
+1 correlations
+1 correlation matrix
+1 correlation energy
+1 correlation electronique
+1 correlation analysis
+1 correlacion electronica
+1 corrections
+1 corporate payout policy
+1 corporate funding of science
+1 corporate culture
+1 coronacion
+1 copy number
+1 copper
+1 coping strategies
+1 coping
+1 coordination compounds
+1 cooperative engagement
+1 convex programming
+1 Convex Optimization
+1 conventional theories of learning
+1 control theory
+1 control systems and optimisation
+1 control method
+1 control externo interno
+1 controle qualite
+1 control engineering
+1 controle externe interne
+1 control calidad
+1 contracts agreements
+1 continuous media
+1 continuous culture
+1 content
+1 contaminacion del agua
+1 consumer perception
+1 construction validity reliability of positive negative affect schedule scales college students
+1 constraint theory
+1 constraint handling
+1 constrained multi objective problems
+1 considers recurrent network
+1 conserved sequence
+1 conservation priorities
+1 consensus conference
+1 connectivite graphe
+1 connaissance de soi
+1 conjugate gradient method
+1 conformation
+1 conflicts of interest
+1 conflict resolution
+1 conflict management
+1 confirmatory factor analysis
+1 configuration space
+1 configuration interaction
+1 confidence limit
+1 confidence intervals
+1 confidence interval
+1 conferencia consensus
+1 conference proceedings
+1 conference consensus
+1 conectividad grafo
+1 conduite a tenir
+1 conduction band
+1 conducta
+1 conditional inference
+1 conditional heteroscedasticity
+1 condensed matter physics superconductivity and superfluidity
+1 concreteness
+1 conceptual strategic statistical distinctions between moderators mediator variables in social psychological research
+1 concept
+1 computer software
+1 computer science mathematics
+1 computer science
+1 computer programs
+1 computer-oriented experiment
+1 computerized processing
+1 computer experiment
+1 computer displays
+1 computer communication networks
+1 computer calculations
+1 computer adaptive testing
+1 computer
+1 computations
+1 computation fluid dynamics
+1 computational model
+1 computational method
+1 computational efficiency
+1  computational biology
+1 computational approach
+1 comprehensive treatment
+1 comprehensive guide
+1 comprehensive foundation
+1 comprehensive
+1 comprative study of histogram based thresholding methods
+1 compra
+1 compostos quimicos
+1 compose organique
+1 component matrice contribution to recorded data matrix
+1 complex systems
+1 complexite calcul
+1 complex decisions
+1 completeness of markets
+1 complete guide
+1 complete
+1 complement
+1 complejidad computacion
+1 competitive strategy
+1 competitiveness
+1 competence professionnelle
+1 competence
+1 comparative politics
+1 comparative evaluations
+1 comparaison multiple
+1 comparaison interindividuelle
+1 comparacion multiple
+1 comparacion interindividual
+1 community well being
+1 community development
+1 communications technology
+1 common property
+1 common image feature
+1 common factor
+1 combining ability
+1 combinatorial optimization
+1 colorimetrie
+1 colorante
+1 colorant
+1 color
+1 collocation
+1 col lisions fisica nuclear
+1 collective process
+1 collective model
+1 coleta de dados
+1 coin tossing
+1 cointegrating vector
+1 co-integrating vector
+1 co-integrated system
+1 cohen
+1 cognitive theory
+1 cognitive science
+1 cognitive research
+1 cognitive psychology
+1 cognitive function
+1 cognitive evaluation
+1 cognitive apprenticeship
+1 cognitive and computational perspectives
+1 cognition mathematical model performance analysis fuzzy sets data models parameter estimation vectors
+1 coenzymes
+1 coeficiente correlacion
+1 coefficient correlation
+1 coding
+1 codificacion
+1 codage
+1 cochrane collaboration
+1 coastal plant communities
+1 cluster
+1 clonagem molecular
+1 clinical trials as topic
+1 clinical test
+1 clinical practice guideline
+1 clinical practice
+1 clinical management
+1 clinical guidelines
+1 clinical diagnosis
+1  climate change
+1 class of 1956
+1 classifier system
+1 classification tree
+1 classification-based intelligent system
+1 classical statistical mechanics
+1 classical monte carlo simulations
+1 classes
+1 clasificacion
+1 civilization modern 1950
+1 civilization history
+1 citrates
+1 citation search
+1 citation networks
+1 citation
+1 circular dichroism
+1 circular
+1 ciencias de la salud generalidades
+1 ciencias de la salud
+1 chromosome mapping
+1 choosing
+1 chondrocyte implantation
+1 choice
+1 chi square test
+1 children
+1 chickens
+1 chick embryo
+1 chemistry
+1 chemical precipitation
+1 chemical potential
+1 charts
+1 charge transfer
+1 charge density
+1 chapters interactively
+1 change strategies
+1 change agents
+1 change
+1 cern lhc coll
+1 cerdo
+1 ceramic coating
+1 centralized access point
+1 central
+1 censored data
+1 celula solar
+1 celula primitiva
+1 celula fotoelectroquimica
+1 celula endotelial
+1 celula b
+1 celula
+1 cellulose
+1 cellule souche
+1 cellule solaire
+1 cellule photoelectrochimique
+1 cellule endotheliale
+1 cellule b
+1 cellule
+1 cellular system design
+1 cellular system
+1 cellular radio engineer
+1 cellular radio
+1 cell signalling
+1  cell signalling
+1 cell proliferation
+1 cell line
+1 cell division
+1 cell differentiation
+1 cell cycle
+1  cell cycle
+1 cell
+1 causes of death
+1 causation
+1 causal inference
+1 case method
+1 carrier mobility
+1 carrier density
+1 carcinoma squamous cell
+1 carbone
+1 carbon compounds
+1 carbohydrate
+1 caracteristique optique
+1 caracteristique electrique
+1 caracteristica optica
+1 caracteristica electrica
+1 capital structure
+1 capital reproduction
+1 capital market
+1 canonical form
+1 canonical correlation factor analysis multiple regression textbook graduate level
+1 candidate disease gene
+1  cancer
+1 cameras
+1 camera calibration
+1 calidad vida
+1 calcul ab initio
+1 cage
+1 caenorhabditis elegans
+1 c
+1 by doing
+1 business management
+1 bruit gaussien
+1 brs
+1 brown
+1 broken links
+1 brillouin zone
+1 brillouin scattering
+1 breeding methods
+1 breast cancer
+1 breakdown
+1 brand new version
+1 brand marketing
+1 brand management
+1 branding strategy
+1 brand equity
+1 bottom up
+1 boron compounds
+1 boron
+1 bootstrap method
+1 boolean operation
+1 book reviews
+1 book chapters
+1 bone marrow derived
+1 boltzmann machine
+1 body weight
+1 bodily pain
+1 boards of directors
+1 blood serum
+1 blood proteins
+1 blood pressure cardiology heart physiology physiopathology humans hypertension prevention control therapy prognosis societies
+1 blood chemistry
+1 blockmodels
+1 birth death process
+1  biotechnology
+1 biosynthesis
+1 biosynthese
+1 biosintesis
+1 biometry the principles and practice of statistics in biological research
+1 biometria
+1 biomedical research
+1 biomedical journals
+1 biomedical engineering
+1 biomarkers
+1  biology
+1 biology
+1 biological systems
+1 biological patents
+1 biological activity
+1 biologia molecular
+1 biologia
+1  bioinformatics
+1 biodiversity hotspot
+1 biodiversity
+1 biochemistry periodicals
+1  biochemistry
+1 bias
+1 biais methodologique
+1 bf psychology
+1 better spread
+1 better performance
+1 better convergence
+1 beta vulgaris
+1 betail
+1 best n solution
+1 bereavement in children
+1 belief network
+1 behaviour
+1 behaviorismus
+1 behaviorism
+1 behavior change
+1 b cell
+1 bayesian technique
+1 bayesian methods
+1 basic distance vector routing mechanisms
+1 base pair
+1 base donnee tres grande
+1 base
+1 baryon resonance
+1 barriers to entry
+1 balls in urns system
+1 balanced scorecard
+1 bacteriology
+1 bacteriologie
+1 bacteriologia
+1 bacterie
+1 bacterial proteins
+1 bacteria
+1 back-propagation learning
+1 background
+1 azote monoxyde
+1 award-winning discovering statistics
+1 avidin biotin peroxidase complex
+1 average absolute deviation
+1 autoregression
+1 autoregresion
+1 autoradiography
+1 autoorganizacion
+1 autoorganisation
+1 automatique
+1 automation
+1 automatic parallelization
+1 automated cartography
+1 autolysis
+1 autologous
+1 author distinguishes syntactic
+1 augmentation
+1 attribute selection
+1 attitude change
+1 attachment behavior in children
+1 atrophy
+1 atomization energy
+1 atomization
+1 atomic models
+1 atherosclerosis
+1 atherosclerose
+1 ateroesclerosis
+1 asymptotic theory
+1 asymptotics
+1 asymptotic expansion
+1 asymptotic efficiency
+1 asymptotic behavior
+1 asymptotic analysis
+1 asymmetry
+1  astrophysics
+1  astronomy
+1 astronomy
+1 assortative mating
+1 associate members
+1 assimilation donnee
+1 assimilation
+1 assets
+1 aspecto economico
+1 aspect economique
+1 as part of social practice
+1 asimilacion dato
+1 artiodactyla
+1 artificial selection
+1 artificial life
+1 artificial intelligence a modern approach
+1 artificial chromosome libraries
+1 artifacts
+1 articulation of related communities
+1 article letter to editor
+1 arti cial intelligence
+1 arterial hypertension
+1 art
+1 arousal patterns
+1 archaeology
+1 arch
+1 arbre phylogenetique
+1 aquatic organisms
+1 aquatic animals
+1 aproximacion fase aleatoria
+1 aprendizaje automatico inteligencia artificial
+1 approximation phase aleatoire
+1 approximation method
+1 approximation echange correlation
+1 approximation algorithms
+1 approximate solution
+1 approvisionnement en eau
+1 apprenticeship
+1 applied
+1 applications of operational research
+1 application interpretation of structural equation modeling in social sciences
+1 appareil respiratoire
+1 aparato respiratorio
+1 aorte
+1 aorta
+1 anxiety disorders
+1 antineoplastic agents
+1 antineoplastic agent
+1 antigens
+1 antigen antibody reactions
+1 anticanceroso
+1 anticancereux
+1 antibiotics
+1 anthelmintics
+1 antenna measurement
+1 antenna array
+1 annealing
+1 an introduction to the bootstrap
+1 animation
+1 animal tissues
+1 animal ruminant
+1 animal rumiante
+1 animal nutrition
+1 animal genetic resources
+1 animal breeding
+1 angular distribution
+1 andy field
+1 analytic hierarchy process
+1 analytical perspective
+1 analysis method
+1 analysis and processing
+1 analysis and design
+1 analyse multicritere
+1 analyse donnee
+1 analyse dimensionnelle
+1 analyse
+1 analisis multivariante 1d 4
+1 analisis multicriterio
+1 analisis dimensional
+1 analisis datos
+1 analisis
+1 analise quimica
+1 analise microbiologica
+1 analise estatistica
+1 analise de regressao
+1 analise da agua
+1 amplification genique
+1 amplificacion genica
+1 amorce
+1 amoebiasis
+1 amoebae
+1 amino acid composition
+1 american rheumatism association
+1 amas
+1 alzheimer disease
+1 alta resolucion
+1 allgemeine soziologie makrosoziologie spezielle theorien und schulen entwicklung und geschichte der soziologie
+1 alkali metals
+1 alimentation en eau
+1 alienation
+1 algoritmos
+1 algoritmo rapido
+1 algoritmo genetico
+1 algoritmo evolucionista
+1 algoritmo busqueda
+1 algoritmo
+1 algorithm performance
+1 algorithmic problem
+1 algorithme recherche
+1 algorithme rapide
+1 algorithme genetique
+1 algorithme evolutionniste
+1 algorithm design and analysis
+1 algorithm
+1 algebra
+1 akaike information criterion
+1 aislamiento
+1 ai approach
+1 aia
+1 ahp
+1 aguas fecales
+1 agua
+1 agricultural research
+1 agency costs
+1 agency
+1 agement. we endeavor to expose implicit assump- strategy
+1 age
+1 affinity
+1 affine distortion
+1 aerosols optical properties
+1 aerial photographs
+1 advanced level concept
+1 advanced course
+1 adults
+1 adulto
+1 adulte
+1 adult
+1 adrenal glands
+1 adoption of innovations
+1 adoption of ideas
+1 adolescence 13 17
+1 ad hoc on demand distance vector
+1 ad hoc networks broadcasting routing protocols portable computers computer displays wireless communication delay sun laboratories mobile computing
+1 additive noise
+1 adaptive estimation
+1 adaptive control systems
+1 adaptability
+1 — adam smith 1776 keywords: agency costs and theory
+1 ad
+1 activity of daily living
+1 activite biologique
+1 actividad biologica
+1 actitud medica
+1 actitud
+1 action research
+1 acquisition of
+1 acido nucleico
+1 acid insoluble ash
+1 acid detergent
+1 achat
+1 acetylcholine
+1 acetilcolinesterase
+1 accountability
+1 access to capital
+1 accelerated life testing
+1 acceleradors de particules
+1 academic software
+1 academics
+1 academic research
+1 abstracts
+1 abstraction
+1 abstract
+1 absorptive capacity
+1 absorption spectra
+1 absorption of light
+1 absorption
+1 ab initio molecular dynamics
+1 ab initio calculations
+1 ab initio calculation
+1 abastecimiento de agua
+1 922942
+1 922840
+1 780102 physical sciences
+1 72 physics of elementary particles and fields
+1 7000 8000 gev cms
+1 564334
+1 551 geology
+1 321 01
+1 278419
+1 278386
+1 278337
+1 278329
+1 249999 physical sciences not elsewhere classified
+1 131
+1 03 65
+1 0 1

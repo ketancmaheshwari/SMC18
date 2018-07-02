@@ -1,0 +1,100 @@
+2692798 human
+2643443 homme
+2573529 hombre
+1581246 bioinformatics
+1564346 humans
+1498030 biomedical research
+1138396 vertebrata
+1128024 life sciences
+1058143 citation search
+1058143 biological patents
+1058141 europe pmc
+1058140 europe pubmed central
+1040311 etude experimentale
+971901 mammalia
+948051 female
+896607 open access
+889255 treatment
+849862 enzyme
+836385 male
+835676 animals
+801097 article
+743377 estudio experimental
+734747 tratamiento
+733348 traitement
+706806 kinetics
+674455 human factors
+669536 safety
+666998 rodentia
+650793 ergonomics
+642891 occupational safety
+640247 genetics
+637680 injury prevention
+635551 research articles
+635405 suicide prevention
+626155 medicine
+597279 thesis
+576924 abstracts
+571680 medical journals
+570559 health research
+569797 uk research reports
+569797 uk phd theses thesis
+569797 uk clinical guidelines
+558285 biology
+541495 adult
+530179 text mining
+526186 spectrum
+525583 animal
+515600 full text
+513843 surgery
+506955 literature search
+505729 traffic safety
+502547 clinical guidelines
+501427 citation networks
+501344 biomedical journals
+501299 rest apis
+501294 orcids
+497409 mathematical model
+497194 accident prevention
+493109 falls
+491922 pedestrian safety
+489963 violence prevention
+489824 bicycle safety
+489716 home safety
+489673 safety research
+489663 injury control
+489621 poison control
+489607 injury research
+489595 poisoning prevention
+489592 safety literature
+489592 safety abstracts
+484546 enzima
+471343 physics
+468713 cardiovascular disease
+461796 public health
+446921 bacteria
+441926 rat
+441083 temperature
+438251 gene expression
+434226 epidemiology
+432517 comparative study
+430650 infection
+422782 nitrogen
+421502 diagnosis
+421347 aparato circulatorio patologia
+418854 grupo a
+416881 iron
+403411 journal
+401977 magnetic field
+401384 child
+400816 health
+396599 modeling
+395446 management
+392612 nervous system diseases
+392069 spermatophyta
+389505 rata
+387055 cancer
+383477 x ray diffraction
+382845 infeccion
+382056 sistema nervioso patologia
+381887 higher education

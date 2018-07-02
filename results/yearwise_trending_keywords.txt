@@ -1,0 +1,220 @@
+1800 : "physical optics" : 177
+1801 : "eye","anatomical description","focal distance","organ","article" : 172
+1802 : "vacant" : 494
+1803 : "text","latin america bibliography","america discovery and exploration","america history" : 87
+1804 : "agrotechnika","rolnictwo","czasopisma polskie","zamośc region","19 w" : 50
+1805 : "division of labour","market price" : 42811
+1806 : "novel","roman" : 50
+1807 : "places europe","landscape and nature geography and maps","places oceania","places asia","places north america","places south america","places africa" : 50
+1808 : "œuvre auteur resume editions manuscrits critiques au sujet de reden an die deutsche nation allemand discours a la nation allemande francais johann gottlieb fichte 1762 1814 jean theophile fichte 1762 1814" : 110
+1809 : "biological patents","biomedical journals","text mining","europe pubmed central","citation search","citation networks","research articles","abstracts","open access","life sciences","clinical guidelines","full text","rest apis","orcids","europe pmc","biomedical research","bioinformatics","literature search" : 50
+1810 : "uric acid" : 50
+1811 : "aesthetics","perception" : 56
+1812 : "œuvre auteur resume editions manuscrits critiques au sujet de wissenschaft der logik allemand science of logic anglais science de la logique francais georg wilhelm friedrich hegel 1770 1831 hegel georg wilhelm friedrich 1770 1831 georg wilhem friedrich hegel 1770 1831 hegel 1770 1831 hēgeru 1700 1831 ヘーゲル 1770 1831" : 257
+1813 : "biological patents","biomedical journals","text mining","europe pubmed central","citation search","citation networks","research articles","abstracts","open access","life sciences","clinical guidelines","full text","rest apis","orcids","europe pmc","biomedical research","bioinformatics","literature search" : 50
+1814 : "classic article review" : 340
+1815 : "value of life" : 3070
+1816 : "material textual impresso" : 50
+1817 : "expedities" : 189
+1818 : "health research","uk clinical guidelines","biological patents","europe pubmed central","citation search","uk phd theses thesis","life sciences","uk research reports","medical journals","europe pmc","biomedical research","bioinformatics" : 50
+1819 : "biological patents","biomedical journals","text mining","europe pubmed central","citation search","citation networks","therapeutics","research articles","hematology","abstracts","blood","open access","blood grouping and crossmatching","life sciences","clinical guidelines","blood transfusion","full text","rest apis","orcids","europe pmc","biomedical research","bioinformatics","literature search" : 149
+1820 : "lenguas hispanas","5602 04 derecho de la antiguedad","biblioteca virtual cervantes","ilustracion del derecho real de espana 34 460 derecho","catalan","tesis","ciencia","espana libro","cervantes","ediciones","biblioteca digital","libro","derecho espana","historia","derecho","educacion","book","literatura","obras clasicas","virtual","investigacion","biblioteca","cervantes virtual","biblioteca cervantes","espanol" : 50
+1821 : "castillan fondements de la philosophie du droit francais lignes fondamentales de la philosophie du droit francais philosophie du droit francais principes de la philosophie du droit francais filosofia del diritto italien georg wilhelm friedrich hegel 1770 1831 hegel georg wilhelm friedrich 1770 1831 georg wilhem friedrich hegel 1770 1831 hegel 1770 1831 hēgeru 1700 1831 ヘーゲル 1770 1831","œuvre auteur resume editions manuscrits critiques au sujet de grundlinien der philosophie des rechts allemand philosophy of right anglais filosofia del derecho espagnol" : 485
+1822 : "fishes ganges river india and bangladesh" : 382
+1823 : "plant diseases","plant pathogens","plant pathogenic fungi","walnuts","leaf spotting" : 64
+1824 : "tetracyclines","antiprotozoal agents","parasitoses","helminthoses","parasites","patients","liver","human faeces","relapse","chloroquine","amoebiasis","headaches","electrocardiograms","liver diseases","protozoal infections","therapy","human diseases","plant extracts","helminths","dysentery","oedema","liver abscesses","body weight","toxicity","malnutrition","abscesses","anorexia","antimalarials","diiodohydroxyquinoline","adverse effects","pus","trematode infections","schistosomiasis","oral administration","snail borne diseases","amoebae","infections","ulcers","tetracycline","emetine" : 377
+1825 : "referencia bibliografica" : 235
+1826 : "places europe","landscape and nature geography and maps","places oceania","american poetry kentucky","places asia","places north america","australia maps","places south america","places africa","eastern hemisphere maps","western hemisphere maps","article","world maps" : 116
+1827 : "zoology","cambridge library collection zoology","history of science" : 92
+1828 : "anatomie","geneeskunde","diergeneeskunde","wetenschapsgeschiedenis" : 85
+1829 : "fourier series" : 70
+1830 : "pensee","auguste comte","science politique","histoire intellectuelle","195","positivismo","other","positivisme","sciences politiques","livro","filosofia","architecture","philosophie","philosophie des sciences","literatura francesa" : 401
+1831 : "referencia bibliografica" : 76
+1832 : "health research","uk clinical guidelines","biological patents","europe pubmed central","citation search","uk phd theses thesis","life sciences","uk research reports","medical journals","europe pmc","biomedical research","bioinformatics" : 371
+1833 : "animalia","ceraphronoidea","megaspilidae","megaspilinae","platygastroidea","arthropoda","proctotrupoidea","teleasinae","diapriidae","ceraphronidae","helorinae","diapriinae","heloridae","platygastrinae","scelioninae","proctotrupinae","taxonomy","hexapoda","platygastridae","hymenoptera","telenominae","insects","belytinae","diaprioidea","biodiversity","proctotrupidae","lagynodinae" : 109
+1834 : "œuvre auteur resume editions manuscrits critiques au sujet de histoire de la revolution francaise francais adolphe thiers 1797 1877 louis adolphe thiers 1797 1877 marie joseph louis adolphe thiers 1797 1877","francia historia revolucion 1789 1793","francia historia","œuvre auteur resume editions manuscrits critiques au sujet de histoire de la revolution francaise francais jules michelet 1798 1874" : 77
+1835 : "southern hemisphere temparature" : 50
+1836 : "animaux classification","zoologie","books","anatomie des animaux","morphologie des animaux 19e siecle","anatomie comparee" : 456
+1837 : "geothermal energy","hot springs","geysers","geology","thermal springs 152000 geothermal data theory","volcanic regions","book","fumaroles" : 806
+1838 : "binocular vision" : 1226
+1839 : "cell theory","theorie cellulaire","zelltheorie" : 323
+1840 : "image" : 124
+1841 : "health research","uk clinical guidelines","biological patents","europe pubmed central","citation search","uk phd theses thesis","life sciences","uk research reports","medical journals","europe pmc","biomedical research","bioinformatics" : 280
+1842 : "health research","uk clinical guidelines","biological patents","gastrointestinal diseases","europe pubmed central","citation search","digestive system","uk phd theses thesis","esophagus","gastrointestinal tract","stomach","life sciences","intestines","uk research reports","medical journals","europe pmc","biomedical research","bioinformatics" : 194
+1843 : "utilitarianism","law and ethics" : 338
+1844 : "economy","other","экономика","305" : 351
+1845 : "œuvre auteur resume editions manuscrits critiques au sujet de vestiges of the natural history of creation anglais vestiges of creation anglais robert chambers 1802 1871" : 322
+1846 : "health research","uk clinical guidelines","biological patents","respiratory system","europe pubmed central","citation search","uk phd theses thesis","life sciences","respiration","uk research reports","medical journals","europe pmc","biomedical research","bioinformatics" : 222
+1847 : "gerstner and eankine s investigation of a special possible case of","history of mathematical texts","gerstner s investigation of a special case of possible waves","of finite height","cambridge library collection mathematics","lee way of a ship","current","at the common surface of two liquids","in water an accompaniment of waves","superficial","effect of waves on","small","greatest height of","eankine s investigation of a special case of possible rotational waves","the limiting form of irrotational waves","waves","theory of oscillatory","at the surface of a liquid" : 1242
+1848 : "health research","uk clinical guidelines","biological patents","europe pubmed central","citation search","uk phd theses thesis","life sciences","uk research reports","medical journals","europe pmc","biomedical research","bioinformatics" : 419
+1849 : "147","other","united states of america" : 250
+1850 : "mathematical analysis","history of physics","potential function" : 165
+1851 : "cambridge library collection works of john ruskin","literary texts" : 199
+1852 : "honey bees","foraging","senses","learning","beneficial arthropods","biology","pollination","orientation","ecology","agricultural entomology","behaviour","beneficial organisms","pollinators","communication","beneficial insects","evolution" : 296
+1853 : "œuvre auteur resume editions manuscrits critiques au sujet de essai sur l inegalite des races humaines francais arthur de gobineau 1816 1882 joseph arthur gobineau 1816 1882 comte de gobineau 1816 1882 ariel des feux 1816 1882 ariel des feux 1816 1882" : 116
+1854 : "monographie" : 344
+1855 : "biological patents","biomedical journals","text mining","europe pubmed central","citation search","citation networks","research articles","abstracts","open access","life sciences","clinical guidelines","full text","rest apis","orcids","europe pmc","biomedical research","bioinformatics","literature search" : 157
+1856 : "natural history" : 223
+1857 : "aristotle","ethics ancient" : 202
+1858 : "geographic distribution" : 213
+1859 : "natural selection","species origin of","evolution" : 9243
+1860 : "health research","uk clinical guidelines","biological patents","europe pubmed central","citation search","uk phd theses thesis","life sciences","uk research reports","medical journals","europe pmc","biomedical research","bioinformatics" : 225
+1861 : "health research","uk clinical guidelines","biological patents","biomedical journals","text mining","europe pubmed central","citation search","citation networks","research articles","uk phd theses thesis","abstracts","open access","life sciences","clinical guidelines","full text","uk research reports","medical journals","rest apis","orcids","europe pmc","biomedical research","bioinformatics","literature search" : 111
+1862 : "health research","uk clinical guidelines","biological patents","biomedical journals","text mining","europe pubmed central","citation search","citation networks","research articles","uk phd theses thesis","abstracts","open access","life sciences","clinical guidelines","full text","uk research reports","medical journals","rest apis","orcids","europe pmc","biomedical research","bioinformatics","literature search" : 106
+1863 : "œuvre auteur resume editions manuscrits critiques au sujet de dictionnaire de la langue francaise francais emile littre 1801 1881 paul emile littre 1801 1881" : 387
+1864 : "health research","uk clinical guidelines","biological patents","europe pubmed central","citation search","uk phd theses thesis","life sciences","uk research reports","medical journals","europe pmc","biomedical research","bioinformatics" : 466
+1865 : "websearch","electromagnetic field","hep" : 935
+1866 : "elasticity","text" : 185
+1867 : "seminar 1","sappho","block 3" : 248
+1868 : "sulphuric acid" : 333
+1869 : "sociedad y cultura","earthly happiness","sociologia","ordinance of god","subjection of women","principle of perfect equality","apotheosis of reason" : 646
+1870 : "stm","silicon","microscopia electronica barrido","effet tunnel","semiconducteur","fluorescence","metal pur ta","etude experimentale","photoelectron emission","scanning electron microscopy","microscopie electronique balayage","inverse photoemission","semiconductor material","fotoemision inversa","fluorescencia","photoemission inverse","efecto tunel","photon emission","semiconductor materials","emission photoelectronique","metal pur ag","plasmons","emision fotoelectronica","tunnel injection","inverse photoelectric effect","optical spectroscopy","tunnel effect","silicium","isochromat spectra","estudio experimental","silicio" : 133
+1871 : "linguistic perspective","œuvre auteur resume editions manuscrits critiques au sujet de the descent of man and selection in relation to sex anglais la descendance de l homme et la selection liee au sexe francais charles darwin 1809 1882 charles robert darwin 1809 1882","my publications","sexual selection in animals","sexual dimorphism animals","evolution biology","man origin","sex differences","evolution" : 15874
+1872 : "emotions","psychology comparative","expression","œuvre auteur resume editions manuscrits critiques au sujet de the expression of the emotions in man and animals anglais l expression des emotions chez l homme et les animaux francais charles darwin 1809 1882","instinct","facial expression","œuvre auteur resume editions manuscrits critiques au sujet de the expression of the emotions in man and animals anglais l expression des emotions chez l homme et les animaux francais charles darwin 1809 1882 charles robert darwin 1809 1882" : 8855
+1873 : "geographic distribution" : 200
+1874 : "natural selection","origin","heredity","evolution" : 20519
+1875 : "music general interest","cambridge library collection music" : 797
+1876 : "cambridge library collection darwin","evolutionary biology","evolution and genetics","history of science" : 1894
+1877 : "language acquisition" : 508
+1878 : "500","500 natural sciences and mathematics" : 1326
+1879 : "websearch","cern document server" : 501
+1880 : "cambridge library collection darwin","evolutionary biology","evolution and genetics","history of science" : 1086
+1881 : "ciencias basicas y experimentales" : 672
+1882 : "elasticity","deformations" : 3439
+1883 : "slownik grecko angielski" : 1438
+1884 : "french","literature","fiction","decadence","19th century" : 339
+1885 : "health research","uk clinical guidelines","myocardium","biological patents","europe pubmed central","angiocardiography","cardiology","cardiotonic agents","citation search","coronary artery bypass","aotrography","cardiovascular diseases","electrocardiography","uk phd theses thesis","life sciences","ballistocardiography","uk research reports","medical journals","anti arrhythmia agents","europe pmc","biomedical research","bioinformatics" : 762
+1886 : "olive oil" : 1198
+1887 : "democracy","woodrow wilson","polsc241 introduction to public administration","article","bureaucracy","administration","public administration" : 1684
+1888 : "other" : 4721
+1889 : "evolution of sex","evolucion biologica","evolution biologique","sexual reproduction","analyse avantage cout","modelo","biological evolution","reproduction sexuee","modele","reproduccion sexuada","models","cost benefit analysis","analisis costo beneficio" : 2039
+1890 : "habit","brain activity","automation theory","stream of thought","function of brain" : 1859
+1891 : "economia","text","œuvre auteur resume editions manuscrits critiques au sujet de principles of political economy anglais principes d economie politique francais john stuart mill 1806 1873","political economy","hb161 m632","œuvre auteur resume editions manuscrits critiques au sujet de principles of political economy anglais principles of political economy considered with a view to their pratical application anglais principles of political economy with a view of their pratical application anglais principes d economie politique consideres sous le rapport de leur application pratique francais thomas robert malthus 1766 1834 robert malthus 1766 1834","economics" : 5707
+1892 : "ancient","philosophy" : 523
+1893 : "archive","journal de physique","edp sciences","journal de physique theorique et appliquee" : 11127
+1894 : "enzyme" : 1112
+1895 : "faits sociaux","geographie sociale","explication","vie administrative","regles","constitution","edition","methode","droit","œuvre auteur resume editions manuscrits critiques au sujet de les regles de la methode sociologique francais emile durkheim 1858 1917 emile durckheim 1858 1917","preuve","histoire sociale","œuvre auteur resume editions manuscrits critiques au sujet de les regles de la methode sociologique francais emile durkheim 1858 1917","administration" : 4328
+1896 : "treatment","cancer","case studies","maternal physiology","medical procedures","biology","delivery of health care","physiology","feedback","research methodology","studies","evaluation methodology","lactation","surgery","urogenital surgery","diseases","medicine","evaluation","health","health services","neoplasms","breast cancer","gynecologic surgery","ovariectomy" : 1932
+1897 : "flora","ginger","grasses" : 1080
+1898 : "health research","uk clinical guidelines","biological patents","europe pubmed central","abdominal surgery","citation search","uk phd theses thesis","life sciences","uk research reports","medical journals","europe pmc","biomedical research","bioinformatics" : 331
+1899 : "geometry" : 1904
+1900 : "random sampling" : 1908
+1901 : "influence function","similarity function" : 1005
+1902 : "human nature","religion","psychology religious","coversion","book","philosophy and religion" : 1678
+1903 : "surface layer" : 703
+1904 : "political economy","marxian economics","economics" : 5719
+1905 : "fisica molecular","articulo","fisica nuclear","fisica","fisica de particulas y campos","ciencias exactas" : 10829
+1906 : "commodities","wages","money","capital","capitalism","political economy","modern manifacture","economics" : 3860
+1907 : "noziedzība","employment","legislation","labor","utilitarianism","jeremy","unpaid","investment","utilitārisms","value","law","ethics","profit","socialism","history of economic ideas","wealth","crime","saving","paid","ētika","jurisprudence","info eu repo semantics book","book","econ301","bentham" : 4304
+1908 : "habit formation" : 5164
+1909 : "integral equation" : 1899
+1910 : "linguistic perspective" : 9469
+1911 : "intrinsic factor" : 1202
+1912 : "medical school curriculum","book","medical education" : 3555
+1913 : "method of dream interpretation","198","dream problems","dream work","b philosophy general","psychology of dream process","other","dream as wish fulfilment" : 6172
+1914 : "domestic animals","access","digital repository","digital antiquity","database","archaeology","animal anatomy","photographs","preservation","formulations","poultry","anatomy","tdar","students" : 1194
+1915 : "pedestrian safety","poison control","injury prevention","safety literature","traffic safety","injury control","human behavior","home safety","injury research","safety abstracts","human factors","occupational safety","safety","safety research","accident prevention","violence prevention","bicycle safety","poisoning prevention","falls","ergonomics","suicide prevention" : 6225
+1916 : "tensor" : 2936
+1917 : "composition","morphology animals","growth" : 6074
+1918 : "medical botany india","antiprotozoal agents","neuroses","chemical composition","asthma","venomous animals","herbs therapeutic use india","quinine","sprouting","wounds","human diseases","colic","culture techniques","catalogues","hay","corolla","medicinal properties","children","gonorrhoea","bacterial diseases","calyx","indigenous people","medicinal plants","abscesses","cotyledons","emetics","rabies","medicinal plants india","ulcers" : 10108
+1919 : "statistics and experimentation","journal article","environmental science" : 3388
+1920 : "pedestrian safety","poison control","injury prevention","safety literature","traffic safety","injury control","home safety","injury research","safety abstracts","human factors","occupational safety","safety","safety research","accident prevention","violence prevention","bicycle safety","poisoning prevention","falls","ergonomics","suicide prevention" : 1658
+1921 : "uncertainty","resource management","profit","economic theory","production","risk assessment","equilibrium","market competition" : 11642
+1922 : "tractatus logico philosophicus 164 81 1 logica matematica lenguaje","164","logica matematica","filosofia libro","tractatus logico philosophicus","libro","philosophy","tractatus logico philosophicus 164 800 1 logica matematica lenguaje","œuvre auteur resume editions manuscrits critiques au sujet de tractatus logico philosophicus latin logisch philosophische abhandlung allemand ludwig wittgenstein 1889 1951 ludwig josef johann wittgenstein 1889 1951" : 6594
+1923 : "other" : 5102
+1924 : "solar energy","solar flux","variations 140100 solar energy resources availability" : 1316
+1925 : "statistical estimation" : 2414
+1926 : "english literature" : 5776
+1927 : "intermediate hosts","legislation","parasitoses","parasites","hosts","infectivity","plague","protozoal infections","law","epidemiology","developmental stages","human diseases","malaria","bacterial diseases","epidemics","infections" : 3003
+1928 : "electric field","websearch","hep" : 3870
+1929 : "整数論","lý thuyết số","book" : 9046
+1930 : "diploidy","cotton","22","alleles","sexual selection","genetic drift","sexual reproduction","mutants","genetics","reproduction","natural selection","mutations","биология генетика","biology genetics","other","survival","evolution","population genetics" : 17618
+1931 : "health research","uk clinical guidelines","biological patents","biomedical journals","text mining","europe pubmed central","citation search","citation networks","research articles","uk phd theses thesis","abstracts","open access","life sciences","clinical guidelines","full text","uk research reports","medical journals","rest apis","orcids","europe pmc","biomedical research","bioinformatics","literature search" : 8727
+1932 : "websearch","hep" : 6324
+1933 : "recognition psychology","recollection psychology" : 7390
+1934 : "access to capital","economic analysis","entrepreneurial economies","capitalism","schumpeter","innovation process","economic theory","joseph a","economic dynamism","economic development" : 35080
+1935 : "money","œuvre auteur resume editions manuscrits critiques au sujet de the general theory of employment","interest and usury","古典学派前史 経済学","de l interet et de la monnaie francais john maynard keynes 1883 1946","economics","interest and money anglais la theorie generale de l emploi" : 34391
+1936 : "websearch","journal article","hep" : 13421
+1937 : "contracts agreements","потребление","academic","market resources","development","e volunteering","uncertainty","resource allocation","ecommunication","blog","экономическая теория","bibliography","nonprofit","wiki","фирма","производство","firm growth","e volunteer","weblog","information and communication technologies for development","knowledge","lopez","campus","e learning","digital","ngo","prices","divide","ict","transaction costs","процесс","courses","equilibrium","ictlogy","ictlogist","ict4d","management","peace","ismael","scholar","pena" : 23455
+1938 : "surrogate endpoints" : 18070
+1939 : "phase change","time scale","functional equation","point of view","kinetics","reaction kinetics" : 9275
+1940 : "phase change","kinetics" : 8125
+1941 : "drugs","helminthoses","parasites","anthelmintics","amoebiasis","bibliographies","vitamins","protozoal infections","helminths","drug therapy","pharmacology","chemotherapy","amoebae","antibiotics" : 52602
+1942 : "genes","animal health","parasites","men","symbiosis","disease transmission","transmission","roots","regeneration","virulence","bibliographies","mixtures","cytology","ecology","speciation","genetics","synthesis","embryology","plasticity","differentiation","nomenclature","natural selection","mutations","effects","taxonomy","techniques","recombination","analysis","lectures","variation","health","methodology","inheritance","teaching methods","biometry","new combination","modification","heritability","evolution" : 1494
+1943 : "academic","development","e volunteering","ecommunication","blog","bibliography","nonprofit","wiki","e volunteer","weblog","information and communication technologies for development","knowledge","lopez","campus","e learning","digital","ngo","divide","ict","courses","ictlogy","ictlogist","ict4d","management","peace","ismael","scholar","pena" : 12572
+1944 : "alpha glucosidase","blood sugar","estimation","photometry","techniques","blood chemistry","analysis","determination","methodology","copper","starch" : 11147
+1945 : "bessel functions","bessel function","117","特殊関数","other","ベッセル関数" : 12130
+1946 : "experimental design","history","foundations","bibliographies","literature","statistical analysis","estimation","techniques","statistics","analysis of variance","methodology" : 9701
+1947 : "cumulative distribution function","limit distribution","mean variance","random variable","recurrence relation" : 10619
+1948 : "websearch","hep" : 31830
+1949 : "polyphenoloxidase","enzyme","copper","beta vulgaris" : 24692
+1950 : "monotone function" : 25239
+1951 : "citations","impact factor","random sampling","internal structure","h index","indexation","rankings","economics","research impact","research production" : 35034
+1952 : "refs" : 22319
+1953 : "computers","websearch","molecules","hep","configuration space","physics","monte carlo integration","general methods","digital systems","monte carlo method","interactions","thermodynamics","equation of state","virial coefficients","free volume" : 38334
+1954 : "pauli s scientific book collection","websearch","cern document server","cern document server websearch pauli s scientific book collection","数理物理学" : 18616
+1955 : "enzymes periodicals","biochemistry periodicals" : 45941
+1956 : "sugars","derivatives","polysaccharides","estimation","colorimetry","techniques","analysis","methodology","book","oligosaccharides","esters" : 40273
+1957 : "lipids","brain","liver","retention","animal tissues","purification","techniques","methodology","salts","muscles" : 67129
+1958 : "of naval research","nonparametric estimation","random sampling","number of factors" : 69278
+1959 : "social role","social psychology","everyday life","self" : 49334
+1960 : "experimental design","maize","new variety","comparisons","statistical analysis","estimation","techniques","statistics","plant breeding","methodology","dispersion","analysis of covariance","models","students","teaching" : 60802
+1961 : "sangue","tecnicas de analises","tecidos","espectrofotometria","eritrocitos","praguicidas","metodos","acetilcolinesterase","acetylcholinesterase","fotometria","enzimas","ensaios clinicos como assunto" : 26536
+1962 : "tissue culture","pesticides","tobacco","pests","crop improvement" : 77950
+1963 : "mathematical theory" : 77820
+1964 : "comparative advantage" : 87896
+1965 : "fuzzy set" : 91213
+1966 : "article" : 45556
+1967 : "pragmatismus","behaviorism","kommunikation","soziologie anthropologie","social philosophy","interaktion","sozialpsychologie","interaction","general sociology basic research general concepts and history of sociology sociological theories","psychology","identitat","sociology anthropology","behaviorismus","allgemeine soziologie makrosoziologie spezielle theorien und schulen entwicklung und geschichte der soziologie","symbol","philosophy","pragmatism","social psychology","psychologie","gesellschaft","sprache","philosophie theologie","language","philosophy ethics religion","communication","identity","sozialphilosophie","philosophie","society" : 38857
+1968 : "qualitative research","grounded theory" : 50617
+1969 : "electron microscopy","epoxy resin" : 21517
+1970 : "gel electrophoresis" : 239352
+1971 : "handedness assessment","edinburgh inventory" : 44202
+1972 : "molecular genetics" : 29750
+1973 : "intergroup relations","academic","development","community development","e volunteering","interpersonal relations","social factors","social structures","ecommunication","blog","group behavior","bibliography","nonprofit","wiki","trust relationships","e volunteer","weblog","information and communication technologies for development","knowledge","lopez","campus","social behavior","social networks","diffusion of innovations","e learning","digital","ngo","divide","ict","social psychology","network theory","courses","ictlogy","ictlogist","ict4d","management","weak ties","peace","ismael","scholar","pena" : 42566
+1974 : "defence management","data journal","probability","knowledge","foresight innovation policy","it security","bias","consult","risk architecture","process improvement","business intelligence","cognitive processes","problem solving","decision making skills","heuristics and biases" : 42429
+1975 : "multiple regression","behavioral science" : 151543
+1976 : "ひらめく","研究開発","専門","特許","機関","検索","科学技術","研究者","産学連携","横断検索","jst","学術","独立行政法人","検索エンジン","科学技術振興機構","リンクセンター","高感度法","関連検索","論文","ひろがる","j global","遺伝子","データベース","ｊｇｌｏｂａｌ","研究資源","たんぱく質 色素結合の原理を用いるμg量のたんぱく質の定量のための迅速","研究課題","jglobal","国立研究開発法人","jdream","ｊ ｇｌｏｂａｌ","アイディア","資料","技術動向","書誌情報","文献","発想","化学物質","統合検索","ｊｓｔ","科学技術用語","つながる" : 241539
+1977 : "dna polymerase","nucleotide sequence","dna sequence" : 69795
+1978 : "academic","development","e volunteering","ecommunication","blog","bibliography","nonprofit","wiki","e volunteer","weblog","information and communication technologies for development","knowledge","lopez","campus","e learning","digital","ngo","divide","ict","courses","ictlogy","ictlogist","ict4d","management","peace","logical process","ismael","scholar","pena" : 78404
+1979 : "animals","escherichia coli","ribosomal protein","uv light","liver","cellulose","my publications","electrophoresis polyacrylamide gel","antigens","chickens","sodium dodecyl sulfate","ribosomal proteins","immunologic techniques","antigen antibody reactions","peroxidase" : 55743
+1980 : "strategic planning","business intelligence","structural analysis","competitive strategy","competitive advantages" : 134452
+1981 : "922840","mathematics","mathematics tables","inequalities","564334","278337","278419","laplace transforms","table","278329","fourier analysis","special functions","book","922942","278386" : 43157
+1982 : "profit motive","market consolidation","evolutionary economics","microeconomics","organizational change","motivation","class of 1956","market structures","search strategies","industry structures","equilibrium","organizational behavior","evolution model","evolutionary theory","management decisionsmarket competition" : 35995
+1983 : "statistical mechanics","degree of freedom","simulated annealing","websearch","functional dependency","hep","optimization problem","complex system","combinatorial optimization","finite temperature" : 41816
+1984 : "graph theory","classification and regression tree","discriminant analysis","regression analysis" : 33398
+1985 : "erosion" : 112555
+1986 : "scientific computing","numerical recipe" : 128494
+1987 : "tissu","purificacion","nucleic acids","cell","gene expression","tejido","rna","purification","messenger rna","tissue","rna isolation","acido nucleico","acide nucleique","cellule","nucleic acid","human cells","celula" : 69920
+1988 : "professional personnel","linear algebra","computers","digital computers","manuals","general and miscellaneous mathematics computing and information science","mathematics","personal computers","numerical solution","personal computer","differential equation","signals","randomness","mathematical logic","digital filter","least square fit","data analysis","simulation 990200 mathematics computers","numerical analysis","algebra","personnel","maximum likelihood fit","signal processing","monte carlo method","computer calculations","digital filters","comparative evaluations","least square","numerical algorithm","computerized simulation","calculation methods","scientific computing","computer codes","fourier analysis","algorithms","document types","pascal","fortran","differential equations","monte carlo","programming","functions","scientific personnel","programming languages","fourier method" : 87912
+1989 : "genetic engineering","molecular cloning laboratory manuals","my publications","biologia molecular","clonagem molecular","techniques","molecular cloning","biotechnology" : 241606
+1990 : "molecular cloning","biotechnology","genetic engineering" : 243576
+1991 : "central","k","defence management","teachers","trajectories of participation","representation","situatedness as a theoretical perspective","negotiation of meaning","fields of","concept","of persons","community of practice","data journal","world","access","agency","educational forms","generality","formal versus informal","learning","legitimacy of participation","technology","definitions","resources","liberia","articulation of related communities","knowledgeable skill","educational research","abstraction","ilyenkov","versus nonparticipation","craft production","mastery","concreteness","glass box","historical cultural theory","forms of","developmental psychology","comprehensive","understanding","versus teaching","artifacts","institute for research on learning","socialization","theory of","curriculum","knowledge","by doing","sequestration","as part of social practice","marx","relational perspective","foresight innovation policy","it security","adults","cognitive research","newcomers","prescriptive interpretation of a concept","meaning","illegitimate participation","peripherally of participation","indexicality","hall","of learning","cognition","interstitial","intelligent tutoring systems","person","legitimate peripherality","children","cognitive apprenticeship","consult","acquisition of","effectiveness of educational forms","whole","parochialism","social","transparency","risk architecture","situated learning","learning in doing social","practice","relations with old timers","history of the concept","process improvement","business intelligence","transformation","e v","alienation","in situ","west africa","schooling","particular","membership","cognitive processes","identity","apprenticeship","rule","participation","legitimate peripheral participation","structure","analytical perspective","power","s","of mastery","situated","master","shift in theoretical perspective","dichotomies","tailors","stories","teaching","complete","cognitive and computational perspectives","full participation","conventional theories of learning","hegemony" : 57791
+1992 : "poluicao da agua","alimentation en eau","analise da agua","abastecimiento de agua","bacteriologia","sewage","contaminacion del agua","eau usee domestique","bacteriologie","saneamento","water supply","eau","biologia","approvisionnement en eau","analyse","bacteriology","polucion del agua","tratamento da agua","analysis","water pollution","agua","toxicologia","pollution de l eau","water","aguas fecales","qualidade ambiental","analisis" : 54370
+1993 : "correlation energy","potencial de ionizacion","affinity","local spin density","energie atomisation","etude theorique","exchange interactions","termoquimica","exchange potential","energia correlacion","energie correlation","energia atomizacion","energie totale","energia total","molecules","kohn sham","exchange interaction","atomization energy","atoms","density function theory","fonctionnelle densite","funcional densidad","ionization potential","correlation function","estudio teorico","atomization","density functional method","potencial intercambio","thermochemical processes","thermochimie","theoretical study","potentiel echange","total energy","density functional","average absolute deviation","approximation echange correlation","potentiel ionisation","thermochemistry","functionals" : 62399
+1994 : "qualitative data analysis" : 95684
+1995 : "particle swarm","search problems artificial intelligence genetic algorithms simulation neural nets","neural nets","multidimensional search particle swarm optimization nonlinear functions evolution neural network artificial life genetic algorithms social metaphor simulation","simulation","function optimization","particle swarm optimization birds educational institutions marine animals testing humans genetic algorithms optimization methods artificial neural networks performance evaluation","particle swarm optimizer","artificial intelligence","genetic algorithm","genetic algorithms","search problems","artificial life","neural network" : 48105
+1996 : "electron correlation","local spin density","exchange interactions","linear response","density matrix spin density","spin","molecules","physics","scaling","atoms","electron exchange","calculation methods","density functional method","electronic structure","generalized gradient approximation","solids" : 85155
+1997 : "dna","software","animals","position specific scoring matrix","sequence similarity","amino acid sequence","statistical significance","proteins","algorithms","humans","molecular sequence data","sequence alignment","databases factual","database search","basic local alignment search tool" : 58889
+1998 : "organizacion de la empresa","compra","competitividad","0","purchasing","estructura economica","structure economique","ventaja comparativa","sustitucion de importaciones","administracion industrial","economic structure","achat","science fiction","estructura del comercio internacional","planificacion estrategica","competitive advantage" : 113550
+1999 : "population","incidence","measurement","cancer","demographic factors","research methodology","mortality","statistics","gene","population dynamics","diseases","causes of death","neoplasms","tables and charts" : 127049
+2000 : "data mining","structured data","world wide web","social network","relational data" : 36303
+2001 : "brain","real time quantitative pcr","quantitative polymerase chain reaction","gene expression data","polymerase chain reaction","gene expression","copy number","time factors","dna complementary","reverse transcriptase polymerase chain reaction","reverse transcription polymerase chain reaction","algorithms","humans","real time polymerase chain reaction","cell line" : 59126
+2002 : "numerical recipes","informatique" : 123299
+2003 : "case study research","social sciences research methodology","social sciences","estrategias","case method","pesquisa","ciencias sociais","coleta de dados" : 65159
+2004 : "robust matching","single object","image matching","scale invariance","recognition proceed","single feature","scale-invariant keypoints","invariant features","object recognition","distinctive image features","large database","affine distortion","distinctive invariant feature","known object","reliable matching","image features","near real time","hough transform","nearest neighbor" : 42283
+2005 : "applied","finite element method","mechanics","fluid dynamics" : 38595
+2006 : "supersymmetric standard model","cosmic background radiation","higgs boson","higgs particle","dark matter","nuclear physics","double beta decay","standard model","big bang","probability and statistics","anomalous magnetic moment","astrophysics","meson","particle detector","lepton","particle physics","top quark","baryon","deep inelastic scattering","bibliography","gauge boson" : 42707
+2007 : "New Classification","Geometry chapter","new routine","new section","new key feature","Scientific Computing","Numerical Recipes Third Edition","Inference chapter","new statistical distribution","new edition","new chapter" : 122876
+2008 : "computer program","high resolution","personal computer","structure refinement","crystal structure determination","computer programs","shelx","present day","crystal structure","high throughput","phasing","open source" : 67345
+2009 : "revue systematique","medicina basada en pruebas","systematic review","analisis estadistico","revue bibliographique","evidence based practice","evidence based medicine","revista bibliografica","pratique basee sur des preuves","publishing","periodicals as topic","practica basada en la evidencia","terminology as topic","meta analisis","metaanalysis","statistical analysis","bibliographic review","analyse statistique","metaanalyse","revision sistematica","humans","meta analysis as topic","publication bias","review literature as topic","quality control","medecine factuelle" : 32082
+2010 : "climate change" : 32004
+2011 : "mental disorders","diagnostic and statistical manual","mental disorder","humans","diagnostic and statistical manual of mental disorders" : 91507
+2012 : "multivariate data analysis" : 75054
+2013 : "phylogeny","relaxed clocks","software","algorithms","internet" : 16919
+2014 : "researcher","academic research","digital library","bibliography","reference software","library software","research paper","academic software","library management","research tool","academics" : 75570
+2015 : "biological patents","shelxl","biomedical journals","text mining","europe pubmed central","citation search","condensed matter physics superconductivity and superfluidity","augmentation","citation networks","structure factors","x ray and neutron diffraction","research articles","atoms","abstracts","shredcif","open access","life sciences","clinical guidelines","neutron diffraction","crystal structure","crystal structure refinement","full text","reflection","rest apis","orcids","europe pmc","biomedical research","bioinformatics","literature search" : 54505
+2016 : "innovation","user innovation","innovators" : 10064
+2017 : "enzyme catalysis","protein folding" : 4401
+2018 : "convergent evolution","archaeology","genetics","legumes","dormancy","cereals","dehiscence" : 103
+2024 : "predicting","body","composition","near infrared","body composition","infrared" : 18

@@ -1,0 +1,140 @@
+
+$ time -p awk -f extract_ids.awk linking_relations.txt > linking_relations_col.txt
+real 163.27
+user 155.76
+sys 3.16
+
+$ wc -l linking_relations_col.txt 
+64639609 linking_relations_col.txt
+
+$ jq 'keys' aminer/aminer_papers_2.txt > akeys.txt
+$ jq 'keys' mag/mag_papers_3.txt > mkeys.txt
+
+sort akeys.txt | uniq
+sort mkeys.txt | uniq
+
+===
+example match:
+042d5268-7e30-45b0-ac06-9a410aa5b246 53e99792b7602d9701f5b185
+
+mid in
+mag/mag_papers_2.txt:{"title": "Designing A Reactor to Generate Hydrogen Bubbles", "year": 2000, "authors": [{"name": "S. Heath Wanamaker", "org": "Department of Chemical Engineering and Department of Chemistry, Kansas State University, Manhattan, "}, {"name": "Kevin J. Schmitt", "org": "Department of Chemical Engineering and Department of Chemistry, Kansas State University, Manhattan, "}, {"name": "D. Lupher", "org": "Department of Chemical Engineering and Department of Chemistry, Kansas State University, Manhattan, "}, {"name": "Nathan C. Stockman", "org": "Department of Chemical Engineering and Department of Chemistry, Kansas State University, Manhattan, "}, {"name": "David S. Brooks", "org": "Department of Chemical Engineering and Department of Chemistry, Kansas State University, Manhattan, "}, {"name": "Ryan A. Parks", "org": "Department of Chemical Engineering and Department of Chemistry, Kansas State University, Manhattan, "}, {"name": "Thatcher D. Reist", "org": "Department of Chemical Engineering and Department of Chemistry, Kansas State University, Manhattan, "}, {"name": "Matthew R. Kyle", "org": "Department of Chemical Engineering and Department of Chemistry, Kansas State University, Manhattan, "}, {"name": "Pedro L. Mui\u00f1o", "org": "Department of Chemistry, Manhattan, "}], "references": ["3b7c9b09-f759-4b2b-b956-c73d048341ad", "88a58c53-15b8-44d5-99aa-f1231aaf3382"], "abstract": "Hydrogen is produced by the reaction between zinc and hydrochloric acid. This reaction is used to illustrate the importance of considering thermodynamics when designing a chemical reactor. The gas released is collected in soap bubbles that rise in the air, indicating that a lighter than air gas has been produced. The bubbles can be lit to add a dramatic effect to the demonstration. The reaction is highly exothermic, raising the temperature of the reaction materials and the reactor. Batch operation of this reactor would require short cooling periods between reactions. Alternatively, a modification of the design is suggested to allow for continuous cooling of the vessel, which would allow semicontinuous operation of the reactor. (Zinc would have to be periodically replenished as it is consumed in the reaction.) The consequences associated with the cooling of the vessel are discussed.", "issue": "1", "page_end": "16", "url": ["http://link.springer.com/article/10.1007/s00897990351a", "https://link.springer.com/article/10.1007/s00897990351a", "http://link.springer.com/content/pdf/10.1007/s00897990351a.pdf", "http://link.springer.com/10.1007/s00897990351a", "http://faculty.francis.edu/pmuino/510014pm.pdf", "http://rd.springer.com/content/pdf/10.1007%2Fs00897990351a.pdf", "http://www.springerlink.com/index/10.1007/s00897990351a"], "doi": "10.1007/s00897990351a", "id": "042d5268-7e30-45b0-ac06-9a410aa5b246", "keywords": ["chemical reactors", "lighter than air", "thermodynamics", "zinc"], "page_start": "14", "venue": "The Chemical Educator", "fos": ["Chemistry", "Zinc", "Thermodynamics", "Lighter than air"], "volume": "5", "doc_type": "Journal"}
+
+aid in
+aminer/aminer_papers_0.txt:{"id": "53e99792b7602d9701f5b185", "title": "Designing A Reactor to Generate Hydrogen Bubbles", "authors": [{"name": "S. Heath Wanamaker", "org": "Department of Chemical Engineering and Department of Chemistry Kansas State University Manhattan KS 66506"}, {"name": "Kevin J. Schmitt", "org": "Department of Chemical Engineering and Department of Chemistry Kansas State University Manhattan KS 66506"}, {"name": "Doug A. Lupher", "org": "Department of Chemical Engineering and Department of Chemistry Kansas State University Manhattan KS 66506"}, {"name": "Nathan C. Stockman", "org": "Department of Chemical Engineering and Department of Chemistry Kansas State University Manhattan KS 66506"}, {"name": "David S. Brooks", "org": "Department of Chemical Engineering and Department of Chemistry Kansas State University Manhattan KS 66506"}, {"name": "Ryan A. Parks", "org": "Department of Chemical Engineering and Department of Chemistry Kansas State University Manhattan KS 66506"}, {"name": "Thatcher D. Reist", "org": "Department of Chemical Engineering and Department of Chemistry Kansas State University Manhattan KS 66506"}, {"name": "Matthew R. Kyle", "org": "Department of Chemical Engineering and Department of Chemistry Kansas State University Manhattan KS 66506"}, {"name": "Pedro L. Mui\u00f1o", "org": "Department of Chemistry Manhattan KS 66506"}], "venue": "The Chemical Educator", "year": 2000, "keywords": ["lighter than air", "chemical reactors", "thermodynamics", "zinc"], "page_start": "14", "page_end": "16", "lang": "en", "volume": "5", "issue": "1", "doi": "10.1007/s00897990351a", "url": ["http://dx.doi.org/10.1007/s00897990351a"], "abstract": "Hydrogen is produced by the reaction between zinc and hydrochloric acid. This reaction is used to illustrate the importance of considering thermodynamics when designing a chemical reactor. The gas released is collected in soap bubbles that rise in the air, indicating that a lighter than air gas has been produced. The bubbles can be lit to add a dramatic effect to the demonstration. The reaction is highly exothermic, raising the temperature of the reaction materials and the reactor. Batch operation of this reactor would require short cooling periods between reactions. Alternatively, a modification of the design is suggested to allow for continuous cooling of the vessel, which would allow semicontinuous operation of the reactor. (Zinc would have to be periodically replenished as it is consumed in the reaction.) The consequences associated with the cooling of the vessel are discussed.", "references": ["53e9a870b7602d97031c0ff2", "53e997aeb7602d9701f8a331", "53e997aab7602d9701f80396", "53e997a6b7602d9701f7ab31"]}
+===
+
+The command used for the above is:
+for i in $(awk 'NR>1{print $1}' linking_relations_col.txt | head); do grep "id\": \"$i"  mag/mag_papers_*; done
+
+The command to find number of authors:
+for i in 0 1 2 3 4 5 6 7 8 9; do jq '.authors|length' aminer/aminer_papers_$i.txt >> aminer_number_of_auth.txt; done
+
+Print json files columnwise for aminer data (qwqw is the column seperator)
+jq  '. | "\(.id)qwqw\(.title)qwqw\(.authors|length)qwqw\(.doi)qwqw\(.isbn)qwqw\(.issn)qwqw\(.lang)qwqw\(.n_citation)qwqw\(.issue)qwqw\(.url)qwqw\(.volume)qwqw\(.page_start)qwqw\(.page_end)qwqw\(.year)qwqw\(.venue)qwqw\(.pdf)qwqw\(.references)qwqw\(.keywords)qwqw\(.abstract)"' aminer/aminer_papers_4.txt > aminer/aminer_papers_4.col.txt
+
+
+Print json files columnwise for mag data (qwqw is the column seperator)
+jq  '. | "\(.id)qwqw\(.title)qwqw\(.authors|length)qwqw\(.doi)qwqw\(.fos)qwqw\(.doc_type)qwqw\(.lang)qwqw\(.n_citation)qwqw\(.issue)qwqw\(.url)qwqw\(.volume)qwqw\(.page_start)qwqw\(.page_end)qwqw\(.year)qwqw\(.venue)qwqw\(.publisher)qwqw\(.references)qwqw\(.keywords)qwqw\(.abstract)"' mag/mag_papers_4.txt > mag/mag_papers_4.col.txt
+
+Get the flattened author,org for each paper id:
+jq -c '{id: .id, authors: [.authors[]|join(",")]|join(";")}|[.id, .authors]' orig.format/aminer_papers_3.txt 2>/dev/null | sed -e 's/\[//g' -e 's/\]//g' -e 's/\"//g' -e 's/,/qwqw/1' > col.format/aminer_3.auth.col.txt 
+
+A finding: some records have no authors. For instance, in aminer_papers_3.txt 25029 records have no authors.
+
+More curation of columnar data:
+sed -i -e 's/\[//g' -e 's/\]//g' -e 's/\\\"//g' aminer_*.col.txt
+
+
+-bash-4.2$ awk -f max_citations.awk mag/col.format/mag_papers_*[!auth].col.txt 
+=Max Citations=
+1182ea42-b7a3-4b76-98f2-502fd02f687b Cleavage of Structural Proteins during the Assembly of the Head of Bacteriophage T4 239352
+-bash-4.2$ awk -f max_citations.awk aminer/col.format/aminer_papers_*[!auth].col.txt 
+=Max Citations=
+53e9af26b7602d97039635be Molecular cloning: A laboratory manual 243576
+
+Merge the col and auth.col files into one file.
+for i in $(seq 0 29); do awk -f merge.awk aminer/col.format/aminer_papers_$i.auth.col.txt aminer/col.format/aminer_papers_$i.col.txt>aminer_papers_$i.allcols.txt; done
+for i in $(seq 0 19); do awk -f merge.awk mag/col.format/mag_papers_$i.auth.col.txt mag/col.format/mag_papers_$i.col.txt>mag_papers_$i.allcols.txt; done
+
+
+== Workflow for Data Preprocessing ==
+
+Step 1. Download and unzip the data bundle
+    wget https://academicgraphv1wu.blob.core.windows.net/aminer/mag_papers_1.zip
+		unzip mag_papers_1.zip
+		
+		AND for aminer papers
+		wget https://academicgraphv1wu.blob.core.windows.net/aminer/aminer_papers_1.zip
+
+
+Step 2. Prepare the data in column format
+   Step 2.1 Extract all but the authors data and put in column format
+   for i in $(seq 20 39); do ./jq  '. | "\(.id)qwqw\(.title)qwqw\(.authors|length)qwqw\(.doi)qwqw\(.fos)qwqw\(.doc_type)qwqw\(.lang)qwqw\(.n_citation)qwqw\(.issue)qwqw\(.url)qwqw\(.volume)qwqw\(.page_start)qwqw\(.page_end)qwqw\(.year)qwqw\(.venue)qwqw\(.publisher)qwqw\(.references)qwqw\(.keywords)qwqw\(.abstract)"' mag/mag_papers_$i.txt > mag_papers_$i.col.txt; done
+	 AND for aminer, it goes like:
+	 jq  '. | "\(.id)qwqw\(.title)qwqw\(.authors|length)qwqw\(.doi)qwqw\(.isbn)qwqw\(.issn)qwqw\(.lang)qwqw\(.n_citation)qwqw\(.issue)qwqw\(.url)qwqw\(.volume)qwqw\(.page_start)qwqw\(.page_end)qwqw\(.year)qwqw\(.venue)qwqw\(.pdf)qwqw\(.references)qwqw\(.keywords)qwqw\(.abstract)"' aminer/aminer_papers_4.txt > aminer/aminer_papers_4.col.txt
+
+	 Step 2.2 Extract authors data in a seperate column format file
+	 for i in $(seq 20 39); do ./jq -c '{id: .id, authors: [.authors[]|join(",")]|join(";")}|[.id, .authors]' orig.format/mag_papers_$i.txt 2>/dev/null | sed -e 's/\[//g' -e 's/\]//g' -e 's/\"//g' -e 's/,/qwqw/1' mag/mag_papers_$i.txt > mag_papers_$i.col.auth.txt; done
+	 SAME for aminer
+
+	 Step 2.3 Merge the files obtained in 2.1 and 2.2 to obtain the final allcols file
+   for i in $(seq 20 39); do awk -f ./code/merge.awk mag_papers_$i.col.auth.txt mag_papers_$i.col.txt>mag_papers_$i.allcols.txt; done
+   SAME for aminer #NOTE: must remove any " chars from the id fields of all files involved.
+
+Step 3. Remove duplicate records from the dataset based on linking relationships. Aminer data was chosen to be removed for duplicate entries since it seems to have less information about papers when I spot checked.
+    for i in $(seq 0 153) ; do (awk -f filterdup.awk ../linking_relations.txt ../aminer_papers_allcols/aminer_papers_$i.allcols.txt > aminer_papers_$i.allcols.excl.txt) & done
+
+
+Total number of records: Aminer has about 155+ million records; Mag has about 165+ million records. Totaling about 321+ Million records. Out of these, about 64 million records are common, making them 257+ million unique records.
+
+Some papers may be appearing in both datasets but are not listed in the linking_relations database. For instance, the highest cited paper appears twice:
+243576 53e9af26b7602d97039635be Molecular cloning: A laboratory manual J. Sambrook;E. F. Fritsch;T. Maniatis "molecular cloning","biotechnology","genetic engineering" BioScience
+241606 a3aed21d-9e15-4a61-90df-fc39285bf7f3 Molecular cloning : a laboratory manual Joseph Sambrook;E. F. Fritsch;Tom Maniatis ["genetic engineering","molecular cloning laboratory manuals","my publications","biologia molecular","clonagem molecular","techniques","molecular cloning","biotechnology"] null
+
+There are a lot of patents in the data. About 14 million of them are likely patents.
+
+Collect all the keywords from all records:
+ awk -F'qwqw' '($18!~/null/ && $7~/en/ && $18~/[A-Za-z]/){print $18}' mag_papers_allcols/mag_papers_*.allcols.txt aminer_papers_allcols_excl/aminer_papers_*.allcols.excl.txt > all_keywords.txt #Exclude records that have null in keywords, are not in English, and have non-English characters and numbers.
+ sed -i 's/\"//g' all_keywords.txt  #remove quotes
+ tr "," "\n" < all_keywords.txt>tmp && mv tmp all_keywords.txt #put all keywords in newlines, one for each
+ awk '{a[$0]++} END{for (k in a) print a[k],k}' all_keywords.txt > count.txt #count frequency 
+ sort -r -n -k1 count.txt > tmp && mv tmp count.txt #sort them
+
+
+Extract keywords and compute frequency out of the 180 highest cited works: papers+patents all.
+ awk -F'qwqw' '$9!~/null/{print $9}' best_papers.txt |sed 's/\"//g'|tr ',' ' '|tr -s ' '|tr ' ' '\n' | awk '{a[$0]++} END{for(k in a) print a[k],k}' | sort -n -r -k1 > best_papers_keywords.txt 
+
+Generate a dot compatible ref-graph:
+awk -F'qwqw' 'BEGIN{print "graph{\n", "    rankdir=LR;"} $8!~/null/{$2="\""$2"\"";print "    ",$2,"--", "{",$8,"};"} END{print "}"}' best_papers.txt | tr ',' ' ' > ref_graph.dot
+
+Generate the graph:
+dot ref_graph.dot -obest_papers.svg -Tsvg
+
+Interesting Trivia:
+awk -F'qwqw' '$2~/[rR]amanujan/{print $2}' ../aminer_papers_allcols_excl/aminer_papers_*.allcols.excl.txt ../mag_papers_allcols/mag_papers_*.allcols.txt | wc -l
+3345
+
+There are 3345 papers that has Ramanujan word in their titles.
+
+#Papers with just one author:
+awk -F'qwqw' '$3==1{a++} END{print a}' aminer_papers_allcols_excl/aminer_papers_*.allcols.excl.txt mag_papers_allcols/mag_papers_*.allcols.txt
+107689674
+
+#Papers by country, may not be most accurate
+awk -f prob3.awk ../countries/countries.txt ../aminer_papers_allcols_excl/aminer_papers_*.allcols.excl.txt ../mag_papers_allcols/mag_papers_*.allcols.txt | sort -n -r -k 1 > papers_by_countries.txt
+
+I had to manually tweak about 20 aminer records where the year was in YY format. I changed it to YYYY format. It was mostly between 2012 and 2017
+
+Find top 10 trending words by year:
+awk -f code/prob4_p3.awk aminer_papers_allcols_excl/aminer_papers_*.allcols.excl.txt mag_papers_allcols/mag_papers_*.allcols.txt
+for i in 18?? 19?? 20??; do (grep -o -E '\w+' $i | tr [A-Z] [a-z]|sed -e 's/null//g' -e 's/^.$//g' -e 's/^..$//g' -e 's/^[0-9]*$//g' | awk NF | fgrep -v -w -f stop_words.txt |sort | uniq -c | sort -nr | head -10 > trending/trending.$i.txt) & done
+
+^^^ A good example of using many classical utilities and bash features in a single one-lines ^^^
+
+Useful awk set operations:
+https://github.com/sixarm/union
+https://github.com/sixarm/intersect
+https://github.com/sixarm/except
+https://github.com/sixarm/extra
+

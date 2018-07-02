@@ -1,0 +1,1194 @@
+469 Universidade Estadual Paulista
+290 Universidade de São Paulo
+224 Universidade Federal de Viçosa
+224 Universidade Federal de Minas Gerais
+218 Universidade Federal do Rio Grande do Sul
+175 Universidade Federal de Santa Maria
+141 Universidade Federal do Paraná
+132 Universidade Federal de Lavras
+126 Universidade Estadual de Maringá
+124 Universidade Federal Rural de Pernambuco
+112 Universidade Federal Rural do Rio de Janeiro
+98 Cornell University
+89 Universidad Nacional de Colombia
+88 The Rockefeller University
+88 Swedish University of Agricultural Sciences
+87 University of Florida
+86 Universidade Federal de Pelotas
+86 Indian Veterinary Research Institute
+85 Universidade Federal de São Carlos
+80 Universidade Federal de Uberlândia
+77 University of Washington
+77 Universidade Estadual de Campinas
+73 Universidad Nacional Autónoma de México
+71 Universidade Federal do Piauí
+69 University of Groningen
+67 Universidade Federal do Ceará
+65 Universidade Federal de Goiás
+64 Universidade Federal da Paraíba
+62 Universidade Estadual de Londrina
+62 Michigan State University
+61 Universidade Federal de Mato Grosso do Sul
+60 Purdue University
+59 Universidade Federal da Grande Dourados
+59 Universidade de Brasília
+57 Universidade Federal do Rio de Janeiro
+56 Oregon State University
+55 University of Illinois
+54 Universidade Federal de Pernambuco
+48 University of Pretoria
+48 University of Cape Town
+48 University of Cambridge
+48 Harvard University
+47 Universidade Federal do Pará
+47 Duke University
+46 Stanford University
+45 Universidade Federal Fluminense
+45 McGill University
+44 Université de Toulouse
+43 University of Georgia
+43 University of Aberdeen
+43 North Carolina State University
+41 University of KwaZulu-Natal
+41 University of Bristol
+40 Princeton University
+39 Massachusetts Institute of Technology
+38 University of Oxford
+37 University of Alberta
+37 Universidad de Chile
+37 Arizona State University
+37 Aarhus University
+36 Université de Bourgogne
+36 Deakin University
+35 University of Liverpool
+35 University of Jyväskylä
+35 Universidade Federal de Mato Grosso
+35 Universidad de Buenos Aires
+34 University of Toronto
+34 Universidade Estadual do Oeste do Paraná
+34 Freie Universität Berlin
+33 Wageningen University
+33 University of Kentucky
+33 University of Guelph
+33 University of Edinburgh
+32 University of Oslo
+31 University of the Free State
+31 Universidad de Antioquia
+30 Universität Bielefeld
+29 Universidade do Estado de Santa Catarina
+29 Queen's University
+28 University of Saskatchewan
+28 University of Auckland
+28 Universidad Austral de Chile
+27 University of Amsterdam
+27 Universidade Federal de Santa Catarina
+27 Universidade do Estado do Rio de Janeiro
+27 Makerere University
+26 Uppsala University
+26 University of Sydney
+26 University of British Columbia
+26 Universidade Federal da Bahia
+26 Texas Tech University
+26 Cardiff University
+25 Universidad de Caldas
+25 Nanjing Agricultural University
+25 King Saud University
+24 Western Michigan University
+24 University of Virginia
+24 University of East Anglia
+24 Universiti Putra Malaysia
+24 Universidade Estadual do Ceará
+24 Columbia University
+24 Colorado State University
+23 Washington State University
+23 University of South Florida
+23 Universidade de Lisboa
+23 Northwest A&F University
+23 Lund University
+23 Johns Hopkins University
+23 China Agricultural University
+22 University of New England
+22 Ruhr-Universität Bochum
+22 Oklahoma State University
+22 Northern Arizona University
+22 Central Queensland University
+21 University of Nottingham
+21 University of Chicago
+21 Universidad Autónoma del Estado de Hidalgo
+21 Texas A&M University
+21 Sichuan Agricultural University
+21 Norwegian University of Science and Technology
+21 Mississippi State University
+20 University of Tehran
+20 University of Iowa
+20 University of Iceland
+20 University of Glasgow
+20 Universidad de Los Lagos
+20 Bowling Green State University
+19 Utrecht University
+19 University of Western Ontario
+19 University of Pennsylvania
+19 University of Ibadan
+19 University of Exeter
+19 University of Arizona
+19 Universidad Nacional de Mar del Plata
+19 Universidad de Guadalajara
+19 Murdoch University
+19 Humboldt State University
+19 Ferdowsi University of Mashhad
+19 Carnegie Mellon University
+18 University of Waterloo
+18 University of Southern California
+18 University of Reading
+18 University of Hong Kong
+18 Universidade Federal do Espírito Santo
+18 Universidade Federal de Campina Grande
+18 Universidad Central de Venezuela
+18 St. Petersburg State University
+18 San Francisco State University
+18 Pontifícia Universidade Católica de Minas Gerais
+18 Leiden University
+18 Emory University
+18 Boston University
+18 Beloit College
+17 University of York
+17 University of Victoria
+17 University of Memphis
+17 University of Leeds
+17 University of Illinois at Urbana-Champaign
+17 Universidad Nacional del Comahue
+17 Technical University of Cluj-Napoca
+17 Queensland University of Technology
+17 McMaster University
+17 La Trobe University
+16 Zhejiang University
+16 Yale University
+16 Vrije Universiteit Brussel
+16 University of Utah
+16 University of Technology
+16 Universidade Estadual do Norte Fluminense
+16 Universidad Católica del Norte
+16 Ohio State University
+16 Northwestern University
+16 Moscow State University
+16 Aristotle University of Thessaloniki
+16 Ahmadu Bello University
+15 University of Texas at Austin
+15 University of Queensland
+15 University of North Carolina at Chapel Hill
+15 University of Melbourne
+15 University of Manchester
+15 Universidad Veracruzana
+15 Universidade Federal do Maranhão
+15 Universidad de Córdoba
+15 The College of Wooster
+15 Shantou University
+15 Auburn University
+14 Waseda University
+14 University of Oklahoma
+14 University of Lucknow
+14 Universidade Federal do Rio Grande do Norte
+14 Universidade Federal de Juiz de Fora
+14 Universidad Autónoma de Tlaxcala
+14 Simon Fraser University
+14 Imperial College London
+14 Georgia Institute of Technology
+14 Dalhousie University
+13 University of Miami
+13 University of Ljubljana
+13 University of Illinois at Chicago
+13 University of Delaware
+13 University of Calgary
+13 Universidade Federal de Alagoas
+13 Universidade Estadual de Santa Cruz
+13 Universidad de Magallanes
+13 Universidad Complutense de Madrid
+13 Universidad Autónoma de Baja California Sur
+13 Norwegian University of Life Sciences
+13 Michael Okpara University of Agriculture
+13 Instituto Politécnico Nacional
+13 Hebrew University of Jerusalem
+13 Australian National University
+12 Urmia University
+12 University of Stellenbosch
+12 University of Sheffield
+12 University of Montana
+12 University of Mississippi Medical Center
+12 University of Helsinki
+12 Université de Franche-Comté
+12 Universidad Peruana Cayetano Heredia
+12 Universidad Nacional de Córdoba
+12 Universidade do Vale do Itajaí
+12 Universidade do Porto
+12 Linköping University
+12 Charles Sturt University
+12 Carleton University
+12 California Institute of Technology
+12 Brown University
+11 York University
+11 University of Zagreb
+11 University of Wyoming
+11 University of Western Sydney
+11 University of Texas
+11 University of Pittsburgh
+11 University of Pisa
+11 University of Oulu
+11 University of Cincinnati
+11 Université du Québec à Montréal
+11 Universidad Nacional de La Plata
+11 Universidade Federal Rural do Semi-Árido
+11 Universidad Autónoma de Querétaro
+11 Tokai University
+11 Ege University
+11 AgroParisTech
+10 Villanova University
+10 University of Technology and Life Sciences
+10 University of Tasmania
+10 University of Southampton
+10 University of Ottawa
+10 University of New Hampshire
+10 University of Limpopo
+10 University of Idaho
+10 University of Basel
+10 Universidad Nacional de la Patagonia Austral
+10 Uludag University
+10 Florida Atlantic University
+9 Vytautas Magnus University
+9 Utah State University
+9 University of Warsaw
+9 University of Tromsø
+9 University of Tampere
+9 University of Padua
+9 University of New Mexico
+9 University of Florence
+9 Universidad Michoacana de San Nicolás de Hidalgo
+9 Universidad Juárez del Estado de Durango
+9 Universidade Estadual de Montes Claros
+9 Universidade Católica de Pelotas
+9 Universidad de la República
+9 Universidad de Granada
+9 Universidad de Antofagasta
+9 Universidad Autónoma de Nuevo León
+9 Tsinghua University
+9 Trent University
+9 Tarbiat Modares University
+9 South Dakota State University
+9 Shandong Agricultural University
+9 Novosibirsk State University
+9 Northeastern University
+9 Monash University
+9 Kansas State University
+9 Griffith University
+9 Drexel University
+9 Clemson University
+9 Charles Darwin University
+9 Agricultural University of Athens
+8 Wilfrid Laurier University
+8 Wayne State University
+8 University of Veterinary and Pharmaceutical Science
+8 University of Nigeria
+8 University of Manitoba
+8 University of Kansas
+8 University of Fort Hare
+8 University of Connecticut
+8 University of Central Lancashire
+8 University of Bath
+8 Université de Liège
+8 Universidad Nacional Mayor de San Marcos
+8 Universidad Nacional Federico Villarreal
+8 Universidade de Passo Fundo
+8 Universidad de La Laguna
+8 Universidad de Costa Rica
+8 Universidad CES
+8 Universidad Autónoma Metropolitana
+8 Universidad Autónoma de Guerrero
+8 Tufts University
+8 Tokyo University of Agriculture and Technology
+8 Sultan Qaboos University
+8 Memorial University of Newfoundland
+8 Medical College of Wisconsin
+8 Massey University
+8 Kent State University
+8 George Mason University
+8 Escuela Superior Politécnica del Litoral
+8 Delft University of Technology
+8 Bournemouth University
+8 Beijing Forestry University
+8 Bangladesh Agricultural University
+8 Addis Ababa University
+8 Acadia University
+7 Yangzhou University
+7 Wichita State University
+7 University of Warwick
+7 University of Southern Mississippi
+7 University of South Carolina
+7 University of Rhode Island
+7 University of Plymouth
+7 University of Patras
+7 University of North Carolina at Greensboro
+7 University of New South Wales
+7 University of Lethbridge
+7 University of Kurdistan
+7 University College Dublin
+7 Université Jean Monnet
+7 Universidad Nacional de Río Cuarto
+7 Universidad Nacional
+7 Universidade Luterana do Brasil
+7 Universidade Federal do Acre
+7 Universidade Estadual do Centro-Oeste
+7 Universidad del Mar
+7 Universidad Autónoma de Tamaulipas
+7 Texas Christian University
+7 Technische Universität München
+7 San Diego State University
+7 Pontifícia Universidade Católica do Rio Grande do Sul
+7 Oxford Brookes University
+7 Kochi University
+7 Keio University
+7 Isfahan University of Technology
+7 Hunan University
+7 Hasselt University
+7 Emmanuel College
+7 Central Michigan University
+7 Baylor College of Medicine
+7 Agricultural University of Georgia
+6 University of Wisconsin - Madison
+6 University of Sussex
+6 University of South Bohemia
+6 University of Rochester
+6 University of Peradeniya
+6 University of Mississippi
+6 University of Maribor
+6 University of Joensuu
+6 University of Geneva
+6 University of Electro-Communications
+6 University of Denver
+6 Universiti Malaysia Perlis
+6 Universidad Pedagógica y Tecnológica de Colombia
+6 Universidade Federal de Sergipe
+6 Universidade Federal de São Paulo
+6 Universidade Estadual de Feira de Santana
+6 Universidade de Vila Velha
+6 Universidade de Taubaté
+6 Universidade da Madeira
+6 Universidad Autónoma de Nayarit
+6 Universidad Autónoma de Ciudad Juárez
+6 Towson University
+6 Technische Universität Darmstadt
+6 Technical University of Denmark
+6 Szent István University
+6 Spiru Haret University
+6 Slovak University of Agriculture in Nitra
+6 Sichuan University
+6 Shiraz University
+6 Sharif University of Technology
+6 Rhodes University
+6 Radford University
+6 Punjab Agricultural University
+6 Pennsylvania State University
+6 Northern Illinois University
+6 North Dakota State University
+6 National Taiwan University of Science and Technology
+6 Kyoto University
+6 Konkuk University
+6 International Medical University
+6 Inner Mongolia Agricultural University
+6 Govind Ballabh Pant University of Agriculture and Technology
+6 Florida State University
+6 Florida International University
+6 Assam Agricultural University
+5 Xiangtan University
+5 Worcester Polytechnic Institute
+5 West Virginia University
+5 Voronezh State University
+5 Vilnius University
+5 University of Turku
+5 University of St. Andrews
+5 University of Sassari
+5 University of Portland
+5 University of Pavia
+5 University of Novi Sad
+5 University of North Texas
+5 University of New Brunswick
+5 University of Education
+5 University of Birmingham
+5 University College Cork
+5 Universiti Malaysia Sabah
+5 Université du Québec en Abitibi-Témiscamingue
+5 Université du Québec à Rimouski
+5 Université Catholique de Louvain
+5 Universitat de Lleida
+5 Universidad Mayor de San Andrés
+5 Universidad Juárez Autónoma de Tabasco
+5 Universidade Metropolitana de Santos
+5 Universidade Federal do Amapá
+5 Universidade Estadual do Maranhão
+5 Universidade Camilo Castelo Branco
+5 Universidad del Zulia
+5 Universidad de Extremadura
+5 Universidad Autónoma del Estado de Morelos
+5 Universidad Autónoma del Estado de México
+5 St. Francis Xavier University
+5 South China Normal University
+5 Shizuoka University
+5 Seoul National University
+5 Rhodes College
+5 Pomona College
+5 Old Dominion University
+5 Obihiro University of Agriculture and Veterinary Medicine
+5 Northeast Agricultural University
+5 National University of Singapore
+5 National University
+5 Nanyang Technological University
+5 Marmara University
+5 Lanzhou University
+5 King's College
+5 Katholieke Universiteit Leuven
+5 Istanbul Technical University
+5 Indiana State University
+5 Harvey Mudd College
+5 Hacettepe University
+5 Georgia Southern University
+5 Fudan University
+5 Fred Hutchinson Cancer Research Center
+5 Dogus University
+5 Dartmouth College
+5 Bryn Mawr College
+5 Alaska Pacific University
+5 Aegean University
+4 Vassar College
+4 University of Wollongong
+4 University of Windsor
+4 University of Western Australia
+4 University of Wales
+4 University of Turin
+4 University of Tartu
+4 University of Surrey
+4 University of Stirling
+4 University of Siena
+4 University of Ruhuna
+4 University of Oregon
+4 University of Lincoln
+4 University of Kashmir
+4 University of Guam
+4 University of Gdansk
+4 University of Ferrara
+4 University of Durham
+4 University of Canterbury
+4 University of Bologna
+4 University of Adelaide
+4 Université François Rabelais de Tours
+4 Université de Tunis El Manar
+4 Université des Antilles et de la Guyane
+4 Université de Montréal
+4 Universidad Politécnica de Madrid
+4 Universidad Nacional de Luján
+4 Universidade Federal de Ouro Preto
+4 Universidade Estadual do Piauí
+4 Universidade do Oeste Paulista
+4 Universidad de Santiago de Chile
+4 Universidad de Oriente
+4 Universidad de Manizales
+4 Universidad de Málaga
+4 Universidad de Granma
+4 Universidad Central del Caribe
+4 Toyama Prefectural University
+4 Tongji University
+4 Tokyo Institute of Technology
+4 Technische Universität Berlin
+4 Syracuse University
+4 St. Petersburg State Polytechnical University
+4 St. Bonaventure University
+4 State University of New York College of Environmental Science and Forestry
+4 Shiraz University of Technology
+4 Reed College
+4 Pontificia Universidad Católica del Ecuador
+4 Ohio University
+4 Montana State University
+4 Middle East Technical University
+4 Manonmaniam Sundaranar University
+4 Lincoln University
+4 Kerala Agricultural University
+4 Kalamazoo College
+4 Iwate University
+4 Institut Teknologi Bandung
+4 Illinois Wesleyan University
+4 Hawaii Pacific University
+4 Hampshire College
+4 Göteborg University
+4 Estonian University of Life Sciences
+4 East China Normal University
+4 East Carolina University
+4 Dankook University
+4 Damascus University
+4 Dalian University of Technology
+4 Chungnam National University
+4 Chalmers University of Technology
+4 Brigham Young University
+4 Balikesir University
+4 Auckland University of Technology
+4 Anglia Ruskin University
+4 American University of Beirut
+4 Al-Farabi Kazakh National University
+4 Albright College
+4 Air Force Institute of Technology
+4 Agricultural University of Norway
+4 Afyon Kocatepe University
+4 Aalborg University
+3 Wesleyan University
+3 Wake Forest University
+3 Victoria University of Wellington
+3 Vanderbilt University
+3 Usmanu Danfodiyo University Sokoto
+3 University of Waikato
+3 University of Veterinary Science
+3 University of Urbino
+3 University of Twente
+3 University of Trieste
+3 University of Toledo
+3 University of Texas M.D. Anderson Cancer Center
+3 University of Texas at San Antonio
+3 University of Science and Technology of China
+3 University of Sarajevo
+3 University of Regina
+3 University of Newcastle
+3 University of Naples Federico II
+3 University of Maryland Baltimore County
+3 University of Lodz
+3 University of Ioannina
+3 University of Hull
+3 University of Fribourg
+3 University of East London
+3 University of Aizu
+3 Université de Pau et des Pays de l'Adour
+3 Université de Nantes
+3 Universität Rostock
+3 Universität Regensburg
+3 Universitat de Barcelona
+3 Universidad Santo Tomás
+3 Universidad Nacional de La Pampa
+3 Universidad Nacional Agraria La Molina
+3 Universidade Regional do Cariri
+3 Universidade Regional de Blumenau
+3 Universidade de Marília
+3 Universidad de Zaragoza
+3 Universidad de Sevilla
+3 Universidad del Tolima
+3 Universidad del Quindío
+3 Universidad de Los Andes
+3 Universidad del Azuay
+3 Universidad de Alicante
+3 Universidad Cooperativa de Colombia
+3 Universidad Autónoma de Yucatán
+3 Universidad Autónoma de Madrid
+3 UNESCO-IHE Institute for Water Education
+3 Tomsk State University
+3 Tokyo Metropolitan University
+3 Tehran University of Medical Sciences
+3 Tampere University of Technology
+3 State University of New York at Stony Brook
+3 State University of New York at Buffalo
+3 Southwest Missouri State University
+3 Southwest Forestry University
+3 Southern Oregon University
+3 Sokoine University of Agriculture
+3 Smith College
+3 Singapore Management University
+3 Shibaura Institute of Technology
+3 Shanghai Jiaotong University
+3 Shahid Bahonar University of Kerman
+3 School of Management
+3 Salisbury State University
+3 Royal Roads University
+3 Royal Military College of Canada
+3 Razi University
+3 Poznan University of Life Sciences
+3 Oakland University
+3 Nottingham Trent University
+3 Norwegian College of Veterinary Medicine
+3 Nelson Mandela Metropolitan University
+3 National University of Science and Technology
+3 National Taiwan University
+3 National Ilan University
+3 National Dairy Research Institute
+3 Nanjing Forestry University
+3 Mustafa Kemal University
+3 Mount Holyoke College
+3 Middlesex University
+3 London Business School
+3 Loma Linda University
+3 Lillehammer University College
+3 Liaoning Technical University
+3 Kyushu Institute of Technology
+3 King Mongkut's University of Technology Thonburi
+3 Khon Kaen University
+3 Keele University
+3 Kazan State University
+3 Kafkas University
+3 Jahangirnagar University
+3 Jadavpur University
+3 Istanbul University
+3 Imperial College School of Medicine
+3 Hiroshima University
+3 Harran University
+3 Hampton University
+3 Hainan Normal University
+3 Gifu University
+3 Georgia State University
+3 Fujita Health University
+3 Fordham University
+3 Emporia State University
+3 Ecole Centrale de Lyon
+3 Eastern Illinois University
+3 Coventry University
+3 Colorado College
+3 College of William and Mary
+3 College of Management
+3 College of Charleston
+3 City University
+3 Carl von Ossietzky Universität Oldenburg
+3 Bucknell University
+3 Brock University
+3 Bogor Agricultural University
+3 Beijing Normal University
+3 Bangabandhu Sheikh Mujibur Rahman Agricultural University
+3 Banaras Hindu University
+3 Assiut University
+3 American University
+3 Altai State University
+3 Air University
+3 Agricultural University of Wroclaw
+2 Zhejiang Normal University
+2 Yugra State University
+2 Wollo University
+2 Willamette University
+2 Western Illinois University
+2 West Bengal University of Animal and Fishery Sciences
+2 Warren Wilson College
+2 Virginia State University
+2 Vilnius Pedagogical University
+2 Vietnam National University of Agriculture
+2 Valparaiso University
+2 University of Zimbabwe
+2 University of Worcester
+2 University of Wolverhampton
+2 University of Ulster
+2 University of Udine
+2 University of Trnava
+2 University of the Sunshine Coast
+2 University of Thessaly
+2 University of Texas at El Paso
+2 University of Technology Sydney
+2 University of Southern Denmark
+2 University of South Australia
+2 University of Sharjah
+2 University of Richmond
+2 University of Perugia
+2 University of Parma
+2 University of Palermo
+2 University of Otago
+2 University of Notre Dame
+2 University of Northern British Columbia
+2 University of Milan
+2 University of Maryland Eastern Shore
+2 University of London
+2 University of Hertfordshire
+2 University of Connecticut Health Center
+2 University of Central Oklahoma
+2 University of Central Florida
+2 University of Bucharest
+2 University of Bergen
+2 University of Baghdad
+2 University of Applied Sciences
+2 University of Applied Science and Technology
+2 University Malaysia Pahang
+2 Universiti Sains Malaysia
+2 Université Laval
+2 Université de Poitiers
+2 Université de Nice-Sophia Antipolis
+2 Université de la Polynésie Française
+2 Universität Ulm
+2 Universität Leipzig
+2 Universität Köln
+2 Universität Kassel
+2 Universität Hohenheim
+2 Universität des Saarlandes
+2 Universitas Tadulako
+2 Universidad Santiago de Cali
+2 Universidad Politécnica de Valencia
+2 Universidad Nacional de Tucumán
+2 Universidad Nacional del Sur
+2 Universidad Francisco de Vitoria
+2 Universidade Paulista
+2 Universidade Nova de Lisboa
+2 Universidade Federal do Vale do São Francisco
+2 Universidade Federal de Roraima
+2 Universidade Estadual da Paraíba
+2 Universidade do Sul de Santa Catarina
+2 Universidade do Oeste de Santa Catarina
+2 Universidade do Grande Rio
+2 Universidade de Santo Amaro
+2 Universidade de Aveiro
+2 Universidad de Sonora
+2 Universidad de Puerto Rico
+2 Universidad del Salvador
+2 Universidad de Los Llanos
+2 Universidad de La Salle
+2 Universidad de La Rioja
+2 Universidad de La Habana
+2 Universidad de Carabobo
+2 Universidad Blas Pascal
+2 Universidad Autónoma de Sinaloa
+2 Universidad Autónoma de Entre Ríos
+2 Universidad Autónoma de Baja California
+2 United States Naval Academy
+2 Tshwane University of Technology
+2 Tokyo University of Fisheries
+2 Toho University
+2 Tilburg University
+2 Tierärztliche Hochschule Hannover
+2 Technische Universität Dresden
+2 Technical University of Lodz
+2 Tanta University
+2 Tallinn University
+2 Stockholm University
+2 St. Luke's College
+2 St. Lawrence University
+2 Southeast Missouri State University
+2 Selcuk University
+2 Sejong University
+2 Sathyabama University
+2 Royal Veterinary and Agricultural University
+2 Roskilde University
+2 Rose-Hulman Institute of Technology
+2 Queens College
+2 Pukyong National University
+2 Providence College
+2 Portland State University
+2 Pontificia Universidad Catolica de Chile
+2 Pacific Graduate School of Psychology
+2 Open University
+2 Northwest Missouri State University
+2 New York University
+2 New York Institute of Technology
+2 New Mexico State University
+2 New England College of Optometry
+2 National University of Uzbekistan
+2 National Chiayi University
+2 Nanjing University of Aeronautics and Astronautics
+2 Nagoya University
+2 Murray State University
+2 Montana Tech
+2 Middlebury College
+2 Medical University Plovdiv
+2 Medaille College
+2 Masaryk University
+2 Mahidol University
+2 Ludwig-Maximilians-Universität München
+2 London Metropolitan University
+2 Lawrence University
+2 Lake Superior State University
+2 Kyunghee University
+2 Korea University
+2 Kogi State University
+2 Kitasato University
+2 King Faisal University
+2 Kennesaw State University
+2 Karadeniz Technical University
+2 Kanagawa University
+2 Jomo Kenyatta University of Agriculture and Technology
+2 Jinan University
+2 Jilin University
+2 Jilin Agricultural University
+2 Jiangxi Normal University
+2 International Islamic University
+2 Institute of Science and Technology
+2 Indian Institute of Science
+2 Illinois Institute of Technology
+2 Idaho State University
+2 Huaihai Institute of Technology
+2 Hope College
+2 Hong Kong University of Science and Technology
+2 Hokkaido University
+2 Hamilton College
+2 Gulhane Military Medical Academy
+2 Guangxi University
+2 Grove City College
+2 Grinnell College
+2 Graduate University for Advanced Studies
+2 Gifu Pharmaceutical University
+2 Georgia Health Sciences University
+2 George Washington University
+2 Fukushima University
+2 Franklin and Marshall College
+2 Florida Institute of Technology
+2 Faculté Universitaire des Sciences Agronomiques de Gembloux
+2 Facultés Universitaires Notre-Dame de la Paix
+2 Fachhochschule Bingen
+2 Erasmus University Rotterdam
+2 Ekiti State University
+2 Eindhoven University of Technology
+2 Egerton University
+2 Ecole Polytechnique Universitaire de Lille
+2 Ecole Nationale Supérieure Agronomique de Toulouse
+2 Eberhard-Karls-Universität Tübingen
+2 Eastern Virginia Medical School
+2 Eastern Kentucky University
+2 Eastern Connecticut State University
+2 Davao Doctors College
+2 Creighton University
+2 Cranfield University
+2 Claremont McKenna College
+2 Chulalongkorn University
+2 Central Institute of Fisheries Education
+2 CCS Haryana Agricultural University
+2 Cardinal Stefan Wyszynski University in Warsaw
+2 Capital Normal University
+2 Cape Peninsula University of Technology
+2 Capella University
+2 Bowdoin College
+2 Botswana College of Agriculture
+2 Boise State University
+2 Benson Idahosa University
+2 Benha University
+2 Ben-Gurion University of the Negev
+2 Beirut Arab University
+2 Bard College
+2 Babson College
+2 Aligarh Muslim University
+2 Albert-Ludwigs-Universität Freiburg
+2 Akita University
+2 Akdeniz University
+2 Academy of Fine Arts
+1 Zhongshan University
+1 Yunnan Agriculture University
+1 Yokohama National University
+1 Yokohama City University
+1 Yerevan State University
+1 Yeditepe University
+1 Yarmouk University
+1 Yamaguchi University
+1 Wuhan University
+1 Wright State University
+1 Winston-Salem State University
+1 Winona State University
+1 Wellesley College
+1 Washington University in St. Louis
+1 Washington and Lee University
+1 Voronezh State Pedagogical University
+1 Vermont Law School
+1 Utica College
+1 University of Zambia
+1 University of Witwatersrand
+1 University of Winnipeg
+1 University of West Alabama
+1 University of Vermont
+1 University of Tripoli
+1 University of Trento
+1 University of the Sciences in Philadelphia
+1 University of the Ryukyus
+1 University of Texas Health Science Center at San Antonio
+1 University of Southern Queensland
+1 University of Southern Maine
+1 University of South Alabama
+1 University of South Africa
+1 University of San Diego
+1 University of Salerno
+1 University of Prince Edward Island
+1 University of Primorska
+1 University of Oradea
+1 University of North Dakota
+1 University of North Carolina at Wilmington
+1 University of North Carolina at Charlotte
+1 University of Northampton
+1 University of New Orleans
+1 University of Neuchatel
+1 University of Namibia
+1 University of Molise
+1 University of Miskolc
+1 University of Louisville
+1 University of Louisiana at Lafayette
+1 University of Limerick
+1 University of Liberal Arts
+1 University of Karachi
+1 University of Jos
+1 University of Insubria
+1 University of Information Technology and Management in Rzeszow
+1 University of Ilorin
+1 University of Houston
+1 University of Haifa
+1 University of Greenwich
+1 University of Electronic Science and Technology of China
+1 University of Dundee
+1 University of Cyprus
+1 University of Crete
+1 University of Calabria
+1 University of Calabar
+1 University of Bradford
+1 University of Benin
+1 University of Belgrade
+1 University of Baltimore
+1 University of Balochistan
+1 Universiti Kuala Lumpur
+1 Université du Québec à Chicoutimi
+1 Université du Maine
+1 Université de N'Djamena
+1 Université de Bretagne Sud
+1 Université d'Artois
+1 Université Chouaib Doukkali
+1 Université Cheikh Anta Diop
+1 Université Bordeaux I
+1 Universitat Pompeu Fabra
+1 Universität Konstanz
+1 Universität Kaiserslautern
+1 Universität Hamburg
+1 Universitat de les Illes Balears
+1 Universitas Bengkulu
+1 Universidad Tecnológica de Pereira
+1 Universidad San Sebastian
+1 Universidad San Francisco de Quito
+1 Universidad Ricardo Palma
+1 Universidad Rey Juan Carlos
+1 Universidad Pontificia Bolivariana
+1 Universidad Pedagógica Nacional
+1 Universidad Pablo de Olavide
+1 Universidad Nacional del Nordeste
+1 Universidad Nacional de Entre Ríos
+1 Universidad Nacional de Educación a Distancia
+1 Universidade São Marcos
+1 Universidade Regional Integrada do Alto Uruguai e das Missões
+1 Universidade Estadual do Vale do Acaraú
+1 Universidade Eduardo Mondlane
+1 Universidade de Santa Cruz do Sul
+1 Universidade de Franca
+1 Universidade de Cruz Alta
+1 Universidade de Coimbra
+1 Universidade de Caxias do Sul
+1 Universidade Católica Dom Bosco
+1 Universidad Diego Portales
+1 Universidad de Valencia
+1 Universidad de Talca
+1 Universidad de San Carlos de Guatemala
+1 Universidad de Panamá
+1 Universidad de Occidente
+1 Universidad del País Vasco
+1 Universidad del Desarrollo
+1 Universidad de La Serena
+1 Universidad de las Américas
+1 Universidad de La Frontera
+1 Universidad de Colima
+1 Universidad de Castilla La Mancha
+1 Universidad Católica de Valencia
+1 Universidad Autónoma de San Luis Potosí
+1 Universidad Autónoma de Guadalajara
+1 United States Military Academy
+1 Umea University
+1 Tyumen State University
+1 Tver State University
+1 Tunghai University
+1 Tsukuba University
+1 Trinity Western University
+1 Trinity Christian College
+1 Trakya University
+1 Tottori University
+1 Tomsk Polytechnic University
+1 Tomas Bata University in Zlin
+1 Tokyo Woman's Christian University
+1 Tokyo University of Information Sciences
+1 Tokyo University of Agriculture
+1 Tokyo University
+1 Tohoku University
+1 The College of New Jersey
+1 Texas A&M International University
+1 Temple University
+1 Technische Universität Ilmenau
+1 Technical University of Liberec
+1 Technical University of Crete
+1 Tata Institute of Social Sciences
+1 Tamkang University
+1 Tamil Nadu Veterinary and Animal Sciences University
+1 Tamil Nadu Agricultural University
+1 Tallinn University of Technology
+1 Sylhet Agricultural University
+1 Swarthmore College
+1 Surgut State University
+1 Suez Canal University
+1 St. Peter's College
+1 Stevens Institute of Technology
+1 St. Cloud State University
+1 Stavropol State University
+1 State University of New York at Albany
+1 Southern Methodist University
+1 Southern Cross University
+1 South Dakota School of Mines and Technology
+1 South China Agricultural University
+1 South Bank University
+1 Sohag University
+1 Södertörn University College
+1 Slippery Rock University
+1 Showa University
+1 Sheridan College
+1 Shanxi University
+1 Shanghai Ocean University
+1 Scripps College
+1 Saratov State University
+1 San Jose State University
+1 Saga University
+1 Rowan University
+1 Roosevelt University
+1 Ritsumeikan University
+1 Richard Stockton College of New Jersey
+1 Rice University
+1 Regent University
+1 Ramapo College of New Jersey
+1 Qingdao University
+1 Providence University
+1 Presidency University
+1 Pontificia Universidad Javeriana
+1 Polytechnic of Namibia
+1 Petrozavodsk State University
+1 Pepperdine University
+1 Peking University
+1 Pamukkale University
+1 Pacific University
+1 Ozyegin University
+1 Osaka University
+1 Oregon Health Sciences University
+1 Örebro University
+1 Open University of Tanzania
+1 Open University of Cyprus
+1 Omsk State Pedagogical University
+1 Ohio Wesleyan University
+1 Oberlin College
+1 Nova Scotia Agricultural College
+1 Northern Virginia Community College
+1 Northern Kentucky University
+1 North Carolina Agricultural and Technical State University
+1 Ningbo University
+1 Nebraska Wesleyan University
+1 National University of Ireland
+1 National Taiwan Ocean University
+1 National Taiwan Normal University
+1 National Pingtung University of Science and Technology
+1 National Institute of Education
+1 National Defense University
+1 Nara Women's University
+1 Nanjing Normal University
+1 Namik Kemal University
+1 Nagano University
+1 Murmansk State Technical University
+1 Morehouse School of Medicine
+1 Moldova State University
+1 Miyazaki Medical College
+1 Milwaukee School of Engineering
+1 Millikin University
+1 Midwestern University
+1 Metropolitan State College of Denver
+1 Medical University of South Carolina
+1 McNeese State University
+1 Masinde Muliro University of Science and Technology
+1 Mars Hill College
+1 Marshall University
+1 Mansoura University
+1 Macquarie University
+1 Macalester College
+1 Loyola University of Chicago
+1 Lebanese University
+1 La Sierra University
+1 Ladoke Akintola University of Technology
+1 Kyungpook National University
+1 Kyoto Seika University
+1 Kyoto Sangyo University
+1 Kyoto Prefectural University of Medicine
+1 Kirikkale University
+1 Karlstad University
+1 Kadir Has University
+1 Jimma University
+1 Jiangxi Agricultural University
+1 Jawaharlal Nehru Technological University
+1 James Madison University
+1 Ivanovo State University
+1 International University in Geneva
+1 Instituto Tecnológico de Costa Rica
+1 Illinois State University
+1 Hubei University
+1 Huazhong University of Science and Technology
+1  Huaihua University
+1 Howard University
+1 Hong Kong Baptist University
+1 Hokkaido Tokai University
+1 Hobart and William Smith Colleges
+1 Hefei University of Technology
+1 Hazara University
+1 Harbin Institute of Technology
+1 Gustavus Adolphus College
+1 Gurukula Kangri University
+1 Guangzhou University of Traditional Chinese Medicine
+1 Guangxi University for Nationalities
+1 Grand Valley State University
+1 Goshen College
+1 Gorno-Altaisk State University
+1 Gorgan University of Agricultural Sciences and Natural Resources
+1 Gordon College
+1 Gonzaga University
+1 Glasgow Caledonian University
+1 George Fox University
+1 Francis Marion University
+1 Foshan University
+1 Facultés Universitaires Saint-Louis
+1 Fachhochschule Münster
+1 Evergreen State College
+1 Erciyes University
+1 Enugu State University of Science and Technology
+1 Ecole Nationale Vétérinaire de Nantes
+1 Ecole Nationale Supérieure de Chimie de Montpellier
+1 Eckerd College
+1 East Tennessee State University
+1 Eastern Michigan University
+1 Eastern Mediterranean University
+1 Dumlupinar University
+1 Dowling College
+1 Douglas College
+1  Dedan Kimathi University of Technology
+1 Concordia University
+1 Colgate University
+1 Cleveland State University
+1 Clarkson University
+1 City University of Hong Kong
+1 Chung Hua University
+1 Chongqing Medical University
+1 Chonbuk National University
+1 Chinese University of Hong Kong
+1 Chicago State University
+1 Chiba University
+1 Central Methodist College
+1 Central Agricultural University
+1 Catholic University of Eastern Africa
+1 Case Western Reserve University
+1 Carthage College
+1 Canisius College
+1 Bundelkhand University
+1 Brigham Young University Hawaii
+1 Brandon University
+1 Boston College
+1 Birmingham City University
+1 Birla Institute of Technology and Science
+1 Baylor University
+1 Bates College
+1 Ball State University
+1 Azerbaijan Technical University
+1 Ateneo de Davao University
+1 Atatürk University
+1 Aston University
+1 Anna University
+1 Ankara University
+1 Anhui University
+1 Andrews University
+1 American University in Cairo
+1 Ambrose Alli University
+1 Albion College
+1 Akademia Podlaska
+1 Ahi Evran University
+1 Afe Babalola University
+1 Adnan Menderes University
+1 Abant Izzet Baysal University

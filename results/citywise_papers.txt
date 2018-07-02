@@ -1,0 +1,1951 @@
+32065 London
+22675 Cambridge
+16076 Tsukuba
+15823 Toronto
+15676 Los Angeles
+9849 Manchester
+9781 Oxford
+8848 Sydney
+8693 Barcelona
+8316 Hitachi
+7745 Ottawa
+7620 Vancouver
+7422 Heidelberg
+6735 München
+6628 Glasgow
+6425 Nagoya
+6412 Sendai
+6221 Novosibirsk
+5949 Melbourne
+5798 Hamburg
+5790 Edmonton
+5521 Aachen
+5441 Dresden
+5313 Lausanne
+5307 Zürich
+5104 Bristol
+4967 Liverpool
+4915 Montréal
+4826 Nottingham
+4764 Brisbane
+4757 Rio de Janeiro
+4536 Kyoto
+4498 Suita
+4432 Mainz
+4297 Osaka
+4215 Hamilton
+4170 Stuttgart
+4023 Sheffield
+3797 Göttingen
+3665 Marseille
+3654 Southampton
+3640 Victoria
+3506 Nijmegen
+3404 Karlsruhe
+3358 Fukuoka
+3253 Bonn
+3211 Clermont-Ferrand
+3158 Calgary
+3092 Bologna
+3091 Jena
+3059 Sapporo
+2979 Utrecht
+2902 Lincoln
+2877 Leipzig
+2869 Winnipeg
+2784 Strasbourg
+2775 Kingston
+2741 Santa Cruz
+2664 Perth
+2639 Trieste
+2608 Bochum
+2597 Grenoble
+2533 Yokohama
+2533 Villeurbanne
+2499 Adelaide
+2495 Bangalore
+2467 Valencia
+2460 Québec
+2313 Milano
+2285 Hannover
+2245 Chandigarh
+2215 Dortmund
+2214 Hyderabad
+2192 Darmstadt
+2090 Leiden
+2045 Chiba
+2022 Uppsala
+2003 York
+1984 Halifax
+1982 Erlangen
+1974 Groningen
+1956 Eindhoven
+1842 Köln
+1835 Kiel
+1834 Toulouse
+1794 Santiago
+1779 Lyon
+1740 Wiesbaden
+1732 Sao Paulo
+1708 Pune
+1694 Auckland
+1648 Kobe
+1593 Niigata
+1589 Norwich
+1557 Saskatoon
+1528 Braunschweig
+1513 Montpellier
+1508 Rostock
+1494 Innsbruck
+1490 Ferrara
+1486 Leicester
+1455 Rotterdam
+1445 Graz
+1426 Würzburg
+1423 Potsdam
+1389 Torino
+1388 Ibaraki
+1362 Düsseldorf
+1355 Catania
+1346 Porto Alegre
+1341 Haifa
+1339 Siegen
+1321 Toyonaka
+1314 Okayama
+1305 Padova
+1286 Kashiwa
+1275 Göteborg
+1263 Cork
+1227 Campinas
+1218 Bari
+1185 Crawley
+1159 Zaragoza
+1159 Enschede
+1142 Exeter
+1115 Oviedo
+1110 Aberdeen
+1106 St. Petersburg
+1092 Nara
+1081 Wuppertal
+1081 Bergen
+1075 Essen
+1071 Matsumoto
+1066 Saitama
+1066 Kawaguchi
+1058 Halle
+1058 Granada
+1010 Frankfurt am Main
+1001 Bremen
+997 Porto
+996 Toledo
+983 Incheon
+979 Geelong
+970 Freiburg im Breisgau
+967 Sakai
+953 Espoo
+939 Ulsan
+930 Guelph
+885 Nantes
+878 Rennes
+877 Belo Horizonte
+876 Sherbrooke
+858 Ulm
+850 Tarragona
+844 Akita
+836 Lucknow
+823 Hiroshima
+807 Bordeaux
+803 Firenze
+801 Parma
+793 Windsor
+786 Palermo
+773 Fife
+768 Regensburg
+764 Saga
+763 Napoli
+748 Lille
+746 Yamaguchi
+740 Bielefeld
+738 Johannesburg
+723 Hirosaki
+718 Higashihiroshima
+714 Dunedin
+711 Ikeda
+710 Trondheim
+707 Rehovot
+705 Genova
+704 Tabriz
+701 Santander
+681 Córdoba
+678 Nagasaki
+677 Kumamoto
+671 Hobart
+670 Hachioji
+664 Genève
+657 Delhi
+635 Toyama
+630 Messina
+628 Maastricht
+623 Newcastle
+623 Bilbao
+622 Varanasi
+616 Kanpur
+614 Okazaki
+611 Saarbrücken
+609 Kagoshima
+607 Christchurch
+605 Kazan
+605 Gifu
+599 Dundee
+594 Kanazawa
+590 Murcia
+583 Brno
+568 Szeged
+559 Umeå
+559 Sevilla
+556 Shiraz
+551 Santa Maria
+548 Mannheim
+546 Turku
+545 Hassan
+542 Magdeburg
+542 Fuchu
+541 Verona
+537 Alexandria
+533 Koganei
+524 Tokushima
+524 Plymouth
+523 Kharagpur
+523 Debrecen
+521 Shizuoka
+519 Kitakyushu
+507 Ikoma
+506 Santos
+506 Nancy
+501 Alicante
+499 Tomsk
+495 Ueda
+494 Portsmouth
+487 Tampere
+470 Guwahati
+466 Indore
+463 San Juan
+454 Florianópolis
+450 Kawasaki
+446 Angers
+444 Caen
+436 Dijon
+435 Curitiba
+434 Sagamihara
+432 Vigo
+428 Swansea
+428 Pereira
+426 Santa Clara
+426 Matsuyama
+426 Fukushima
+426 Bhubaneswar
+425 Wroclaw
+425 Townsville
+424 Modena
+424 Fukui
+422 Takamatsu
+421 Bhavnagar
+420 Valladolid
+419 Regina
+419 Malmö
+410 Uji
+410 Ramat Gan
+405 Zanjan
+403 Thiruvananthapuram
+400 Mülheim an der Ruhr
+400 Linz
+398 Tsu
+397 Noda
+393 Cluj-Napoca
+392 Lahore
+388 Poznan
+388 La Plata
+385 Chofu
+385 Amritsar
+380 St. John's
+379 Yamagata
+377 Kharkov
+374 Kashan
+372 Salvador
+371 Chemnitz
+371 Brescia
+369 Novara
+366 Oldenburg
+366 Milton Keynes
+366 Mashhad
+365 Linköping
+361 Nagano
+358 Yao
+356 Oulu
+353 Preston
+352 Warrington
+350 Miyazaki
+349 Hamamatsu
+348 Vellore
+346 Kochi
+338 Jaipur
+335 Tochigi
+335 Kurume
+322 Salem
+321 Nizhny Novgorod
+321 Kofu
+320 Bhopal
+319 Funabashi
+317 Kassel
+316 Odense
+310 Wakayama
+310 Shibata
+308 Maebashi
+304 Kraków
+300 Recife
+297 Ancona
+295 Fortaleza
+295 Cagliari
+293 Giza
+292 Araraquara
+292 Amiens
+290 Duisburg
+289 Allahabad
+286 Karachi
+285 Málaga
+283 Nagaoka
+282 Yokosuka
+282 The Hague
+280 Ahmedabad
+279 Reims
+279 Higashiosaka
+278 Sanda
+276 Aligarh
+273 Coimbatore
+271 Salzburg
+271 Nice
+271 Kasuga
+269 Saint John
+267 Trento
+267 Izumo
+263 Rouen
+263 Iasi
+261 Oita
+259 Yazd
+258 Jammu
+256 Nishinomiya
+253 Ube
+252 Sassari
+249 Durban
+246 Metz
+246 Fribourg
+245 Pamplona
+245 Hiratsuka
+242 Krasnoyarsk
+241 Paderborn
+241 Brest
+240 Morioka
+240 Lübeck
+240 Kermanshah
+239 Tartu
+238 Salamanca
+238 Niterói
+237 Ekaterinburg
+235 Yonago
+235 Mito
+231 Mitaka
+229 Anand
+227 Tottori
+227 Otsu
+226 Toyohashi
+225 Tel Aviv-Yafo
+225 Aomori
+223 Kiryu
+222 Goiânia
+218 Peterborough
+216 Mysore
+212 Roorkee
+212 Konya
+212 Cuernavaca
+211 Monterrey
+208 Augsburg
+207 Irkutsk
+206 Pondicherry
+206 A Coruña
+205 Erzurum
+204 Kerman
+202 Tokorozawa
+202 Kolhapur
+202 Almería
+200 Shimada
+199 Colombo
+198 Tours
+197 Medellín
+195 Pelotas
+193 Venezia
+189 HAMILTON
+187 Namur
+187 Juiz de Fora
+186 Sano
+185 Kosice
+181 Salerno
+180 Toyota
+180 Osnabrück
+180 Odessa
+179 Madurai
+174 Machida
+174 Colchester
+173 Utsunomiya
+172 Kusatsu
+171 Rosario
+171 Kottayam
+171 Dhanbad
+170 Thunder Bay
+170 Serpukhov
+169 Gwalior
+167 Burgos
+166 Northampton
+165 Sunderland
+165 Kashihara
+165 Badajoz
+163 Rasht
+161 Móstoles
+161 Leverkusen
+161 Cádiz
+160 Ivanovo
+160 Aydin
+159 MADRID
+158 Asahikawa
+156 Sari
+156 Nagpur
+156 Mulhouse
+156 Mérida
+156 Koga
+156 Hagen
+155 Ufa
+155 Lublin
+154 Ota
+154 Iwata
+153 Saratov
+153 Lower Hutt
+152 Gebze
+151 Paraná
+151 Narashino
+150 Piracicaba
+150 Gloucester
+149 León
+149 Ichikawa
+148 Sfax
+148 Samsun
+147 Katowice
+147 Guanajuato
+146 Himeji
+145 Dehradun
+144 STOCKHOLM
+143 Visakhapatnam
+143 Chiang Mai
+142 Takatsuki
+142 Monza
+142 Concepción
+141 Makati
+141 Kaya
+140 Kelowna
+139 San Luis
+139 Limoges
+139 Iizuka
+138 Vladivostok
+138 Van
+137 Newport
+137 Hamm
+137 Almaty
+136 Kawagoe
+136 Birjand
+134 Kaunas
+134 Derby
+133 Maringá
+133 Logroño
+133 Alcalá de Henares
+132 Pietermaritzburg
+131 Patiala
+129 Okinawa
+128 Uberlândia
+126 Bergamo
+125 Toowoomba
+125 Szczecin
+124 TOKYO
+122 Orléans
+122 Mendoza
+122 Matsue
+121 Botucatu
+121 AMSTERDAM
+119 Tokai
+119 Guadalajara
+118 Reus
+117 Komatsu
+117 Ichihara
+117 Bremerhaven
+116 Sakura
+116 Koshigaya
+114 Atsugi
+113 Toda
+113 Cartagena
+113 Agra
+112 Trabzon
+111 St. Gallen
+111 Noida
+111 Cali
+111 Bauru
+110 Rohtak
+109 Durgapur
+108 Tilburg
+108 Kurashiki
+108 Jorhat
+108 Huelva
+107 Iida
+106 Vadodara
+106 Khanna
+105 Santo André
+104 Yokkaichi
+104 Kawanishi
+103 Srinagar
+103 Kasugai
+102 Palma
+102 Besançon
+101 Vitória
+101 Kocaeli
+100 Sagar
+100 Río Cuarto
+100 Campo Grande
+99 Nürnberg
+99 Mishima
+99 Fujisawa
+99 Darwin
+99 Bournemouth
+98 Querétaro
+97 Oshawa
+97 Latina
+96 Takasaki
+96 PARIS
+96 Mangalore
+96 Aurangabad
+95 Matsubara
+95 Lleida
+95 Akishima
+94 San Mateo
+93 Tver
+93 Gdansk
+92 Patna
+92 Gurgaon
+92 Bikaner
+91 Voronezh
+91 Timisoara
+91 Korea
+91 Jaén
+90 Rawalpindi
+90 Quezon City
+90 Le Mans
+90 Guntur
+90 CAIRO
+89 Thanjavur
+89 Serra
+89 Antalya
+88 Zwolle
+88 Georgetown
+87 New York 
+87 Herne
+87 Elche
+86 Peshawar
+86 Nishio
+86 Natal
+86 Londrina
+86 Karaj
+86 Bello
+85 Winterthur
+85 Semnan
+85 Oyama
+84 Valparaíso
+84 Obninsk
+83 Udaipur
+83 Sakata
+82 Eskisehir
+81 Nakhon Ratchasima
+81 Belém
+80 Warangal
+80 Valenzuela
+80 Jodhpur
+80 Jalandhar
+80 Cairns
+80 Arak
+79 Swindon
+79 Malatya
+79 Kuantan
+79 Bucaramanga
+78 Slough
+78 Santa Rosa
+78 Bo
+78 Arnhem
+77 Pécs
+76 Perm
+76 Dnepropetrovsk
+75 Zahedan
+75 Multan
+75 Irbid
+75 Gandhinagar
+74 Sobral
+74 SEOUL
+74 Erfurt
+73 Stavanger
+73 Gorgan
+72 Terni
+72 Qom
+72 Novi Sad
+72 Foggia
+71 Duque de Caxias
+70 Valdivia
+70 Split
+70 Puri
+70 Maribor
+70 Jalgaon
+70 Breda
+69 Sivas
+69 Århus
+68 Sanandaj
+68 Ilam
+68 Hamadan
+68 Fukuyama
+67 Tezpur
+67 Rio Grande
+67 Piacenza
+67 Maceió
+67 Hermosillo
+67 Dubai
+67 Bilaspur
+66 San Luis Potosí
+66 Koriyama
+66 Khon Kaen
+66 Haarlem
+66 Bolzano
+65 Mansfield
+65 Diyarbakir
+65 Cuttack
+64 Tachikawa
+64 Rio Claro
+64 Ipswich
+63 Ludhiana
+63 Krasnodar
+63 Aizuwakamatsu
+62 Nakhon Pathom
+62 Manaus
+61 Raipur
+61 Iwaki
+61 Bialystok
+60 Shah Alam
+60 Saltillo
+60 Pforzheim
+60 Ourense
+60 Neyagawa
+60 Meerut
+60 Babol
+59 Volgograd
+59 Vicenza
+59 Ubon Ratchathani
+59 Rijeka
+59 Kragujevac
+59 Kozhikode
+59 Denizli
+58 Trier
+58 Narita
+58 Krefeld
+58 Kitami
+58 Karnal
+57 Ponce
+57 Hildesheim
+57 Hikone
+56 Seto
+56 Santa Ana
+56 Rajendranagar
+56 Lugano
+56 Engels
+56 Albacete
+55 Kumasi
+55 Dindigul
+55 Cottbus
+54 West Midlands
+54 Tirupati
+54 Surat
+54 Nadiad
+54 Moncton
+54 Jabalpur
+54 Isparta
+54 Ibarra
+53 Wigan
+53 Ravenna
+53 Karaman
+53 Hino
+52 Qazvin
+52 Kariya
+52 High Wycombe
+52 Heilbronn
+51 Talca
+51 Marrakech
+51 Handa
+51 Gliwice
+51 Ardabil
+51 Amersfoort
+50 Silchar
+50 Norrköping
+50 Neuss
+50 Musashino
+50 Hakodate
+50 Blackpool
+49 Teresina
+49 Sorocaba
+49 Sakado
+49 Moriguchi
+49 Franca
+48 Wardha
+48 Perpignan
+48 Obihiro
+48 Larissa
+48 Ismailia
+48 Eastbourne
+48 Campos dos Goytacazes
+47 Temuco
+47 Sakarya
+47 Frederiksberg
+47 Bandung
+46 Sunchon
+46 Bushehr
+46 Behera
+45 Resende
+45 Isehara
+45 Hirakata
+45 Borisov
+44 West Yorkshire
+44 Jönköping
+44 Galati
+44 Ensenada
+44 Chelyabinsk
+43 Kota
+43 Khoramabad
+43 Gomel
+43 Concepcion
+43 Chihuahua
+42 Wolfsburg
+42 Vitoria-Gasteiz
+42 Trois-Rivières
+42 Trindade
+42 Sohag
+42 Manisa
+42 Ede
+42 Doncaster
+42 Arzamas
+42 Aix-en-Provence
+41 Omsk
+41 Odawara
+41 Kamakura
+41 Ghaziabad
+41 Ajmer
+40 Sabadell
+40 Presidente Prudente
+40 Port Elizabeth
+40 Matsudo
+40 Floridablanca
+39 Zabrze
+39 Veracruz
+39 Tijuana
+39 Nîmes
+39 Kolar
+39 Czestochowa
+39 Abha
+38 Trujillo
+38 Surabaya
+38 Santa Cruz de Tenerife
+38 Nanded
+38 Maracaibo
+38 Koblenz
+38 Kingston-upon-Hull
+38 Holon
+38 Cotonou
+38 Akashi
+37 Niš
+37 Luzern
+37 Gijón
+37 Fès
+36 Zabol
+36 Tsuruoka
+36 Pointe-à-Pitre
+36 Jamshedpur
+35 Suez
+35 Shimoga
+35 Shillong
+35 Ostrava
+35 Faridabad
+35 CANBERRA
+35 Belgaum
+34 Takaoka
+34 Plovdiv
+34 Nablus
+34 Loni
+34 Ciudad Valles
+33 Torun
+33 Thrissur
+33 Sevastopol
+33 Petrolina
+33 Ome
+33 Morelia
+33 Hitachinaka
+32 Ponta Grossa
+32 Pescara
+32 Moers
+32 Cuiabá
+32 Cuenca
+32 Campina Grande
+32 Bydgoszcz
+32 Belgorod
+32 Barrie
+32 Araçatuba
+32 Anantapur
+31 Toulon
+31 Telford
+31 OSLO
+31 Kurnool
+31 Joinville
+31 Itami
+31 Ise
+31 Fuji
+31 Dharan
+31 Bogor
+31 Bathinda
+31 Bareilly
+31 Alcorcón
+30 Suzuka
+30 Saint-Étienne
+30 Miri
+30 Luque
+30 La Serena
+30 Heredia
+30 Dourados
+30 Diadema
+30 Cheboksary
+30 Agadir
+29 Shimla
+29 Osaki
+29 Lira
+29 Liberec
+29 Kodaira
+29 Kielce
+29 Khabarovsk
+29 Hospitalet de Llobregat
+29 Beni-Suef
+28 Yamato
+28 Varna
+28 Uberaba
+28 Torrejón de Ardoz
+28 Tirunelveli
+28 Shahreza
+28 Mesquita
+28 Le Havre
+28 Lahti
+28 Arad
+28 Amagasaki
+28 Aleppo
+27 Yogyakarta
+27 Vantaa
+27 Tokat
+27 Shahriar
+27 San Carlos
+27 Oujda
+27 Helsingborg
+27 Gdynia
+26 Valera
+26 Tauranga
+26 Sumy
+26 Sanliurfa
+26 Rafsanjan
+26 Otaru
+26 MONTEVIDEO
+26 Limeira
+26 Hisar
+26 Esbjerg
+26 Delmas
+26 BERLIN
+25 Sayama
+25 Sargodha
+25 Ranchi
+25 Fukaya
+25 Barretos
+25 Banda
+25 Angus
+24 Vladimir
+24 Tula
+24 Terrassa
+24 Passos
+24 Nellore
+24 Lvov
+24 Kursk
+24 Kisarazu
+24 Kandy
+24 Gorakhpur
+24 Douala
+24 Chittagong
+23 Santarém
+23 San Pedro
+23 Quevedo
+23 Prato
+23 Osijek
+23 Opole
+23 Elazig
+23 Dhule
+23 Cadiz
+23 Bahawalpur
+23 Badalona
+23 Apeldoorn
+22 Zama
+22 Simferopol
+22 Secunderabad
+22 San Miguel
+22 Salzgitter
+22 Puerto Rico
+22 Orebro
+22 Malang
+22 Kollam
+22 Jyvaskyla
+22 Fürth
+22 Ebetsu
+22 Cleveland 
+21 Uruguaiana
+21 Reutlingen
+21 Poltava
+21 Podolsk
+21 Petaling Jaya
+21 Mardan
+21 Jhansi
+21 Getafe
+21 Gaza
+21 Dibrugarh
+21 Craiova
+21 Campeche
+21 Bâle
+21 Antofagasta
+21 Annaba
+21 Angeles
+20 Yaroslavl
+20 Tlalnepantla
+20 Tajimi
+20 Songkhla
+20 Siliguri
+20 Rajshahi
+20 Moradabad
+20 Mihara
+20 Kota Kinabalu
+20 Joao Pessoa
+20 Imphal
+20 Hachinohe
+20 Fujieda
+20 Dimitrovgrad
+20 Castellón de la Plana
+20 Brugge
+20 Barranquilla
+19 Villavicencio
+19 Tepic
+19 Taranto
+19 Saint-Denis
+19 Petrozavodsk
+19 Oberhausen
+19 Mymensingh
+19 Moga
+19 Mexicali
+19 Medan
+19 Matamoros
+19 Makkah
+19 Kirikkale
+19 Jequié
+19 Itajaí
+19 Ingolstadt
+19 Gulbarga
+19 Guayaquil
+19 Gonda
+19 Donostia
+19 Corrientes
+19 Bergisch Gladbach
+19 Ahmednagar
+18 ZAGREB
+18 Yakutsk
+18 Seattle 
+18 Sasebo
+18 Salta
+18 Safi
+18 Phitsanulok
+18 Netanya
+18 Nashik
+18 MANAMA
+18 Livorno
+18 Lages
+18 Gelsenkirchen
+18 Fujimino
+18 Caxias do Sul
+18 Cambridge 
+18 Bijapur
+18 Bankura
+18 Amravati
+17 Vejle
+17 Remscheid
+17 Komaki
+17 Ichinomiya
+17 Hatay
+17 Cochabamba
+17 Chigasaki
+17 Boulogne-Billancourt
+16 Zug
+16 Zacatecas
+16 Villahermosa
+16 Västerås
+16 Ulan-Ude
+16 Tumkur
+16 Thane
+16 Siracusa
+16 San Francisco 
+16 Qena
+16 Piedecuesta
+16 Olsztyn
+16 Ogaki
+16 Nuneaton
+16 Ludwigshafen am Rhein
+16 Los Angeles 
+16 Kuala Terengganu
+16 Jahrom
+16 Helwan
+16 Hama
+16 Columbia 
+16 Brasov
+16 Be'er Sheva
+16 Barnaul
+16 Balikesir
+16 Ashikaga
+15 Vila Velha
+15 Tambov
+15 Solapur
+15 Semarang
+15 Saharanpur
+15 Recklinghausen
+15 Rayong
+15 Pittsburgh 
+15 Miskolc
+15 Miami 
+15 Marugame
+15 Ishinomaki
+15 Edirne
+15 Dordrecht
+15 Daito
+15 Berkeley 
+15 Anjo
+15 Afyon
+14 Yaizu
+14 Trinidad and Tobago
+14 Tak
+14 SOFIA
+14 Shimonoseki
+14 Rzeszów
+14 Rimini
+14 Republic of Korea
+14 Mönchengladbach
+14 Lugansk
+14 La Rioja
+14 Kure
+14 Kokubunji
+14 KINGSTON
+14 Izumisano
+14 Izhevsk
+14 Higashimurayama
+14 Guadeloupe
+14 Eldoret
+14 Dezful
+14 Celaya
+14 Bulawayo
+14 Balashikha
+14 Ambala
+13 Viña del Mar
+13 Ust-Kamenogorsk
+13 Torreón
+13 Sosnowiec
+13 Réunion
+13 Nonthaburi
+13 Neyshabur
+13 Najafabad
+13 Nagercoil
+13 Nagahama
+13 Leganés
+13 Ilhéus
+13 HELSINKI
+13 Grodno
+13 Dori
+13 Cherkassy
+13 Canoas
+13 Bharatpur
+13 Anápolis
+13 Amadora
+13 Ahwaz
+13 Abiko
+12 Vijayawada
+12 Rajahmundry
+12 Pathum Thani
+12 Patan
+12 Padang
+12 Orel
+12 Maracay
+12 Lipa
+12 Khulna
+12 Kalyan
+12 Kalisz
+12 Kahramanmaras
+12 Highland
+12 Esfahan
+12 Divinópolis
+12 Concordia
+12 Chapecó
+12 Boston 
+12 Bor
+12 Bizerte
+12 Aracaju
+12 Adan
+11 Tyumen
+11 Tsuyama
+11 Tétouan
+11 Tabuk
+11 Stara Zagora
+11 Solingen
+11 Soka
+11 Saijo
+11 Rio Branco
+11 Piura
+11 Philadelphia 
+11 Phagwara
+11 Norfolk 
+11 Munger
+11 Montes Claros
+11 Mohammedia
+11 KIEV
+11 Kannur
+11 Jamnagar
+11 Feira de Santana
+11 Dire Dawa
+11 Corum
+11 Baracaldo
+11 Aswan
+11 Arica
+11 Ann Arbor 
+11 Alexandra
+10 Varamin
+10 Tekirdag
+10 SINGAPORE
+10 Seremban
+10 Punta Arenas
+10 Pollachi
+10 Numazu
+10 Nobeoka
+10 Niihama
+10 Los Baños
+10 Kisumu
+10 Karimnagar
+10 Iquitos
+10 Iligan
+10 Gujrat
+10 Guernsey
+10 Gudivada
+10 Ebina
+10 Chicago 
+10 Bihar
+10 Behbahan
+10 Baia Mare
+10 Anju
+10 Agartala
+9 Zhukovsky
+9 Yavatmal
+9 Vitebsk
+9 Tama
+9 SUVA
+9 Saguenay
+9 Rochester 
+9 Rajkot
+9 Quetta
+9 Posadas
+9 Ploiesti
+9 Petrópolis
+9 Neiva
+9 Ndola
+9 Nasushiobara
+9 Marília
+9 Manta
+9 Linhares
+9 Kurgan
+9 Kira
+9 Kakogawa
+9 Haldia
+9 Erode
+9 Debre Zeit
+9 Damietta
+9 Coronel
+9 Beppu
+9 Asaka
+9 Aizawl
+9 Abadan
+8 Zoetermeer
+8 Ujjain
+8 Subang Jaya
+8 Severodvinsk
+8 SANTIAGO
+8 San Pablo
+8 Salalah
+8 Rae Bareli
+8 Port Said
+8 Penza
+8 Niiza
+8 Malayer
+8 Lalitpur
+8 Kuching
+8 Kohat
+8 Kaluga
+8 Jersey
+8 Ichinoseki
+8 Habikino
+8 Guaratinguetá
+8 Fuenlabrada
+8 Etawah
+8 Crato
+8 Ceyhan
+8 Cachoeirinha
+8 Bojnurd
+8 Batman
+8 Ashqelon
+8 Algeciras
+8 Alexandria 
+8 Alcobendas
+8 Ageo
+7 Volta Redonda
+7 Tsuchiura
+7 Toyokawa
+7 Torbay
+7 Skikda
+7 Shunan
+7 Seversk
+7 Serov
+7 San Diego 
+7 Sandakan
+7 Sambalpur
+7 Rewa
+7 Renfrewshire
+7 Portland 
+7 Paulista
+7 Passo Fundo
+7 Nazareth
+7 Montreuil
+7 Modinagar
+7 Minoh
+7 Mariupol
+7 Malappuram
+7 Kuwana
+7 Kütahya
+7 Korba
+7 Klang
+7 Kemerovo
+7 Kadoma
+7 Juárez
+7 Joetsu
+7 Itu
+7 Hadano
+7 Greenland
+7 Gondar
+7 Forli
+7 Chirala
+7 BRATISLAVA
+7 Bragança Paulista
+7 Austin 
+7 Asansol
+7 Argenteuil
+7 Andizhan
+6 Vologda
+6 Vejalpur
+6 Usak
+6 Takarazuka
+6 Sterlitamak
+6 Soweto
+6 Settat
+6 Santa Fé
+6 Santa Cruz do Sul
+6 Ryazan
+6 Rostov-na-Donu
+6 Raichur
+6 Popayán
+6 Pokhara
+6 Petah Tiqwa
+6 Palmas
+6 Palembang
+6 Osmaniye
+6 Novocherkassk
+6 Nagaon
+6 Mytishchi
+6 Milwaukee 
+6 Mathura
+6 Mataró
+6 Machala
+6 Lódz
+6 Kuki
+6 Kirov
+6 Karaganda
+6 Kakinada
+6 Jiutepec
+6 Ibagué
+6 Hebron
+6 Hawalli
+6 Hatsukaichi
+6 Hakusan
+6 Gaya
+6 Florencia
+6 Durham 
+6 DOHA
+6 Denver 
+6 Denpasar
+6 Coonoor
+6 Chita
+6 Charleroi
+6 Carolina
+6 Cancun
+6 Bielsko-Biala
+6 Atibaia
+6 Almere
+5 Zarqa
+5 Yatsushiro
+5 Vancouver 
+5 Udupi
+5 Tucson 
+5 Teesside
+5 Tanger
+5 Silay
+5 Saransk
+5 Samarkand
+5 Salto
+5 Roxas
+5 Richmond 
+5 Raigarh
+5 Radom
+5 Plzen
+5 Pleven
+5 Parbhani
+5 Ordu
+5 Oradea
+5 Ongole
+5 Ocotlán
+5 New Haven 
+5 Naha
+5 Marbella
+5 Mango
+5 Manado
+5 Makhachkala
+5 Magadan
+5 Macapá
+5 Kushiro
+5 Karatsu
+5 Ivano-Frankovsk
+5 Iruma
+5 Irapuato
+5 Imabari
+5 Habra
+5 Governador Valadares
+5 Foz do Iguaçu
+5 Fort Worth 
+5 Formosa
+5 Eluru
+5 Durg
+5 Daugavpils
+5 Criciúma
+5 Colorado Springs 
+5 Chon Buri
+5 Chittoor
+5 Chachoengsao
+5 Caxias
+5 Cajamarca
+5 Bidar
+5 Bhiwani
+5 Bhavani
+5 BEIRUT
+5 Basti
+5 Barreiras
+5 Bally
+5 Ashdod
+5 Arlington 
+4 Zielona Góra
+4 Urdaneta
+4 Tomakomai
+4 Tlaxcala
+4 Tema
+4 Taubaté
+4 Tarnów
+4 Tamale
+4 Surin
+4 Sultanpur
+4 Sivakasi
+4 Sao Bernardo do Campo
+4 Santa Rita
+4 San Lorenzo
+4 SAN JOSE
+4 San Cristóbal de La Laguna
+4 Samarinda
+4 Salmiya
+4 Sahiwal
+4 Rivne
+4 Raniganj
+4 Poços de Caldas
+4 Phuket
+4 Pali
+4 Oshu
+4 Orsk
+4 Offenbach am Main
+4 Oakland 
+4 Miass
+4 Martinique
+4 Magelang
+4 Madison 
+4 Machilipatnam
+4 Lutsk
+4 Koforidua
+4 Kirishima
+4 Kimberley
+4 Khimki
+4 Kénitra
+4 Katihar
+4 Juazeiro
+4 Jackson 
+4 Ica
+4 Gweru
+4 Garanhuns
+4 Fujinomiya
+4 Falkirk
+4 Emmen
+4 DUBLIN
+4 Davangere
+4 Coquimbo
+4 Chillán
+4 Chikushino
+4 Chetumal
+4 Cebu
+4 Cascavel
+4 Camagüey
+4 Bytom
+4 Buraydah
+4 Brusque
+4 Brantford
+4 Brahmapur
+4 Boa Vista
+4 Birmingham 
+4 Birkenhead
+4 Bhagalpur
+4 Bat Yam
+4 Batna
+4 Barueri
+4 Banda Aceh
+4 Athens 
+4 Araras
+4 APIA
+4 Aldershot
+4 Aksaray
+4 Ajman
+3 Yachiyo
+3 WELLINGTON
+3 Warren 
+3 Vitória da Conquista
+3 Veraval
+3 Uzhgorod
+3 Uruma
+3 Tychy
+3 Turks and Caicos Islands
+3 Tunja
+3 Toride
+3 Tondabayashi
+3 Thika
+3 Teófilo Otoni
+3 Tangerang
+3 Tangail
+3 Tambaram
+3 Talavera
+3 Sunshine Coast
+3 Suceava
+3 Subotica
+3 Sochi
+3 Serampore
+3 Saveh
+3 Satara
+3 San Pedro Sula
+3 San Nicolas de los Garza
+3 San Jose 
+3 Sanjo
+3 Rybnik
+3 Ruse
+3 Rondonópolis
+3 Rio Verde
+3 REYKJAVIK
+3 Rewari
+3 Rancagua
+3 Quchan
+3 Puerto Vallarta
+3 Puerto Montt
+3 Pitcairn
+3 Pisco
+3 Parakou
+3 Palmira
+3 Orizaba
+3 Ontario 
+3 Nizamabad
+3 Mossoró
+3 Melitopol
+3 Meknès
+3 Mazatlán
+3 Mataram
+3 Marand
+3 Makeni
+3 Madina
+3 Lipetsk
+3 Kostroma
+3 Kolomna
+3 Kishiwada
+3 Khoramshahr
+3 Kecskemét
+3 Kanhangad
+3 Jhang
+3 Hoshiarpur
+3 Hofu
+3 Györ
+3 Greensboro 
+3 Girardot
+3 Erzincan
+3 Embu
+3 El-Jadida
+3 Durán
+3 Dallas 
+3 Coro
+3 Ciudad Juárez
+3 Chorzów
+3 Chiang Rai
+3 Chennai 
+3 Candelaria
+3 Buenaventura
+3 Bryansk
+3 Bobo Dioulasso
+3 Bellary
+3 Baltimore 
+3 Bahir Dar
+3 Bahadurgarh
+3 Bago
+3 Aurora 
+3 Atlanta 
+3 Andimeshk
+3 Aguascalientes
+3 Aberdeenshire
+2 Zinder
+2 Zhitomir
+2 Yasooj
+2 Yamunanagar
+2 Wonsan
+2 WIEN
+2 Vespasiano
+2 Uruapan
+2 Urayasu
+2 Turhal
+2 Toliara
+2 Tiruvannamalai
+2 Timon
+2 Tete
+2 Tarsus
+2 Tampico
+2 Tallahassee 
+2 Surgut
+2 Sumaré
+2 St. Petersburg 
+2 St. Louis 
+2 Stavropol
+2 Stamford 
+2 Springs
+2 Smolensk
+2 Sitapur
+2 Sirjan
+2 Siirt
+2 Sibiu
+2 Satna
+2 San Pedro Garza Garcia
+2 San Antonio 
+2 Salem 
+2 Salé
+2 Saku
+2 Sakon Nakhon
+2 Saïda
+2 Sacramento 
+2 Roseville 
+2 Rodriguez 
+2 Riobamba
+2 Reno 
+2 Puntarenas
+2 Pudukkottai
+2 Providence 
+2 Pouso Alegre
+2 Potosí
+2 Porto Velho
+2 Porbandar
+2 Porac
+2 Pinar del Río
+2 Parnaíba
+2 Pallavaram
+2 Pakdasht
+2 Osorno
+2 Orenburg
+2 Orange 
+2 Omaha 
+2 Oktyabrsky
+2 Nukus
+2 Novopolotsk
+2 North Sinai
+2 Ngaoundéré
+2 New Orleans 
+2 New Caledonia
+2 Nalgonda
+2 Nagareyama
+2 Murom
+2 Morena
+2 Montgomery 
+2 Mobile 
+2 Miyakonojo
+2 Minneapolis 
+2 Matsusaka
+2 Mati
+2 Marawi
+2 Maradi
+2 Mandya
+2 Malard
+2 Louisville 
+2 Los Teques
+2 Los Mochis
+2 Long Beach 
+2 Loja
+2 La Vega
+2 Las Vegas 
+2 Lamphun
+2 Lakhimpur
+2 Kumagaya
+2 Kramatorsk
+2 Komsomolsk-na-Amure
+2 Kikuyu
+2 Khoy
+2 Khammam
+2 Khamis Mushayt
+2 Khairpur
+2 Kenema
+2 Kazo
+2 Karshi
+2 Kanuma
+2 Kakamigahara
+2 Kaithal
+2 Junagadh
+2 Jaú
+2 JAMESTOWN
+2 Itabuna
+2 Isesaki
+2 Isahaya
+2 Huaraz
+2 Guna
+2 Gujranwala
+2 Guarulhos
+2 Glendale 
+2 Garoua
+2 Gainesville 
+2 Gabes
+2 Fairfield 
+2 Eugene 
+2 Elblag
+2 Davao
+2 Cuauhtemoc
+2 Cotia
+2 Corlu
+2 Contagem
+2 Ciudad Obregón
+2 Cincinnati 
+2 Cherepovets
+2 Charleston 
+2 Chandrapur
+2 Chandler 
+2 Catamarca
+2 Caruaru
+2 Cartago
+2 Bottrop
+2 Borujerd
+2 Bintulu
+2 Biisk
+2 Bhusawal
+2 Bhuj
+2 Berdyansk
+2 Benoni
+2 Barquisimeto
+2 Barisal
+2 Barbacena
+2 Astrakhan
+2 Arequipa
+2 Arapongas
+2 Arapiraca
+2 Aqaba
+2 Apucarana
+2 Angarsk
+2 Al-Kharj
+2 Ålborg
+2 Aktobe
+2 Adiyaman
+1 Zamora de Hidalgo
+1 Zamboanga
+1 Yuzhno-Sakhalinsk
+1 Yoshkar-Ola
+1 Winston-Salem 
+1 Wilmington 
+1 Wichita Falls 
+1 Wichita 
+1 West Lothian
+1 Wadhwan
+1 VICTORIA
+1 Vereeniging
+1 Varzea Grande
+1 Vaniyambadi
+1 Umlazi
+1 Ulyanovsk
+1 Touggourt
+1 Tolyatti
+1 Thornton 
+1 Tenali
+1 Tegal
+1 Tecomán
+1 Taza
+1 Tartous
+1 Tampa 
+1 Talcahuano
+1 Taganrog
+1 Tadepalligudem
+1 Surakarta
+1 Sukkur
+1 STANLEY
+1 Southend
+1 Sorsogon
+1 Sirsa
+1 Sioux Falls 
+1 Sikar
+1 Shahinshahr
+1 Sete Lagoas
+1 Sergiev Posad
+1 Sekondi
+1 Sasaram
+1 Sao José dos Campos
+1 Santiago de los Caballeros
+1 Santana de Parnaíba
+1 Santa Marta
+1 Santa Elena
+1 Santa Bárbara D'Oeste
+1 SAN SALVADOR
+1 Samut Sakhon
+1 Salt Lake City 
+1 Riverside 
+1 Rioverde
+1 RIGA
+1 Reynosa
+1 Resistencia
+1 Reggio di Calabria
+1 Rason
+1 Ramgarh
+1 Raleigh 
+1 Quetzaltenango
+1 Pushkino
+1 Puno
+1 Puerto Princesa
+1 Pucallpa
+1 Pskov
+1 Provo 
+1 Praia Grande
+1 Pontianak
+1 Plock
+1 Phayao
+1 Pembroke Pines 
+1 Pematang Siantar
+1 Patos de Minas
+1 Pathankot
+1 Pasto
+1 Pasadena 
+1 Parla
+1 Panvel
+1 Palwal
+1 Palangkaraya
+1 Palakkad
+1 Pakanbaru
+1 Oruro
+1 Orlando 
+1 Omuta
+1 Nuevo Laredo
+1 Novokuznetsk
+1 Nova Friburgo
+1 Norfolk Island
+1 Nong Khai
+1 Nilópolis
+1 Newark 
+1 Naucalpan de Juárez
+1 Nandyal
+1 Namangan
+1 Nakuru
+1 Naihati
+1 Nabadwip
+1 Muzaffarpur
+1 Mutare
+1 Münster 
+1 Motihari
+1 Moratuwa
+1 Monclova
+1 Mombasa
+1 Milagro
+1 Memphis 
+1 Matanzas
+1 Masaya
+1 Manzanillo
+1 Manizales
+1 Mandsaur
+1 Manchester 
+1 Malegaon
+1 Malambo
+1 Magnitogorsk
+1 Madanapalle
+1 Lyubertsy
+1 Little Rock 
+1 Lauro de Freitas
+1 Latur
+1 Lattakia
+1 La Piedad
+1 Lampang
+1 Lakewood 
+1 Kumbakonam
+1 Koszalin
+1 Kolkata 
+1 Kiziltepe
+1 Kishangarh
+1 Kirovograd
+1 Khouribga
+1 Kherson
+1 Khargone
+1 Kediri
+1 Kawachinagano
+1 Kasukabe
+1 Karur
+1 Kancheepuram
+1 Kalasin
+1 Kakegawa
+1 Kabwe
+1 Jolo
+1 Ji-Paraná
+1 Jijel
+1 Jaunpur
+1 Jambi
+1 Jacareí
+1 Izeh
+1 Itaquaquecetuba
+1 Itapevi
+1 Isle of Man
+1 Iskenderun
+1 Iquique
+1 Ipatinga
+1 Imperatriz
+1 Iloilo
+1 Ilagan
+1 Houston 
+1 Homs
+1 Hindupur
+1 Henderson 
+1 Hartford 
+1 Hardwar
+1 Hardoi
+1 Harar
+1 Hapur
+1 Ha'il
+1 Gulu
+1 Gubkin
+1 Guarapuava
+1 Guantánamo
+1 Guam
+1 Groznyi
+1 Grand Rapids 
+1 Golestan 
+1 Goicoechea
+1 Gilbert 
+1 Ghazipur
+1 Gharbia
+1 Germiston
+1 Gazipur
+1 Ganja
+1 Ganganagar
+1 Fresno 
+1 Fort Lauderdale 
+1 Fort Collins 
+1 Firozabad
+1 Faizabad
+1 Elizabeth 
+1 Durango 
+1 Dessie
+1 Deoria
+1 Deoghar
+1 Dehri
+1 Dakahlia
+1 Cumaná
+1 Cuddalore
+1 Costa Mesa 
+1 Coral Springs 
+1 Constanta
+1 Concord 
+1 Columbus 
+1 Ciudad Victoria
+1 Ciego de Avila
+1 Chitradurga
+1 Chiclayo
+1 Chanthaburi
+1 Chaiyaphum
+1 Cedar Rapids 
+1 Caucaia
+1 Catanduva
+1 Castanhal
+1 Cary 
+1 Carrefour
+1 Calama
+1 Cagayan de Oro
+1 Cabo Verde
+1 Cabo Frio
+1 Buzau
+1 Burgas
+1 Buffalo 
+1 Budaun
+1 Brahmanbaria
+1 Bogra
+1 Biratnagar
+1 Bidhan Nagar
+1 Bhiwandi
+1 Bhilwara
+1 Bermuda
+1 Beira
+1 Baton Rouge 
+1 Baripada
+1 Barasat
+1 Bandar Lampung
+1 Bamenda
+1 Balneário Camboriú
+1 Balakovo
+1 Baguio
+1 Bafoussam
+1 Bacolod
+1 Aruba
+1 Arkhangelsk
+1 Apizaco
+1 Ambon
+1 Albuquerque 
+1 Alappuzha
+1 Akron 
+1 Akola
+1 Adoni
+1 Adilabad
+1 Abohar
+1 6th of October City
