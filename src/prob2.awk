@@ -40,10 +40,10 @@ $lang~/en/ && ($keywords!~/null/ || $title!~/null/ || $abstract!~/null/) {
     split($keywords, b, ",")
     for (i in b) if(length(b[i])>2 && match(b[i],/[a-z]/) && b[i] in x == 0) kw[b[i]]++
 
-     # treat abstract
-     $abstract = tolower($abstract)
-     split($abstract, c, " ")
-     for (i in c) if(length(c[i])>2 && match(c[i],/[a-z]/) && c[i] in x == 0) kw[c[i]]++
+     # treat abstract (Computationally expensive--ran once, results are in: top_1000_words_from_kw_abstract_title_by_freq.txt)
+     #$abstract = tolower($abstract)
+     #split($abstract, c, " ")
+     #for (i in c) if(length(c[i])>2 && match(c[i],/[a-z]/) && c[i] in x == 0) kw[c[i]]++
 }
 
 END{
@@ -53,3 +53,5 @@ END{
     }
     #for(k in kw) print kw[k], k
 }
+
+# HOW TO RUN: LC_ALL=C awk -f prob2.awk stop_words.txt ../aminer_papers_allcols_excl/aminer_papers_*.allcols.excl.txt ../mag_papers_allcols/mag_papers_*.allcols.txt | sort -nr >freq.txt
