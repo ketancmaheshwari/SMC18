@@ -41,9 +41,9 @@ $lang~/en/ && ($keywords!~/null/ || $title!~/null/ || $abstract!~/null/) {
     for (i in b) if(length(b[i])>2 && match(b[i],/[a-z]/) && b[i] in x == 0) kw[b[i]]++
 
      # treat abstract (Computationally expensive--ran once, results are in: top_1000_words_from_kw_abstract_title_by_freq.txt)
-     #$abstract = tolower($abstract)
-     #split($abstract, c, " ")
-     #for (i in c) if(length(c[i])>2 && match(c[i],/[a-z]/) && c[i] in x == 0) kw[c[i]]++
+     $abstract = tolower($abstract)
+     split($abstract, c, " ")
+     for (i in c) if(length(c[i])>2 && match(c[i],/[a-z]/) && c[i] in x == 0) kw[c[i]]++
 }
 
 END{
