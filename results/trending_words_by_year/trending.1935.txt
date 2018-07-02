@@ -1,0 +1,10 @@
+   3046 europe
+   2046 biomedical
+   2034 pmc
+   1921 citation
+   1860 clinical
+   1776 life
+   1669 image
+   1632 bioinformatics
+   1623 available
+   1622 complete

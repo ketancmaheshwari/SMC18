@@ -1,0 +1,10 @@
+   2571 europe
+   1731 biomedical
+   1643 citation
+   1641 diseases
+   1570 image
+   1546 life
+   1492 pmc
+   1467 clinical
+   1360 biological
+   1357 bioinformatics

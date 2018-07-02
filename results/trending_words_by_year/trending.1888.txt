@@ -1,0 +1,10 @@
+    422 europe
+    278 biomedical
+    273 citation
+    225 clinical
+    223 journals
+    223 guidelines
+    216 central
+    214 sciences
+    214 bioinformatics
+    213 life

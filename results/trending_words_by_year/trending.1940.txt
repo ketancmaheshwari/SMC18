@@ -1,0 +1,10 @@
+   3007 europe
+   2737 diseases
+   2150 pmc
+   2090 biomedical
+   2045 plant
+   1980 life
+   1978 citation
+   1935 clinical
+   1835 image
+   1759 complete

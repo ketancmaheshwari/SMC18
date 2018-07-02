@@ -1,0 +1,10 @@
+    620 europe
+    422 biomedical
+    415 citation
+    337 life
+    331 image
+    330 clinical
+    325 version
+    324 click
+    322 central
+    321 journals

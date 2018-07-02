@@ -1,0 +1,10 @@
+    138 europe
+     92 biomedical
+     91 citation
+     80 clinical
+     79 journals
+     78 guidelines
+     72 life
+     71 central
+     70 bioinformatics
+     69 sciences

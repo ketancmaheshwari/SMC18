@@ -1,0 +1,10 @@
+   1138 europe
+    761 biomedical
+    727 citation
+    662 life
+    619 clinical
+    601 journals
+    599 bioinformatics
+    594 central
+    588 sciences
+    583 guidelines

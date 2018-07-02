@@ -1,0 +1,10 @@
+    300 europe
+    210 biomedical
+    209 citation
+    175 clinical
+    161 journals
+    161 guidelines
+    153 image
+    152 version
+    152 click
+    151 sciences

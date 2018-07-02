@@ -1,0 +1,10 @@
+  12337 radiation
+  11635 energy
+  11056 acid
+  10891 temperature
+   8195 references
+   8185 field
+   7892 high
+   7703 magnetic
+   7578 free
+   7423 results

@@ -1,0 +1,10 @@
+    781 europe
+    519 biomedical
+    504 citation
+    442 life
+    423 clinical
+    412 sciences
+    410 journals
+    408 image
+    408 central
+    404 version

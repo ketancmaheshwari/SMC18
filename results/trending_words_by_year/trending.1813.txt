@@ -1,0 +1,10 @@
+     12 europe
+      9 sciences
+      9 citation
+      9 biomedical
+      6 species
+      6 pmc
+      6 patents
+      6 mining
+      6 life
+      6 journals

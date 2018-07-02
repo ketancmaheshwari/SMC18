@@ -1,0 +1,10 @@
+   2963 diseases
+   2638 europe
+   2335 image
+   2232 pmc
+   2110 available
+   2069 complete
+   2024 references
+   2022 human
+   1951 infections
+   1922 clinical

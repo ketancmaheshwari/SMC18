@@ -1,0 +1,10 @@
+   1226 europe
+    855 biomedical
+    797 citation
+    755 life
+    668 bioinformatics
+    657 clinical
+    654 sciences
+    641 journals
+    638 central
+    627 biological

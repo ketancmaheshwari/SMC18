@@ -1,0 +1,10 @@
+   2554 europe
+   1764 biomedical
+   1663 citation
+   1475 clinical
+   1468 life
+   1449 pmc
+   1372 bioinformatics
+   1346 image
+   1335 sciences
+   1333 journals

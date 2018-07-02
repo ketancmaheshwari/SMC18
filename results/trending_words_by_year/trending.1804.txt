@@ -1,0 +1,10 @@
+      3 religion
+      3 philosophie
+      2 wilhelm
+      2 und
+      2 schelling
+      2 physical
+      2 optics
+      2 nauki
+      2 matematyczne
+      2 joseph

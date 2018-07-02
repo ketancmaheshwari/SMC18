@@ -1,0 +1,10 @@
+     20 europe
+     13 citation
+     13 biomedical
+     10 version
+     10 sciences
+     10 pmc
+     10 patents
+     10 life
+     10 journals
+     10 image

@@ -1,0 +1,10 @@
+    442 europe
+    304 biomedical
+    298 citation
+    258 image
+    257 version
+    257 click
+    243 clinical
+    237 journals
+    237 guidelines
+    231 life

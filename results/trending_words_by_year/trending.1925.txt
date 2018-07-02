@@ -1,0 +1,10 @@
+   2204 europe
+   1555 biomedical
+   1448 citation
+   1249 life
+   1211 clinical
+   1204 bioinformatics
+   1153 pmc
+   1152 sciences
+   1147 central
+   1144 journals

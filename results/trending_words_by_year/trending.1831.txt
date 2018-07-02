@@ -1,0 +1,10 @@
+      8 europe
+      6 citation
+      6 biomedical
+      4 sciences
+      4 potassium
+      4 pmc
+      4 patents
+      4 life
+      4 journals
+      4 image

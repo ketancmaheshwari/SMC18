@@ -1,0 +1,10 @@
+    110 europe
+     77 citation
+     77 biomedical
+     68 clinical
+     63 journals
+     63 guidelines
+     57 sciences
+     56 image
+     56 central
+     55 version

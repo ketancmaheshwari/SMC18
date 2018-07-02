@@ -1,0 +1,10 @@
+    260 europe
+    180 biomedical
+    178 citation
+    142 clinical
+    138 journals
+    138 image
+    138 guidelines
+    137 life
+    136 version
+    136 click

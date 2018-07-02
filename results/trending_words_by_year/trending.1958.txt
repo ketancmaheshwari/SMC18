@@ -1,0 +1,10 @@
+   8025 references
+   6560 energy
+   6415 acid
+   5811 radiation
+   5534 temperature
+   5400 available
+   5396 complete
+   5357 free
+   5248 image
+   4691 blood

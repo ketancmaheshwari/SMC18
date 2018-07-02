@@ -1,0 +1,10 @@
+      8 europe
+      6 version
+      6 sciences
+      6 natural
+      6 image
+      6 history
+      6 click
+      5 fig
+      5 des
+      5 citation

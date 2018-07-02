@@ -1,0 +1,10 @@
+   2837 europe
+   2153 pmc
+   1926 biomedical
+   1829 diseases
+   1824 citation
+   1803 clinical
+   1655 available
+   1653 life
+   1653 complete
+   1601 image

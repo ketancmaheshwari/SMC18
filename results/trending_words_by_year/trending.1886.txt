@@ -1,0 +1,10 @@
+    383 europe
+    254 biomedical
+    249 citation
+    217 clinical
+    208 journals
+    207 guidelines
+    202 image
+    199 version
+    199 click
+    199 central

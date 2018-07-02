@@ -1,0 +1,10 @@
+      9 maps
+      8 europe
+      5 citation
+      5 biomedical
+      5 asia
+      4 version
+      4 trade
+      4 sciences
+      4 routes
+      4 pmc

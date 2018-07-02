@@ -1,0 +1,10 @@
+    128 europe
+     91 citation
+     91 biomedical
+     83 clinical
+     79 journals
+     78 guidelines
+     67 sciences
+     67 life
+     66 image
+     65 version

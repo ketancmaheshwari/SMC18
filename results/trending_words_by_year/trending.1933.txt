@@ -1,0 +1,10 @@
+   2813 europe
+   1957 biomedical
+   1845 citation
+   1731 pmc
+   1673 clinical
+   1643 life
+   1637 image
+   1514 bioinformatics
+   1483 biological
+   1480 central

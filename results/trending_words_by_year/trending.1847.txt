@@ -1,0 +1,10 @@
+    178 europe
+    118 citation
+    118 biomedical
+     98 clinical
+     96 journals
+     96 guidelines
+     92 life
+     90 central
+     89 sciences
+     89 pmc

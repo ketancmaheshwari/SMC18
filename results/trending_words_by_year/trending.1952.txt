@@ -1,0 +1,10 @@
+   5727 references
+   4137 complete
+   4112 available
+   3972 acid
+   3948 image
+   3575 diseases
+   3226 free
+   3097 pmc
+   3080 version
+   3068 click

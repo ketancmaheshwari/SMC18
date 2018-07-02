@@ -1,0 +1,10 @@
+    124 europe
+     83 citation
+     83 biomedical
+     77 clinical
+     74 journals
+     74 guidelines
+     69 life
+     66 central
+     65 image
+     63 sciences

@@ -1,0 +1,10 @@
+     81 europe
+     55 citation
+     55 biomedical
+     42 life
+     41 sciences
+     41 journals
+     41 guidelines
+     41 clinical
+     41 central
+     40 pmc

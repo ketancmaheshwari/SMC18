@@ -1,0 +1,10 @@
+    152 europe
+    102 citation
+    102 biomedical
+     86 clinical
+     84 journals
+     84 guidelines
+     78 version
+     78 image
+     78 click
+     78 central

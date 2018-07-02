@@ -1,0 +1,10 @@
+  13598 radiation
+  13196 energy
+  11783 temperature
+  11565 acid
+   8961 magnetic
+   8901 field
+   8732 sup
+   8684 high
+   8545 analysis
+   8265 system

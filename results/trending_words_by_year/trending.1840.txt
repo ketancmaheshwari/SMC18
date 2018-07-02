@@ -1,0 +1,10 @@
+     44 europe
+     28 citation
+     28 biomedical
+     25 clinical
+     23 life
+     23 journals
+     23 image
+     23 guidelines
+     22 sciences
+     22 pmc

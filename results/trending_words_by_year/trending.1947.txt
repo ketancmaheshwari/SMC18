@@ -1,0 +1,10 @@
+   2765 diseases
+   2726 image
+   2392 references
+   2364 complete
+   2333 available
+   2165 pmc
+   2125 acid
+   2039 version
+   2035 click
+   2032 europe

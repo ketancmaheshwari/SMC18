@@ -1,0 +1,10 @@
+     75 europe
+     45 safety
+     44 citation
+     44 biomedical
+     41 central
+     40 life
+     40 clinical
+     38 journals
+     38 guidelines
+     37 sciences

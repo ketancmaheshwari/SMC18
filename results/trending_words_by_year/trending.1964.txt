@@ -1,0 +1,10 @@
+  13710 radiation
+  13293 energy
+  12847 acid
+  12297 temperature
+   9745 references
+   9542 analysis
+   9196 free
+   8882 high
+   8797 system
+   8560 safety

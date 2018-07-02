@@ -1,0 +1,10 @@
+    664 europe
+    458 biomedical
+    439 citation
+    356 image
+    355 version
+    355 click
+    352 clinical
+    351 bioinformatics
+    349 life
+    345 sciences

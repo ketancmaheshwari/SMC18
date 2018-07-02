@@ -1,0 +1,10 @@
+   9084 acid
+   8816 references
+   7939 temperature
+   7803 radiation
+   7782 energy
+   6859 free
+   6506 diseases
+   6138 sup
+   6008 available
+   5962 complete

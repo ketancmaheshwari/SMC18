@@ -1,0 +1,10 @@
+    130 europe
+     83 citation
+     83 biomedical
+     69 life
+     68 clinical
+     67 journals
+     67 guidelines
+     65 sciences
+     65 pmc
+     65 patents

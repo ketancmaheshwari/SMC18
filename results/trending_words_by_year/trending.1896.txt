@@ -1,0 +1,10 @@
+    590 europe
+    391 biomedical
+    376 citation
+    316 image
+    316 clinical
+    310 sciences
+    307 version
+    307 click
+    307 bioinformatics
+    305 life

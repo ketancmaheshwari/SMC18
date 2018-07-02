@@ -1,0 +1,10 @@
+    781 europe
+    538 biomedical
+    519 citation
+    426 version
+    426 image
+    423 click
+    418 clinical
+    413 journals
+    410 life
+    408 bioinformatics

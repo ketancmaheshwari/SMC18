@@ -1,0 +1,10 @@
+     92 europe
+     60 citation
+     60 biomedical
+     50 image
+     49 version
+     49 click
+     48 journals
+     48 guidelines
+     48 clinical
+     47 life

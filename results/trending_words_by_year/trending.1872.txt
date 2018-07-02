@@ -1,0 +1,10 @@
+    357 europe
+    235 biomedical
+    233 citation
+    210 clinical
+    194 journals
+    194 guidelines
+    187 life
+    180 bioinformatics
+    179 version
+    179 image

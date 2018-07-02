@@ -1,0 +1,10 @@
+     12 europe
+      7 genus
+      7 citation
+      7 biomedical
+      6 version
+      6 sciences
+      6 pmc
+      6 patents
+      6 life
+      6 journals

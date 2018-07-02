@@ -1,0 +1,10 @@
+    194 europe
+    133 citation
+    133 biomedical
+    110 clinical
+    108 journals
+    108 guidelines
+    100 life
+     98 complete
+     98 central
+     97 sciences

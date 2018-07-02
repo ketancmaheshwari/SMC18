@@ -1,0 +1,10 @@
+   2978 europe
+   2507 diseases
+   2303 pmc
+   2004 image
+   1986 clinical
+   1974 biomedical
+   1885 citation
+   1884 complete
+   1875 available
+   1840 references

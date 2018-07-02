@@ -1,0 +1,10 @@
+    699 europe
+    483 biomedical
+    475 citation
+    398 image
+    394 version
+    394 click
+    378 journals
+    374 clinical
+    367 life
+    362 central
