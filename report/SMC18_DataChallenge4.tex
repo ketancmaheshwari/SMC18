@@ -26,10 +26,18 @@ problems and a glance at the results. Detailed solutions and results may be
 found here: https://github.com/ketancmaheshwari/SMC18
 
 \section*{Tools Used}
+\subsection*{Software}
 Classic Linux tools such as \texttt{awk}, \texttt{sort}, \texttt{grep},
 \texttt{tr}, \texttt{sed} and \texttt{bash} are used.  The \texttt{jq} tool was
 used for initial data conversion from json to awk-suitable table format. For
-the bulk of processing, I use awk. 
+the bulk of processing, I use awk. Syntax in awk programs is known to be terse
+and hard to read by some accounts. I have taken special care to make the awk
+programs as readable as possible.  ANL's Swift parallel scripting tool was used
+to parallelize the awk programs to radically improve performance.
+
+\subsection*{Hardware}
+A large-memory (24 T) SGI system with 512-core Intel Xeon (2.5GHz) was used for
+all the processing.
 
 \subsection*{Rationale}
 \begin{enumerate}
@@ -37,6 +45,7 @@ the bulk of processing, I use awk.
 \item Alternative tools such as modern Python libraries have speed limitations, portability concerns and learning curve.
 \item SQL based tools and databases are hard to parallelize.
 \item Traditional Linux tools are portable and available on almost all the standard Linux distributions.
+\item Swift was used over GNU parallel for its portability to both shared memory systems and distributed memory clusters.
 \end{enumerate}
 
 \section*{Data and Problems}
@@ -61,7 +70,7 @@ words to avoid in the results (eg. the, from, after, etc.)
 \subsection*{preprocessing}
 The original data is in json format. The jq tool was used like so transform it to tabular format (\texttt{qwqw} is column seperator):
 \begin{verbatim}
-jq  '. | "\(.id)qwqw\(.title)qwqw\(.authors|length)qwqw\(.doi)qwqw\(.fos) \
+jq  `. | "\(.id)qwqw\(.title)qwqw\(.authors|length)qwqw\(.doi)qwqw\(.fos) \
 qwqw\(.doc_type)qwqw\(.lang)\qwqw\(.n_citation)qwqw\(.issue)qwqw\(.url) \
 qwqw\(.volume)qwqw\(.page_start)qwqw\(.page_end)qwqw\(.year)\qwqw\(.venue) \
 qwqw\(.publisher)qwqw\(.references)qwqw\(.keywords)qwqw\(.abstract)"' \
@@ -69,20 +78,21 @@ mag/mag_papers_4.txt > mag/mag_papers_4.col.txt
 \end{verbatim}
 Further curation of columnar data was done by removing extraneous space, square brackets, escape characters and quotes using \texttt{sed}.
 
-\subsection*{Prob1}
-
-\subsection*{Prob2}
-
-\subsection*{Prob3}
-
-\subsection*{Prob4}
-
-\subsection*{Prob5}
-
 \subsection*{parallelization and Speedup}
-Swift parallel scripting tool is used to parallelize the computations. Swift
-uses an MPI based communication and load-balancing model to parallelize over
-shared as well as distributed memory architectures.
+Swift uses MPI based communication and load-balancing model to parallelize
+over shared as well as distributed memory architectures.
+
+\subsection*{prob1}
+
+\subsection*{prob2}
+
+\subsection*{prob3}
+
+\subsection*{prob4}
+
+\subsection*{prob5}
+
+\subsection*{Postprocessing}
 
 \section*{Results}
 \section*{Summary}

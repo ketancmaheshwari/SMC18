@@ -33,7 +33,6 @@ for i in 0 1 2 3 4 5 6 7 8 9; do jq '.authors|length' aminer/aminer_papers_$i.tx
 Print json files columnwise for aminer data (qwqw is the column seperator)
 jq  '. | "\(.id)qwqw\(.title)qwqw\(.authors|length)qwqw\(.doi)qwqw\(.isbn)qwqw\(.issn)qwqw\(.lang)qwqw\(.n_citation)qwqw\(.issue)qwqw\(.url)qwqw\(.volume)qwqw\(.page_start)qwqw\(.page_end)qwqw\(.year)qwqw\(.venue)qwqw\(.pdf)qwqw\(.references)qwqw\(.keywords)qwqw\(.abstract)"' aminer/aminer_papers_4.txt > aminer/aminer_papers_4.col.txt
 
-
 Print json files columnwise for mag data (qwqw is the column seperator)
 jq  '. | "\(.id)qwqw\(.title)qwqw\(.authors|length)qwqw\(.doi)qwqw\(.fos)qwqw\(.doc_type)qwqw\(.lang)qwqw\(.n_citation)qwqw\(.issue)qwqw\(.url)qwqw\(.volume)qwqw\(.page_start)qwqw\(.page_end)qwqw\(.year)qwqw\(.venue)qwqw\(.publisher)qwqw\(.references)qwqw\(.keywords)qwqw\(.abstract)"' mag/mag_papers_4.txt > mag/mag_papers_4.col.txt
 
@@ -44,7 +43,6 @@ A finding: some records have no authors. For instance, in aminer_papers_3.txt 25
 
 More curation of columnar data:
 sed -i -e 's/\[//g' -e 's/\]//g' -e 's/\\\"//g' aminer_*.col.txt
-
 
 -bash-4.2$ awk -f max_citations.awk mag/col.format/mag_papers_*[!auth].col.txt 
 =Max Citations=
