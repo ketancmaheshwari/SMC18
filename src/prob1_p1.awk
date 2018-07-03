@@ -29,19 +29,8 @@ BEGIN{
     keywords=18; abstract=19; authors=20;
 }
 
-#($0~topic && $num_authors > 0 && $n_citation!~/null/ && $n_citation>100 && $lang~/en/){
 ($0~topic && $num_authors > 0 && $n_citation!~/null/ && $n_citation>100){
     print $n_citation, $title, $authors, $year
-    # In addition to citations, find out the authors whose names are repeating for a particular topic. Those authors will be considered experts. 
-    gsub("\"","",$authors)
-    gsub(",","",$authors)
-    gsub(";","",$authors)
-    split($authors, a, " ")
-    for (i in a) if(length(a[i])>2 && match(a[i],/[a-z]/)) auths[a[i]]++
-}
-
-END{
-   for (k in auths) print auths[k], k
 }
 # Seems like there are some duplicates in the results.
 # Probably should also find best patents separately.
