@@ -1,12 +1,14 @@
 \documentclass{report}
 
-%\usepackage{palatino}
+\usepackage{listings}
 \pagenumbering{gobble}
 \usepackage[english]{babel}
 \usepackage[pdftex]{color,graphicx}
 \usepackage{enumitem}
 \setlist[itemize]{leftmargin=*,noitemsep}
+\setlist[enumerate]{leftmargin=*,noitemsep}
 \usepackage[T1]{fontenc}
+\setlength\parindent{0pt}
 
 \title{SMC 2018 Data Challenge \#4}
 \author{Ketan Maheshwari\\ km0@ornl.gov}
@@ -16,38 +18,71 @@
 \section*{Introduction}
 
 I report on my response to the SMC 2018 Data Challenge 4--Acedamic Data Mining.
-I address the challenge by employing the classic Linux tools and a modern HPC
-parallel workflow platform.
+The challenge is addressed by employing the classic Linux tools and a modern HPC
+parallel scripting platform.
 
-This report describes the tools used, their rationale, Solutions to the
+This report describes the tools used, their rationale, solutions to the
 problems and a glance at the results. Detailed solutions and results may be
 found here: https://github.com/ketancmaheshwari/SMC18
 
 \section*{Tools Used}
 Classic Linux tools such as \texttt{awk}, \texttt{sort}, \texttt{grep},
 \texttt{tr}, \texttt{sed} and \texttt{bash} are used.  The \texttt{jq} tool was
-used for initial data conversion from json to awk-suitable table format. 
+used for initial data conversion from json to awk-suitable table format. For
+the bulk of processing, I use awk. 
 
 \subsection*{Rationale}
-For the bulk of processing, I used awk. Awk is used for its powerful
-textprocessing and concise expression properties. 
+\begin{enumerate}
+\item \texttt{Awk} is concise, efficient and expressive in text processing.
+\item Alternative tools such as modern Python libraries have speed limitations, portability concerns and learning curve.
+\item SQL based tools and databases are hard to parallelize.
+\item Traditional Linux tools are portable and available on almost all the standard Linux distributions.
+\end{enumerate}
 
 \section*{Data and Problems}
 The data was originally spread across two sets of 167 json files (total 334
 files) each containing a million records. The data also consisted of a file
-that recorded the list of duplicate records. I used an awk script to exclude
-those duplicate records from the aminer dataset. As a result, there are over
-256 million (256,382,605 to be exact) records to process.
+that recorded the list of duplicate records. An \texttt{awk} script was used to exclude
+the duplicate records from the aminer dataset. As a result, there are over
+256 million (256,382,605 to be exact) unique records to process. The data
+occupies 329G of disk space.
 
 The json files were converted to tabular files with 19 original columns and one
 additional column called ``num\_authors" showing the number of authors for a given
 publication record.
 
-\section*{Solutions}
 \subsection*{Auxiliary Data}
-In addition to the existing data, I used three lists: 1) List of cities of
+In addition to the existing data, I used four lists: 1) List of cities of
 world with population 100,000 or above; 2) List of all countries of the world;
-3) List of all the universities and research institutes.
+3) List of all the universities and research institutes; 4) A list of common
+words to avoid in the results (eg. the, from, after, etc.)
+
+\section*{Solutions}
+\subsection*{preprocessing}
+The original data is in json format. The jq tool was used like so transform it to tabular format (\texttt{qwqw} is column seperator):
+\begin{verbatim}
+jq  '. | "\(.id)qwqw\(.title)qwqw\(.authors|length)qwqw\(.doi)qwqw\(.fos) \
+qwqw\(.doc_type)qwqw\(.lang)\qwqw\(.n_citation)qwqw\(.issue)qwqw\(.url) \
+qwqw\(.volume)qwqw\(.page_start)qwqw\(.page_end)qwqw\(.year)\qwqw\(.venue) \
+qwqw\(.publisher)qwqw\(.references)qwqw\(.keywords)qwqw\(.abstract)"' \
+mag/mag_papers_4.txt > mag/mag_papers_4.col.txt
+\end{verbatim}
+Further curation of columnar data was done by removing extraneous space, square brackets, escape characters and quotes using \texttt{sed}.
+
+\subsection*{Prob1}
+
+\subsection*{Prob2}
+
+\subsection*{Prob3}
+
+\subsection*{Prob4}
+
+\subsection*{Prob5}
+
+\subsection*{parallelization and Speedup}
+Swift parallel scripting tool is used to parallelize the computations. Swift
+uses an MPI based communication and load-balancing model to parallelize over
+shared as well as distributed memory architectures.
 
 \section*{Results}
 \section*{Summary}
@@ -55,5 +90,4 @@ world with population 100,000 or above; 2) List of all countries of the world;
 \section*{Acknowledgements.}
 I acknowledge Brian Zachary, Suhas Somnath, Drew Schmidt for their helpful
 inputs. I acknowledge CADES.
-
 \end{document}
