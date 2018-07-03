@@ -13,9 +13,47 @@
 
 \begin{document}
 \maketitle
-\paragraph{Overview.}
+\section*{Introduction}
 
-\paragraph{Acknowledgements.}
-I acknowledge  
+I report on my response to the SMC 2018 Data Challenge 4--Acedamic Data Mining.
+I address the challenge by employing the classic Linux tools and a modern HPC
+parallel workflow platform.
+
+This report describes the tools used, their rationale, Solutions to the
+problems and a glance at the results. Detailed solutions and results may be
+found here: https://github.com/ketancmaheshwari/SMC18
+
+\section*{Tools Used}
+Classic Linux tools such as \texttt{awk}, \texttt{sort}, \texttt{grep},
+\texttt{tr}, \texttt{sed} and \texttt{bash} are used.  The \texttt{jq} tool was
+used for initial data conversion from json to awk-suitable table format. 
+
+\subsection*{Rationale}
+For the bulk of processing, I used awk. Awk is used for its powerful
+textprocessing and concise expression properties. 
+
+\section*{Data and Problems}
+The data was originally spread across two sets of 167 json files (total 334
+files) each containing a million records. The data also consisted of a file
+that recorded the list of duplicate records. I used an awk script to exclude
+those duplicate records from the aminer dataset. As a result, there are over
+256 million (256,382,605 to be exact) records to process.
+
+The json files were converted to tabular files with 19 original columns and one
+additional column called ``num\_authors" showing the number of authors for a given
+publication record.
+
+\section*{Solutions}
+\subsection*{Auxiliary Data}
+In addition to the existing data, I used three lists: 1) List of cities of
+world with population 100,000 or above; 2) List of all countries of the world;
+3) List of all the universities and research institutes.
+
+\section*{Results}
+\section*{Summary}
+
+\section*{Acknowledgements.}
+I acknowledge Brian Zachary, Suhas Somnath, Drew Schmidt for their helpful
+inputs. I acknowledge CADES.
 
 \end{document}
