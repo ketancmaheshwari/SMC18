@@ -19,8 +19,8 @@
 # step4. Find the authors who have won nobel prizes--they would certainly be considered experts.
 
 BEGIN{
-    FS=OFS="qwqw"
-    #OFS="\t"
+    FS="qwqw"
+    OFS="\t"
     IGNORECASE=1
     # Field names
     id=1; title=2; num_authors=3; doi=4; fos_isbn=5; doctype_issn=6;
@@ -29,8 +29,8 @@ BEGIN{
     keywords=18; abstract=19; authors=20;
 }
 
-($num_authors!~/null/ && $n_citation!~/null/ && $n_citation>=20000 && $year>=1740 && $year<2019){
-    print $n_citation, $id, $title, $authors, $lang, $year, $venue, $references, $keywords
+($0~topic && $num_authors > 0 && $n_citation!~/null/ && $n_citation>100 && $lang~/en/){
+    print $n_citation, $title, $authors, $year 
 }
 
 # Seems like there are some duplicates in the results.

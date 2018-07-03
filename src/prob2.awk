@@ -42,6 +42,8 @@ $lang~/en/ && ($keywords!~/null/ || $title!~/null/ || $abstract!~/null/) {
 
      # treat abstract (Computationally expensive--ran once, results are in: top_1000_words_from_kw_abstract_title_by_freq.txt)
      $abstract = tolower($abstract)
+     gsub("\"","",$abstract)
+     gsub(",","",$abstract)
      split($abstract, c, " ")
      for (i in c) if(length(c[i])>2 && match(c[i],/[a-z]/) && c[i] in x == 0) kw[c[i]]++
 }
@@ -55,3 +57,6 @@ END{
 }
 
 # HOW TO RUN: LC_ALL=C awk -f prob2.awk stop_words.txt ../aminer_papers_allcols_excl/aminer_papers_*.allcols.excl.txt ../mag_papers_allcols/mag_papers_*.allcols.txt | sort -nr >freq.txt
+
+# After running the swift app:
+# awk '{a[$2]+=$1} END{for (k in a) print a[k],k}' joined.txt | sort -nr > freq.txt
