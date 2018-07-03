@@ -33,7 +33,9 @@ used for initial data conversion from json to awk-suitable table format. For
 the bulk of processing, I use awk. Syntax in awk programs is known to be terse
 and hard to read by some accounts. I have taken special care to make the awk
 programs as readable as possible.  ANL's Swift parallel scripting tool was used
-to parallelize the awk programs to radically improve performance.
+to run the awk programs in parallel over the dataset to radically improve
+performance.  Swift uses MPI based communication and load-balancing model to
+parallelize over shared as well as distributed memory architectures.
 
 \subsection*{Hardware}
 A large-memory (24 T) SGI system with 512-core Intel Xeon (2.5GHz) was used for
@@ -49,12 +51,12 @@ all the processing.
 \end{enumerate}
 
 \section*{Data and Problems}
-The data was originally spread across two sets of 167 json files (total 334
-files) each containing a million records. The data also consisted of a file
-that recorded the list of duplicate records. An \texttt{awk} script was used to exclude
-the duplicate records from the aminer dataset. As a result, there are over
-256 million (256,382,605 to be exact) unique records to process. The data
-occupies 329G of disk space.
+The data was originally in two sets of 167 json files (total 334 files) each
+containing a million records. The data also consisted of a file that recorded
+the list of duplicate records. An \texttt{awk} script was used to exclude the
+duplicate records from the aminer dataset. As a result, there are over 256
+million (256,382,605 to be exact) unique records to process. The data occupies
+329G of disk space.
 
 The json files were converted to tabular files with 19 original columns and one
 additional column called ``num\_authors" showing the number of authors for a given
@@ -79,8 +81,6 @@ mag/mag_papers_4.txt > mag/mag_papers_4.col.txt
 Further curation of columnar data was done by removing extraneous space, square brackets, escape characters and quotes using \texttt{sed}.
 
 \subsection*{parallelization and Speedup}
-Swift uses MPI based communication and load-balancing model to parallelize
-over shared as well as distributed memory architectures.
 
 \subsection*{prob1}
 
@@ -95,7 +95,14 @@ over shared as well as distributed memory architectures.
 \subsection*{Postprocessing}
 
 \section*{Results}
+
 \section*{Summary}
+In this work I show how the time tested Linux tools can be leveraged to solve
+modern problems. I show that hundreds or millions of records may be processed
+in under a minute using HPC parallel scripting. While some of the results may
+be refined further, nonetheless a reasonable insight about the data may be
+obtained using these tools without employing any formal sophisticated
+algorithms.
 
 \section*{Acknowledgements.}
 I acknowledge Brian Zachary, Suhas Somnath, Drew Schmidt for their helpful
