@@ -246,8 +246,6 @@ Chitungwiza
 Gweru
 HARARE
 Mutare
-
-AMERICA, NORTH
 Anguilla
 THE VALLEY
 Aruba
@@ -788,8 +786,6 @@ Winston-Salem
 Worcester 
 Yonkers 
 CHARLOTTE AMALIE
-
-AMERICA, SOUTH
 Bahía Blanca-Cerri
 BUENOS AIRES19
 Catamarca
@@ -2728,8 +2724,6 @@ Termez
 Urgentch
 Adan
 SANA'A
-
-EUROPE
 Åland Islands
 MARIEHAMN
 Durrës

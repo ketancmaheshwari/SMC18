@@ -18,6 +18,7 @@
 
 BEGIN{
     FS="qwqw"
+    OFS=":"
     IGNORECASE = 1
     # Field names
     id=1; title=2; num_authors=3; doi=4; fos_isbn=5; doctype_issn=6;
@@ -48,3 +49,5 @@ END{
 
 # Run the following pipeline on the results:
 # sort -nr -k 1 citywise_papers.txt > tmp && mv tmp citywise_papers.txt 
+# After running the swift app:
+#awk -F: '{a[$2]+=$1} END{for (k in a) print a[k],k}' joined_cities.txt | sort -nr > tmp && mv tmp joined_cities.txt
