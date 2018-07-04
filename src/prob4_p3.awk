@@ -1,6 +1,5 @@
 #!/usr/bin/env awk
 
-
 # Problem Statement
 #    Identify how topics have shifted over time.
 #    
@@ -30,14 +29,33 @@ BEGIN{
     keywords=18; abstract=19; authors=20;
 }
 
-$lang~/en/  && $n_citation!~/null/ && $year!~/null/ && $year>1800 && $year<2018 && $keywords!~/null/{
+NR==FNR{x[$1];next}
+
+#$lang~/en/ && $n_citation!~/null/ && $year!~/null/ && $year>1800 && $year<2018 && $keywords!~/null/{
+$lang~/en/ && $n_citation>0 && $year==yr && $keywords!~/null/{
     # write title, keywords and abstract to a file titled by the year in which they appear
-    print $title,$keywords,$abstract >> $year
+    # treat title
+    $title = tolower($title)
+    split($title, a, " ")
+    for (i in a) if(length(a[i])>2 && match(a[i],/[a-z]/) && a[i] in x == 0) print a[i]
+
+    # treat keywords
+    $keywords = tolower($keywords)
+    gsub("\"","",$keywords)
+    split($keywords, b, ",")
+    for (i in b) if(length(b[i])>2 && match(b[i],/[a-z]/) && b[i] in x == 0) print b[i]
+
+     # treat abstract (Computationally expensive--ran once, results are in: top_1000_words_from_kw_abstract_title_by_freq.txt)
+     $abstract = tolower($abstract)
+     gsub("\"","",$abstract)
+     gsub(",","",$abstract)
+     split($abstract, c, " ")
+     for (i in c) if(length(c[i])>2 && match(c[i],/[a-z]/) && c[i] in x == 0) print c[i]
+
+    #print $title,$keywords,$abstract >> $year
 }
 
 #END{
-##for (k in a) print k, a[k]
-#print "end"
 #}
 
 #Do the following for postprocessing:
