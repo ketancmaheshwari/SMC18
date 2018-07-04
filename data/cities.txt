@@ -516,12 +516,10 @@ Anchorage
 Ann Arbor 
 Antioch 
 Arlington 
-Arlington 
 Arvada 
 Athens 
 Atlanta 
 Augusta 
-Aurora 
 Aurora 
 Austin 
 Bakersfield 
@@ -559,8 +557,6 @@ Clearwater
 Cleveland 
 Colorado Springs 
 Columbia 
-Columbia 
-Columbus 
 Columbus 
 Concord 
 Coral Springs 
@@ -606,7 +602,6 @@ Garden Grove
 Garland 
 Gilbert 
 Glendale 
-Glendale 
 Grand Prairie 
 Grand Rapids 
 Green Bay 
@@ -631,7 +626,6 @@ Jackson
 Jacksonville 
 Jersey City 
 Joliet 
-Kansas City 
 Kansas City 
 Killeen 
 Knoxville 
@@ -694,10 +688,8 @@ Palm Bay City
 Palmdale 
 Paradise 
 Pasadena 
-Pasadena 
 Paterson 
 Pembroke Pines 
-Peoria 
 Peoria 
 Philadelphia 
 Phoenix 
@@ -713,9 +705,7 @@ Raleigh
 Rancho Cucamonga 
 Reno 
 Richmond 
-Richmond 
 Riverside 
-Rochester 
 Rochester 
 Rockford 
 Roseville 
@@ -742,8 +732,6 @@ Sioux Falls
 South Bend 
 Spokane 
 Spring Valley 
-Springfield 
-Springfield 
 Springfield 
 St. Louis 
 St. Paul 
@@ -791,7 +779,6 @@ BUENOS AIRES19
 Catamarca
 Comodoro Rivadavia-Rada Tilly
 Concordia
-Córdoba
 Corrientes
 Formosa
 La Plata
@@ -1110,7 +1097,6 @@ Bucaramanga
 Buenaventura
 Cali
 Cartagena
-Cartago
 Caucasia
 Chía
 Ciénaga
@@ -1240,7 +1226,6 @@ Los Teques
 Maracaibo
 Maracay
 Maturín18
-Mérida
 Naguanagua18
 Ocumare Del Tuy18
 Petare18
@@ -1248,7 +1233,6 @@ Pozuelos
 Puerto Cabello
 Puerto La Cruz18
 Punto Fijo
-San Cristóbal
 San Fernando de Apure18
 San Francisco18
 Santa Lucia18
@@ -2064,7 +2048,6 @@ Kishiwada
 Kitakyushu
 Kitami
 Kobe
-Kochi
 Kodaira
 Kofu
 Koga
@@ -2281,7 +2264,6 @@ MALÉ
 Hovsgol
 Ovorhangay
 ULAANBAATAR
-Bharatpur
 Bhimdutta
 Biratnagar
 Birgunj
@@ -2289,7 +2271,6 @@ Butwal
 Dhangadhi
 Dharan
 KATHMANDU
-Lalitpur
 Pokhara
 As Seeb
 As Suwayq
@@ -2311,7 +2292,6 @@ Gojra
 Gujranwala
 Gujrat
 Hafizabad
-Hyderabad
 ISLAMABAD
 Jacobabad
 Jaranwala
@@ -2393,7 +2373,6 @@ Davao
 Digos
 Dipolog
 Dumaguete
-Floridablanca
 Gapan
 Gen. Mariano Alvarez
 General Santos
@@ -2445,7 +2424,6 @@ Midsayap
 Minglanilla
 Muntinlupa
 Naga 
-Naga 
 Nasugbu
 Navotas
 Norzagaray
@@ -2464,26 +2442,17 @@ Porac
 Puerto Princesa
 Quezon City
 Rodriguez 
-Rosario
 Roxas
 Sagay City
 San Carlos 
-San Carlos 
 San Fernando 
-San Fernando 
-San Jose 
 San Jose City 
 San Jose Del Monte
-San Juan
 San Mateo
-San Miguel
 San Pablo
 San Pedro
-Santa Cruz
-Santa Maria
 Santa Rosa
 Santiago
-Santo Tomas 
 Santo Tomas 
 Sariaya
 Silang
@@ -2501,11 +2470,9 @@ Tanauan
 Tanza
 Tarlac
 Taytay
-Toledo
 Trece Martires
 Tuguegarao
 Urdaneta
-Valencia
 Valenzuela
 Zamboanga
 Al-Khoor
@@ -2543,7 +2510,6 @@ Makkah
 Najran 
 RIYADH
 Sekaka
-Tabuk
 Unayzah
 Yanbu al-Bahr
 SINGAPORE
@@ -2799,7 +2765,6 @@ Argenteuil
 Besançon
 Bordeaux
 Boulogne-Billancourt
-Brest
 Caen
 Clermont-Ferrand
 Dijon
@@ -3301,13 +3266,10 @@ Almería
 Badajoz
 Badalona
 Baracaldo
-Barcelona
 Bilbao
 Burgos
 Cádiz
-Cartagena
 Castellón de la Plana
-Córdoba
 Donostia
 Dos Hermanas
 Elche
@@ -3320,7 +3282,6 @@ Huelva
 Jaén
 Jérez de la Frontera
 Leganés
-León
 Lleida
 Logroño
 MADRID
@@ -3337,7 +3298,6 @@ Pamplona
 Parla
 Reus
 Sabadell
-Salamanca
 San Cristóbal de La Laguna
 Santa Coloma de Gramanet
 Santa Cruz de Tenerife
@@ -3347,7 +3307,6 @@ Tarragona
 Telde
 Terrassa
 Torrejón de Ardoz
-Valencia
 Valladolid
 Vigo
 Vitoria-Gasteiz
@@ -3483,7 +3442,6 @@ Nottingham
 Nuneaton
 Oxford
 Perth & Kinross
-Peterborough
 Plymouth
 Portsmouth
 Preston
@@ -3548,7 +3506,6 @@ NOUMEA
 Auckland
 Christchurch
 Dunedin
-Hamilton
 Lower Hutt
 Napier-Hastings
 Tauranga
@@ -3556,7 +3513,6 @@ WELLINGTON
 Niue
 ALOFI
 Norfolk Island
-KINGSTON
 Northern Mariana Islands
 GARAPAN
 KOROR

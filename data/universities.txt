@@ -447,7 +447,6 @@ Katholieke Hogeschool Leuven
 Katholieke Hogeschool Limburg
 Katholieke Universiteit Brussel
 Katholieke Universiteit Leuven
-Katholieke Universiteit Leuven
 Royal Military Academy
 Thierry Graduate School of Leadership
 United Business Institute
@@ -456,7 +455,6 @@ Université de Liège
 Université de Mons-Hainaut
 Universiteit Antwerpen
 Universiteit Antwerpen Management School
-Universiteit Antwerpen
 Universiteit Gent
 Université Libre de Bruxelles
 Vesalius College
@@ -529,9 +527,6 @@ Universidad Autónoma del Beni "José Ballivián"
 Universidad Autónoma Gabriel René Moreno
 Universidad Autónoma Juan Misael Saracho
 Universidad Autónoma Tomás Frías
-Universidad Católica Boliviana
-Universidad Católica Boliviana
-Universidad Católica Boliviana
 Universidad Católica Boliviana
 Universidad Central
 Universidad de Aquino Bolivia
@@ -765,7 +760,6 @@ Vitebsk State Academy of Veterinary Medicine
 Vitebsk State Medical University
 Vitebsk State Technological University
 Vitebsk State University
-American University of the Caribbean
 Central America Health Sciences University (Belize Medical College)
 Greenford International University
 University of Belize
@@ -886,9 +880,6 @@ University of King's College
 University of Lethbridge
 University of Manitoba
 University of Moncton
-University of Moncton
-University of Moncton
-University of New Brunswick
 University of New Brunswick
 University of Northern British Columbia
 University of Ontario Institute of Technology
@@ -900,8 +891,6 @@ University of Saskatchewan
 University of St. Jerome's College
 University of St. Michael's College
 University of Sudbury
-University of Toronto
-University of Toronto
 University of Toronto
 University of Trinity College
 University of Victoria
@@ -958,7 +947,6 @@ Schiller International University
 School of Management Fribourg
 Swiss Business School Zurich (SBS)
 Swiss Federal Institute of Technology
-Swiss Federal Institute of Technology
 Swiss Management Center
 University Center "César Ritz"
 University of Applied Sciences Aargau
@@ -986,7 +974,6 @@ Université de Cocody
 Escuela de Arquitectura y Diseño
 Pontificia Universidad Catolica de Chile
 Universidad Academia de Humanismo Cristiano
-Universidad Academia de Humanismo Cristiano
 Universidad "Adolfo Ibañez"
 Universidad Adolfo Ibáñez
 Universidad Adventista de Chile
@@ -1003,7 +990,6 @@ Universidad Catolica del Maule
 Universidad Catolica del Norte
 Universidad Catolica de Temuco
 Universidad Catolica de Valparaiso
-Universidad Central
 Universidad Chileno Britanica de Cultura
 Universidad de Aconcagua
 Universidad de Antofagasta
@@ -1023,7 +1009,6 @@ Universidad de Los Lagos
 Universidad del Pacífico
 Universidad de Magallanes
 Universidad de Playa Ancha de Ciencias de la Educacion
-Universidad de San Andres
 Universidad de Santiago de Chile
 Universidad de Talca
 Universidad de Tarapacá
@@ -1205,7 +1190,7 @@ Hohai University Changzhou
 Huaihai Institute of Technology
 Huaihua Medical College
 Huaihua Radio and Television University
- Huaihua University
+Huaihua University
 Huanghe Science & Technology University
 Huaqiao University Quanzhuo
 Huazhong Agricultural University
@@ -1345,7 +1330,6 @@ South China Construction University
 South China Normal University
 South China University
 South China University of Technology
-Southeast University
 Southern Medial University
 Southern Yangtze University
 South University of Science and Technology of China 
@@ -1489,7 +1473,6 @@ Universidad Católica del Norte
 Universidad Católica del Oriente
 Universidad Católica de Manizales
 Universidad Católica Popular del Risaralda
-Universidad Central
 Universidad Central del Valle del Cauca
 Universidad CES
 Universidad Cooperativa de Colombia
@@ -1509,7 +1492,6 @@ Universidad del Atlántico
 Universidad del Cauca
 Universidad del Magdalena
 Universidad del Norte
-Universidad de Los Andes
 Universidad de Los Llanos
 Universidad del Quindío
 Universidad del Rosario
@@ -1544,7 +1526,6 @@ Universidad Piloto de Colombia
 Universidad Pontificia Bolivariana
 Universidad Popular del Cesar
 Universidad Santiago de Cali
-Universidad Santo Tomás
 Universidad Sergio Arboleda
 Universidad Surcolombiana
 Universidad Tecnológica del Choco "Diego Luis Cordoba"
@@ -1555,11 +1536,9 @@ Universidad Autónoma de Centro América
 Universidad Autonoma Monterrey
 Universidad Braulio Carrillo
 Universidad Católica Anselmo Llorente
-Universidad Central
 Universidad de Cartago Florencio del Castillo
 Universidad de Costa Rica
 Universidad de Iberoamérica
-Universidad de La Salle
 Universidad del Turismo
 Universidad de San José
 Universidad Empresarial
@@ -1575,7 +1554,6 @@ Universidad Libre de Costa Rica
 Universidad Metropolitana Castro Carazo
 Universidad Nacional
 Universidad para la Cooperación Internacional
-Universidad San Juan de la Cruz
 Universidad San Juan de la Cruz
 Universidad San Marcos
 Universidad Santa Paula
@@ -1727,7 +1705,6 @@ Fachhochschule Lübeck
 Fachhochschule Ludwigshafen
 Fachhochschule Mainz
 Fachhochschule Mannheim
-Fachhochschule Mannheim
 Fachhochschule Merseburg
 Fachhochschule München
 Fachhochschule Münster
@@ -1752,7 +1729,6 @@ Fachhochschule Schmalkalden
 Fachhochschule Schwäbisch Gmünd
 Fachhochschule Schwäbisch Hall
 Fachhochschule Stralsund
-Fachhochschule Stuttgart
 Fachhochschule Stuttgart
 Fachhochschule Trier
 Fachhochschule Ulm
@@ -1863,7 +1839,6 @@ Rheinische Friedrich-Wilhelms Universität Bonn
 Rheinisch Westfälische Technische Hochschule Aachen
 Ruhr-Universität Bochum
 Ruprecht-Karls-Universität Heidelberg
-Schiller International University
 SRH University of Applied Sciences
 Staatlich anerkannte Fachhochschule für Kunsttherapie
 Staatliche Hochschule für Musik
@@ -1943,7 +1918,6 @@ Lutheran School Of Theology In Aarhus
 Odense University
 Roskilde University
 Royal Academy of Music
-Royal Danish Academy of Fine Arts
 Royal Danish Academy of Fine Arts
 Royal Danish Academy of Music
 Royal Danish School of Educational Sciences
@@ -2075,7 +2049,6 @@ Al Azhar University
 Alexandria University
 American University in Cairo
 Arab Academy for Science & Technology
-Arab Open University
 Assiut University
 Benha University
 Beni Suef University
@@ -2124,7 +2097,6 @@ Iniciativa Universidad del Atlantico
 International University of Southern Europe
 La Salle Universities - International Programmes
 Mondragon Univertsitatea
-Schiller International University
 Universidad Abierta Interactiva
 Universidad Alfonso X El Sabio
 Universidad Antonio de Nebrija
@@ -2142,7 +2114,6 @@ Universidad de Burgos
 Universidad de Cádiz
 Universidad de Cantabria
 Universidad de Castilla La Mancha
-Universidad de Córdoba
 Universidad de Deusto
 Universidad de Extremadura
 Universidad de Gerona
@@ -2169,8 +2140,6 @@ Universidad de Vigo
 Universidad de Zaragoza
 Universidad Europea de Madrid
 Universidad Francisco de Vitoria
-Universidad Internacional de Andalucía
-Universidad Internacional de Andalucía
 Universidad Internacional de Andalucía
 Universidad Internacional Menéndez Pelayo
 Universidad Miguel Hernández de Elche
@@ -2437,8 +2406,6 @@ Institut Supérieur d'Agriculture Rhone-Alpes
 Institut Supérieure d'Electronique de Paris
 Institut Supérieure d'Electronique du Nord
 Institut Textile et Chimique de Lyon
-Schiller International University
-Schiller International University
 Université Blaise Pascal (Clermont-Ferrand II)
 Université Bordeaux I
 Université Catholique de Lille
@@ -2540,7 +2507,6 @@ Canterbury Christ Church University
 Cardiff University
 Central Saint Martins College of Art & Design
 Chelsea College of Art and Design
-City University
 Courtauld Institute of Art
 Coventry University
 Cranfield University
@@ -2590,13 +2556,11 @@ Oxford Brookes University
 Queen Mary and Westfield College
 Richmond University - The American International University in London
 Roehampton University of Surrey
-Royal Academy of Music
 Royal College of Art
 Royal College of Music
 Royal Free Hospital School of Medicine
 Royal Holloway and Bedford New College
 Saint George's Hospital Medical School
-Schiller International University
 School of Oriental and African Studies
 School of Pharmacy
 School of Slavonic and East European Studies
@@ -2678,13 +2642,8 @@ University of Teesside
 University of the West of England
 University of Ulster
 University of Wales
-University of Wales
-University of Wales
 University of Wales College of Medicine
 University of Wales Institute
-University of Wales
-University of Wales
-University of Wales
 University of Warwick
 University of Westminster
 University of Wolverhampton
@@ -2742,7 +2701,6 @@ Université Gamal Abdel Nasser de Conakry
 Université Julius Nyerere Kankan
 Université Kofi Annan
 Université Thierno Amadou Diallo
-Université des Antilles et de la Guyane
 Universidad Nacional de Guinea Ecuatorial
 Aegean University
 Agricultural University of Athens
@@ -2756,7 +2714,6 @@ Athens University of Economics and Business
 City University Athens
 DEI Bachelor & Master Degrees
 Dimocritus University of Thrace
-European University
 Harokopio University
 Hellenic Army Academy
 Hellenic Open University
@@ -2839,7 +2796,6 @@ University of Split
 University of Zadar
 University of Zagreb
 Zagreb School of Economics and Management
-American University of the Caribbean
 Université Chrétienne du Nord d'Haiti
 Université d'Etat d'Haiti
 Université Épiscopale d'Haiti
@@ -3075,8 +3031,6 @@ Irish International University (Distance Education)
 LSB College
 National College of Ireland
 National University of Ireland
-National University of Ireland
-National University of Ireland
 Royal College of Physicians of Ireland
 Royal College of Surgeons
 Shannon College of Hotel Management
@@ -3084,7 +3038,6 @@ University College Cork
 University College Dublin
 University of Dublin
 University of Limerick
-Warnborough University
 Waterford Institute Of Technology
 Acdemic Center for Law and Business
 Afeka Tel Aviv Academic College of Engineering
@@ -3225,14 +3178,6 @@ Indian Institute of Information Technology and Management - Kerala
 Indian Institute of Management
 Indian Institute of Science
 Indian Institute of Technology
-Indian Institute of Technology
-Indian Institute of Technology
-Indian Institute of Technology
-Indian Institute of Technology
-Indian Institute of Technology
-Indian Institute of Technology
-Indian Institute of Technology
-Indian Institute of Technology
 Indian Law Institue
 Indian School of Business Management and Administration
 Indian School of Mines (ISM)
@@ -3285,7 +3230,7 @@ Kurukshetra University
 Kuvempu University
 Lakshmibai National Institute of Physical Education
 Lalit Narayan Mithila University
- L.D.College of Engineering
+L.D. College of Engineering
 Madhya Pradesh Bhoj (Open) University
 Madurai Kamaraj University
 Magadh University
@@ -3320,12 +3265,7 @@ National Dairy Research Institute
 National Institute of Industrial Engineering
 National Institute of Mental Health and Neuro Sciences
 National Institute of Technology
-National Institute of Technology
-National Institute of Technology
 National Institute of Technology Kurukshetra
-National Institute of Technology
-National Institute of Technology
-National Institute of Technology
 National Law School of India University
 National Museum Institute of History of Art
 National Sanskrit University
@@ -3421,7 +3361,6 @@ Tilak Maharashtra Vidyapeeth
 Tilka Manjhi Bhagalpur University
 Tripura University
 Tumkur University
-University of Agricultural Sciences
 University of Agricultural Sciences
 University of Burdwan
 University of Calcutta
@@ -3560,57 +3499,6 @@ Isfahan University
 Isfahan University of Medical Sciences
 Isfahan University of Technology
 Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
-Islamic Azad University
 Jahrom University of Medical Sciences
 Jami Institute of Technology
 Kamalolmolk Art & Architecture Higher Education Institute of Noshahr
@@ -3636,7 +3524,6 @@ Mazandaran University of Science & Technology
 Mofid University
 Mustafa International University
 Najaf Abad University of Applied Science and Technology
-Payame Noor University
 Payame Noor University
 Persian Gulf University
 Petroleum University of Technology
@@ -3666,7 +3553,6 @@ Shahrekord University
 Shahrekord University of Medical Sciences
 Shahrood University of Medical Sciences
 Shahrood University of Technology
-Sharif University of Technology
 Sharif University of Technology
 Sheikhbahaee University
 Shiraz Payamnoor University
@@ -3724,7 +3610,6 @@ Basilicata University Potenza
 Campus Bio-Medico University of Rome
 Catholic University of the Sacred Heart
 Dutch University Institute for Art History (DUIA)
-European School of Economics
 European University Institute
 Fondazione Sacro Cuore
 Free International University of Social Studies
@@ -3809,10 +3694,8 @@ University of Urbino
 University of Venice
 University of Verona
 Viterbo State University
-Yorker International University
 Northern Caribbean University
 University of Technology Jamaica
-University of the West Indies
 Al-Ahliyya Amman University
 Al al-Bayt University
 Al-Balqa Applied University
@@ -3821,9 +3704,7 @@ Al-Isra University
 Al-Zaytoonah University
 Amman Arab University for Higher Studies
 Amman University
-Applied Science University
 Arab Academy for Banking and Financial Sciences
-Arab Open University
 Balqa Applied University
 German Jordanian University
 Hashemite University
@@ -4269,7 +4150,6 @@ Shiga University of Medical Science
 Shikoku Christian College
 Shikoku University
 Shimane University
-Shimane University
 Shimonoseki City University
 Shinshu University
 Shirayuri Women's College
@@ -4413,7 +4293,6 @@ Yokohama National University
 Adventist University of Africa
 Africa International University
 Africa Nazarene University
-Aga Khan University
 Catholic University of Eastern Africa
 Chuka University
 Daystar University
@@ -4492,7 +4371,6 @@ Svey Reong University
 University of Cambodia
 University of Health and Science
 University of Technology Phnom Penh
-Western University
 Zaman University
 International University for Graduate Studies
 Ross University Caribbean School of Veterinary Medicine
@@ -4575,7 +4453,6 @@ Korea National Open University
 Korea National University of Arts
 Korea National University of Education
 Korea National University of Physical Education
-Korea University
 Kosin University
 Kumoh National University of Technology
 Kunsan National University
@@ -4610,7 +4487,6 @@ Sang Ji University
 Sang Myung University
 Sejong University
 Semyung University
-Seokyeong University
 Seokyeong University
 Seonam University
 Seoul City University
@@ -4647,7 +4523,6 @@ Yonsei University
 Yosu National University
 American University of Kuwait 
 American University of Middle East
-Arab Open University
 Australlian College of Kuwait 
 Gulf University for Science and Technology
 Kuwait International Law School
@@ -4691,7 +4566,6 @@ Al-Manar University
 American University College of Technology
 American University of Beirut
 American University of Science and Technology
-Arab Open University
 Arts
 Balamand University
 Beirut Arab University
@@ -4701,7 +4575,6 @@ Global University
 Haigazian University
 Hariri Canadian University
 Holy Spirit University of Kaslik
-Jinan University
 Lebanese American University
 Lebanese International University
 Lebanese University
@@ -4878,7 +4751,7 @@ Technological University (Taunggyi)
 Technological University (Taungoo)
 Technological University (Thanlyin)
 Technological University (West Yangon)
- Technological University (Yangon)
+Technological University (Yangon)
 University of Computer Studies
 University of Medicine 1
 University of Medicine Magway
@@ -4895,8 +4768,7 @@ University of the Humanities
 Macau Polytechnic Institute
 University of Macau
 University of Saint Joseph
-Université des Antilles et de la Guyane
- Université de Nouakchott
+Université de Nouakchott
 University of Science
 European Institute of Education
 International Tourism Institute
@@ -4921,7 +4793,6 @@ El Colegio de México
 Escuela Bancaria y Comercial
 Escuela Nacional de Estudios Superiores Unidad León
 Instituto de Estudios Superiores de la Sierra
-Instituto Politécnico Nacional
 Instituto Politécnico Nacional
 Instituto Tecnológico Autonómo de México
 Instituto Tecnológico de Aguascalientes
@@ -4976,7 +4847,6 @@ Universidad Autónoma Metropolitana
 Universidad Autónoma Metropolitana - Azcapotzalco
 Universidad Autónoma Metropolitana - Iztapalapa
 Universidad Autónoma Metropolitana - Xochimilco
-Universidad Champagnat
 Universidad Chapultepéc
 Universidad Cientifica Latinoamericana de Hidalgo
 Universidad Cristóbal Colón
@@ -4988,20 +4858,15 @@ Universidad de Comunicación Avanzada
 Universidad de Cuautitlan Izcalli
 Universidad de Guadalajara
 Universidad de Guanajuato
-Universidad de Guanajuato
 Universidad de Hermosillo
-Universidad de La Salle
 Universidad de las Américas
 Universidad de las Américas - Puebla
 Universidad de la Sierra A.C.
 Universidad del Bajío
 Universidad del Centro de México
-Universidad de León
-Universidad del Mar
 Universidad del Mayab
 Universidad del Noreste
 Universidad del Noroeste
-Universidad del Norte
 Universidad del Tepeyac
 Universidad del Valle de Atemajac
 Universidad del Valle del Bravo
@@ -5020,9 +4885,6 @@ Universidad España de Durango
 Universidad Franciscana de México
 Universidad Franco-Mexicana
 Universidad Fray Luca Paccioli
-Universidad Hispanoamericana
-Universidad Iberoamericana
-Universidad Iberoamericana
 Universidad Insurgentes Plantel León
 Universidad Intercontinental
 Universidad Itaca
@@ -5052,8 +4914,6 @@ Universidad Nacional Autónoma de México
 Universidad Nuevo Mundo
 Universidad Obrera de Mexico
 Universidad Olmeca
-Universidad Panamericana
-Universidad Pedagógica Nacional
 Universidad Pedagógica Nacional
 Universidad Pedagógica Veracruzana
 Universidad Popular Autonóma del Estado de Puebla
@@ -5082,7 +4942,6 @@ Binary University College of Managemant & Entrepreneurship
 Brickfields Asia College
 British Malaysian Institute
 City University College of Science and Technology
-Curtin University of Technology
 Cyberjaya University College of Medical Science
 Darul Hikmah Islamic College
 Darul Naim College of Technology
@@ -5092,30 +4951,6 @@ Darul Ulum Islamic College
 FTMS Global Academy
 Help University College
 Iact College
-Institute of Teachers Education
-Institute of Teachers Education
-Institute of Teachers Education
-Institute of Teachers Education
-Institute of Teachers Education
-Institute of Teachers Education
-Institute of Teachers Education
-Institute of Teachers Education
-Institute of Teachers Education
-Institute of Teachers Education
-Institute of Teachers Education
-Institute of Teachers Education
-Institute of Teachers Education
-Institute of Teachers Education
-Institute of Teachers Education
-Institute of Teachers Education
-Institute of Teachers Education
-Institute of Teachers Education
-Institute of Teachers Education
-Institute of Teachers Education
-Institute of Teachers Education
-Institute of Teachers Education
-Institute of Teachers Education
-Institute of Teachers Education
 Institute of Teachers Education
 Institut Prima Bestari - Pine Academy 
 International Islamic College
@@ -5144,7 +4979,6 @@ Mara Poly-Tech College
 Melaka City Polytechnic
 Melaka Islamic University College
 Merlimau Polytechnic
-Monash University
 Muadzam Shah Polytechnic
 Multimedia University
 Murni Nursing College
@@ -5159,7 +4993,6 @@ Perlis Islamic Higher Learning Institute
 Petronas Technology University
 Port Dickson Polytechnic
 Primier International University Perak
-PTPL College
 PTPL College
 Raffles University
 Saito College
@@ -5177,7 +5010,6 @@ Sultan Ismail Petra International Islamic College
 Sultan Mizan Zainal Abidin Polytechnic
 Sultan Salahuddin Abdul Aziz Shah Polytechnic
 Sunway University College
-Swinburne University of Technology
 Taj International College
 Taylor's University College
 TPM College
@@ -5213,7 +5045,6 @@ Universiti Utara Malaysia
 University College of Technology & Innovation (UCTI)
 University Malaysia Pahang
 University of Management and Technology 
-University of Nottingham
 University Tun Abdul Razak
 Wawasan Open University
 West Minster International College
@@ -5271,9 +5102,6 @@ Enugu State University of Science and Technology
 Federal College Of Education (Technical)
 Federal Polytechnic Bauchi
 Federal University of Petroleum Resources
-Federal University of Technology
-Federal University of Technology
-Federal University of Technology
 Federal University of Technology
 Fountain University
 Godfrey Okoye University
@@ -5355,7 +5183,6 @@ Universidad Ciencias Comerciales
 Universidad de las Américas (ULAM)
 Universidad de las Regiones Autónomas de la Costa Caribe Nicaragüense
 Universidad de Managua (U de M)
-Universidad Hispanoamericana
 Universidad Iberoamericana de Ciencia y Tecnologia
 Universidad Internacional de Integración de América Latina
 Universidad Nacional Agraria
@@ -5450,7 +5277,6 @@ University of Otago
 University of Waikato
 Victoria University of Wellington
 Al-Buraimi University College
-Arab Open University
 Dhofar University
 Ibra College of Technology
 Majan University College
@@ -5467,7 +5293,6 @@ Universidad Abierta y a Distancia de Panama
 Universidad Autonoma de Chiriqui
 Universidad Católica Santa María La Antigua
 Universidad de Cartago
-Universidad del Istmo
 Universidad de Panamá
 Universidad Especializada de Las Americas
 Universidad Interamericana de Educacion a Distancia de Panama
@@ -5490,7 +5315,6 @@ Universidad de Ciencias y Humanidades
 Universidad de Huánuco
 Universidad de Lambayeque
 Universidad de Lima
-Universidad del Pacifico
 Universidad de Piura
 Universidad Femenina del Sagrado Corazón
 Universidad Los Angeles de Chimbote
@@ -5574,12 +5398,10 @@ Colegio de San Juan de Letran
 College of the Holy Spirit
 Davao Doctors College
 De La Salle University
-De La Salle University
 Divine Word College of Legazpi
 Don Mariano Marcos Memorial State University
 Far Eastern University
 Feati University
-Foundation University
 Holy Angel University
 Information and Communications Technology Academy
 Irish University Business School
@@ -5596,11 +5418,9 @@ Mindanao State University
 Mindanao State University - Iligan Institute of Technology
 Misamis University
 Mountain View College
-National University
 New Era University
 Northwestern University of the Philippines
 Notre Dame of Marbel University
-Notre Dame University
 Our Lady of Fatima University
 Palawan State University
 Pangasinan State University
@@ -5637,7 +5457,6 @@ University of Northern Philippines
 University of Nueva Caceres
 University of Pangasinan
 University of Perpetual Help
-University of Perpetual Help
 University of Regina Carmeli
 University of Saint La Salle
 University of San Agustin
@@ -5650,8 +5469,6 @@ University of Southern Philippines Foundation
 University of the Assumption
 University of the City of Manila
 University of the Cordilleras
-University of the East
-University of the East
 University of the East
 University of the Immaculate Conception
 University of the Philippines Baguio
@@ -5669,7 +5486,6 @@ Western Mindanao State University
 West Visayas State University
 Xavier University
 Abasyn University Peshawar
-Aga Khan University
 Air University
 Alhamd Islamic University
 Al-Khair University
@@ -5687,10 +5503,6 @@ Balochistan University of Information Technology & Management Sciences
 Baqai Medical University
 Cecos Univeristy of Information Technology
 College of Business Management ( CBM )
-COMSATS Institute of Information Technology
-COMSATS Institute of Information Technology
-COMSATS Institute of Information Technology
-COMSATS Institute of Information Technology
 COMSATS Institute of Information Technology
 COSMIQ Institute of Technology
 Dadabhoy Institute of Higher Education
@@ -5720,9 +5532,7 @@ Institute of Business Management
 Institute of Business & Technology
 Institute of Industrial Electronics Engineering
 Institute of Management Sciences
-Institute of Management Sciences
 Institute of Space Technology
-International Islamic University
 Iqra University
 Islamia University of Bahawalpur
 Isra University
@@ -5739,7 +5549,6 @@ Lahore University of Management Sciences
 Liaquat University of Medical & Health Sciences Jamshoro
 Mehran University of Engineering & Technology
 Minhaj University Lahore
-Mohammad Ali Jinnah University
 Mohammad Ali Jinnah University
 Mohi-ud-Din Islamic University
 Mooreland University
@@ -5780,7 +5589,6 @@ University of Agriculture Faisalabad
 University of Balochistan
 University of Central Punjab
 University of East
-University of Education
 University of Engineering and Technology Lahore
 University of Engineering and Technology Peshawar
 University of Engineering and Technology Taxila
@@ -5798,7 +5606,6 @@ University of Sargodha
 University of Science & Technology Bannu
 University of Sindh
 University of South Asia
-University of the Punjab
 University of the Punjab
 University of Veterinary & Animal Science
 University of Wah
@@ -5837,14 +5644,13 @@ Fine Arts Academy in Poznan
 Fine Arts Academy in Warsaw
 Fine Arts Academy in Wroclaw
 Fine Arts Academy "Jan Matejko" in Cracow"
-Fine Arts Academy Wladyslaw Strzeminski in Lodz
+Fine Arts Academy Wladyslaw Strzeminski in Lodz
 French Institute of Management
 Gdansk Management College
 Gdynia Maritime Academy
 Higher School o Business in Tarnow
 Higher School o Business/National Louis University(WSB/NLU) in Nowy Sacz
 Jagiellonian University Cracow
-Józef Tyszkiewicz College of Business and Computer Science in Bielsko-Biala
 Józef Tyszkiewicz College of Business and Computer Science in Bielsko-Biala
 Katowice School of Economics
 Lazarski School of Commerce and Law
@@ -5860,8 +5666,8 @@ Medical Academy in Lodz
 Medical Academy in Lublin
 Medical Academy in Warszawa
 Medical Academy in Wroclaw
-Medical Academy Karol Marcinkowski in Poznan
-Medical Academy Ludwik Rydygier in Bydgoszcz
+Medical Academy Karol Marcinkowski in Poznan
+Medical Academy Ludwik Rydygier in Bydgoszcz
 Music Academy "Felix Nowowiejski" in Bydgoszcz"
 Music Academy "Fryderyk Chopin" in Warszaw"
 Music Academy "Ignacy Jana Paderewski" in Poznan"
@@ -5947,21 +5753,7 @@ Universidad Central del Caribe
 Universidad del Sagrado Corazon
 Universidad del Turabo
 Universidad de Puerto Rico
-Universidad de Puerto Rico
-Universidad de Puerto Rico
-Universidad de Puerto Rico
-Universidad de Puerto Rico
-Universidad de Puerto Rico
-Universidad de Puerto Rico
-Universidad de Puerto Rico
-Universidad de Puerto Rico
-Universidad de Puerto Rico
-Universidad de Puerto Rico
-Universidad de Puerto Rico
 Universidad Interamericana de Puerto Rico
-Universidad Interamericana de Puerto Rico
-Universidad Interamericana de Puerto Rico
-Universidad Metropolitana
 Universidad Politecnica de Puerto Rico
 Al-Aqsa University
 Al-Azhar University of Gaza
@@ -6041,7 +5833,6 @@ Universidade Moderna de Lisboa
 Universidade Nova de Lisboa
 Universidade Portucalense Infante D. Henrique
 Universidade Tecnica de Lisboa
-Universidad Americana
 Universidad Autónoma de Asunción
 Universidad Autónoma del Paraguay
 Universidad Católica Nuestra Senora de la Asunción
@@ -6049,7 +5840,6 @@ Universidad Columbia del Paraguay
 Universidad Comunera
 Universidad de la Integración de las Americas (UNIDAD)
 Universidad del Cono Sur de las Américas
-Universidad del Norte
 Universidad Metropolitana de Asunción
 Universidad Nacional de Asunción
 Universidad Nacional del Este
@@ -6120,10 +5910,8 @@ University "Transilvany" of Brasov"
 Valahia University of Targoviste
 West University of Timisoara
 Drzavni Univerzitet u Novom Pazaru
-European University
 International University of Novi Pazar
 Megatrend University of Applied Sciences
-Metropolitan University
 Privredna Akademija (Business Academy)
 Singidunum University
 University of Belgrade
@@ -6374,7 +6162,6 @@ St. Petersburg State University of Aerospace Instrumentation
 St. Petersburg State University of Architecture and Civil Engineering
 St. Petersburg State University of Civil Aviation
 St. Petersburg State University of Culture and Arts
-St. Petersburg State University of Culture and Arts
 St. Petersburg State University of Economics and Finance
 St. Petersburg State University of Engineering and Economics
 St. Petersburg State University of Information Technologies
@@ -6466,7 +6253,6 @@ Al-Imam Mohamed Ibn Saud Islamic University
 Aljouf University
 Alkharj University
 Al-Yamamah College
-Arab Open University
 Batterjee Medical College
 Buraydah College for Applied Medical Sciences
 College of Busniess Admnistration
@@ -6523,7 +6309,6 @@ University of Tabuk
 Yanbu Industrial College
 Yanbu Technical Institute
 Yanbu University College
-University of the South Pacific
 University of Seychelles
 University of Seychelles - American Institute of Medicine
 Ahfad University for Women
@@ -6559,7 +6344,6 @@ University of Holy Quran and Islamic Siences
 University of Khartoum
 University of Kordofan
 University Of Medical Sciences & Technology (UMST)
-University of Science and Technology
 Upper Nile University
 Blekinge Institute of Technology
 Chalmers University of Technology
@@ -6683,14 +6467,12 @@ Universidad Católica de Occidente
 Universidad Centroamericana "José Simeón Canas"
 Universidad Cristiana de las Asambleas de Dios
 Universidad de El Salvador
-Universidad de Oriente
 Universidad de Sonsonate
 Universidad Don Bosco
 Universidad Dr. Andreas Bello
 Universidad Dr. Jose Matias Delgado
 Universidad Evangélica de El Salvador
 Universidad Francisco Gavidia
-Universidad Isaac Newton
 Universidad Luterana Salvadorena
 Universidad Modular Abierta
 Universidad Monsenor Oscar Arnulfo Romeo
@@ -6763,8 +6545,6 @@ Payap University Chaiang Mai
 Phranakhon Si Ayutthaya Rajabhat University
 Prince of Songkla University
 Rajamangala University of Technology
-Rajamangala University of Technology
-Rajamangala University of Technology
 Ramkhamhaeng University
 Rangsit University
 Shinawatra University
@@ -6785,7 +6565,6 @@ Ubonratchathani University
 University of the Thai Chamber of Commerce
 Vongchavalitkul University
 Walailak University
-Webster University
 Yonok University
 Tajik Agrarian University
 Tajikistan International University
@@ -6888,7 +6667,6 @@ Pamukkale University
 Sabanci University
 Sakarya University
 Selcuk University
-Suleyman Demirel University
 Tobb Economics and Technology University
 Trakya University
 Türkisch-Deutsche Universität
@@ -6941,7 +6719,6 @@ National Chiayi University
 National Chi Nan University
 National Chung Cheng University
 National Chung Hsing University
-National Chung Hsing University
 National College of Physical Education and Sports
 National Dong Hwa University
 National Formosa University
@@ -6993,7 +6770,6 @@ Tunghai University
 Tzu Chi College of Medicine and Humanities
 Yuan Ze University
 African Virtual University
-Aga Khan University
 Dares Salaam Institute of Technology
 Hubert Kairuki Memorial University
 Institute of Accountancy Arusha
@@ -7089,7 +6865,6 @@ Vinnica National Technical University
 Volyn National University Lesja Ukrainka
 Zaporizhzhe National Technical University
 Zaporizhzhe National University
-Aga Khan University
 Bugema University
 Busitema University
 Busoga University
@@ -7154,7 +6929,6 @@ American International College
 American Jewish University
 American Military University
 American Public University
-American University
 American World University
 Amherst College
 Anderson College
@@ -7178,13 +6952,6 @@ Argosy University
 Argosy University - Hawaii
 Arizona Christian University
 Arizona State University
-Arizona State University
-Arizona State University
-Arizona State University
-Arizona State University
-Arkansas State University
-Arkansas State University
-Arkansas State University
 Arkansas State University
 Arkansas Tech University
 Arlington Baptist College
@@ -7209,7 +6976,6 @@ Auburn University
 Auburn University at Montgomery
 Audrey Cohen College
 Augsburg College
-Augustana College
 Augustana College
 Augusta State University
 Aurora University
@@ -7262,7 +7028,6 @@ Bemidji State Univeristy
 Benedict College
 Benedictine College
 Benedictine University
-Benedictine University
 Bennett College
 Bennington College
 Bentley College
@@ -7302,7 +7067,6 @@ Boston University
 Bowdoin College
 Bowie State University
 Bowling Green State University
-Bowling Green State University
 Bradley University
 Brandeis University
 Brandman University
@@ -7314,7 +7078,6 @@ Breyer State University (Virtual University)
 Briar Cliff College
 Bridgewater College
 Bridgewater State College
-Brigham Young University
 Brigham Young University
 Brigham Young University Hawaii
 Brooklyn Law School
@@ -7349,20 +7112,6 @@ California School of Professional Psychology - Fresno
 California School of Professional Psychology - Los Angels
 California School of Professional Psychology - San Diego
 California State Polytechnic University - Pomona
-California State University
-California State University
-California State University
-California State University
-California State University
-California State University
-California State University
-California State University
-California State University
-California State University
-California State University
-California State University
-California State University
-California State University
 California State University
 California University of Management and Sciences
 California University of Pennsylvania
@@ -7424,22 +7173,9 @@ Christian Brothers University
 Christian Heritage College
 Christopher Newport University
 Circleville Bible College
-City University
-City University of New York
-City University of New York
-City University of New York
 City University of New York
 City University of New York (CUNY) System
-City University of New York
-City University of New York
-City University of New York
-City University of New York
-City University of New York
 City University of New York Medical School / Sophie Davis School of Biomedical Education
-City University of New York
-City University of New York
-City University of New York
-City University of New York
 Claflin College
 Claremont Graduate University
 Claremont Lincoln University
@@ -7455,7 +7191,6 @@ Clearwater Christian College
 Cleary College
 Clemson University
 Cleveland Chiropractic College
-Cleveland Chiropractic College
 Cleveland Institute of Art
 Cleveland Institute of Music
 Cleveland State University
@@ -7467,7 +7202,6 @@ Colby College
 Colby-Sawyer College
 Coleman College
 Colgate University
-CollegeAmerica
 CollegeAmerica
 College for Creative Studies
 College for Financial Planning
@@ -7512,20 +7246,9 @@ Columbia Union College
 Columbia University
 Columbus College of Art and Design
 Columbus State University
-Columbus University
 Community College of Denver
 Concord College
 Concordia College
-Concordia College
-Concordia College
-Concordia College
-Concordia College
-Concordia College
-Concordia University
-Concordia University
-Concordia University
-Concordia University
-Concordia University
 Connecticut College
 Converse College
 Conway School of Landscape Design
@@ -7554,8 +7277,6 @@ Danville Area Community College
 Dartmouth College
 Darton College
 Davenport College of Business
-Davenport College of Business
-Davenport College of Business
 Davidson College
 Davis and Elkins College
 Deaconess College of Nursing
@@ -7574,14 +7295,6 @@ Detroit College of Business
 Detroit College of Business - Flint
 Detroit College of Business - Warren
 Detroit College of Law
-DeVry Institute of Technology
-DeVry Institute of Technology
-DeVry Institute of Technology
-DeVry Institute of Technology
-DeVry Institute of Technology
-DeVry Institute of Technology
-DeVry Institute of Technology
-DeVry Institute of Technology
 Dickinson College
 Dickinson State University
 Dillard University
@@ -7622,7 +7335,6 @@ Eastern Washington University
 East Stroudsburg State University
 East Tennessee State University
 East Texas Baptist University
-East-West University
 Eckerd College
 Edgewood College
 Edinboro University of Pennsylvania
@@ -7652,7 +7364,6 @@ Excel College
 Excelsior College
 Fairfield University
 Fairleigh Dickinson University
-Fairleigh Dickinson University
 Fairmont State College
 Fashion Institute of New York
 Faulkner University
@@ -7675,9 +7386,6 @@ Florida Gulf Coast University
 Florida Institute of Technology
 Florida International University
 Florida Memorial College
-Florida Metropolitan University
-Florida Metropolitan University
-Florida Metropolitan University
 Florida Metropolitan University
 Florida Southern College
 Florida State University
@@ -7877,12 +7585,10 @@ John Carroll University
 John F. Kennedy University
 John Marshall Law School
 John Paul the Great Catholic University
-Johns Hopkins University
 Johnson Bible College
 Johnson County Community College
 Johnson C. Smith University
 Johnson State College
-Johnson & Wales University
 Johnson & Wales University
 John Wesley College
 Jones College
@@ -7918,7 +7624,6 @@ Kenyon College
 Kettering University (GMI)
 Keuka College
 King College
-King's College
 Kirksville College of Osteopathic Medicine
 Kirkwood Community College
 Knox College
@@ -7977,8 +7682,6 @@ Lock Haven University of Pennsylvania
 Logan College of Chiropractic
 Loma Linda University
 Long Island University
-Long Island University
-Long Island University
 Longwood College
 Loras College
 Los Angeles College of Chiropractic
@@ -7997,7 +7700,6 @@ Loyola University New Orleans
 Loyola University of Chicago
 Lubbock Christian University
 Lutheran Bible Institute of Seattle
-Luther College
 Lycoming College
 Lynchburg College
 Lyndon State College
@@ -8007,7 +7709,6 @@ Macalester College
 MacMurray College
 Macon State College
 Madison University (Distance Education)
-Madonna University
 Maharishi University of Management
 Maine College of Art
 Maine Maritime Academy
@@ -8066,7 +7767,6 @@ Meharry Medical College
 Memphis College of Art
 Menlo College
 Mennonite College of Nursing
-Mercer University
 Mercer University
 Mercy College
 Mercyhurst College
@@ -8165,12 +7865,6 @@ Murray State University
 Muskingum College
 NAES College
 National American University
-National American University
-National American University
-National American University
-National American University
-National American University
-National American University
 National College of Chiropractic
 National College of Naturopathic Medicine
 National Defense University
@@ -8178,7 +7872,6 @@ National Hispanic University
 National-Louis University
 National Technological University
 National Theatre Conservatory
-National University
 Naval Postgraduate School
 Nazarene Bible College
 Nazareth College
@@ -8208,11 +7901,9 @@ New York Academy of Art
 New York Chiropractic College
 New York College of Podiatric Medicine
 New York Film Academy
-New York Institute of Technology
 New York Law School
 New York Medical College
 New York School of Interior Design
-New York University
 Niagara University
 Nicholls State University
 Nichols College
@@ -8229,7 +7920,6 @@ North Dakota State University
 Northeastern Illinois University
 Northeastern Ohio University College of Medicine
 Northeastern State University
-Northeastern University
 Northern Arizona University
 Northern Illinois University
 Northern Kentucky University
@@ -8252,8 +7942,6 @@ Northwestern University
 Northwest Missouri State University
 Northwest Nazarene University
 Northwest University
-Northwood University
-Northwood University
 Northwood University
 Norwich University
 Notre Dame College
@@ -8352,7 +8040,6 @@ Peru State College
 Pfeiffer University
 Philadelphia College of Bible
 Philadelphia College of Osteopathic Medicine
-Philadelphia University
 Philander Smith College
 Phillips Graduate Institute
 Phillips University
@@ -8365,9 +8052,6 @@ Pitzer College
 Plymouth State College
 Point Loma Nazarene College
 Point Park College
-Polytechnic University
-Polytechnic University
-Polytechnic University
 Pomona College
 Portland Community College
 Portland State University
@@ -8376,7 +8060,6 @@ Prairie View Agricultural and Mechanical University
 Pratt Institute
 Presbyterian College
 Prescott College
-Preston University
 Princeton University
 Principia College
 Providence College
@@ -8393,11 +8076,6 @@ Ramapo College of New Jersey
 Rand Graduate School of Policy Studies
 Randolph-Macon College
 Randolph-Macon Woman's College
-Rasmussen College
-Rasmussen College
-Rasmussen College
-Rasmussen College
-Rasmussen College
 Rasmussen College
 Reed College
 Reformed Bible College
@@ -8423,7 +8101,6 @@ Robert Morris College
 Robert Morris College of Chicago
 Roberts Wesleyan College
 Rochester College
-Rochester Institute of Technology
 Rockford College
 Rockhurst College
 Rock Valley College
@@ -8440,8 +8117,6 @@ Rowan University
 Rush University
 Russel Sage College
 Rust College
-Rutgers
-Rutgers
 Rutgers
 Sacred Heart University
 Sage Graduate School
@@ -8469,7 +8144,6 @@ Sarah Lawrence College
 Savannah College of Art and Design
 Savannah State University
 Saybrook Institute
-Schiller International University
 Scholl College of Podiatric Medicine
 School for International Training
 School of the Museum of Fine Arts
@@ -8548,13 +8222,11 @@ Southwestern Christian University
 Southwestern College Kansas
 Southwestern College Santa Fe
 Southwestern Oklahoma State University
-Southwestern University
 Southwestern University School of Law
 Southwest Missouri State University
 Southwest Missouri State University - West Plains
 Southwest State University
 Southwest Texas State University
-Southwest University
 Spalding University
 Spelman College
 Spertus Institute of Jewish Studies
@@ -8609,20 +8281,15 @@ Sterling College
 Stetson University
 Stevens Institute of Technology
 St. Francis College
-St. Francis College
-St. Francis College
 St. Francis Medical Center College of Nursing
-St. George's University
 Stillman College
 St. John Fisher College
 St. John's College Maryland
 St. John's College New Mexico
 St. John's Seminary
-St. John's University
 St. Joseph College
 St. Joseph College of Nursing
 St. Joseph's College
-St. Joseph's College New York
 St. Joseph's College New York
 St. Joseph's College of Maine
 St. Joseph's University
@@ -8650,7 +8317,6 @@ St. Petersburg College
 St. Peter's College
 Strayer University
 St. Thomas Aquinas College
-St. Thomas University
 St. Vincent College
 St. Xavier University
 Suffolk University
@@ -8663,7 +8329,6 @@ Syracuse University
 Tabor College
 Talladega College
 Tarleton State University
-Taylor University
 Taylor University
 Teachers College
 Temple University
@@ -8750,13 +8415,8 @@ Trinity College of Vermont
 Trinity International University
 Trinity International University (Excel)
 Trinity University
-Trinity University
 Tri-State University
 Triton College
-Troy University
-Troy University
-Troy University
-Troy University
 Troy University
 Truman College
 Truman State University
@@ -8772,7 +8432,6 @@ Union Theological Seminary (UTS)
 Union University
 United States Air Force Academy
 United States Coast Guard Academy
-United States International University
 United States Merchant Marine Academy
 United States Military Academy
 United States Naval Academy
@@ -8797,17 +8456,6 @@ University of Arkansas for Medical Sciences
 University of Arkansas (System)
 University of Baltimore
 University of Bridgeport
-University of California
-University of California
-University of California
-University of California
-University of California
-University of California
-University of California
-University of California
-University of California
-University of California
-University of California
 University of California
 University of California System
 University of Central Arkansas
@@ -8847,9 +8495,6 @@ University Of Hawaii - System
 University of Hawaii - West Oahu
 University of Health Sciences
 University of Houston
-University of Houston
-University of Houston
-University of Houston
 University of Idaho
 University of Illinois
 University of Illinois at Chicago
@@ -8863,11 +8508,6 @@ University of La Verne
 University of Louisiana at Lafayette
 University of Louisiana at Monroe
 University of Louisville
-University of Maine
-University of Maine
-University of Maine
-University of Maine
-University of Maine
 University of Maine
 University of Maine (System)
 University of Management & Technology
@@ -8912,8 +8552,6 @@ University of Nebraska - Omaha
 University of Nebraska (System)
 University of Nevada - Las Vegas
 University of Nevada - Reno
-University of New England
-University of New England
 University of New Hampshire
 University of New Hampshire - Manchester
 University of New Haven
@@ -8930,12 +8568,10 @@ University of North Carolina at Wilmington
 University of North Dakota
 University of Northern Colorado
 University of Northern Iowa
-University of Northern Virginia
 University of Northern Washington
 University of North Florida
 University of North Texas
 University of North Texas Health Science Center at Fort Worth
-University of NorthWest
 University of Notre Dame
 University of Oklahoma
 University of Oklahoma Health Sciences Center
@@ -8976,7 +8612,6 @@ University of Southern Mississippi
 University of South Florida
 University of St. Francis
 University of St. Thomas
-University of St. Thomas
 University of Tampa
 University of Tennessee - Chattanooga
 University of Tennessee - Knoxville
@@ -9012,8 +8647,6 @@ University of Tulsa
 University of Utah
 University of Vermont
 University of Virginia
-University of Virginia
-University of Washington
 University of Washington
 University of West Alabama
 University of West Florida
@@ -9079,9 +8712,6 @@ Washington and Lee University
 Washington Bible College
 Washington College
 Washington State University
-Washington State University
-Washington State University
-Washington State University
 Washington University in St. Louis
 Wayland Baptist University
 Waynesburg College
@@ -9090,7 +8720,6 @@ Wayne State University
 Webber College
 Webb Institute
 Weber State University
-Webster University
 Webster University North Florida
 Weill Medical College of Cornell University
 Wellesley College
@@ -9158,7 +8787,6 @@ Williams College
 William Tyndale College
 William Woods University
 Wilmington College
-Wilmington College
 Wilson College
 Wingate University
 Winona State University
@@ -9173,14 +8801,11 @@ Worcester Polytechnic Institute
 Worcester State College
 Wright Institute
 Wright State University
-Xavier University
 Xavier University of Louisiana
 Yale University
 Yeshiva University
 York College Nebraska
 York College of Pennsylvania
-Yorker International University
-York University
 Youngstown State University
 Insituto Universitario - Centro Latinoamericano de Economia Humana - IU Claeh
 Universidad Católica del Uruguay
@@ -9225,15 +8850,12 @@ Universidad Católica del Táchira
 Universidad Central de Venezuela
 Universidad Centro Occidental Lisandro Alvarado
 Universidad de Carabobo
-Universidad de Los Andes
 Universidad del Zulia
-Universidad de Oriente
 Universidad Dr. Rafael Belloso Chacín
 Universidad Fermin Toro
 Universidad Gran Mariscal de Ayacucho
 Universidad José Antonio Páez
 Universidad José Maria Vargas
-Universidad Metropolitana
 Universidad Monteávila
 Universidad Nacional Abierta
 Universidad Nacional Experimental de Guayana
@@ -9250,7 +8872,6 @@ Universidad Nueva Esparta
 Universidad Pedagógica Experimental Libertador
 Universidad Rafael Urdaneta
 Universidad Santa Maria Caracas
-Universidad Simón Bolivar
 Universidad Tecnológica del Centro
 Universidad Valle del Momboy
 Universidad Yacambu
