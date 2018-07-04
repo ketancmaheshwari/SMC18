@@ -34,7 +34,7 @@ the bulk of processing, I use awk. Syntax in awk programs is known to be terse
 and hard to read by some accounts. I have taken special care to make the awk
 programs as readable as possible.  ANL's Swift parallel scripting tool was used
 to run the awk programs in parallel over the dataset to radically improve
-performance.  Swift uses MPI based communication and load-balancing model to
+performance. Swift uses MPI based communication and load-balancing model to
 parallelize over shared as well as distributed memory architectures.
 
 \subsection*{Hardware}
@@ -81,6 +81,10 @@ mag/mag_papers_4.txt > mag/mag_papers_4.col.txt
 Further curation of columnar data was done by removing extraneous space, square brackets, escape characters and quotes using \texttt{sed}.
 
 \subsection*{parallelization and Speedup}
+Each of the solution is run in parallel over the 334 data files. This has
+resulted in radical speedup of each of the problems. As mentioned in the
+description of the solutions in the sections below, none of the solution has
+taken more than a minute of runtime.
 
 \subsection*{prob1}
 
@@ -99,10 +103,8 @@ Further curation of columnar data was done by removing extraneous space, square 
 \section*{Summary}
 In this work I show how the time tested Linux tools can be leveraged to solve
 modern problems. I show that hundreds or millions of records may be processed
-in under a minute using HPC parallel scripting. While some of the results may
-be refined further, nonetheless a reasonable insight about the data may be
-obtained using these tools without employing any formal sophisticated
-algorithms.
+in under a minute using Swift. I show the results that offer insight into the
+data without employing any formal sophisticated algorithms.
 
 \section*{Acknowledgements.}
 I acknowledge Brian Zachary, Suhas Somnath, Drew Schmidt for their helpful
