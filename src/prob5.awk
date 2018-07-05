@@ -21,10 +21,7 @@ BEGIN{
     keywords=18; abstract=19; authors=20;
 }
 
-/energy/ && /computer/ && /intelligence/ && /material/ && $7~/en/ && $20!~/null/ {
-    n++
-    print $1,$2,$14,$20}
-
-END{
-    printf("A total of %d matches found.\n", n)
+$0~topic1 && $0~topic2 && $0~topic3 && $0~topic4 && $lang~/en/ && $authors!~/null/{
+    print $id, $title, $authors, $year
 }
+

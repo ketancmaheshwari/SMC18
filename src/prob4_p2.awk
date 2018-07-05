@@ -14,7 +14,7 @@
 
 # Solution 2 is to find the highest cited paper yearwise and figure out the topics it was based on
 BEGIN{
-    FS = "qwqw"
+    FS = OFS = "qwqw"
     IGNORECASE = 1
     # Field names
     id=1; title=2; num_authors=3; doi=4; fos_isbn=5; doctype_issn=6;
@@ -23,14 +23,15 @@ BEGIN{
     keywords=18; abstract=19; authors=20;
 }
 
-$lang~/en/ && $year!~/null/ && $keywords!~/null/ && $n_citation!~/null/ && $n_citation>max[$year]{
+$lang~/en/ && $year!~/null/ && $year < 2020 && $keywords!~/null/ && $n_citation!~/null/ && $n_citation>max[$year]{
     max[$year]=$n_citation; a[$year]=$keywords
 }
 
 END{
 n=asorti(a,b)
-for (i=1;i<=n;i++) printf("%d : %s : %d\n", b[i], a[b[i]], max[b[i]])
+for (i=1;i<=n;i++) print b[i], a[b[i]], max[b[i]]
 }
-#awk -f code/prob4_p2.awk aminer_papers_allcols_excl/aminer_papers_*.allcols.excl.txt mag_papers_allcols/mag_papers_*.allcols.txt > yearwise_trending_keywords.txt
+# Run via Swift in parallel. If serial, run like so:
+#awk -f code/prob4_p2.awk aminer_mag_papers/*.txt > yearwise_trending_keywords.txt
 
 # Solution 3 is to find the top 5 trending topics yearwise and see how they appear/disappear in the trend
