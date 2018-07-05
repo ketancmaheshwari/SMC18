@@ -56,7 +56,9 @@ containing a million records. The data also consisted of a file that recorded
 the list of duplicate records. An \texttt{awk} script was used to exclude the
 duplicate records from the aminer dataset. As a result, there are over 256
 million (256,382,605 to be exact) unique records to process. The data occupies
-329G of disk space.
+329G of disk space. Several fields in the data are \texttt{null}. Those records
+were avoided where relevant. Additionally, records related to non-English
+publications were avoided where needed.
 
 The json files were converted to tabular files with 19 original columns and one
 additional column called ``num\_authors" showing the number of authors for a given
