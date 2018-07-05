@@ -15,4 +15,4 @@ foreach v, i in aminer{
 file joined <"joined.txt"> = cat(outfiles);
 
 // After running the swift app (This is not correct, need to find max $1 for given year)
-// awk -F: '{a[$2]+=$1} END{for (k in a) print a[k],k}' joined.txt | sort -nr > freq.txt
+// awk -F: '{if($1>max[$2]) max[$2]=$1} END{for (k in max) print max[k],k}' joined.txt | sort -nr > freq.txt
