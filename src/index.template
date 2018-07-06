@@ -66,6 +66,6 @@ svg.append("text")
         .attr("y", 60)
         .attr("text-anchor", "middle")  
         .style("font-size", "46px") 
-        .text("1803");
+        .text("YEAR");
 });
 </script>

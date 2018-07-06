@@ -14,6 +14,7 @@ cat << END >grab_bubble_plot_phantom.js
    phantom.exit();
  });
 END
+sed  "s/YEAR/$i/" index.template > index.html
 sleep 10
 ~/phantomjs-2.1.1-macosx/bin/phantomjs grab_bubble_plot_phantom.js
 done
