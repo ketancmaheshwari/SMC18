@@ -2,7 +2,7 @@
  page.open('http://localhost:8888', function(status) {
    console.log("Status: " + status);
    if(status === "success") {
-     page.render("1803.png");
+     page.render("2017.png");
    }
    phantom.exit();
  });
