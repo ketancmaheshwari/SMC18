@@ -18,18 +18,19 @@
 # step3. Find the papers with high number of citations; authors of these papers would be considered experts.
 # step4. Find the authors who have won nobel prizes--they would certainly be considered experts.
 
-BEGIN{
-    FS="qwqw"
-    OFS="\t"
-    IGNORECASE=1
-    # Field names
-    id=1; title=2; num_authors=3; doi=4; fos_isbn=5; doctype_issn=6;
-    lang=7; n_citation=8; issue=9; url=10; volume=11; page_start=12;
-    page_end=13; year=14; venue=15; publisher_pdf=16; references=17;
-    keywords=18; abstract=19; authors=20;
-}
+#BEGIN{
+#    FS="qwqw"
+#    OFS="\t"
+#    IGNORECASE=1
+#    # Field names
+#    id=1; title=2; num_authors=3; doi=4; fos_isbn=5; doctype_issn=6;
+#    lang=7; n_citation=8; issue=9; url=10; volume=11; page_start=12;
+#    page_end=13; year=14; venue=15; publisher_pdf=16; references=17;
+#    keywords=18; abstract=19; authors=20;
+#}
 
-#($0~topic && $num_authors > 0 && $n_citation!~/null/ && $n_citation>100 && $lang~/en/){
+@include common.awk
+
 ($0~topic && $num_authors > 0 && $n_citation!~/null/ && $n_citation>100){
     print $n_citation, $title, $authors, $year
     # In addition to citations, find out the authors whose names are repeating for a particular topic. Those authors will be considered experts. 
@@ -43,6 +44,4 @@ BEGIN{
 END{
    for (k in auths) print auths[k], k
 }
-# Seems like there are some duplicates in the results.
-# Probably should also find best patents separately.
-# https://blog.jpalardy.com/posts/my-best-awk-tricks
+

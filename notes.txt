@@ -136,3 +136,4 @@ https://github.com/sixarm/intersect
 https://github.com/sixarm/except
 https://github.com/sixarm/extra
 
+# https://blog.jpalardy.com/posts/my-best-awk-tricks
