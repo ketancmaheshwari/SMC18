@@ -16,7 +16,6 @@
 # step3. Extract words used in keywords, title and abstract
 # step4. Find most frequently used words 
 
-
 BEGIN{
     FS = "qwqw"
     IGNORECASE = 1

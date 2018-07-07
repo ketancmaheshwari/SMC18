@@ -28,6 +28,7 @@ BEGIN{
 
 }
 
+
 NR==FNR{a[$1];next} #process the countries/cities file
 
 #treat records with more than one author
