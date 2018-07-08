@@ -43,8 +43,8 @@ all the processing.
 
 \subsection*{Rationale}
 \begin{enumerate}
-\item \texttt{Awk} is concise, efficient and expressive in text processing.
-\item Alternative tools such as modern Python libraries have speed limitations, portability concerns and learning curve.
+\item \texttt{Awk} is concise, efficient and expressive for text processing.
+\item Alternative tools such as modern Python libraries have speed limitations, portability concerns and considerable learning curve.
 \item SQL based tools and databases are hard to parallelize.
 \item Traditional Linux tools are portable and available on almost all the standard Linux distributions.
 \item Swift was used over GNU parallel for its portability to both shared memory systems and distributed memory clusters.
@@ -53,7 +53,7 @@ all the processing.
 \section*{Data and Problems}
 The data was originally in two sets of 167 json files (total 334 files) each
 containing a million records. The data also consisted of a file that recorded
-the list of duplicate records. An \texttt{awk} script was used to exclude the
+the list of duplicate records. An \texttt{awk} script (\texttt{src/filterdup.awk}) was used to exclude the
 duplicate records from the aminer dataset. As a result, there are over 256
 million (256,382,605 to be exact) unique records to process. The data occupies
 329G of disk space. Several fields in the data are \texttt{null}. Those records
@@ -72,15 +72,10 @@ words to avoid in some of the results (eg. the, from, after, etc.)
 
 \section*{Solutions}
 \subsection*{preprocessing}
-The original data is in json format. The jq tool was used like so transform it to tabular format (\texttt{qwqw} is column seperator):
-\begin{verbatim}
-jq  `. | "\(.id)qwqw\(.title)qwqw\(.authors|length)qwqw\(.doi)qwqw\(.fos) \
-qwqw\(.doc_type)qwqw\(.lang)\qwqw\(.n_citation)qwqw\(.issue)qwqw\(.url) \
-qwqw\(.volume)qwqw\(.page_start)qwqw\(.page_end)qwqw\(.year)\qwqw\(.venue) \
-qwqw\(.publisher)qwqw\(.references)qwqw\(.keywords)qwqw\(.abstract)"' \
-mag/mag_papers_4.txt > mag/mag_papers_4.col.txt
-\end{verbatim}
-Further curation of columnar data was done by removing extraneous space, square brackets, escape characters and quotes using \texttt{sed}.
+The original data is in json format. The jq tool was used to transform it to
+tabular format (\texttt{src/json2tabular.sh}). Further curation of table data
+was done by removing extraneous space, square brackets, escape characters and
+quotes using \texttt{sed}.
 
 \subsection*{parallelization and Speedup}
 Each of the solution is run in parallel over the 334 data files. This has

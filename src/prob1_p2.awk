@@ -1,4 +1,4 @@
-#!/usr/bin/env awk
+#!/usr/bin/env awk -f
 
 # Problem Statement
 #   Identify the individual or group of individuals who appear to be the expert in

@@ -1,4 +1,4 @@
-#!/usr/bin/env awk
+#!/usr/bin/env awk -f
 
 # Problem  Statement
 #    Identify topics that have been researched across all publications.  

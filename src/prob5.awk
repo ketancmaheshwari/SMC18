@@ -1,4 +1,4 @@
-#!/usr/bin/env awk
+#!/usr/bin/env awk -f
 
 # Problem Statement
 #    Given a research proposal, determine whether the proposed work has been

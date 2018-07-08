@@ -1,4 +1,4 @@
-#!/usr/bin/env awk
+#!/usr/bin/env awk -f
 
 # Problem Statement
 #    Identify how topics have shifted over time.
