@@ -12,11 +12,9 @@
 #   important nodes or a list of names, and a description of tools and methods
 #   used to produce the output. 
 
-# Solution:
-# step1. Filter the input to relevant columns: id, title, fos, lang (must be en), n_citation, keywords, abstract, authors
+# step1. Filter the input to relevant columns: title, n_citation, author(s), year
 # step2. Eliminate unnecessary content such as punctuation, non-printable chars and small words such as 1 letter and 2 letter words
 # step3. Find the papers with high number of citations; authors of these papers would be considered experts.
-# step4. Find the authors who have won nobel prizes--they would certainly be considered experts.
 
 BEGIN{
 
@@ -31,6 +29,6 @@ BEGIN{
     keywords=18; abstract=19; authors=20;
 }
 
-($0~topic && $num_authors > 0 && $n_citation!~/null/ && $n_citation>100){
+($0~topic && $num_authors > 0 && $n_citation!~/null/ && $n_citation>500){
     print $n_citation, $title, $authors, $year
 }
