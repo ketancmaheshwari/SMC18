@@ -22,6 +22,7 @@ BEGIN{
     FS="qwqw"
     OFS="\t"
     IGNORECASE=1
+
     # Field names
     id=1; title=2; num_authors=3; doi=4; fos_isbn=5; doctype_issn=6;
     lang=7; n_citation=8; issue=9; url=10; volume=11; page_start=12;
@@ -29,7 +30,6 @@ BEGIN{
     keywords=18; abstract=19; authors=20;
 }
 
-#($0~topic && $num_authors > 0 && $n_citation!~/null/ && $n_citation>100 && $lang~/en/){
 ($0~topic && $num_authors > 0 && $n_citation!~/null/ && $n_citation>100){
     #find out the authors whose names are repeating for a particular topic. Those authors will be considered experts. 
     gsub("\"","",$authors)
@@ -43,6 +43,3 @@ BEGIN{
 END{
    for (k in auths) if(auths[k]>1) print auths[k], k
 }
-# Seems like there are some duplicates in the results.
-# Probably should also find best patents separately.
-# https://blog.jpalardy.com/posts/my-best-awk-tricks

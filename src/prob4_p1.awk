@@ -1,6 +1,5 @@
 #!/usr/bin/env awk -f
 
-
 # Problem Statement
 #    Identify how topics have shifted over time.
 #    
@@ -37,6 +36,5 @@ for (i=1;i<=n;i++) printf("%d .... %d\n", b[i], a[b[i]])
 #  awk -v topic1=obesity -v topic2=sugar -f code/prob4.awk aminer_papers_allcols_excl/aminer_papers_*.allcols.excl.txt mag_papers_allcols/mag_papers_*.allcols.txt
 
 # Solution 2 is to find the highest cited paper yearwise and figure out the topics it was based on
-
 
 # Solution 3 is to find the top 5 trending topics yearwise and see how they appear/disappear in the trend

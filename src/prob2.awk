@@ -49,10 +49,8 @@ $lang~/en/ && ($keywords!~/null/ || $title!~/null/ || $abstract!~/null/) {
 
 END{
     for(k in kw){
-      # Print only if not 
       if (kw[k]>1000) print kw[k], k
     }
-    #for(k in kw) print kw[k], k
 }
 
 # HOW TO RUN: LC_ALL=C awk -f prob2.awk stop_words.txt ../aminer_papers_allcols_excl/aminer_papers_*.allcols.excl.txt ../mag_papers_allcols/mag_papers_*.allcols.txt | sort -nr >freq.txt

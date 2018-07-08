@@ -25,14 +25,12 @@ BEGIN{
     lang=7; n_citation=8; issue=9; url=10; volume=11; page_start=12;
     page_end=13; year=14; venue=15; publisher_pdf=16; references=17;
     keywords=18; abstract=19; authors=20;
-
 }
 
 
 NR==FNR{a[$1];next} #process the countries/cities file
 
 #treat records with more than one author
-#$0~topic && $num_authors!~/null/ && $lang~/en/ && $authors~/\,/{ 
 $0~topic && $num_authors!~/null/ && $authors~/\,/{ 
     #extract words from author's affiliation and compare with the countries. If a match is found increment that array entry.
     w=split($authors, b, ",")
