@@ -25,14 +25,14 @@ This report describes the tools used, their rationale, solutions to the
 problems and a glance at the results. Detailed solutions and results may be
 found here: https://github.com/ketancmaheshwari/SMC18
 
-\section*{Tools Used}
+\section*{Tools used}
 \subsection*{Software}
 Classic Linux tools such as \texttt{awk}, \texttt{sort}, \texttt{grep},
 \texttt{tr}, \texttt{sed} and \texttt{bash} are used.  The \texttt{jq} tool was
 used for initial data conversion from json to awk-suitable table format. For
 the bulk of processing, I use awk. Syntax in awk programs is known to be terse
 and hard to read by some accounts. I have taken special care to make the awk
-programs as readable as possible.  ANL's Swift parallel scripting tool was used
+programs as readable as possible.  ANL's Swift (\texttt{swift-lang.org/Swift-T}) parallel scripting tool was used
 to run the awk programs in parallel over the dataset to radically improve
 performance. Swift uses MPI based communication and load-balancing model to
 parallelize over shared as well as distributed memory architectures.
@@ -64,38 +64,38 @@ The json files were converted to tabular files with 19 original columns and one
 additional column called ``num\_authors" showing the number of authors for a given
 publication record.
 
-\subsection*{Auxiliary Data}
-In addition to the existing data, I used four lists: 1) List of cities of
+\subsection*{Auxiliary data}
+In addition to the existing data, I use four lists: 1) List of cities of
 world with population 100,000 or above; 2) List of all countries;
 3) List of all the universities and research institutes; 4) A list of common
 words to avoid in some of the results (eg. the, from, after, etc.)
 
 \section*{Solutions}
-\subsection*{preprocessing}
+\subsection*{Preprocessing}
 The original data is in json format. The jq tool was used to transform it to
 tabular format (\texttt{src/json2tabular.sh}). Further curation of table data
 was done by removing extraneous space, square brackets, escape characters and
 quotes using \texttt{sed}.
 
-\subsection*{parallelization and Speedup}
+\subsection*{Parallelization and Speedup}
 Each of the solution is run in parallel over the 334 data files. This has
 resulted in radical speedup of each of the problems. As mentioned in the
 description of the solutions in the sections below, none of the solution has
 taken more than a minute of runtime.
 
-\subsection*{prob1}
+\subsection*{Problem1}
 
-\subsection*{prob2}
+\subsection*{Problem2}
 
-\subsection*{prob3}
+\subsection*{Problem3}
 
-\subsection*{prob4}
+\subsection*{Problem4}
 This problem may be solved in three distinct ways. Parallelizing part-3 was
 most challenging because it involved a two-level parallel nested foreach loop.
 The outer loop iterates over the years and the inner loop iterates over the
 input files.
 
-\subsection*{prob5}
+\subsection*{Problem5}
 
 \subsection*{Postprocessing}
 Some of the results obtained were postprocessed for visulization using D3
