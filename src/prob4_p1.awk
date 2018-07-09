@@ -27,9 +27,9 @@ $lang~/en/ && $year!~/null/ && $0~topic1 && $0~topic2 {
 }
 
 END{
-n=asorti(a,b)
-printf("Trend for topics: %s, %s\n", topic1, topic2)
-for (i=1;i<=n;i++) printf("%d .... %d\n", b[i], a[b[i]])
+    n=asorti(a,b)
+    printf("Trend for topics: %s, %s\n", topic1, topic2)
+    for (i=1;i<=n;i++) printf("%d :- %d\n", b[i], a[b[i]])
 }
 
 # The way to run this code is as follows:

@@ -17,7 +17,6 @@
 # step3. Find the papers with high number of citations; authors of these papers would be considered experts.
 
 BEGIN{
-
     FS="qwqw"
     OFS="\t"
     IGNORECASE=1

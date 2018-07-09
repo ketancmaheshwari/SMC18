@@ -25,14 +25,13 @@ BEGIN{
 }
 
 ($0~topic && $num_authors > 0 && $n_citation!~/null/ && $n_citation>100){
-
-    #find out the authors whose names are repeating for a particular topic. Those authors will be considered experts. 
-    gsub("\"","",$authors)
-    split($authors, a, ";")
-    for (i in a){
-        split(a[i], b, ",")
-        if(b[1]!~/null/) auths[b[1]]++
-    }
+   #find out the authors whose names are repeating for a particular topic. Those authors will be considered experts. 
+   gsub("\"","",$authors)
+   split($authors, a, ";")
+   for (i in a){
+       split(a[i], b, ",")
+       if(b[1]!~/null/) auths[b[1]]++
+   }
 }
 
 END{

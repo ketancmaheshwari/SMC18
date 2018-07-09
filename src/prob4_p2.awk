@@ -28,9 +28,10 @@ $lang~/en/ && $year!~/null/ && $year < 2020 && $keywords!~/null/ && $n_citation!
 }
 
 END{
-n=asorti(a,b)
-for (i=1;i<=n;i++) print b[i], a[b[i]], max[b[i]]
+    n=asorti(a,b)
+    for (i=1;i<=n;i++) print b[i], a[b[i]], max[b[i]]
 }
+
 # Run via Swift in parallel. If serial, run like so:
 #awk -f code/prob4_p2.awk aminer_mag_papers/*.txt > yearwise_trending_keywords.txt
 

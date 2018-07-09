@@ -30,7 +30,7 @@ BEGIN{
 
 NR==FNR{a[$1];next} #process the countries/cities file
 
-#treat records with more than one author
+#treat records with authors whose affiliation is available
 $0~topic && $num_authors!~/null/ && $authors~/\,/{ 
     #extract words from author's affiliation and compare with the countries. If a match is found increment that array entry.
     w=split($authors, b, ",")
@@ -41,9 +41,9 @@ $0~topic && $num_authors!~/null/ && $authors~/\,/{
 }
 
 END{
- for(k in a){ 
-   if(a[k]) print a[k], k
- }
+   for(k in a){ 
+      if(a[k]) print a[k], k
+   }
 }
 
 # Run the following pipeline on the results:

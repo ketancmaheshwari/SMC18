@@ -52,11 +52,8 @@ $lang~/en/ && $n_citation>0 && $year==yr && $keywords!~/null/{
      split($abstract, c, " ")
      for (i in c) if(length(c[i])>2 && match(c[i],/[a-z]/) && c[i] in x == 0) print c[i]
 
-    #print $title,$keywords,$abstract >> $year
+     #print $title,$keywords,$abstract >> $year
 }
-
-#END{
-#}
 
 #Do the following for postprocessing:
 #for i in 18?? 19?? 20??; do (grep -o -E '\w+' $i | tr [A-Z] [a-z]|sed -e 's/null//g' -e 's/^.$//g' -e 's/^..$//g' -e 's/^[0-9]*$//g' | awk NF | fgrep -v -w -f stop_words.txt |sort | uniq -c | sort -nr | head -10 > trending/trending.$i.txt) & done
