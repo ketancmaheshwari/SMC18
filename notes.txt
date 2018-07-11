@@ -137,3 +137,9 @@ https://github.com/sixarm/except
 https://github.com/sixarm/extra
 
 # https://blog.jpalardy.com/posts/my-best-awk-tricks
+
+$ time -p turbine -n 400 ~/SMC18/src/runprob4_p3.tic                                                                                                                                                  
+real 2909.38
+user 1039480.28
+sys 45614.65
+
