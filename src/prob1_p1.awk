@@ -12,10 +12,6 @@
 #   important nodes or a list of names, and a description of tools and methods
 #   used to produce the output. 
 
-# step1. Filter the input to relevant columns: title, n_citation, author(s), year
-# step2. Eliminate unnecessary content such as punctuation, non-printable chars and small words such as 1 letter and 2 letter words
-# step3. Find the papers with high number of citations; authors of these papers would be considered experts.
-
 BEGIN{
     FS="qwqw"
     OFS="\t"
