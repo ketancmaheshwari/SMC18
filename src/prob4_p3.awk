@@ -45,11 +45,11 @@ $lang~/en/ && $n_citation>0 && $year==yr && $keywords!~/null/{
     for (i in b) if(length(b[i])>2 && match(b[i],/[a-z]/) && b[i] in x == 0) print b[i]
 
      # treat abstract (Computationally expensive--ran once, results are in: top_1000_words_from_kw_abstract_title_by_freq.txt)
-     #$abstract = tolower($abstract)
-     #gsub("\"","",$abstract)
-     #gsub(",","",$abstract)
-     #split($abstract, c, " ")
-     #for (i in c) if(length(c[i])>2 && match(c[i],/[a-z]/) && c[i] in x == 0) print c[i]
+     $abstract = tolower($abstract)
+     gsub("\"","",$abstract)
+     gsub(",","",$abstract)
+     split($abstract, c, " ")
+     for (i in c) if(length(c[i])>2 && match(c[i],/[a-z]/) && c[i] in x == 0) print c[i]
 
      #print $title,$keywords,$abstract >> $year
 }
