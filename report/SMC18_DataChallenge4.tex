@@ -25,25 +25,26 @@
 \maketitle
 \section*{Introduction}
 
-I report on my response to the SMC 2018 Data Challenge 4--Acedamic Data Mining.
-The challenge is addressed by employing the classic Linux tools and a modern HPC
-parallel scripting platform.
+This report presents my response to the SMC 2018 Data Challenge 4--Acedamic
+Data Mining.  The challenge is addressed by employing the classic Linux tools
+and a modern scalable parallel scripting platform.
 
-This report describes the tools used, their rationale, solutions to the
-problems and a glance at the results. Detailed solutions and results may be
-found here: https://github.com/ketancmaheshwari/SMC18
+The report describes the tools used, their rationale, solutions to the problems
+and a glance at the results. Source code for solutions and results may be found
+at https://github.com/ketancmaheshwari/SMC18.
 
 \section*{Tools used}
 \subsection*{Software}
 Classic Linux tools such as \texttt{awk}, \texttt{sort}, \texttt{grep},
-\texttt{tr}, \texttt{sed} and \texttt{bash} are used.  The \texttt{jq} tool was
-used for initial data conversion from json to awk-suitable table format. For
-the bulk of processing, I use awk. Syntax in awk programs is known to be terse
-and hard to read by some accounts. I have taken special care to make the awk
-programs as readable as possible.  ANL's Swift (\texttt{swift-lang.org/Swift-T}) parallel scripting tool was used
-to run the awk programs in parallel over the dataset to radically improve
-performance. Swift uses MPI based communication and load-balancing model to
-parallelize over shared as well as distributed memory architectures.
+\texttt{tr}, \texttt{sed} and \texttt{bash} are used.  The \texttt{jq} tool is
+used for initial data conversion from json to awk-suitable tabular format. For
+the bulk of processing, \texttt{awk} is used. Syntax of awk programs is known
+to be terse and hard to read by some accounts. I have taken special care to
+make the programs as readable as possible.  ANL's Swift
+(\texttt{swift-lang.org/Swift-T}) parallel scripting tool was used to run the
+awk programs in parallel over the dataset to radically improve performance.
+Swift uses MPI based communication and load-balancing model to parallelize over
+shared as well as distributed memory architectures.
 
 \subsection*{Hardware}
 A large-memory (24 T) SGI system with 512-core Intel Xeon (2.5GHz) was used for
@@ -89,10 +90,18 @@ quotes using \texttt{sed}.
 Each of the solution is run in parallel over the 334 data files. This has
 resulted in radical speedup of each of the problems. As mentioned in the
 description of the solutions in the sections below, none of the solution has
-taken more than a minute of runtime.
+taken more than an hour of runtime.
 
 \subsection*{Problem1}
+This problem is solved in two ways. First part (\texttt{src/prob1\_p1.awk}) identifies
+all the entries with citations higher than 500 for a given search topic. The
+second part (\texttt{src/prob1\_p2.awk}) finds the names of authors whose names
+are repeating for queried topics with atleast a hundred citations in each
+entry. This will give a reasonable idea of who are the expert figures in a
+given research area. 
+
 The parallel implementation of the task finishes in 25 seconds.
+
 \subsection*{Problem2}
 The parallel implementation of the task finishes in 9 minutes.
 \subsection*{Problem3}
