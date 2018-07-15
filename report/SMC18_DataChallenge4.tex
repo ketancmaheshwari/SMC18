@@ -74,10 +74,10 @@ additional column called ``num\_authors" showing the number of authors for a giv
 publication record.
 
 \subsection*{Auxiliary data}
-In addition to the existing data, I use four lists: 1) List of cities of
-world with population 100,000 or above; 2) List of all countries;
-3) List of all the universities and research institutes; 4) A list of common
-words to avoid in some of the results (eg. the, from, after, etc.)
+In addition to the existing data, I use four lists: 1) List of cities (3527) of
+world with population 100,000 or above; 2) List of countries (190);
+3) List of all the universities and research institutes (8984); 4) A list of common
+words to avoid in some of the results (161 words).
 
 \section*{Solutions}
 \subsection*{Preprocessing}
@@ -132,3 +132,14 @@ data without employing any formal sophisticated algorithms.
 I acknowledge Brian Zachary, Suhas Somnath, Drew Schmidt for their helpful
 inputs. I acknowledge CADES.
 \end{document}
+
+data $ wc -l stop_words.txt 
+     161 stop_words.txt
+data $ wc -l cities.txt 
+    3527 cities.txt
+data $ wc -l countries.txt 
+     198 countries.txt
+data $ wc -l universities.txt 
+    8984 universities.txt
+
+

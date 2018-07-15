@@ -57,3 +57,5 @@ END{
 
 # After running the swift app:
 # awk '{a[$2]+=$1} END{for (k in a) print a[k],k}' joined.txt | sort -nr > freq.txt
+
+# This problem could use a topics graph
