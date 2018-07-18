@@ -1,3527 +1,3517 @@
-ALGIERS 
-Annaba
-Batna
-Béchar
-Bejaïa
-Beskra
-Bordj Bou Arreridj
-Bordj el Kiffan
-Ech Cheliff 
-El Boulaïda 
-El Djelfa
-El Eulma
-El Wad
-Ghardaïa
-Ghilizane
-Guelma
-Jijel
-Lemdiyya 
-Mestghanem 
-M'Sila
-Qacentina 
-Saïda
-Sidi-bel-Abbès
-Skikda
-Souq Ahras
-Stif 
-Tbessa
-Tihert
-Tilimsen 
-Touggourt
-Wahran 
-Wargla
-Huambo
-LUANDA
-Cotonou
-Parakou
-PORTO-NOVO
-GABORONE
-Banfora
-Bobo Dioulasso
-Dori
-Fada N'gourma
-Gorom-Gorom
-Kaya
-Koudougou
-OUAGADOUGOU
-Ouahigouya
-Solenzo
-Tenkodogo
-BUJUMBURA
-Cabo Verde
-PRAIA
-Bafoussam
-Bamenda
-Douala
-Garoua
-Kumba
-Maroua
-Ngaoundéré
-Nkongsamba
-YAOUNDE
-N'DJAMENA
-DJIBOUTI
-6th of October City
-Alexandria
-Assyût
-Aswan
-Behera
-Beni-Suef
-CAIRO
-Dakahlia
-Damietta
-Faiyûm
-Gharbia
-Giza
-Helwan
-Ismailia
-Kafr-Elsheikh
-Kalyoubia
-Luxer
-Matrouh
-Menia
-Menoufia
-North Sinai
-Port Said
-Qena
-Red Sea
-Sharkia
-Sohag
-Suez
-ADDIS ABABA
-Awassa
-Bahir Dar
-Debre Zeit
-Dessie
-Dire Dawa
-Gondar
-Harar
-Jimma
-Mekele
-Nazareth
-LIBREVILLE
-BANJU
-ACCRA
-Ashiaman
-Koforidua
-Kumasi
-Madina
-Obuasi
-Sekondi
-Takoradi
-Tamale
-Tema
-CONAKRY
-Kankan
-Kindia
-Labé
-Nzérékoré
-Eldoret
-Garissa
-Kikuyu
-Kisumu
-Mavoko/AthiRiver
-Mombasa
-NAIROBI
-Nakuru
-Ngong
-Ruiru
-Thika
-ANTANANARIVO2
-Antsirabe
-Fianarantsoa
-Mahajanga
-Toamasina
-Toliara
-Blantyre City
-LILONGWE
-NOUAKCHOTT
-Beau Bassin
-PORT LOUIS
-Vacoas
-Agadir
-Béni-Mellal
-Casablanca 
-El-Jadida
-Fès
-Inezgane ait Melloul
-Kénitra
-Khemisset
-Khouribga
-Laayoune
-Larache
-Marrakech
-Meknès
-Mohammedia
-Nador
-Oujda
-RABAT
-Safi
-Salé
-Settat
-Skhirate-Témara
-Tanger
-Taza
-Tétouan
-Beira
-Chimoio
-MAPUTO
-Matola
-Mocuba
-Nacala
-Nampula
-Quelimane
-Tete
-WINDHOEK
-Maradi
-NIAMEY
-Zinder
-Réunion
-SAINT-DENIS
-Butare
-Gitarama
-KIGALI
-Saint Helena ex. dep.
-JAMESTOWN
-Sao Tome and Principe
-SAO TOME
-DAKAR
-Diourbel4
-Guediawaye4
-Kaolack4
-Mbour4
-Pikine4
-Rufisque4
-Saint Louis4
-Thiès4
-Ziguinchor4
-VICTORIA
-Bo
-FREETOWN
-Kenema
-Makeni
-MOGADISHU
-Alexandra
-Benoni
-BLOEMFONTEIN5
-Boksburg
-Botshabelo
-CAPE TOWN5
-Durban
-Germiston
-Johannesburg
-Kathlehong
-Kempton Park
-Khayelitsa
-Kimberley
-Mangaung
-Pietermaritzburg
-Port Elizabeth
-PRETORIA5
-Roodepoort
-Soweto
-Springs
-Tembisa
-Umlazi
-Vereeniging
-Bizerte
-Gabes
-Kairouan
-Sfax
-TUNIS
-Gulu
-KAMPALA
-Kira
-Lira
-Western Sahara
-EL AAIUN
-Chingola
-Kabwe
-Kitwe
-Luanshya
-Mufulira
-Ndola
-Bulawayo
-Chitungwiza
-Gweru
-HARARE
-Mutare
-Anguilla
-THE VALLEY
-Aruba
-ORANJESTAD
-NASSAU
-BELMOPAN
-Bermuda
-HAMILTON
-Abbotsford-Mission
-Barrie
-Brantford
-Calgary
-Edmonton
-Greater Sudbury / Grand Sudbury
-Guelph
-Halifax
-Hamilton
-Kelowna
-Kingston
-Kitchener-Cambridge-Waterloo
-London
-Moncton
-Montréal
-Oshawa
-Ottawa
-Peterborough
-Québec
-Regina
-Saguenay
-Saint John
-Saskatoon
-Sherbrooke
-St Catharines-Niagara
-St. John's
-Thunder Bay
-Toronto
-Trois-Rivières
-Vancouver
-Victoria
-Windsor
-Winnipeg
-Cayman Islands
-1 IV 2007 
-GEORGE TOWN
-Alajuela
-Cartago
-Desamparados
-Goicoechea
-Heredia
-Perez Zeledon
-Pococi
-Puntarenas
-San Carlos
-SAN JOSE
-Bayamo
-Camagüey
-Ciego de Avila
-Cienfuegos
-Guantánamo
-Holguín
-LA HABANA
-Las Tunas
-Matanzas
-Pinar del Río
-Santa Clara
-Azua
-Bajos de Haina
-Baní
-Boca Chica
-Bonao
-Higüey
-La Romana
-La Vega
-Los Alcarrizos
-Moca
-Puerto Plata
-San Cristóbal
-San Francisco de Macoris
-San Juan de la Maguana
-San Pedro de Macoris
-Santiago de los Caballeros
-SANTO DOMINGO
-Santo Domingo East
-Santo Domingo North
-Santo Domingo West
-Ahuachapan
-Apopa
-Ciudad Delgado
-Ilopango
-Mejicanos
-San Miguel
-SAN SALVADOR
-Santa Ana
-Santa Tecla
-Soyapango
-Greenland
-NUUK 
-Guadeloupe
-BASSE-TERRE
-Pointe-à-Pitre
-CUIDAD DE GUATEMALA
-Escuintla
-Mixco
-Quetzaltenango
-Villa Nueva
-Carrefour
-Delmas
-PORT-AU-PRINCE
-La Ceiba
-San Pedro Sula
-TEGUCIGALPA
-KINGSTON
-Portmore13
-Spanish Town13
-Martinique
-FORT-DE-FRANCE
-Acapulco 
-Acayucan
-Aguascalientes
-Apizaco
-Campeche
-Cancun
-Celaya
-Chalco de Diaz Covarrubias
-Chetumal
-Chicoloapán de Juárez
-Chihuahua
-Chilpacingo 
-Chimalhuacan
-Ciudad Acuña
-Ciudad Apodaca
-Ciudad de Villa de Alvárez
-Ciudad Del Carmen
-Ciudad General Escobedo
-Ciudad Juárez
-Ciudad López Mateos
-Ciudad Madero
-Ciudad Obregón
-Ciudad Santa Catarina
-Ciudad Valles
-Ciudad Victoria
-Coatzacoalcos
-Colimas
-Córdoba
-Cuauhtemoc
-Cuautitlan Izcalli
-Cuautla
-Cuernavaca
-Culiacán Rosales
-Delicias
-Durango 
-Ecatepec 
-Ensenada
-Fresnillo
-Gómez Palacio
-Guadalajara
-Guadalupe, Nuevo León
-Guadalupe, Zacatecas
-Guanajuato
-Hermosillo
-Heroica Guaymas
-Heroica Nogales
-Hidalgo del Parral
-Iguala 
-Irapuato
-Ixtapaluca
-Jiutepec
-Juárez
-La Paz, Baja California Sur
-La Paz, Distrito Federal
-La Piedad
-Lázaro Cárdenas
-León 
-Los Mochis
-Manzanillo
-Matamoros
-Mazatlán
-Mérida
-Mexicali
-MEXICO, CIUDAD DE
-Minatitlán
-Monclova
-Monterrey
-Morelia
-Moroleón
-Naucalpan de Juárez
-Navojoa
-Netzahualcóyotl
-Nuevo Laredo
-Oaxaca de Juárez
-Ocotlán
-Orizaba
-Pachuca 
-Piedras Negras
-Playa del Carmen
-Poza Rica de Hidalgo
-Puebla de Zaragoza
-Puerto Vallarta
-Querétaro
-Reynosa
-Rioverde
-Salamanca
-Saltillo
-San Cristobal de las Casas
-San Francisco Coacalco
-San Francisco del Rincón
-San Juan Bautista Tuxtepec
-San Juan del Río
-San Luis Potosí
-San Luis Rio Colorado
-San Martín Texmelucan
-San Nicolas de los Garza
-San Pedro Garza Garcia
-Soledad de Graciano Sanchez
-Tampico
-Tapachula 
-Tecomán
-Tehuacán
-Tepic
-Tijuana
-Tlalnepantla
-Tlaquepaque
-Tlaxcala
-Toluca 
-Tonala
-Torreón
-Tula, Tula de Allende
-Tulancingo, Tulancingo de Bravo
-Tuxpan
-Tuxtla Gutiérrez
-Uruapan
-Veracruz
-Villa Nicolas Romero
-Villahermosa
-Xalapa-Enriquez
-Xico
-Zacatecas
-Zamora de Hidalgo
-Zapopan
-León
-MANAGUA
-Masaya
-Tipitapa
-PANAMA DE PANAMA
-San Miguelito
-Puerto Rico
-Bayamón
-Caguas15
-Carolina
-Ponce
-SAN JUAN
-Saint Lucia
-CASTRIES
-Saint Pierre and Miquelon
-SAINT-PIERRE
-Trinidad and Tobago
-PORT-OF-SPAIN
-Turks and Caicos Islands
-GRAND TURK
-Abilene 
-Akron 
-Albuquerque 
-Alexandria 
-Allentown 
-Amarillo 
-Anaheim 
-Anchorage 
-Ann Arbor 
-Antioch 
-Arlington 
-Arvada 
-Athens 
-Atlanta 
-Augusta 
-Aurora 
-Austin 
-Bakersfield 
-Baltimore 
-Baton Rouge 
-Beaumont 
-Bellevue 
-Berkeley 
-Billings 
-Birmingham 
-Boise City 
-Boston 
-Brandon 
-Bridgeport 
-Brownsville 
-Buffalo 
-Burbank 
-Cambridge 
-Cape Coral 
-Carlsbad 
-Carrollton 
-Cary 
-Cedar Rapids 
-Centennial 
-Chandler 
-Charleston 
-Charlotte 
-Chattanooga 
-Chesapeake 
-Chicago 
-Chula Vista 
-Cincinnati 
-Clarksville 
-Clearwater 
-Cleveland 
-Colorado Springs 
-Columbia 
-Columbus 
-Concord 
-Coral Springs 
-Corona 
-Corpus Christi 
-Costa Mesa 
-Dallas 
-Daly City 
-Dayton 
-Denton 
-Denver 
-Des Moines 
-Detroit 
-Downey 
-Durham 
-East Los Angeles 
-El Monte 
-El Paso 
-Elgin 
-Elizabeth 
-Elk Grove 
-Enterprise 
-Erie 
-Escondido 
-Eugene 
-Evansville 
-Everett 
-Fairfield 
-Fargo 
-Fayetteville 
-Flint 
-Fontana 
-Fort Collins 
-Fort Lauderdale 
-Fort Wayne 
-Fort Worth 
-Fremont 
-Fresno 
-Frisco 
-Fullerton 
-Gainesville 
-Garden Grove 
-Garland 
-Gilbert 
-Glendale 
-Grand Prairie 
-Grand Rapids 
-Green Bay 
-Greensboro 
-Greshan 
-Hampton 
-Hartford 
-Hayward 
-Henderson 
-Hialeah 
-High Point City 
-Hollywood 
-Honolulu 
-Houston 
-Huntington Beach 
-Huntsville 
-Independence 
-Inglewood 
-Irvine 
-Irving 
-Jackson 
-Jacksonville 
-Jersey City 
-Joliet 
-Kansas City 
-Killeen 
-Knoxville 
-Lafayette 
-Lakewood 
-Lancaster 
-Lansing 
-Laredo 
-Las Vegas 
-Lexington-Fayette 
-Lincoln 
-Little Rock 
-Long Beach 
-Los Angeles 
-Louisville 
-Lowell 
-Lubbock 
-Madison 
-Manchester 
-McAllen 
-McKinney City 
-Memphis 
-Mesa 
-Mesquite 
-Metairie 
-Miami 
-Miami Gardens 
-Midland City 
-Milwaukee 
-Minneapolis 
-Miramar 
-Mobile 
-Modesto 
-Montgomery 
-Moreno Valley 
-Murfreesboro 
-Murrieta 
-Naperville 
-Nashville-Davidson 
-New Haven 
-New Orleans 
-New York 
-Newark 
-Newport News 
-Norfolk 
-Norman 
-North Las Vegas 
-Norwalk 
-Oakland 
-Oceanside 
-Oklahoma City 
-Olathe 
-Omaha 
-Ontario 
-Orange 
-Orlando 
-Overland Park 
-Oxnard 
-Palm Bay City 
-Palmdale 
-Paradise 
-Pasadena 
-Paterson 
-Pembroke Pines 
-Peoria 
-Philadelphia 
-Phoenix 
-Pittsburgh 
-Plano 
-Pomona 
-Port St. Lucie 
-Portland 
-Providence 
-Provo 
-Pueblo 
-Raleigh 
-Rancho Cucamonga 
-Reno 
-Richmond 
-Riverside 
-Rochester 
-Rockford 
-Roseville 
-Sacramento 
-Salem 
-Salinas 
-Salt Lake City 
-San Antonio 
-San Bernardino 
-San Buenaventura 
-San Diego 
-San Francisco 
-San Jose 
-Santa Ana 
-Santa Clara 
-Santa Clarita 
-Santa Rosa 
-Savannah 
-Scottsdale 
-Seattle 
-Shreveport 
-Simi Valley 
-Sioux Falls 
-South Bend 
-Spokane 
-Spring Valley 
-Springfield 
-St. Louis 
-St. Paul 
-St. Petersburg 
-Stamford 
-Sterling Heights 
-Stockton 
-Sunnyvale 
-Sunrise Manor 
-Surprise 
-Syracuse 
-Tacoma 
-Tallahassee 
-Tampa 
-Temecula 
-Tempe 
-Thornton 
-Thousand Oaks 
-Toledo 
-Topeka 
-Torrance 
-Tucson 
-Tulsa 
-Vallejo 
-Vancouver 
-Victorville City 
-Virginia Beach 
-Visalia 
-Waco 
-Warren 
-WASHINGTON 
-Waterbury 
-West Covina 
-West Valley City 
-Westminster 
-Wichita 
-Wichita Falls 
-Wilmington 
-Winston-Salem 
-Worcester 
-Yonkers 
-CHARLOTTE AMALIE
-Bahía Blanca-Cerri
-BUENOS AIRES19
-Catamarca
-Comodoro Rivadavia-Rada Tilly
-Concordia
-Corrientes
-Formosa
-La Plata
-La Rioja
-Mar del Plata-Batán
-Mendoza
-Neuquén-Plottier
-Paraná
-Posadas
-Rawson-Trelew-Playa Unión
-Resistencia
-Río Cuarto
-Rosario
-Salta
-San Juan
-San Luis
-San Nicolás-Villa Constitución
-San Salvador de Jujuy-Palpalá
-Santa Fé
-Santa Rosa-Toay
-Santiago del Estero-La Banda
-Tucumán-Tafí Viejo20
-Ushuaia-Río Grande
-Cochabamba
-El Alto
-LA PAZ
-Oruro
-Potosí
-Sacaba
-Santa Cruz
-SUCRE
-Tarija
-Yacuiba
-Aguas Lindas de Goiás
-Alagoinhas
-Alvorada
-Americana
-Ananindeua
-Anápolis
-Angra dos Reis
-Aparecida de Goiania
-Apucarana
-Aracaju
-Araçatuba
-Araguaina
-Araguario
-Arapiraca
-Arapongas
-Araraquara
-Araras
-Araruama
-Araucária
-Atibaia
-Balneário Camboriú
-Barbacena
-Barra Mansa
-Barreiras
-Barretos
-Barueri
-Bauru
-Belém
-Belford Roxo
-Belo Horizonte
-Betim
-Birigui
-Blumenou
-Boa Vista
-Botucatu
-Bragança Paulista
-BRASILIA
-Brusque
-Cabo de Santo Agostinho
-Cabo Frio
-Cachoeirinha
-Cachoeiro de Itapemirim
-Camacari
-Camaragibe
-Campina Grande
-Campinas
-Campo Grande
-Campos dos Goytacazes
-Canoas
-Carapicuíba
-Cariacica
-Caruaru
-Cascavel
-Castanhal
-Catanduva
-Caucaia
-Caxias
-Caxias do Sul
-Chapecó
-Colombo
-Conselheiro Lafaiete
-Contagem
-Coronel Fabriciano
-Cotia
-Crato
-Criciúma
-Cuiabá
-Curitiba
-Diadema
-Divinópolis
-Dourados
-Duque de Caxias
-Embu
-Feira de Santana
-Ferraz de Vasconcelos
-Florianópolis
-Fortaleza
-Foz do Iguaçu
-Franca
-Francisco Morato
-Franco da Rocha
-Garanhuns
-Goiânia
-Governador Valadares
-Gravatai
-Guarapari
-Guarapuava
-Guaratinguetá
-Guarujá
-Guarulhos
-Hortolandia
-Ibirité
-Ilhéus
-Imperatriz
-Indaiatuba
-Ipatinga
-Itabiraí
-Itaboraí
-Itabuna
-Itaguaí
-Itajaí
-Itapecerica da Serra
-Itapetininga
-Itapevi
-Itaquaquecetuba
-Itu
-Jaboatao dos Guarapes
-Jacareí
-Jandira
-Jaraguá do Sul
-Jaú
-Jequié
-Ji-Paraná
-Joao Pessoa
-Joinville
-Juazeiro
-Juàzeiro do Norte
-Juiz de Fora
-Jundiaí
-Lages
-Lauro de Freitas
-Limeira
-Linhares
-Londrina
-Luziânia
-Macae
-Macapá
-Maceió
-Magé
-Manaus
-Maraba
-Maracanau
-Maricá
-Marília
-Maringá
-Marituba
-Mauá
-Mesquita
-Moji das Cruzes
-Moji-Guaçu
-Montes Claros
-Mossoró
-Natal
-Nilópolis
-Niterói
-Nossa Senhora do Socorro
-Nova Friburgo
-Nova Iguaçu
-Nôvo Hamburgo
-Olinda
-Osasco
-Ourinhos
-Palhoça
-Palmas
-Paranaguá
-Parauapebas
-Parnaíba
-Parnamirim
-Passo Fundo
-Passos
-Patos de Minas
-Paulista
-Pelotas
-Petrolina
-Petrópolis
-Pindamonhangaba
-Pinhais
-Piracicaba
-Poà
-Poços de Caldas
-Ponta Grossa
-Porto Alegre
-Porto Seguro
-Porto Velho
-Pouso Alegre
-Praia Grande
-Presidente Prudente
-Queimados
-Recife
-Resende
-Ribeirao das Neves
-Ribeirao Pires
-Ribeirao Prêto
-Rio Branco
-Rio Claro
-Rio de Janeiro
-Rio Grande
-Rio Verde
-Rondonópolis
-Sabára
-Salto
-Salvador
-Santa Bárbara D'Oeste
-Santa Cruz do Sul
-Santa Luzia 
-Santa Maria
-Santa Rita
-Santana de Parnaíba
-Santarém
-Santo André
-Santos
-Sao Bernardo do Campo
-Sao Caetano do Sul
-Sao Carlo
-Sao Gonçalo
-Sao Joao de Meriti
-Sao José
-Sao José do Rio Prêto
-Sao José dos Campos
-Sao José dos Pinhais
-Sao Leopoldo
-Sao Luís
-Sao Paulo
-Sao Vicente
-Sapucaia do Sul
-Serra
-Sertaozinho
-Sete Lagoas
-Simoes Filho
-Sobral
-Sorocaba
-Sumaré
-Susano
-Taboao da Serra
-Tatuí
-Taubaté
-Teixeira de Freitas
-Teófilo Otoni
-Teresina
-Teresópolis
-Timon
-Toledo
-Trindade
-Uberaba
-Uberlândia
-Uruguaiana
-Valinhos
-Valparaíso de Goiás
-Varginha
-Varzea Grande
-Varzea Paulista
-Vespasiano
-Viamao
-Vila Velha
-Vitória
-Vitória da Conquista
-Vitória de Santo Antao
-Volta Redonda
-Votorantim
-Antofagasta
-Arica
-Calama
-Chiguallante
-Chillán
-Concepción
-Copiapó
-Coquimbo
-Coronel
-Iquique
-La Serena
-Los Angeles
-Osorno
-Puente Alto
-Puerto Montt
-Punta Arenas
-Quilpué
-Rancagua
-San Bernardo
-SANTIAGO
-Talca
-Talcahuano
-Temuco
-Valdivia
-Valparaíso
-Villa Alemana
-Viña del Mar
-Apartadó
-Barrancabermeja
-Barranquilla
-Bello
-BOGOTA, D.C.
-Bucaramanga
-Buenaventura
-Cali
-Cartagena
-Caucasia
-Chía
-Ciénaga
-Cúcuta
-Dosquebradas
-Duitama
-Envigado
-Facatativá
-Florencia
-Floridablanca
-Fusagasugá
-Girardot
-Girón
-Gudalajara de Buga
-Ibagué
-Ipiales
-Itagüi
-Lorica
-Magangué
-Maicao
-Malambo
-Manizales
-Medellín
-Montería
-Neiva
-Palmira
-Pasto
-Pereira
-Piedecuesta
-Pitalito
-Popayán
-Quibdo
-Riohacha
-Rionegro
-San Andres de Tumaco
-Santa Marta
-Sincelejo
-Soacha
-Sogamoso
-Soledad
-Tuluá
-Tunja
-Turbo
-Uribia
-Valledupar
-Villavicencio
-Yopal
-Zipaquirá
-Ambato
-Calderon 
-Cuenca
-Durán
-Esmeraldas
-Guayaquil
-Ibarra
-Loja
-Machala
-Manta
-Milagro
-Portoviejo
-Quevedo
-QUITO
-Riobamba
-Santa Elena
-Falkland Islands 
-STANLEY
-French Guiana
-CAYENNE
-GEORGETOWN
-ASUNCION24
-Capiatá
-Ciudad del Este
-Fernando de la Mora
-Lambaré
-Luque
-San Lorenzo
-Arequipa
-Ayacucho
-Cajamarca
-Chiclayo
-Chimbote
-Chincha Alta
-Cuzco
-Huancayo
-Huánuco
-Huaraz
-Ica
-Iquitos
-Juliaca
-LIMA26
-Pisco
-Piura
-Pucallpa
-Puno
-Sullana
-Tacna
-Tarapoto
-Trujillo
-PARAMARIBO
-MONTEVIDEO
-Acarigua-Araure
-Anaco
-Barcelona
-Barcelona-Puerto La Cruz
-Barinas
-Barquisimeto
-Baruta18
-Cabimas
-Cagua18
-CARACAS
-Carora18
-Carúpano
-Ciudad Bolívar
-Ciudad Guayana
-Ciudad Ojeda18
-Coro
-Cua18
-Cumaná
-El Silencio18
-El Tigre18
-Guacara18
-Guanare18
-Guarenas
-Guatire18
-Los Guayos18
-Los Teques
-Maracaibo
-Maracay
-Maturín18
-Naguanagua18
-Ocumare Del Tuy18
-Petare18
-Pozuelos 
-Puerto Cabello
-Puerto La Cruz18
-Punto Fijo
-San Fernando de Apure18
-San Francisco18
-Santa Lucia18
-Táriba18
-Tocuyito18
-Valencia
-Valera
-Baghalan Center 
-Balkh Center 
-Herat Center
-KABUL CENTER
-Kandhar Center 
-Kunduz Center
-Nngarhar Center 
-Gyumri 
-YEREVAN
-BAKU
-Ganja
-Sumgayit
-MANAMA
-Barisal
-Bogra
-Brahmanbaria
-Chittagong
-Comilla
-DHAKA
-Dinajpur
-Gazipur
-Jamalpur
-Jessore
-Kadamrasul
-Khulna
-Mymensingh
-Naogaon
-Narayanganj
-Narsingdi
-Nawabganj
-Pabna
-Rajshahi
-Rangpur
-Saidpur
-Sirajganj
-Tangail
-Tongi
-THIMPHU
-BANDAR SERI BEGAWAN
-Bat Dambang
-PHNOM PENH
-Seam Reab
-BEIJING 
-HONG KONG SAR
-MACAO
-LEFKOSIA29
-Lemesos30
-Korea
-Anju
-Chongjin
-Haeju
-Hamhung
-Huichon
-Hyesan
-Jongju
-Kaechon
-Kaesong
-Kanggye
-Kim Chaek
-Kusong
-Nampho
-Phyongsong
-PYONGYANG
-Rason
-Sariwon
-Sinpho
-Sinuiju
-Sunchon
-Tanchon
-Tokchon
-Wonsan
-Batumi
-Kutaisi
-Rustavi
-TBILISI
-Abohar
-Achalpur
-Adilabad
-Adityapur
-Adoni
-Agartala
-Agra
-Ahmedabad
-Ahmednagar
-Aizawl
-Ajmer
-Akola
-Alandur
-Alappuzha
-Aligarh
-Alipurduar
-Allahabad
-Alwar
-Ambala
-Ambala Sadar
-Ambarnath
-Ambattur
-Amravati
-Amritsar
-Amroha
-Anand
-Anantapur
-Anklesvar
-Arcot
-Arrah
-Asansol
-Ashoknagar Kalyangarh
-Aurangabad
-Avadi
-Bahadurgarh
-Baharampur
-Bahraich
-Baidyabati
-Baleshwar
-Ballia
-Bally
-Balurghat
-Banda
-Bangalore
-Bangaon
-Bankura
-Bansberia
-Baranagar
-Barasat
-Barddhaman
-Bareilly
-Baripada
-Barrackpur
-Barshi
-Basirhat
-Basti
-Batala
-Bathinda
-Beawar
-Begusarai
-Belgaum
-Bellary
-Bettiah
-Bhadravati
-Bhadreswar
-Bhagalpur
-Bhalswa Jahangir Pur
-Bharatpur
-Bharuch
-Bhatpara
-Bhavani
-Bhavnagar
-Bheemavaram
-Bhilai Nagar
-Bhilwara
-Bhind
-Bhiwandi
-Bhiwani
-Bhopal
-Bhubaneswar
-Bhuj
-Bhusawal
-Bid
-Bidar
-Bidhan Nagar
-Bihar
-Bijapur
-Bikaner
-Bilaspur
-Birnagar
-Bokaro Steel City
-Bommanahalli
-Botad
-Brahmapur
-Budaun
-Bulandshahr
-Burhanpur
-Byatarayanapura
-Chakdaha
-Champdani
-Chandan Nagar
-Chandausi
-Chandigarh
-Chandrapur
-Chapra
-Chennai 
-Cherthala
-Chhatarpur
-Chhindwara
-Chikmagalur
-Chirala
-Chirkunda
-Chitradurga
-Chittoor
-Churu
-Coimbatore
-Coonoor
-Cuddalore
-Cuddapah
-Cuttack
-Dallo Pura
-Damoh
-Darbhanga
-Darjiling
-Dasarahalli
-Davangere
-Dehradun
-Dehri
-Delhi
-Delhi Cantonment
-Deoghar
-Deoli
-Deoria
-Dewas
-Dhanbad
-Dharmavaram
-Dhule
-Dibrugarh
-Dinapur Nizamat
-Dindigul
-Dohad
-Dumdum
-Durg
-Durgapur
-Durg-Bhilai Nagar
-Eluru
-English Bazar
-Erode
-Etah
-Etawah
-Faizabad
-Faridabad
-Farrukhabad-cum-Fategarh
-Fatehpur
-Firozabad
-Gadag-Betgeri
-Gajuwaka
-Gandhidham
-Gandhinagar
-Ganganagar
-Gangapur City
-Gangawati
-Gaya
-Ghatlodiya
-Ghaziabad
-Ghazipur
-Giridih
-Godhra
-Gonda
-Gondiya
-Gorakhpur
-Gudivada
-Gudiyatham
-Gulbarga
-Guna
-Guntakul
-Guntur
-Gurgaon
-Guruvayur
-Guwahati
-Gwalior
-Habra
-Hajipur
-Haldia
-Haldwani-cum-Kathgodam
-Halisahar
-Hanumangarh
-Haora 
-Hapur
-Hardoi
-Hardwar
-Hassan
-Hathras
-Hazaribag
-Hindupur
-Hisar
-Hoshiarpur
-Hospet
-Hubli-Dharwad
-Hugli-Chinsurah
-Hyderabad
-Ichalakaranji
-Imphal
-Indore
-Itarsi
-Jabalpur
-Jagadhri
-Jagdalpur
-Jaipur
-Jalandhar
-Jalgaon
-Jalna
-Jalpaiguri
-Jammu
-Jamnagar
-Jamshedpur
-Jamuria
-Jaunpur
-Jetpur Navagadh
-Jhansi
-Jhunjhunun
-Jind
-Jodhpur
-Jorhat
-Junagadh
-Kaithal
-Kakinada
-Kalol
-Kalyan
-Kamarhati
-Kamptee
-Kancheepuram
-Kanchrapara
-Kanhangad
-Kannur
-Kanpur
-Kapra
-Karaikkudi
-Karawal Nagar
-Karimnagar
-Karnal
-Karur
-Katihar
-Khammam
-Khandwa
-Khanna
-Kharagpur
-Khardaha
-Khargone
-Kirari Suleman Nagar
-Kishangarh
-Koch Bihar
-Kochi
-Kolar
-Kolhapur
-Kolkata 
-Kollam
-Korba
-Kota
-Kothagudem
-Kottayam
-Kozhikode
-Krishnanagar
-Krishnarajapura
-Kukatpalle
-Kulti
-Kumbakonam
-Kurnool
-Lakhimpur
-Lal Bahadur Nagar
-Lalitpur
-Latur
-Loni
-Lucknow
-Ludhiana
-Machilipatnam
-Madanapalle
-Madhyamgram
-Madurai
-Mahadevapura
-Mahbubnagar
-Mahesana
-Maheshtala
-Mainpuri
-Malappuram
-Malegaon
-Malerkotla
-Malkajgiri
-Mancherial
-Mandsaur
-Mandya
-Mangalore
-Mango
-Mathura
-Maunath Bhanjan
-Medinipur
-Meerut
-Mira-Bhayandar
-Mirzapur-cum-Vindhyachal
-Modinagar
-Moga
-Moradabad
-Morena
-Mormugoa
-Morvi
-Motihari
-Mughalsarai
-Mumbai 
-Munger
-Murwara 
-Muzaffarnagar
-Muzaffarpur
-Mysore
-Nabadwip
-Nadiad
-Nagaon
-Nagercoil
-Nagpur
-Naihati
-Nala Sopara
-Nalgonda
-Nanded
-Nandyal
-Nangloi Jat
-Nashik
-Navghar-Manikpur
-Navi Mumbai 
-Navsari
-Neemuch
-Nellore
-NEW DELHI34
-Neyveli
-Nizamabad
-Noida
-North Barrackpur
-North Dumdum
-Ongole
-Orai
-Ozhukarai
-Palakkad
-Palanpur
-Pali
-Pallavaram
-Palwal
-Panchkula Urban Estate
-Panihati
-Panipat
-Panvel
-Parbhani
-Patan
-Pathankot
-Patiala
-Patna
-Phagwara
-Phusro
-Pilibhit
-Pimpri Chinchwad
-Pollachi
-Pondicherry
-Porbandar
-Proddatur
-Pudukkottai
-Pune
-Puri
-Purnia
-Puruliya
-Quthbullapur
-Rae Bareli
-Raichur
-Raiganj
-Raigarh
-Raipur
-Rajahmundry
-Rajapalayam
-Rajarhat Gopalpur
-Rajendranagar
-Rajkot
-Rajnandgaon
-Rajpur Sonarpur
-Ramagundam
-Ramgarh
-Rampur
-Ranaghat
-Ranchi
-Raniganj
-Ratlam
-Raurkela
-Raurkela Industrialship
-Rewa
-Rewari
-Rishra
-Robertson Pet
-Rohtak
-Roorkee
-S.A.S. Nagar 
-Sagar
-Saharanpur
-Saharasa
-Salem
-Sambalpur
-Sambhal
-Sangli-Miraj-Kupwad
-Santipur
-Sasaram
-Satara
-Satna
-Sawai Madhopur
-Secunderabad
-Serampore
-Serilingampalle
-Shahjahanpur
-Shillong
-Shimla
-Shimoga
-Shivapuri
-Sikar
-Silchar
-Siliguri
-Singrauli
-Sirsa
-Sitapur
-Sivakasi
-Siwan
-Solapur
-Sonipat
-South Dum Dum
-Srikakulam
-Srinagar
-Sultan Pur Majra
-Sultanpur
-Surat
-Surendranagar Dudhrej
-Tadepalligudem
-Tambaram
-Tenali
-Tezpur
-Thane
-Thanesar
-Thanjavur
-Thiruvananthapuram
-Thoothukkudi 
-Thrissur
-Tinsukia
-Tiruchchirappalli
-Tirunelveli
-Tirupati
-Tiruppur
-Tiruvannamalai
-Tiruvottiyur
-Titagarh
-Tonk
-Tumkur
-Udaipur
-Udupi
-Ujjain
-Ulhasnagar
-Uluberia
-Unnao
-Uppal Kalan
-Uttarpara Kotrung
-Vadakara
-Vadodara
-Valsad
-Vaniyambadi
-Varanasi
-Vasai
-Vejalpur
-Vellore
-Veraval
-Vidisha
-Vijayawada
-Virar
-Visakhapatnam
-Vizianagarm
-Wadhwan
-Warangal
-Wardha
-Yamunanagar
-Yavatmal
-Ambon
-Balikpapan
-Banda Aceh
-Bandar Lampung
-Bandjarmasin
-Bandung
-Batam
-Bengkulu
-Binjai
-Bitung
-Blitar
-Bogor
-Cirebon 
-Denpasar
-Gorontalo
-JAKARTA
-Jambi
-Jayapura
-Kediri
-Madiun
-Magelang
-Makasar 
-Malang
-Manado
-Mataram
-Medan
-Mojokerto
-Padang
-Pakalongan
-Pakanbaru
-Palangkaraya
-Palembang
-Pangkal Pinang
-Pare Pare
-Pasuruan
-Pematang Siantar
-Pontianak
-Probolinggo
-Salatiga
-Samarinda
-Semarang
-Sukabumi
-Surabaya
-Surakarta
-Tangerang
-Tanjung Balai
-Tebing Tinggi
-Tegal
-Yogyakarta
-Abadan
-Ahwaz
-Andimeshk
-Arak
-Ardabil
-Babol
-Bandar Anzali
-Bandar-e-Abbas
-Bandar-e-Mahshahr
-Behbahan
-Birjand
-Bojnurd
-Borujerd
-Bukand
-Bushehr
-Dezful
-Esfahan
-Golestan 
-Gonbad-e-Kavus
-Gorgan
-Hamadan
-Ilam
-Islam Shahr 
-Izeh
-Jahrom
-Karaj
-Kashan
-Kerman
-Kermanshah
-Khomeini shahr
-Khoramabad
-Khoramshahr
-Khoy
-Malard
-Malayer
-Marand
-Maraqeh
-Marvadsht
-Mashhad
-Masjed Soleyman
-Miandoab
-Najafabad
-Nasim Shahr
-Neyshabur
-Orumiyeh
-Pakdasht
-Qaem shahr
-Qarchak
-Qazvin
-Qods
-Qom
-Quchan
-Rafsanjan
-Rasht
-Sabzewar
-Sanandaj
-Saqez
-Sari
-Saveh
-Semnan
-Shahinshahr
-Shahr-e-Kord
-Shahreza
-Shahriar
-Shahrud
-Shiraz
-Sirjan
-Tabriz
-TEHRAN
-Torbat-e-heydariyeh
-Varamin
-Yasooj
-Yazd
-Zabol
-Zahedan
-Zanjan
-Ashdod
-Ashqelon
-Bat Yam
-Be'er Sheva
-Bene Beraq
-Haifa
-Holon
-Netanya
-Petah Tiqwa
-Ramat Gan
-Rehovot
-Rishon Leziyyon
-Tel Aviv-Yafo
-Abiko
-Ageo
-Aizuwakamatsu
-Akashi
-Akishima
-Akita
-Amagasaki
-Anjo
-Aomori
-Asahikawa
-Asaka
-Ashikaga
-Atsugi
-Beppu
-Chiba
-Chigasaki
-Chikusei
-Chikushino
-Chofu
-Daito
-Ebetsu
-Ebina
-Fuchu
-Fuji
-Fujieda
-Fujimi
-Fujimino
-Fujinomiya
-Fujisawa
-Fukaya
-Fukui
-Fukuoka
-Fukushima
-Fukuyama
-Funabashi
-Gifu
-Habikino
-Hachinohe
-Hachioji
-Hadano
-Hakodate
-Hakusan
-Hamamatsu
-Hanamaki
-Handa
-Hatsukaichi
-Higashihiroshima
-Higashikurume
-Higashimurayama
-Higashiomi
-Higashiosaka
-Hikone
-Himeji
-Hino
-Hirakata
-Hiratsuka
-Hirosaki
-Hiroshima
-Hitachi
-Hitachinaka
-Hofu
-Ibaraki
-Ichihara
-Ichikawa
-Ichinomiya
-Ichinoseki
-Iida
-Iizuka
-Ikeda
-Ikoma
-Imabari
-Inazawa
-Iruma
-Isahaya
-Ise
-Isehara
-Isesaki
-Ishinomaki
-Itami
-Iwaki
-Iwakuni
-Iwata
-Izumi 
-Izumisano
-Izumo
-Joetsu
-Kadoma
-Kagoshima
-Kakamigahara
-Kakegawa
-Kakogawa
-Kamagaya
-Kamakura
-Kanazawa
-Kanoya
-Kanuma
-Karatsu
-Kariya
-Kashihara
-Kashiwa
-Kasuga
-Kasugai
-Kasukabe
-Kawachinagano
-Kawagoe
-Kawaguchi
-Kawanishi
-Kawasaki
-Kazo
-Kirishima
-Kiryu
-Kisarazu
-Kishiwada
-Kitakyushu
-Kitami
-Kobe
-Kodaira
-Kofu
-Koga
-Koganei
-Kokubunji
-Komaki
-Komatsu
-Konosu
-Koriyama
-Koshigaya
-Kuki
-Kumagaya
-Kumamoto
-Kurashiki
-Kure
-Kurume
-Kusatsu
-Kushiro
-Kuwana
-Kyoto
-Machida
-Maebashi
-Marugame
-Matsubara
-Matsudo
-Matsue
-Matsumoto
-Matsusaka
-Matsuyama
-Mihara
-Minoh
-Misato
-Mishima
-Mitaka
-Mito
-Miyakonojo
-Miyazaki
-Moriguchi
-Morioka
-Musashino
-Nagahama
-Nagano
-Nagaoka
-Nagareyama
-Nagasaki
-Nagoya
-Naha
-Nara
-Narashino
-Narita
-Nasushiobara
-Neyagawa
-Niigata
-Niihama
-Niiza
-Nishinomiya
-Nishio
-Nishitokyo
-Nobeoka
-Noda
-Numazu
-Obihiro
-Odawara
-Ogaki
-Oita
-Okayama
-Okazaki
-Okinawa
-Ome
-Omuta
-Onomichi
-Osaka
-Osaki
-Oshu
-Ota
-Otaru
-Otsu
-Oyama
-Saga
-Sagamihara
-Saijo
-Saitama
-Sakado
-Sakai
-Sakata
-Saku
-Sakura
-Sanda
-Sanjo
-Sano
-Sapporo
-Sasebo
-Sayama
-Sendai
-Seto
-Shibata
-Shimada
-Shimonoseki
-Shizuoka
-Shunan
-Soka
-Suita
-Suzuka
-Tachikawa
-Tajimi
-Takamatsu
-Takaoka
-Takarazuka
-Takasaki
-Takatsuki
-Tama
-Tochigi
-Toda
-Tokai
-Tokorozawa
-Tokushima
-TOKYO
-Tomakomai
-Tondabayashi
-Toride
-Tottori
-Toyama
-Toyohashi
-Toyokawa
-Toyonaka
-Toyota
-Tsu
-Tsuchiura
-Tsukuba
-Tsuruoka
-Tsuyama
-Ube
-Ueda
-Uji
-Urasoe
-Urayasu
-Uruma
-Utsunomiya
-Wakayama
-Yachiyo
-Yaizu
-Yamagata
-Yamaguchi
-Yamato
-Yao
-Yatsushiro
-Yokkaichi
-Yokohama
-Yokosuka
-Yonago
-Zama
-AMMAN
-Aqaba
-Irbid
-Russiefa
-Zarqa
-Aktau
-Aktobe
-Almaty
-ASTANA
-Atirau
-Ekibastuz
-Karaganda
-Koktshetau
-Kustanai
-Kyzylorda
-Pavlodar
-Petropavlovsk 
-Rudni
-Semipalatinsk
-Shimkent
-Taldykorgan
-Taraz
-Temirtau
-Uralsk
-Ust-Kamenogorsk
-Farwanyiah
-Hawalli
-Jaleeb Al-Shuykh
-Salmiya
-South Kheetan
-BISHKEK
-Osh
-Lao People's Democratic Republic
-VIENTIANE CAPITAL
-3 III 2007 
-BEIRUT
-Alor Setar
-Ampang/Ulu Kelang
-Bintulu
-Georgetown
-Kajang dan Sungai Chua
-Klang
-Kota Kinabalu
-KUALA LUMPUR
-Kuala Terengganu
-Kuantan
-Kuching
-MB Ipoh
-MB Johor Bahru
-Miri
-MP Kota Bharu
-Petaling Jaya
-Sandakan
-Seleyang Baru
-Seremban
-Shah Alam
-Sibu
-Subang Jaya
-Sungai Petani
-Taiping
-Tawau
-MALÉ
-Hovsgol
-Ovorhangay
-ULAANBAATAR
-Bhimdutta
-Biratnagar
-Birgunj
-Butwal
-Dhangadhi
-Dharan
-KATHMANDU
-Pokhara
-As Seeb
-As Suwayq
-Bawshar
-Mutrah
-Salalah
-Sohar
-Abbotabad
-Bahawalnagar
-Bahawalpur
-Burewala
-Chiniot
-Chishtian
-Dadu
-Daska
-Dera Ghazi Khan
-Faisalabad 
-Gojra
-Gujranwala
-Gujrat
-Hafizabad
-ISLAMABAD
-Jacobabad
-Jaranwala
-Jhang
-Jhelum
-Kamoke
-Karachi
-Kasur
-Khairpur
-Khanewal
-Khanpur
-Kohat
-Lahore
-Larkana
-Mangora
-Mardan
-Mirpur Khas
-Multan
-Muridke
-Muzaffargharh
-Nawabshah
-Okara
-Pakpattan
-Peshawar
-Quetta
-Rahimyar Khan
-Rawalpindi
-Sadiqabad
-Sahiwal
-Sargodha
-Shakkarpur
-Sheikhu Pura
-Sialkote
-Sukkur
-Tandoadam
-Wah Cantonment
-Angeles
-Angono
-Antipolo
-Apalit
-Arayat
-Bacolod
-Bacoor City
-Bago
-Baguio
-Baliuag
-Batangas
-Bayambang
-Bayawan 
-Baybay
-Biñan
-Binangonan
-Bocaue
-Butuan
-Cabanatuan
-Cabuyao
-Cadiz
-Cagayan de Oro
-Cainta
-Calamba
-Calapan
-Calbayog
-Calumpit
-Candaba
-Candelaria
-Capas
-Carcar
-Cauayan
-Cavite City
-Cebu
-Concepcion
-Consolacion
-Cotabato
-Dagupan
-Danao City
-Daraga 
-Dasmariñas
-Davao
-Digos
-Dipolog
-Dumaguete
-Gapan
-Gen. Mariano Alvarez
-General Santos
-General Trias
-Gingoog
-Glan
-Guagua
-Guimba
-Hagonoy
-Himamaylan
-Ilagan
-Iligan
-Iloilo
-Imus City
-Iriga
-Jolo
-Kabankalan
-Kalookan 
-Kidapawan
-Koronadal
-La Trinidad
-Laoag
-Lapu-Lapu
-Las Piñas
-Legazpi
-Libmanan
-Liloan
-Lipa
-Los Baños
-Lubao
-Lucena City
-Mabalacat
-Magalang
-Makati
-Malabalay
-Malabon
-Malasiqui
-Malolos
-Mandaluyong
-Mandaue
-MANILA
-Marawi
-Marikina
-Marilao
-Mariveles
-Mati
-Meycauayan
-Midsayap
-Minglanilla
-Muntinlupa
-Naga 
-Nasugbu
-Navotas
-Norzagaray
-Olongapo
-Ormoc
-Ozamis
-Pagadian
-Panabo
-Paranaque
-Pasay
-Pasig
-Pikit
-Plaridel
-Polomolok
-Porac
-Puerto Princesa
-Quezon City
-Rodriguez 
-Roxas
-Sagay City
-San Carlos 
-San Fernando 
-San Jose City 
-San Jose Del Monte
-San Mateo
-San Pablo
-San Pedro
-Santa Rosa
-Santiago
-Santo Tomas 
-Sariaya
-Silang
-Silay
-Sorsogon
-Surigao
-Tabaco
-Tabuk
-Tacloban
-Taguig
-Tagum
-Talavera
-Talisay
-Tanauan
-Tanza
-Tarlac
-Taytay
-Trece Martires
-Tuguegarao
-Urdaneta
-Valenzuela
-Zamboanga
-Al-Khoor
-Al-Rayyan
-Al-Wakrah
-DOHA
-Republic of Korea
-Busan 
-Daegu 
-Daejeon 
-Gwangju 
-Incheon
-SEOUL
-Ulsan
-Abha
-Ad-Dammam
-Al-Hawiyah
-Al-Hufuf
-Al-Jubayl
-Al-Kharj
-Al-Khubar
-Al-Madinah
-Al-Mubarraz
-Al-Qurrayyat
-Ar'ar
-Ath-Thuqbah
-At-Ta'if
-Buraydah
-Hafar al-Batin
-Ha'il
-Jiddah
-Jizan
-Khamis Mushayt
-Makkah
-Najran 
-RIYADH
-Sekaka
-Unayzah
-Yanbu al-Bahr
-SINGAPORE
-COLOMBO
-Dehiwala-Mount Lavinia
-Kandy
-Moratuwa
-Negombo
-Sri Jayawardanapura Kotte
-State of Palestine
-Gaza
-Hebron
-Jabalya
-Khan Yunis
-Nablus
-Rafah
-Aleppo
-Al-Hasakeh
-Al-Raqqah
-Al-Sweida
-Damasus rural
-Deir El-Zor
-Dra'a
-Hama
-Homs
-Idleb
-Lattakia
-Tartous
-Ang Thong
-BANGKOK
-Buri Ram
-Chachoengsao
-Chai Nat
-Chaiyaphum
-Chanthaburi
-Chiang Mai
-Chiang Rai
-Chon Buri
-Chumphon
-Kalasin
-Kamphaeng Phet
-Kanchanaburi
-Khon Kaen
-Lampang
-Lamphun
-Loei
-Lop Buri
-Maha Sarakham
-Mukdahan
-Nakhon Pathom
-Nakhon Phanom
-Nakhon Ratchasima
-Nakhon Sawan
-Nakhon Si Thammarat
-Narathiwat
-Nong Bua Lam Phu
-Nong Khai
-Nonthaburi
-Pathum Thani
-Pattani
-Phatthalung
-Phayao
-Phetchabun
-Phetchaburi
-Phichit
-Phitsanulok
-Phra Nakhon Si Ayutthaya
-Phrae
-Phuket
-Prachuap Khiri Khan
-Ranong
-Ratchaburi
-Rayong
-Roi Et
-Sa Kaeo
-Sakon Nakhon
-Samut Prakan
-Samut Sakhon
-Saraburi
-Si Sa Ket
-Songkhla
-Sukhothai
-Suphan Buri
-Surat Thani
-Surin
-Tak
-Trat
-Ubon Ratchathani
-Udon Thani
-Uttaradit
-Yala
-Yasothon
-Timor-Leste
-DILI
-Adana45
-Adiyaman
-Afyon
-Aksaray
-Alanya 
-ANKARA46
-Antalya
-Aydin
-Balikesir
-Bandirma
-Batman
-Bursa47
-Ceyhan
-Corlu
-Corum
-Denizli
-Derince48
-Diyarbakir
-Edirne
-Elazig
-Erzincan
-Erzurum
-Eskisehir
-Gaziantep49
-Gebze
-Hatay
-Içel
-Inegol
-Iskenderun
-Isparta
-Istanbul50
-Izmir51
-Kahramanmaras
-Karaman
-Kayseri52
-Kirikkale
-Kiziltepe
-Kocaeli
-Konya
-Kütahya
-Malatya
-Manavgat 
-Manisa
-Nazilli
-Ordu
-Osmaniye
-Patnos 
-Sakarya
-Samsun
-Sanliurfa
-Siirt
-Sivas
-Siverek
-Tarsus
-Tekirdag
-Tokat
-Trabzon
-Turgutlu 
-Turhal
-Usak
-Van
-Viransehir
-ABU DHABI
-Ajman
-Al-Ayn
-Al-Sharjah
-Dubai
-Almalyk
-Andizhan
-Angren
-Banjzak
-Bukhara
-Chirchik
-Fergana
-Karshi
-Kokand
-Margilan
-Namangan
-Navoi
-Nukus
-Samarkand
-TASHKENT
-Termez
-Urgentch
-Adan
-SANA'A
-Åland Islands
-MARIEHAMN
-Durrës
-TIRANA
-ANDORRA LA VELLA
-Graz
-Innsbruck
-Linz
-Salzburg
-WIEN
-Baranovichi
-Bobruisk
-Borisov
-Brest
-Gomel
-Grodno
-MINSK
-Mogilev
-Mozir
-Novopolotsk
-Orsha
-Pinsk
-Soligorsk
-Vitebsk
-Anderlecht
-Antwerpen 
-Brugge
-BRUXELLES 
-Charleroi
-Gent 
-Liège 
-Namur
-Schaerbeek
-Burgas
-Pleven
-Plovdiv
-Ruse
-SOFIA
-Stara Zagora
-Varna
-Osijek
-Rijeka
-Split
-ZAGREB
-Brno
-Liberec
-Ostrava
-Plzen
-PRAHA
-Ålborg
-Århus
-Esbjerg
-Frederiksberg
-KOBENHAVN
-Odense
-Vejle
-TALLINN
-Tartu
-Faeroe Islands
-THORSHAVN
-Espoo
-HELSINKI
-Jyvaskyla
-Lahti
-Oulu
-Tampere
-Turku
-Vantaa
-Aix-en-Provence
-Amiens
-Angers
-Argenteuil
-Besançon
-Bordeaux
-Boulogne-Billancourt
-Caen
-Clermont-Ferrand
-Dijon
-Grenoble
-Le Havre
-Le Mans
-Lille
-Limoges
-Lyon
-Marseille
-Metz
-Montpellier
-Montreuil
-Mulhouse
-Nancy
-Nantes
-Nice
-Nîmes
-Orléans
-PARIS
-Perpignan
-Reims
-Rennes
-Rouen
-Saint-Denis
-Saint-Denis 
-Saint-Étienne
-Saint-Paul 
-Strasbourg
-Toulon
-Toulouse
-Tours
-Villeurbanne
-Aachen
-Augsburg
-Bergisch Gladbach
-BERLIN
-Bielefeld
-Bochum
-Bonn
-Bottrop
-Braunschweig
-Bremen
-Bremerhaven
-Chemnitz
-Cottbus
-Darmstadt
-Dortmund
-Dresden
-Duisburg
-Düsseldorf
-Erfurt
-Erlangen
-Essen
-Frankfurt am Main
-Freiburg im Breisgau
-Fürth
-Gelsenkirchen
-Göttingen
-Hagen
-Halle
-Hamburg
-Hamm
-Hannover
-Heidelberg
-Heilbronn
-Herne
-Hildesheim
-Ingolstadt
-Jena
-Karlsruhe
-Kassel
-Kiel
-Koblenz
-Köln
-Krefeld
-Leipzig
-Leverkusen
-Lübeck
-Ludwigshafen am Rhein
-Magdeburg
-Mainz
-Mannheim
-Moers
-Mönchengladbach
-Mülheim an der Ruhr
-München
-Münster 
-Neuss
-Nürnberg
-Oberhausen
-Offenbach am Main
-Oldenburg
-Osnabrück
-Paderborn
-Pforzheim
-Potsdam
-Recklinghausen
-Regensburg
-Remscheid
-Reutlingen
-Rostock
-Saarbrücken
-Salzgitter
-Siegen
-Solingen
-Stuttgart
-Trier
-Ulm
-Wiesbaden
-Wolfsburg
-Wuppertal
-Würzburg
-Gibraltar58
-GIBRALTAR
-ATHINAI
-Calithèa
-Iraclion
-Larissa
-Patrai
-Pésterion
-Pireas59
-Thessaloniki59
-Guernsey
-ST. PETER PORT
-Holy See
-VATICAN CITY
-BUDAPEST
-Debrecen
-Györ
-Kecskemét
-Miskolc
-Nyiregyhaza
-Pécs
-Szeged
-Székesfehérvar
-REYKJAVIK
-Cork
-DUBLIN
-Isle of Man
-DOUGLAS
-Ancona
-Bari
-Bergamo
-Bologna
-Bolzano
-Brescia
-Cagliari
-Catania
-Ferrara
-Firenze
-Foggia
-Forli
-Genova
-Giugliano in Campania
-Latina
-Livorno
-Messina
-Milano
-Modena
-Monza
-Napoli
-Novara
-Padova
-Palermo
-Parma
-Pescara
-Piacenza
-Prato
-Ravenna
-Reggio di Calabria
-Reggio nell'Emilia
-Rimini
-ROMA
-Salerno
-Sassari
-Siracusa
-Taranto
-Terni
-Torino
-Trento
-Trieste
-Venezia
-Verona
-Vicenza
-Jersey
-ST. HELIER
-Daugavpils
-RIGA
-VADUZ
-Kaunas
-Klaipeda
-Panevezhis
-Shauliai
-LUXEMBOURG-VILLE
-VALLETTA
-MONACO
-PODGORICA
-Almere
-Amersfoort
-AMSTERDAM
-Apeldoorn
-Arnhem
-Breda
-Dordrecht
-Ede
-Eindhoven
-Emmen
-Enschede
-Geleen-Sittard
-Groningen
-Haarlem
-Haarlemmermeer
-Heerlen-Kerkrade
-Leiden
-Maastricht
-Nijmegen
-Rotterdam
-s-Gravenhage
-s-Hertogenbosch
-The Hague
-Tilburg
-Utrecht
-Zaanstad
-Zoetermeer
-Zwolle
-Bergen
-OSLO
-Stavanger
-Trondheim
-Bialystok
-Bielsko-Biala
-Bydgoszcz
-Bytom
-Chorzów
-Czestochowa
-Dabrowa Górnicza
-Elblag
-Gdansk
-Gdynia
-Gliwice
-Gorzów Wielkopolski
-Kalisz
-Katowice
-Kielce
-Koszalin
-Kraków
-Legnica
-Lódz
-Lublin
-Olsztyn
-Opole
-Plock
-Poznan
-Radom
-Ruda Slaska
-Rybnik
-Rzeszów
-Sosnowiec
-Szczecin
-Tarnów
-Torun
-Tychy
-Walbrzych
-WARSZAWA
-Wloclawek
-Wroclaw
-Zabrze
-Zielona Góra
-Amadora
-LISBOA
-Porto
-Balti 
-CHIŞINĂU 
-Arad
-Bacau
-Baia Mare
-Botosani
-Braila
-Brasov
-BUCURESTI
-Buzau
-Cluj-Napoca
-Constanta
-Craiova
-Drobeta Turnu-Severin
-Galati
-Iasi
-Oradea
-Piatra Neamt
-Pitesti
-Ploiesti
-Rimnicu Vilcea
-Satu-Mare
-Sibiu
-Suceava
-Timisoara
-Tirgu-Mures
-Abakan
-Achinsk
-Almetievsk
-Anapa
-Angarsk
-Arkhangelsk
-Armavir
-Artem 
-Arzamas
-Astrakhan
-Balakovo
-Balashikha
-Barnaul
-Bataisk
-Belgorod
-Belovo
-Berezniki
-Biisk
-Blagoveshchensk 
-Bor
-Bratsk
-Bryansk
-Cheboksary
-Chelyabinsk
-Cherepovets
-Cherkessk
-Chita
-Derbent
-Dimitrovgrad
-Domodedovo
-Dzerzhinsk 
-Ekaterinburg
-Elektrostal
-Elets
-Elista
-Engels
-Esentuky
-Groznyi
-Gubkin
-Hasaviurt
-Irkutsk
-Ivanovo
-Izhevsk
-Kaliningrad 
-Kaluga
-Kamensk-Uralsky
-Kamyshin
-Kaspiysk
-Kazan
-Kemerovo
-Khabarovsk
-Khimki
-Kirov
-Kiselevsk
-Kislovodsk
-Kolomna
-Komsomolsk-na-Amure
-Kopeysk
-Korolev 
-Kostroma
-Kovrov
-Krasnodar
-Krasnogorsk
-Krasnoyarsk
-Kurgan
-Kursk
-Kyzyl
-Leninsk-Kuznetsky
-Lipetsk
-Lyubertsy
-Magadan
-Magnitogorsk
-Maikop
-Makhachkala
-Mezhdurechensk
-Miass
-MOSKVA
-Murmansk
-Murom
-Mytishchi
-Naberezhnye Tchelny
-Nakhodka
-Naltchik
-Neftekamsk
-Nefteyugansk
-Nevinnomyssk
-Nizhnekamsk
-Nizhnevartovsk
-Nizhny Novgorod
-Nizhny Tagil
-Noginsk
-Norilsk
-Novocheboksarsk
-Novocherkassk
-Novokuybishevsk
-Novokuznetsk
-Novomoskovsk 
-Novorossiysk
-Novoshakhtinsk
-Novosibirsk
-Novotroitsk
-Novy Urengoy
-Noyabrsk
-Obninsk
-Odintsovo
-Oktyabrsky
-Omsk
-Orekhovo-Zuevo
-Orel
-Orenburg
-Orsk
-Penza
-Perm
-Pervouralsk
-Petropavlovsk-Kamchatsky
-Petrozavodsk
-Podolsk
-Prokopyevsk
-Pskov
-Pushkino
-Pyatigorsk
-Rostov-na-Donu
-Rubtsovsk
-Ryazan
-Rybinsk
-Salavat
-Samara 
-Saransk
-Sarapyul
-Saratov
-Sergiev Posad
-Serov
-Serpukhov
-Severodvinsk
-Seversk
-Shakhty
-Shchelkovo
-Smolensk
-Sochi
-St. Petersburg
-Stary Oskol
-Stavropol
-Sterlitamak
-Surgut
-Syktivkar
-Syzran
-Taganrog
-Tambov
-Tobolsk
-Tolyatti
-Tomsk
-Tula
-Tver
-Tyumen
-Ufa
-Uhta
-Ulan-Ude
-Ulyanovsk
-Ussuriisk
-Velikiy Novgorod
-Vladikavkaz 
-Vladimir
-Vladivostok
-Volgodonsk
-Volgograd
-Vologda
-Volzhsky
-Voronezh
-Yakutsk
-Yaroslavl
-Yoshkar-Ola
-Yuzhno-Sakhalinsk
-Zheleznodorozhny
-Zhukovsky
-Zlatoust
-SAN MARINO
-BEOGRAD 
-Kragujevac
-Kraljevo
-Kruševac
-Leskovac
-Niš
-Novi Sad
-Pancevo
-Šabac
-Smederevo
-Subotica
-Zrenjanin
-BRATISLAVA
-Kosice
-LJUBLJANA
-Maribor
-A Coruña
-Albacete
-Alcalá de Henares
-Alcobendas
-Alcorcón
-Algeciras
-Alicante
-Almería
-Badajoz
-Badalona
-Baracaldo
-Bilbao
-Burgos
-Cádiz
-Castellón de la Plana
-Donostia
-Dos Hermanas
-Elche
-Fuenlabrada
-Getafe
-Gijón
-Granada
-Hospitalet de Llobregat
-Huelva
-Jaén
-Jérez de la Frontera
-Leganés
-Lleida
-Logroño
-MADRID
-Málaga
-Marbella
-Mataró
-Móstoles
-Murcia
-Ourense
-Oviedo
-Palma
-Palmas de Gran Canaria
-Pamplona
-Parla
-Reus
-Sabadell
-San Cristóbal de La Laguna
-Santa Coloma de Gramanet
-Santa Cruz de Tenerife
-Santander
-Sevilla
-Tarragona
-Telde
-Terrassa
-Torrejón de Ardoz
-Valladolid
-Vigo
-Vitoria-Gasteiz
-Zaragoza
-Göteborg
-Helsingborg
-Jönköping
-Linköping
-Malmö
-Norrköping
-Orebro
-STOCKHOLM
-Umeå
-Uppsala
-Västerås
-Baden-Brugg
-Bâle
-BERNE
-Fribourg
-Genève
-Lausanne
-Lugano
-Luzern
-Olten-Zofingen
-St. Gallen
-Winterthur
-Zug
-Zürich
-SKOPJE
-Alchevsk
-Belaya Tserkov 
-Berdyansk
-Cherkassy
-Chernigov
-Chernovtsy
-Dneprodzerzhinsk
-Dnepropetrovsk
-Donetsk 
-Enakievo 
-Evpatoriya 
-Gorlovka
-Ivano-Frankovsk
-Kamyanetsk Podilsky
-Kertch
-Kharkov
-Kherson
-Khmelnitsky 
-KIEV
-Kirovograd
-Kramatorsk
-Krasny Lutch
-Krementchug
-Kryvy Rig
-Lugansk
-Lutsk
-Lvov
-Lysychansk
-Makeyevka
-Mariupol
-Melitopol
-Mykolaiv 
-Nikopol
-Odessa
-Pavlograd
-Poltava
-Rivne
-Sevastopol
-Severodonetsk
-Simferopol
-Slavyansk
-Sumy
-Ternopol
-Uzhgorod
-Vinnutsya
-Yevpatoriya
-Zaporozhye
-Zhitomir
-Aberdeen
-Aberdeenshire
-Aldershot
-Angus
-Basildon/North Benfleet
-Bedford/Kempston
-Belfast70
-Birkenhead
-Blackburn/Darwen
-Blackpool
-Bournemouth
-Brighton/Worthing/Littlehampton
-Bristol
-Burnley/Nelson
-Cambridge
-Cardiff71
-Cheltenham/Charlton Kings
-Chesterfield/Staveley
-Colchester
-Coventry/Bedworth
-Crawley
-Dearne Valley
-Derby
-Doncaster
-Dumfries & Galloway
-Dundee
-East Ayrshire
-East Dunbartonshire
-Eastbourne
-Edinburgh72
-Exeter
-Falkirk
-Fife
-Glasgow
-Gloucester
-Grimsby/Cleethorpes
-Hastings/Bexhill
-High Wycombe
-Highland
-Ipswich
-Kingston-upon-Hull
-Leicester
-Lincoln
-Liverpool
-LONDON73
-Luton/Dunstable
-Manchester
-Mansfield
-Milton Keynes
-Newport
-North Ayrshire
-North Lanarkshire
-Northampton
-Norwich
-Nottingham
-Nuneaton
-Oxford
-Perth & Kinross
-Plymouth
-Portsmouth
-Preston
-Reading/Wokingham
-Renfrewshire
-Scottish Borders
-Sheffield
-Slough
-South Ayrshire
-South Lanarkshire
-Southampton
-Southend
-Southport/Formby
-St. Albans/Hatfield
-Sunderland
-Swansea
-Swindon
-Teesside
-Telford
-Thanet
-The Medway Towns
-The Potteries
-Torbay
-Tyneside
-Warrington
-West Lothian
-West Midlands
-West Yorkshire
-Wigan
-York
-OCEANIA
-PAGO PAGO
-Adelaide
-Brisbane
-Cairns
-CANBERRA
-Central Coast
-Darwin
-Geelong
-Gold Coast-Tweed Heads
-Greater Wollongong
-Hobart
-Melbourne
-Newcastle
-Perth
-Sunshine Coast
-Sydney
-Toowoomba
-Townsville
-Cook Islands
-RAROTONGA
-SUVA
-French Polynesia
-PAPEETE
-Guam
-AGANA
-TARAWA
-MAJURO
-PALIKIR
-New Caledonia
-NOUMEA
-Auckland
-Christchurch
-Dunedin
-Lower Hutt
-Napier-Hastings
-Tauranga
-WELLINGTON
-Niue
-ALOFI
-Norfolk Island
-Northern Mariana Islands
-GARAPAN
-KOROR
-PORT MORESBY
-Pitcairn
-ADAMSTOWN
-APIA
-HONIARA
-NUKU'ALOFA
-FUNAFUTI
-PORT VILA
-Wallis and Futuna Islands
+Annaba,36.9000,7.7667
+Batna,35.5553,6.1786
+Bordj El Kiffan,36.7475,3.1931
+Bouira,36.3800,3.9014
+Bordj Bou Arreridj,36.0750,4.7750
+Bordj El Kiffan,36.7475,3.1931
+Stellenbosch,-33.9346,18.8668
+Bordj El Kiffan,36.7475,3.1931
+Echternach,49.8056,6.4222
+Port Elizabeth,-33.9180,25.5701
+Port Elizabeth,-33.9180,25.5701
+Djelfa,34.6667,3.2500
+Port Elizabeth,-33.9180,25.5701
+El Eulma,36.1500,5.6833
+Port Elizabeth,-33.9180,25.5701
+Wadsworth,41.0621,-81.7451
+Guelma,36.4661,7.4339
+Jijel,36.8000,5.7667
+Skikda,36.8792,6.9067
+Souk Ahras,36.2864,7.9511
+Stifford,51.4833,0.3167
+Touggourt,33.1000,6.0667
+Wahran,35.6911,-0.6417
+Huambo,-12.7761,15.7392
+Cotonou,6.3654,2.4183
+Parakou,9.3372,2.6303
+Banfora,10.6333,-4.7667
+Bobowa,49.7000,20.9333
+Bobo Dioulasso,11.2000,-4.3000
+Dorion-vaudreuil,45.3833,-74.0167
+Fada N'gourma,12.0622,0.3578
+Fada N'gourma,12.0622,0.3578
+Kaya,37.3365,40.2428
+Koudougou,12.2500,-2.3667
+Ouahigouya,13.5833,-2.4167
+Tenkodogo,11.7800,-0.3697
+Cabot,34.9461,-92.0858
+Camp Verde,34.4862,-111.7808
+Bafoussam,5.4667,10.4167
+Bamenda,5.9333,10.1667
+Douala,4.0503,9.7000
+Garoua,9.3000,13.4000
+Kumba,4.6439,9.4386
+Maroua,10.5956,14.3247
+Nkongsamba,4.9533,9.9325
+Kloof,-29.7853,30.8233
+6 October City,29.9464,30.9169
+Jersey City,40.7291,-74.0386
+Alexandria,31.2156,29.9553
+Aswan,24.0934,32.9070
+Damietta,31.4165,31.8133
+Baq'a El Gharbia,32.4181,35.0431
+Gizalki,52.0446,17.7669
+Helwan,29.8414,31.3008
+Ismailia,30.6043,32.2723
+Northcliff,-26.1540,27.9616
+Mount Sinai,40.9335,-73.0106
+Port-gentil,-0.7167,8.7833
+Port Said,31.2565,32.2841
+Qena,26.1642,32.7267
+Reduit,-20.2275,57.4925
+Searcy,35.2327,-91.7054
+Sharkia,30.7000,31.8000
+Sohag,26.5570,31.6948
+Suez,29.9737,32.5263
+Awassa,7.0500,38.4667
+Bahir Dar,11.6000,37.3833
+Dar Es Salaam,-6.8000,39.2833
+Debrecen,47.5333,21.6333
+Zeitz,51.0500,12.1500
+Dessie,11.1333,39.6333
+Direzione,40.8000,9.0167
+Dawang,36.9789,118.5022
+Gondar,12.6000,37.4667
+Harare,-17.8178,31.0447
+Jimma,7.6667,36.8333
+Nazareth,40.7530,-75.3062
+Koforidua,6.0833,-0.2500
+Kumasi,6.6833,-1.6167
+Madinat Sittah Uktubar,29.8167,31.0500
+Obuasi,6.2000,-1.6667
+Sekondi,4.9333,-1.7000
+Takoradi,4.8833,-1.7500
+Tamale,9.4000,-0.8333
+Tema,5.6167,-0.0167
+Kankan,10.3833,-9.3000
+Kindia,10.0667,-12.8500
+Eldoret,0.5167,35.2833
+Garissa,-0.4569,39.6583
+Kikuyu,-1.2500,36.6667
+Kisumu,-0.1000,34.7500
+Mombasa,-4.0500,39.6667
+Nakuru,-0.2833,36.0667
+Ngongotaha,-38.0833,176.2000
+Ruiru,-1.1500,36.9667
+Thika,-1.0500,37.0833
+Antsirabe,-19.8500,47.0333
+Fianarantsoa,-21.4333,47.0833
+Mahajanga,-15.7167,46.3167
+Toamasina,-18.1667,49.3833
+Toliara,-23.3500,43.6667
+Blantyre,-15.7833,35.0000
+Jersey City,40.7291,-74.0386
+Beau Bassin,-20.2194,57.4583
+Beau Bassin,-20.2194,57.4583
+Vacoas,-20.2981,57.4783
+Agadir,30.4000,-9.6000
+Casablanca,33.5928,-7.6192
+Inezgane,30.3500,-9.5333
+Gaithersburg,39.1148,-77.2462
+A�t Melloul,31.5333,-8.1833
+Khemisset,33.8167,-6.0667
+Khouribga,32.8833,-6.9000
+Laayoune,33.6663,-7.0712
+Larache,35.1972,-6.1533
+Marrakech,31.6315,-8.0083
+Mohammedia,33.6942,-7.3925
+Nador,35.1783,-2.9308
+Oujda,34.6867,-1.9114
+Safi,35.8331,14.4847
+Settat,33.0053,-7.6183
+Tanger,35.7806,-5.8136
+Tazawa,38.5569,140.3586
+Beira,38.7000,-28.2000
+Chimoio,-19.1164,33.4833
+Matola,-25.9622,32.4589
+Mocuba,-16.8403,38.2569
+Nacala,-14.5428,40.6728
+Nampula,-15.1197,39.2647
+Quelimane,-17.8786,36.8883
+Teterboro,40.8546,-74.0614
+Maradi,13.4917,7.0964
+Zinder,13.8000,8.9833
+Butare,-2.5967,29.7394
+Gitarama,-2.0744,29.7567
+Saint-louis,16.0189,-16.4953
+Helena,33.2507,-86.9211
+Alexandria,31.2156,29.9553
+Roodepoort,-27.1667,28.1667
+Saou,44.6464,5.0643
+Tomelilla,55.5500,13.9500
+Sandton,-26.0500,27.9667
+Casal Di Principe,41.0000,14.1333
+Saint-louis,16.0189,-16.4953
+Boksburg,-26.2150,28.2547
+Kenema,7.8767,-11.1875
+Makeni,8.5667,-11.9667
+Alexandra,1.2939,103.8197
+Benoni,-26.1909,28.3113
+Boksburg,-26.2150,28.2547
+Botshabelo,-29.1230,26.7737
+Durban,-29.8579,31.0292
+Germiston,-26.2348,28.1767
+Johannesburg,-26.2052,28.0498
+Kempton Park,-26.0988,28.2330
+Parkview,-26.1653,28.0244
+Kimberley,52.9833,-1.2667
+Pietermaritzburg,-29.6168,30.3928
+Port-gentil,-0.7167,8.7833
+Port Elizabeth,-33.9180,25.5701
+Roodepoort,-27.1667,28.1667
+Soweto,-26.2678,27.8585
+Springs,-26.2500,28.4000
+Tembisa,-25.9964,28.2268
+Umlazi,-29.9657,30.8864
+Vereeniging,-26.6731,27.9261
+Bizerte,37.2744,9.8739
+Kairouan,35.6781,10.0963
+Sfax,34.7406,10.7603
+Guluguba,-26.2667,150.0500
+Kirac,41.0372,28.6433
+La Lira,20.4667,-100.1500
+Western Springs,41.8039,-87.9027
+Sahara,22.2900,88.1353
+Chingola,-12.5333,27.8500
+Kabwe,-14.4333,28.4500
+Kitwe,-12.8167,28.2000
+Luanshya,-13.1333,28.4000
+Mufulira,-12.5500,28.2333
+Ndola,-12.9667,28.6333
+Bulawayo,-20.1500,28.5833
+Chitungwiza,-17.9939,31.0481
+Gweru,-19.4500,29.8167
+Mutare,-18.9667,32.6667
+Anguillara Sabazia,42.0833,12.2667
+Aruba,12.5000,-69.9667
+Bermuda,32.3302,-64.7400
+Barrie,44.3833,-79.7000
+Brantford,43.1438,-80.2600
+Calgary,51.0833,-114.0833
+Edmonton,53.5500,-113.5000
+City Of Greater Wollongong,-34.4240,150.8934
+Sudbury,42.3888,-71.4225
+Naval Air Station/ Jrb,32.7768,-97.4290
+Grand Rapids,42.9777,-85.7110
+Sudbury,42.3888,-71.4225
+Guelph,43.5500,-80.2500
+Halifax,44.6500,-63.6000
+Hamilton,34.1613,-87.9964
+Kelowna,49.9000,-119.4833
+Kingston,41.9389,-73.9901
+East London,-33.0111,27.9100
+Moncton,46.0833,-64.7667
+Oshawa,43.9000,-78.8667
+Ottawa,38.6227,-95.2689
+Peterborough,42.8665,-71.9605
+Regina,50.4500,-104.6167
+Saguenay,48.2007,-71.1426
+Saint-louis,16.0189,-16.4953
+Johnston,41.7031,-93.7204
+Saskatoon,52.1333,-106.6667
+Sherbrooke,45.4000,-71.9000
+Stellenbosch,-33.9346,18.8668
+Stellenbosch,-33.9346,18.8668
+Saint John's,47.5500,-52.6667
+Thunder Bay,48.4000,-89.2333
+Beacon Bay,-32.9703,27.9440
+Toronto,40.4903,-80.6709
+Vancouver,45.6023,-122.5167
+Victoria,28.7466,-97.0165
+Windsor,43.4883,-72.4566
+Winnipeg,49.8833,-97.1667
+Cayman Palms,19.2667,-81.2667
+Islands,52.7344,-7.5931
+Cape Town,-33.9258,18.4232
+Sanford,35.5153,-79.2007
+Alajuela,10.0162,-84.2116
+Cartago,9.8533,-83.9023
+Desamparados,9.8968,-84.0629
+Heredia,10.0024,-84.1165
+Perez,14.1950,121.9231
+Puntarenas,9.9761,-84.8388
+Sandton,-26.0500,27.9667
+San Carlos,37.4980,-122.2672
+Bayamon,18.3741,-66.1403
+Ciego De �vila,21.8400,-78.7619
+city,latitude,longitude
+Avila Beach,35.1800,-120.7318
+Cienfuegos,22.1461,-80.4356
+Las Cruces,32.3047,-106.6417
+Tunas,20.9617,-76.9511
+Matanzas,23.0411,-81.5775
+Pinar Del R�o,22.4175,-83.6981
+Middelburg,-25.7751,29.4648
+Santa Fe,35.7847,-105.8749
+Santa Clara,37.3961,-121.9617
+Azua,18.4500,-70.7333
+Bajos De Haina,18.4167,-70.0333
+city,latitude,longitude
+Haina,51.0333,8.9667
+Boca Raton,26.4095,-80.0942
+Chicago,41.9288,-87.6315
+Bonao,18.9333,-70.4167
+Laghouat,33.8000,2.8833
+La Romana,18.4167,-68.9667
+Laghouat,33.8000,2.8833
+Las Vegas,36.1100,-115.2118
+Los Angeles,34.0396,-118.2661
+Los Alcarrizos,18.5167,-70.0167
+Moca,47.7667,18.4167
+Puerto Ordaz,8.2981,-62.7186
+La Plata,38.5163,-77.0154
+Sandton,-26.0500,27.9667
+Sandton,-26.0500,27.9667
+San Francisco,37.7353,-122.3732
+city,latitude,longitude
+San Pedro Macoris,18.4500,-69.3000
+Sandton,-26.0500,27.9667
+San Juan,18.4504,-66.0849
+city,latitude,longitude
+city,latitude,longitude
+San Juan De La Maguana,18.8000,-71.2333
+Sandton,-26.0500,27.9667
+San Pedro,33.7352,-118.3150
+city,latitude,longitude
+San Pedro Macoris,18.4500,-69.3000
+Santiago,-33.4500,-70.6667
+city,latitude,longitude
+San Carlos,37.4980,-122.2672
+Ejea De Los Caballeros,42.1263,-1.1372
+Santo Domingo,18.4667,-69.9000
+Santo Domingo,18.4667,-69.9000
+East London,-33.0111,27.9100
+Santo Domingo,18.4667,-69.9000
+Santo Domingo,18.4667,-69.9000
+Northcliff,-26.1540,27.9616
+Santo Domingo,18.4667,-69.9000
+Santo Domingo,18.4667,-69.9000
+Westville,-29.8255,30.9370
+Apopa,13.8072,-89.1792
+Ciudad Real,38.9863,-3.9291
+Rafael Delgado,18.8000,-97.0667
+Ilopango,13.7017,-89.1094
+Mejicanos,13.7403,-89.2131
+Sandton,-26.0500,27.9667
+San Miguel,35.8951,-120.6017
+Santa Fe,35.7847,-105.8749
+Anaheim,33.8312,-117.8673
+Santa Fe,35.7847,-105.8749
+Santa Tecla,13.6769,-89.2797
+Soyapango,13.7347,-89.1514
+Greenland,43.0318,-70.8533
+Guadeloupe,4.7333,-53.7833
+Escuintla,14.3050,-90.7850
+Mixco,14.6333,-90.6064
+Quetzaltenango,14.8333,-91.5167
+Elk Grove Village,42.0152,-87.9901
+Villa Nueva,-26.5500,-63.6667
+Carrefour,18.5333,-72.4000
+Delmas,18.5447,-72.3028
+Laghouat,33.8000,2.8833
+Ceiba,18.2477,-65.6783
+Sandton,-26.0500,27.9667
+San Pedro,33.7352,-118.3150
+San Pedro Sula,15.5000,-88.0333
+Spanish Fort,30.7021,-87.8637
+Martinique,45.6091,-60.9458
+Acapulco,16.8500,-99.9167
+Acayucan,17.9500,-94.9167
+Aguascalientes,21.8833,-102.3000
+Apizaco,19.4167,-98.1500
+Campeche,19.8500,-90.5333
+Celaya,20.5167,-100.8167
+Chalco,19.2667,-98.9000
+city,latitude,longitude
+Diaz,15.8833,120.8333
+Covarrubias,41.4500,-2.5667
+Chetumal,18.5000,-88.3000
+city,latitude,longitude
+Chihuahua,28.6333,-106.0833
+Ciudad Real,38.9863,-3.9291
+Ciudad Real,38.9863,-3.9291
+Apodaca,25.7667,-100.2000
+Ciudad Real,38.9863,-3.9291
+city,latitude,longitude
+Elk Grove Village,42.0152,-87.9901
+city,latitude,longitude
+Ciudad Real,38.9863,-3.9291
+Delmar,38.4864,-75.5439
+Carmen,18.6333,-91.8333
+Ciudad Real,38.9863,-3.9291
+General Roca,-39.0280,-67.5737
+Escobedo,25.3333,-100.7000
+Ciudad Real,38.9863,-3.9291
+Ciudad Real,38.9863,-3.9291
+L�pez Mateos,19.5583,-99.2614
+Ciudad Real,38.9863,-3.9291
+Puerto Madero,-34.6000,-58.3667
+Ciudad Real,38.9863,-3.9291
+Ciudad Real,38.9863,-3.9291
+Santa Fe,35.7847,-105.8749
+Catarina,28.3455,-99.6134
+Ciudad Real,38.9863,-3.9291
+Vallese,45.3167,11.0833
+Ciudad Real,38.9863,-3.9291
+Victoria,28.7466,-97.0165
+Coatzacoalcos,18.1500,-94.4167
+Cuautitl�n Izcalli,19.6469,-99.2467
+Cuautla,18.8000,-98.9500
+Cuernavaca,18.9167,-99.2500
+Rosales,12.0667,124.5833
+Delicias,28.2000,-105.5000
+Durango,37.4509,-107.8488
+Ecatepec,19.6011,-99.0525
+Ensenada,31.8667,-116.6167
+Fresnillo,23.1667,-102.8833
+Palacios,28.7575,-96.2523
+Guadalajara,20.6667,-103.3333
+Guadalupe,34.9716,-120.5718
+Nuevo,33.8251,-117.1081
+Guadalupe,34.9716,-120.5718
+Zacatecas,22.7833,-102.5833
+Guanajuato,21.0167,-101.2500
+Hermosillo,29.0667,-110.9667
+Heroica Matamoros,25.8833,-97.5000
+Guaymas,27.9333,-110.9000
+Heroica Matamoros,25.8833,-97.5000
+Nogales,31.4502,-110.8311
+Hidalgo,26.1105,-98.2526
+Middelburg,-25.7751,29.4648
+Hidalgo Del Parral,26.9333,-105.6667
+Igualada,41.5810,1.6172
+Irapuato,20.6833,-101.3500
+Ixtapaluca,19.3167,-98.8833
+Jiutepec,18.8667,-99.1833
+Laghouat,33.8000,2.8833
+La Paz,-16.5000,-68.1500
+Vega Baja,18.4183,-66.3932
+California,38.2907,-76.5221
+Surprise,33.6475,-112.3884
+Laghouat,33.8000,2.8833
+La Paz,-16.5000,-68.1500
+Distrito Federal,32.4914,-115.0369
+Federal Way,47.3078,-122.3177
+Laghouat,33.8000,2.8833
+Piedade,-23.7136,-47.4118
+Los Angeles,34.0396,-118.2661
+Los Mochis,25.7667,-108.9667
+Manzanillo,19.0500,-104.3333
+Matamoros,25.8833,-97.5000
+Mexicali,32.6519,-115.4683
+Monclova,41.5730,-83.7644
+Monterrey,25.6667,-100.3167
+Morelia,19.7000,-101.1167
+Naucalpan,19.4794,-99.2383
+city,latitude,longitude
+Navojoa,24.9917,-111.7375
+Nuevo,33.8251,-117.1081
+Laredo,27.5596,-99.4608
+Oaxaca,17.0500,-96.7167
+city,latitude,longitude
+Orizaba,18.8500,-97.1000
+Pachuca,20.1167,-98.7333
+Las Piedras,18.1966,-65.8720
+Piedras Negras,28.7000,-100.5167
+Playa Del Rey,33.9489,-118.4456
+Middelburg,-25.7751,29.4648
+Carmen,18.6333,-91.8333
+Poza Rica,21.2667,-98.3000
+Villa Rica,33.7105,-84.9112
+city,latitude,longitude
+Hidalgo,26.1105,-98.2526
+Puebla,19.0500,-98.2000
+city,latitude,longitude
+Zaragoza,41.6453,-0.8849
+Puerto Ordaz,8.2981,-62.7186
+Puerto Vallarta,20.6167,-105.2500
+Reynosa,26.0833,-98.2833
+Rioverde,21.9046,-100.0385
+Salamanca,42.0826,-78.7601
+Saltillo,25.4167,-101.0000
+Sandton,-26.0500,27.9667
+San Cristobal,36.6071,-105.6376
+city,latitude,longitude
+Dallas,32.7825,-96.8207
+Casasco,44.8333,9.0000
+Sandton,-26.0500,27.9667
+San Francisco,37.7353,-122.3732
+Coacalco,19.6317,-99.1103
+Sandton,-26.0500,27.9667
+San Francisco,37.7353,-122.3732
+Middelburg,-25.7751,29.4648
+Sandton,-26.0500,27.9667
+San Juan,18.4504,-66.0849
+San Juan Bautista,36.8380,-121.5156
+Tuxtepec,18.1000,-96.1167
+Sandton,-26.0500,27.9667
+San Juan,18.4504,-66.0849
+Middelburg,-25.7751,29.4648
+Sandton,-26.0500,27.9667
+San Luis Obispo,35.2790,-120.6968
+Sandton,-26.0500,27.9667
+San Luis Obispo,35.2790,-120.6968
+Rio Rico,31.5017,-111.0688
+Colorado Springs,38.8609,-104.8734
+Sandton,-26.0500,27.9667
+Texmelucan,19.2833,-98.4333
+Sandton,-26.0500,27.9667
+San Nicolas,18.1500,120.6333
+city,latitude,longitude
+San Carlos,37.4980,-122.2672
+Garza Garc�a,25.6667,-100.4000
+Sandton,-26.0500,27.9667
+San Pedro,33.7352,-118.3150
+Garza Garc�a,25.6667,-100.4000
+Garcia,39.7834,-8.9303
+Soledad,36.3952,-121.3047
+city,latitude,longitude
+Graciano S�nchez,23.9167,-99.2833
+Sanchez,15.9875,120.6671
+Tampico,22.3000,-97.8500
+Tapachula,14.9000,-92.2833
+Tepic,21.5000,-104.9000
+Tijuana,32.5333,-117.0167
+Tlalnepantla,19.5269,-99.2217
+Tlaquepaque,20.6500,-103.3167
+Tlaxcala,19.3139,-98.2417
+Toluca,40.9850,-89.1521
+Tonalaco,19.4293,-97.1327
+Tula,23.0000,-99.7167
+Tulare,36.1815,-119.3623
+city,latitude,longitude
+Allende,25.2833,-100.0167
+Tulancingo,20.0833,-98.3667
+Tulancingo,20.0833,-98.3667
+city,latitude,longitude
+R�o Bravo,25.9833,-98.1000
+Tuxpan,19.5500,-103.4000
+Tuxtla,18.4500,-95.2167
+Uruapan,19.4167,-102.0667
+Veracruz,19.2000,-96.1333
+Elk Grove Village,42.0152,-87.9901
+San Nicolas,18.1500,120.6333
+Nicol�s Romero,19.6219,-99.3131
+Villahermosa,17.9833,-92.9167
+Xico,19.2667,-98.9333
+Zacatecas,22.7833,-102.5833
+Zamora,19.9833,-102.2667
+city,latitude,longitude
+Hidalgo,26.1105,-98.2526
+Zapopan,20.7167,-103.4000
+Masaya,14.1434,121.2733
+Tipitapa,12.2006,-86.0939
+Sandton,-26.0500,27.9667
+San Miguelito,9.0333,-79.5000
+Puerto Ordaz,8.2981,-62.7186
+Rio Rico,31.5017,-111.0688
+Carolina,18.3207,-65.9419
+Ponce,17.9799,-66.6481
+Saint-louis,16.0189,-16.4953
+La Lucia,-29.7500,31.0667
+Saint-louis,16.0189,-16.4953
+Pierre,44.5422,-100.2754
+Sandton,-26.0500,27.9667
+Miquelon,47.0975,-56.3814
+Trinidad,37.2242,-104.3727
+Sandton,-26.0500,27.9667
+Tobago,11.2500,-60.6667
+Turkstown,52.3233,-7.3039
+Sandton,-26.0500,27.9667
+Turks And Caicos,21.7333,-71.5833
+Islands,52.7344,-7.5931
+Abilene,32.3418,-99.9414
+Akron,41.1537,-81.6374
+Albuquerque,35.0441,-106.8904
+Alexandria,31.2156,29.9553
+Allentown,40.5844,-75.6246
+Amarillo,35.2006,-101.8210
+Anaheim,33.8312,-117.8673
+Anchorage,61.2231,-149.8528
+Annaba,36.9000,7.7667
+Ann Arbor,42.2734,-83.7133
+Antioch,36.0371,-86.6372
+Arlington,38.8600,-77.0987
+Arvada,39.7941,-105.1019
+Athens,42.2823,-73.8294
+Atlanta,-25.2070,27.5655
+Augusta,33.5242,-82.0926
+Aurora,39.7397,-104.7940
+Austin,30.2058,-97.8002
+Bakersfield,35.3832,-119.2272
+Baltimore,39.2904,-76.6122
+Baton Rouge,30.4386,-91.1703
+Terre Rouge,-20.0433,57.5683
+Beaumont,30.1406,-94.1571
+Bellevue,47.5527,-122.1479
+Berkeley Heights,40.6766,-74.4202
+Billings,45.7661,-108.5789
+Birmingham,33.4468,-86.7404
+Boise,43.5610,-116.2135
+Jersey City,40.7291,-74.0386
+Boston,42.3496,-71.0746
+Brandon,32.2161,-89.8899
+Bridgeport,39.2844,-80.2307
+Brownsville,25.9509,-97.3254
+Buffalo,42.9864,-78.7279
+Burbank,33.7866,-118.2987
+Cambridge,42.3700,-71.0812
+Cape Town,-33.9258,18.4232
+Cape Coral,26.6356,-82.0164
+Carlsbad,33.0958,-117.2721
+Carrollton,32.9478,-96.8915
+Cary,35.8059,-78.7997
+Cedar Rapids,41.9106,-91.7142
+Grand Rapids,42.9777,-85.7110
+Centennial,41.3415,-106.1577
+Chandler,33.3233,-111.8244
+Charleston,32.9326,-79.9798
+Charlotte,35.1232,-80.9343
+Chattanooga,35.0671,-85.2456
+Chesapeake,36.7646,-76.1990
+Chicago,41.9288,-87.6315
+Chula Vista,32.6361,-117.0532
+Chula Vista,32.6361,-117.0532
+Cincinnati,39.1666,-84.5465
+Clarksville,36.4642,-87.3797
+Clearwater,27.9839,-82.7181
+Cleveland,41.4379,-81.5366
+Colorado Springs,38.8609,-104.8734
+Springs,-26.2500,28.4000
+Columbia,39.0437,-92.2714
+Columbus,39.8928,-82.9588
+Concord,35.4198,-80.6748
+Cape Coral,26.6356,-82.0164
+Springs,-26.2500,28.4000
+Corona,33.8778,-117.5344
+Corpus Christi,27.7479,-97.4435
+Christine,28.8036,-98.4763
+Costa Mesa,33.6748,-117.9089
+Mesa,33.3972,-111.7858
+Dallas,32.7825,-96.8207
+Daly City,37.6869,-122.4389
+Jersey City,40.7291,-74.0386
+Dayton,39.8330,-84.2177
+Denton,38.8475,-75.7932
+Denver,39.7525,-104.9995
+West Des Moines,41.5664,-93.7405
+West Des Moines,41.5664,-93.7405
+Detroit,42.3679,-83.1386
+Downey,33.9231,-118.1396
+Durham,35.8896,-78.9244
+East London,-33.0111,27.9100
+Los Angeles,34.0396,-118.2661
+Los Angeles,34.0396,-118.2661
+Port Elizabeth,-33.9180,25.5701
+Monterey,36.3699,-121.8406
+Port Elizabeth,-33.9180,25.5701
+El Paso,31.7958,-106.3762
+Elgin,42.0358,-88.3801
+Port Elizabeth,-33.9180,25.5701
+Elk Grove Village,42.0152,-87.9901
+Downers Grove,41.8110,-88.0302
+Enterprise,31.3076,-85.8806
+Erie,42.0577,-80.0434
+Escondido,33.1192,-117.0864
+Eugene,44.0690,-123.0825
+Evansville,37.9708,-87.4897
+Everett,47.9790,-122.2021
+Fairfield,40.8837,-74.3060
+Fargo,46.8543,-96.8284
+Fayetteville,35.0785,-78.9336
+Flint,43.0138,-83.6883
+Fontana,34.0881,-117.4648
+Fort Lee,40.8483,-73.9725
+Fort Collins,40.5939,-105.1256
+Fort Lee,40.8483,-73.9725
+Fort Lauderdale,26.1882,-80.1711
+Fort Lee,40.8483,-73.9725
+Wayne,40.0548,-75.4083
+Fort Lee,40.8483,-73.9725
+Fort Worth,32.7257,-97.3214
+Fremont,41.4803,-96.4728
+Fresno,36.8400,-119.8285
+Frisco,33.1499,-96.8555
+Fullerton,33.9019,-117.9108
+Gainesville,34.3138,-83.8095
+Garden Grove,33.7877,-117.9738
+Downers Grove,41.8110,-88.0302
+Garland,32.8756,-96.6482
+Gilberts,42.1061,-88.3796
+Glendale,34.1352,-118.2416
+Grand Rapids,42.9777,-85.7110
+Eden Prairie,44.8558,-93.4408
+Grand Rapids,42.9777,-85.7110
+Grand Rapids,42.9777,-85.7110
+Green Point,-33.9100,18.4039
+Beacon Bay,-32.9703,27.9440
+Greensboro,36.0074,-79.8732
+Hampton,37.0627,-76.4052
+Hartford,41.7686,-72.6745
+Hayward,46.0143,-91.2901
+Henderson,36.0312,-115.0739
+Hialeah,25.9372,-80.3170
+Highland,34.1359,-117.1553
+Green Point,-33.9100,18.4039
+Jersey City,40.7291,-74.0386
+Hollywood,25.9825,-80.3434
+Honolulu,21.3209,-157.8389
+Houston,29.8688,-95.5380
+Huntington Woods,42.4816,-83.1680
+West Palm Beach,26.7200,-80.0702
+Huntsville,30.6518,-95.5543
+Independence,41.3917,-81.6417
+Inglewood,33.9582,-118.3614
+Irvine,33.7011,-117.7970
+Irving,32.8795,-96.9398
+Jacksonville,30.3533,-81.4990
+Jacksonville,30.3533,-81.4990
+Jersey City,40.7291,-74.0386
+Jersey City,40.7291,-74.0386
+Joliet,41.5085,-88.2278
+Kansas City,39.1068,-94.5660
+Jersey City,40.7291,-74.0386
+Killeen,31.2164,-97.7418
+Knoxville,36.0582,-83.9147
+Lafayette,36.5278,-86.0058
+Lakewood,40.0721,-74.2069
+Lancaster,40.0052,-76.3246
+Lansing,42.7422,-84.5255
+Laredo,27.5596,-99.4608
+Las Cruces,32.3047,-106.6417
+Las Vegas,36.1100,-115.2118
+Lincoln,40.8176,-96.7114
+Little Rock,34.7465,-92.2896
+Umhlanga Rocks,-29.7167,31.0667
+Long Beach,33.7542,-118.2019
+West Palm Beach,26.7200,-80.0702
+Los Angeles,34.0396,-118.2661
+Los Angeles,34.0396,-118.2661
+Louisville,38.0858,-85.8495
+Lowell,42.6241,-71.3389
+Lubbock,33.5903,-101.8519
+Madison Heights,42.5053,-83.1052
+Manchester,42.9403,-71.4435
+Jersey City,40.7291,-74.0386
+Memphis,35.1850,-90.0936
+Mesa,33.3972,-111.7858
+Mesquite,36.7889,-114.1431
+Metairie,30.0133,-90.1921
+Miami,25.9388,-80.2144
+Miami,25.9388,-80.2144
+Palm Beach Gardens,26.8457,-80.0902
+Midland,31.9974,-102.0779
+Jersey City,40.7291,-74.0386
+Milwaukee,43.0434,-87.8945
+Minneapolis,45.0059,-93.4305
+Miramar Beach,30.3909,-86.3161
+Mobile,30.6586,-88.3535
+Modesto,37.6369,-121.0171
+Montgomery,32.3934,-86.3222
+Moreno Valley,33.9224,-117.2476
+Lehigh Valley,40.6934,-75.4712
+Murfreesboro,34.1139,-93.7089
+Murrieta,33.5789,-117.1412
+Naperville,41.8032,-88.1341
+New Germany,-29.8018,30.8840
+New Haven,41.3094,-72.9240
+New Germany,-29.8018,30.8840
+New Orleans,29.9589,-90.1568
+New Germany,-29.8018,30.8840
+New York,40.7528,-73.9725
+Newark,40.1241,-82.3828
+Newport Beach,33.6275,-117.8734
+Newport News,37.0736,-76.4936
+Norfolk,42.0180,-97.4543
+Norman,35.2330,-97.4122
+Northcliff,-26.1540,27.9616
+Las Cruces,32.3047,-106.6417
+Las Vegas,36.1100,-115.2118
+Norwalk,41.1003,-73.3983
+Oakland,35.2199,-89.4996
+Oceanside,33.2004,-117.2907
+Oklahoma City,35.5798,-97.5731
+Jersey City,40.7291,-74.0386
+Olathe,38.8518,-94.7786
+Omaha,41.2079,-96.1183
+Ontario,34.0778,-117.6261
+Orange,38.2207,-78.0559
+Orlando,28.5883,-81.2439
+Overland Park,38.9247,-94.7029
+Parkview,-26.1653,28.0244
+Oxnard,34.1980,-119.1726
+Palm Springs,33.7280,-116.5116
+Beacon Bay,-32.9703,27.9440
+Jersey City,40.7291,-74.0386
+Palmdale,34.5200,-118.0835
+Paradise Valley,33.5311,-111.9427
+Pasadena,34.1379,-118.1296
+Paterson,40.9111,-74.1425
+Pembroke,42.0647,-70.7986
+Southern Pines,35.1752,-79.3834
+Peoria,33.6574,-112.2463
+Philadelphia,39.9524,-75.1653
+Phoenix,33.5586,-112.0955
+Pittsburgh,40.4495,-79.9880
+Plano,33.0362,-96.6712
+Pomona,34.0390,-117.7548
+Port-gentil,-0.7167,8.7833
+Stellenbosch,-33.9346,18.8668
+Port Saint Lucie,27.2498,-80.3797
+Portland,45.4691,-122.5535
+Providence,41.8195,-71.4107
+Provo,40.3393,-111.5709
+Pueblo,38.0934,-104.6652
+Raleigh,35.8181,-78.5636
+Rancho Cucamonga,34.0995,-117.5808
+Rancho Cucamonga,34.0995,-117.5808
+Reno,39.4896,-119.7492
+Richmond,37.5858,-77.4888
+Riverside,40.0178,-74.9449
+Rochester,43.1493,-77.5081
+Rockford,42.3423,-89.0816
+Roseville,38.7439,-121.2558
+Sacramento,38.5517,-121.4501
+Winston Salem,36.1460,-80.3243
+Salinas,36.6478,-121.6259
+Salt Lake City,40.7608,-111.8911
+Bear Lake,41.9491,-79.4448
+Jersey City,40.7291,-74.0386
+Sandton,-26.0500,27.9667
+San Antonio,29.4244,-98.4842
+Sandton,-26.0500,27.9667
+San Bernardino,34.0780,-117.2578
+Sandton,-26.0500,27.9667
+Buenaventura,3.8801,-77.0312
+Sandton,-26.0500,27.9667
+San Diego,32.9014,-117.2079
+Sandton,-26.0500,27.9667
+San Francisco,37.7353,-122.3732
+Sandton,-26.0500,27.9667
+San Jose,37.3239,-121.9144
+Santa Fe,35.7847,-105.8749
+Anaheim,33.8312,-117.8673
+Santa Fe,35.7847,-105.8749
+Santa Clara,37.3961,-121.9617
+Santa Fe,35.7847,-105.8749
+Santa Clarita,34.4302,-118.5193
+Santa Fe,35.7847,-105.8749
+Rosamond,34.9286,-118.4052
+Savannah,32.1213,-81.1822
+Scottsdale,33.4912,-111.9237
+Seattle,47.6026,-122.3284
+Shreveport,32.6188,-93.8852
+Simi Valley,34.2521,-118.7843
+Lehigh Valley,40.6934,-75.4712
+Sioux Falls,43.5042,-96.8391
+Granite Falls,44.7966,-95.5843
+South Plainfield,40.5722,-74.4134
+North Bend,43.4836,-124.1633
+Spokane,47.6567,-117.3785
+Springs,-26.2500,28.4000
+Lehigh Valley,40.6934,-75.4712
+Springfield,37.2190,-93.3176
+Stellenbosch,-33.9346,18.8668
+Port Louis,-20.1619,57.4989
+Stellenbosch,-33.9346,18.8668
+Saint Paul,45.0101,-93.1519
+Stellenbosch,-33.9346,18.8668
+Saint Petersburg,27.7207,-82.7376
+Stamford,41.0534,-73.5387
+Sterling,38.9881,-77.4755
+Berkeley Heights,40.6766,-74.4202
+Stockton,37.9011,-121.3995
+Sunnyvale,37.3697,-122.0214
+Sunrise Beach,38.1480,-92.7448
+Briarcliff Manor,41.1468,-73.8318
+Surprise,33.6475,-112.3884
+Syracuse,43.0347,-76.0729
+Tacoma,47.1511,-122.4492
+Tallahassee,30.5802,-84.1266
+Tampa,27.9430,-82.5240
+Temecula,33.5300,-117.1035
+Tempe,33.4001,-111.9290
+Thornton,39.9087,-75.5361
+Thousand Oaks,34.2133,-118.8800
+Sherman Oaks,34.1463,-118.4293
+Toledo,41.7073,-83.5430
+Topeka,39.0380,-95.7278
+Torrance,33.8669,-118.3312
+Tucson,32.2686,-111.0022
+Tulsa,36.0492,-96.0712
+Vallejo,38.1165,-122.2091
+Vancouver,45.6023,-122.5167
+Victorville,34.4954,-117.3686
+Jersey City,40.7291,-74.0386
+Virginia,39.9672,-90.2041
+West Palm Beach,26.7200,-80.0702
+Visalia,36.4063,-119.3809
+Waco,31.4789,-97.0926
+Warrenton,38.7179,-77.8521
+Waterbury,41.5590,-73.0373
+Westville,-29.8255,30.9370
+Covina,34.0790,-117.8494
+Westville,-29.8255,30.9370
+Lehigh Valley,40.6934,-75.4712
+Jersey City,40.7291,-74.0386
+Westminster,39.8301,-105.0345
+Wichita,37.7083,-97.2251
+Wichita,37.7083,-97.2251
+Granite Falls,44.7966,-95.5843
+Wilmington,39.4611,-83.8172
+Worcester,42.2618,-71.8028
+Yonkers,40.9513,-73.8773
+Catamarca,-28.4696,-65.7852
+Comodoro Rivadavia,-45.8641,-67.4966
+Tillysburg,48.2000,14.4167
+Concordia,38.9649,-93.5764
+Corrientes,-27.4806,-58.8341
+Formosa,-26.1775,-58.1781
+Laghouat,33.8000,2.8833
+La Plata,38.5163,-77.0154
+Laghouat,33.8000,2.8833
+La Rioja,-29.4110,-66.8507
+Marshalltown,-26.2000,28.0833
+Middelburg,-25.7751,29.4648
+Mendoza,-32.8908,-68.8272
+Posadas,-27.3671,-55.8961
+Resistencia,-27.4606,-58.9839
+R�o Cuarto,-33.1333,-64.3500
+Rosario,-32.9468,-60.6393
+Salta,-24.7859,-65.4117
+Sandton,-26.0500,27.9667
+San Juan,18.4504,-66.0849
+Sandton,-26.0500,27.9667
+San Luis Obispo,35.2790,-120.6968
+Sandton,-26.0500,27.9667
+Sandton,-26.0500,27.9667
+San Salvador,43.3926,-3.8060
+city,latitude,longitude
+Santa Fe,35.7847,-105.8749
+Santa Fe,35.7847,-105.8749
+Santiago,-33.4500,-70.6667
+Middelburg,-25.7751,29.4648
+Banda Del R�o Sal�,-26.8333,-65.1667
+Rio Grande City,26.5106,-98.6534
+Cochabamba,-17.3833,-66.1500
+Port Elizabeth,-33.9180,25.5701
+Altoona,40.5172,-78.3662
+Oruro,-17.9833,-67.1500
+Sacaba,-17.3833,-66.0333
+Santa Fe,35.7847,-105.8749
+Santa Cruz,37.0448,-122.1021
+Tarija,-21.5167,-64.7500
+Yacuiba,-22.0333,-63.6833
+Aguascalientes,21.8833,-102.3000
+Aguas Lindas,-22.7114,-43.7228
+city,latitude,longitude
+Alagoinhas,-12.1325,-38.4278
+Alvorada,-12.4809,-49.1223
+Americana,-22.7528,-47.3301
+Ananindeua,-1.3657,-48.3422
+Angra Dos Reis,-23.0000,-44.3000
+Valdosta,30.7461,-83.3513
+Reisterstown,39.4793,-76.7981
+Aparecida,-22.8458,-45.2262
+city,latitude,longitude
+Goiania,-16.7010,-49.2668
+Apucarana,-23.5500,-51.4833
+Aracaju,-10.9167,-37.0667
+Araguaina,-7.1893,-48.2054
+Arapiraca,-9.7500,-36.6597
+Arapongas,-23.3833,-51.4500
+Araraquara,-21.7885,-48.1740
+Araras,-22.3596,-47.3842
+Araruama,-22.8673,-42.3326
+Atibaia,-23.1239,-46.5541
+Barbacena,-21.2247,-43.7667
+Schofield Barracks,21.4953,-158.0580
+Barra Mansa,-22.5493,-44.1688
+Barreiras,-12.1461,-44.9977
+Barretos,-20.5544,-48.5729
+Barueri,-23.5167,-46.8833
+Bauru,-22.3239,-49.0780
+Belford,40.4187,-74.0846
+Belford Roxo,-22.7620,-43.4047
+Beloit,42.5584,-89.1599
+Belo Horizonte,-19.9017,-43.9642
+Betim,-19.9540,-44.1462
+Birigui,-21.3000,-50.3167
+Boaz,34.1917,-86.1934
+Chula Vista,32.6361,-117.0532
+Botucatu,-22.8835,-48.4415
+Paulista,-7.9428,-34.8811
+Brusque,-27.0996,-48.9108
+Cabot,34.9461,-92.0858
+city,latitude,longitude
+Santo Domingo,18.4667,-69.9000
+Agostinho,-21.4000,-47.5500
+Cabot,34.9461,-92.0858
+Friolzheim,48.8333,8.8333
+Cachoeirinha,-29.9500,-51.0833
+Cachoeiro,-22.3833,-42.1000
+city,latitude,longitude
+Itapemirim,-21.0167,-40.8333
+Camacari,-12.6190,-38.2057
+Camaragibe,-8.0167,-34.9667
+Campinas,-22.9095,-47.0674
+Rio Grande City,26.5106,-98.6534
+Campinas,-22.9095,-47.0674
+Campo,32.6866,-116.4752
+Rio Grande City,26.5106,-98.6534
+Campos,22.0333,-101.8333
+Valdosta,30.7461,-83.3513
+Campos Dos Goytacazes,-21.7523,-41.3304
+Canoas,-29.9333,-51.1833
+Cariacica,-20.2667,-40.4167
+Caruaru,-8.2838,-35.9742
+Cascavel,-24.9500,-53.4667
+Castanhal,-1.2953,-47.9220
+Catanduva,-21.1360,-48.9703
+Caucaia,-3.7157,-38.6658
+Caxias Do Sul,-29.1689,-51.1785
+Caxias Do Sul,-29.1689,-51.1785
+East London,-33.0111,27.9100
+Sullivan,39.5879,-88.5813
+Colombo,6.9319,79.8478
+Conselheiro Lafaiete,-20.6684,-43.7850
+Conselheiro Lafaiete,-20.6684,-43.7850
+Contagem,-19.9167,-44.1000
+Coronel Fabriciano,-19.5319,-42.6299
+Coronel Fabriciano,-19.5319,-42.6299
+Cotia,-23.6048,-46.9179
+Crato,-7.2322,-39.4109
+Curitiba,-25.4167,-49.2500
+Diadema,-23.7000,-46.6167
+Dourados,-22.2167,-54.8000
+Duquesne,40.3730,-79.8532
+city,latitude,longitude
+Caxias Do Sul,-29.1689,-51.1785
+Embu,-23.6500,-46.8500
+Feira De Santana,-12.2555,-38.9659
+city,latitude,longitude
+Feira De Santana,-12.2555,-38.9659
+Barbosa Ferraz,-24.0667,-52.0500
+city,latitude,longitude
+Vasconcelos,-30.6000,-51.5667
+Fortaleza,-18.5500,-54.7667
+Foz Do Igua�u,-25.5478,-54.5881
+East London,-33.0111,27.9100
+Franca,-20.5400,-47.3955
+San Francisco,37.7353,-122.3732
+Francisco Morato,-23.2795,-46.7464
+Franconia,44.1635,-71.7612
+Blida,36.4686,2.8289
+Franco Da Rocha,-23.3316,-46.7201
+Garanhuns,-8.8866,-36.4931
+Governador Valadares,-18.8613,-41.9513
+Governador Valadares,-18.8613,-41.9513
+Gravatai,-29.9426,-50.9933
+Guarapari,-20.6494,-40.4799
+Guarapuava,-25.3833,-51.4500
+Guarulhos,-23.4507,-46.5262
+Hortolandia,-22.8593,-47.2167
+Imperatriz,-5.5225,-47.4745
+Indaiatuba,-23.0867,-47.2090
+Ipatinga,-19.4704,-42.5466
+Itabuna,-14.7865,-39.2728
+Itapecerica Da Serra,-23.7162,-46.8470
+Blida,36.4686,2.8289
+Serra,-20.1167,-40.3000
+Itapetininga,-23.5871,-48.0408
+Itapevi,-23.5432,-46.9146
+Itaquaquecetuba,-23.4833,-46.3500
+Itupeva,-17.4167,-40.4833
+Jaboatao Dos Guararapes,-8.1128,-35.0147
+Valdosta,30.7461,-83.3513
+Jandira,-23.5167,-46.9000
+East London,-33.0111,27.9100
+Sullivan,39.5879,-88.5813
+S�o Joao De Barra,-21.6333,-41.0500
+Jo�o Pessoa,-7.1150,-34.8631
+Joinville,-26.3000,-48.8333
+Juazeiro Do Norte,-7.2116,-39.3142
+East London,-33.0111,27.9100
+Del Norte,37.7091,-106.4282
+Juiz De Fora,-21.7622,-43.3481
+city,latitude,longitude
+Juiz De Fora,-21.7622,-43.3481
+Lages,-27.8121,-50.3154
+Lauro,41.2667,13.8833
+city,latitude,longitude
+Freitas,-9.2833,-38.2667
+Limeira,-22.5632,-47.4009
+Linhares,-19.3936,-40.0581
+Londrina,-23.3000,-51.1500
+Macael,37.3332,-2.3009
+Manaus,-3.1133,-60.0253
+Marabahan,-3.0000,114.7500
+Maracanau,-3.8820,-38.6237
+Marituba,-10.2833,-36.4000
+Mesquita,37.5441,-7.5370
+Moji,33.9500,130.9667
+Dundas,43.2667,-79.9333
+Mogi Das Cruzes,-23.5258,-46.1923
+Montesano,47.1791,-123.6061
+Montes Claros,-16.7325,-43.8614
+Natalia,29.1986,-98.8461
+Nossa Senhora,-9.4167,-38.0333
+Nossa Senhora,-9.4167,-38.0333
+East London,-33.0111,27.9100
+Socorro,33.8974,-107.0261
+Novato,38.1348,-122.5610
+Nova Friburgo,-22.2837,-42.5343
+Novato,38.1348,-122.5610
+Novo Hamburgo,-29.6833,-51.1333
+Olinda,-8.0167,-34.8500
+Osasco,-23.5667,-46.7833
+Ourinhos,-22.9814,-49.8647
+Las Palmas,28.0997,-15.4134
+Parauapebas,-6.1856,-50.5547
+Parnamirim,-5.9147,-35.2637
+Passo Fundo,-28.2667,-52.4000
+Passo Fundo,-28.2667,-52.4000
+Passos,-20.7208,-46.6054
+Patos De Minas,-18.5881,-46.5141
+city,latitude,longitude
+Par� De Minas,-19.8500,-44.6167
+Paulista,-7.9428,-34.8811
+Pelotas,-31.7667,-52.3333
+Petrolina,-9.3930,-40.5077
+Pindamonhangaba,-22.9287,-45.4574
+Pinhais,-19.7167,-43.8333
+Piracicaba,-22.7274,-47.6448
+city,latitude,longitude
+Caldas Novas,-17.7433,-48.6204
+Ponta Grossa,-25.0833,-50.1500
+Ponta Grossa,-25.0833,-50.1500
+Portola Valley,37.3702,-122.2145
+Porto Alegre,-30.0333,-51.2000
+Portola Valley,37.3702,-122.2145
+P�rto Seguro,-16.4333,-39.0833
+Portola Valley,37.3702,-122.2145
+P�rto Velho,-8.7667,-63.9000
+Pouso Alegre,-22.2301,-45.9381
+Porto Alegre,-30.0333,-51.2000
+Praia Grande,-24.0099,-46.4256
+Rio Grande City,26.5106,-98.6534
+Presidente Prudente,-22.1167,-51.3667
+Presidente Prudente,-22.1167,-51.3667
+Queimados,-22.7229,-43.5563
+Recife,-8.0500,-34.9000
+Resende,-22.4636,-44.4488
+Ribeirao Preto,-21.1794,-47.7999
+Dundas,43.2667,-79.9333
+Neves,-20.8470,-49.6297
+Ribeirao Preto,-21.1794,-47.7999
+Ribeir�o Pires,-23.7167,-46.4167
+Ribeirao Preto,-21.1794,-47.7999
+Rio Rico,31.5017,-111.0688
+Pato Branco,-26.2167,-52.6667
+Rio Rico,31.5017,-111.0688
+Rio Claro,-22.4062,-47.5577
+Rio Rico,31.5017,-111.0688
+city,latitude,longitude
+Rio De Janeiro,-22.8751,-43.2775
+Rio Rico,31.5017,-111.0688
+Rio Grande City,26.5106,-98.6534
+Rio Rico,31.5017,-111.0688
+Camp Verde,34.4862,-111.7808
+Salto,-23.2016,-47.2888
+San Salvador,43.3926,-3.8060
+Santa Fe,35.7847,-105.8749
+Santa Fe,35.7847,-105.8749
+Santa Cruz,37.0448,-122.1021
+East London,-33.0111,27.9100
+Sullivan,39.5879,-88.5813
+Santa Fe,35.7847,-105.8749
+Santa Luzia,-19.7691,-43.8540
+Santa Fe,35.7847,-105.8749
+Santa Maria,34.9556,-120.5027
+Santa Fe,35.7847,-105.8749
+Santa Rita,-7.1299,-34.9755
+Feira De Santana,-12.2555,-38.9659
+city,latitude,longitude
+Santo Domingo,18.4667,-69.9000
+Santos,-23.9529,-46.3561
+Saou,44.6464,5.0643
+Bernardo,20.9667,-101.8667
+East London,-33.0111,27.9100
+Campo,32.6866,-116.4752
+Saou,44.6464,5.0643
+S�o Caetano Do Sul,-23.6000,-46.5667
+East London,-33.0111,27.9100
+Sullivan,39.5879,-88.5813
+Saou,44.6464,5.0643
+San Carlos,37.4980,-122.2672
+Saou,44.6464,5.0643
+Saou,44.6464,5.0643
+S�o Joao De Barra,-21.6333,-41.0500
+city,latitude,longitude
+Meriti,-22.7986,-43.3609
+Saou,44.6464,5.0643
+Saou,44.6464,5.0643
+East London,-33.0111,27.9100
+Rio Rico,31.5017,-111.0688
+Saou,44.6464,5.0643
+Valdosta,30.7461,-83.3513
+Campos,22.0333,-101.8333
+Saou,44.6464,5.0643
+Valdosta,30.7461,-83.3513
+Pinhais,-19.7167,-43.8333
+Saou,44.6464,5.0643
+Pedro Leopoldo,-19.6246,-44.0362
+Saou,44.6464,5.0643
+Saou,44.6464,5.0643
+S�o Paulo,-23.5464,-46.6289
+Saou,44.6464,5.0643
+S�o Vicente,-23.9631,-46.3919
+Sapucaia,-29.8333,-51.1500
+East London,-33.0111,27.9100
+Sullivan,39.5879,-88.5813
+Serra,-20.1167,-40.3000
+Sertaozinho,-21.1351,-47.9894
+Sete Lagoas,-19.4583,-44.2366
+Tr�s Lagoas,-20.8000,-51.7167
+Simoes,-7.6000,-40.8167
+Salgado Filho,-26.1667,-53.3667
+Sobral,-3.6867,-40.3515
+Sorocaba,-23.5000,-47.4596
+Susano,-23.5333,-46.3333
+Taboao Da Serra,-23.6000,-46.7667
+Blida,36.4686,2.8289
+Serra,-20.1167,-40.3000
+Teixeira,-7.2240,-37.2535
+city,latitude,longitude
+Freitas,-9.2833,-38.2667
+Te�filo Otoni,-17.8575,-41.5053
+Teresina,-5.1029,-42.8015
+Lutherville Timonium,39.4363,-76.6389
+Toledo,41.7073,-83.5430
+Trindade,-16.6530,-49.4938
+Uberaba,-19.7562,-47.9326
+Uruguaiana,-29.7500,-57.0833
+Valinhos,-22.9739,-46.9938
+city,latitude,longitude
+Varginha,-21.5606,-45.4340
+Varzea De Capim,-7.3167,-36.0167
+Rio Grande City,26.5106,-98.6534
+Varzea De Capim,-7.3167,-36.0167
+Paulista,-7.9428,-34.8811
+Vespasiano,-19.6947,-43.9258
+Viamao,-30.0833,-51.0333
+Vila,-17.7333,168.3167
+Vila Velha,-20.3333,-40.2833
+Blida,36.4686,2.8289
+Conquista,-21.1667,-47.8833
+city,latitude,longitude
+Santo Domingo,18.4667,-69.9000
+Vitoria De Santo Antao,-8.1314,-35.2934
+Volta Redonda,-22.5140,-44.1096
+Volta Redonda,-22.5140,-44.1096
+Votorantim,-23.5456,-47.4438
+Antofagasta,-23.6500,-70.4000
+Arica,-18.4750,-70.3042
+Calama,-22.4667,-68.9333
+Coquimbo,-29.9533,-71.3436
+Coronel Fabriciano,-19.5319,-42.6299
+Iquique,-20.2208,-70.1431
+Laghouat,33.8000,2.8833
+La Serena,-29.9078,-71.2542
+Los Angeles,34.0396,-118.2661
+Los Angeles,34.0396,-118.2661
+Osorno,-40.5667,-73.1500
+La Puente,34.0463,-117.9849
+Altoona,40.5172,-78.3662
+Puerto Ordaz,8.2981,-62.7186
+Puerto Montt,-41.4698,-72.9447
+Punta Gorda,26.9023,-81.7894
+Arenas Valley,32.7971,-108.1682
+Rancagua,-34.1708,-70.7444
+Sandton,-26.0500,27.9667
+Bernardo,20.9667,-101.8667
+Talca,-35.4333,-71.6667
+Talcahuano,-36.7167,-73.1167
+Temuco,-38.7333,-72.6000
+Valdivia,-39.8000,-73.2333
+Elk Grove Village,42.0152,-87.9901
+Villa Alemana,-33.0422,-71.3733
+Middelburg,-25.7751,29.4648
+Marshalltown,-26.2000,28.0833
+Barrancabermeja,7.0653,-73.8547
+Barranquilla,10.9639,-74.7964
+Bellows Falls,43.1731,-72.4957
+Bucaramanga,7.1254,-73.1198
+Buenaventura,3.8801,-77.0312
+California,38.2907,-76.5221
+Cartagena,10.3997,-75.5144
+Caucasia,7.9865,-75.1935
+Dosquebradas,5.7291,-74.3466
+Duitama,5.8245,-73.0341
+Envigado,6.1759,-75.5917
+Florencia,1.6144,-75.6062
+Floridablanca,7.0622,-73.0864
+Girardot,4.2987,-74.8047
+city,latitude,longitude
+Buga,3.9009,-76.2978
+Ipiales,0.8302,-77.6496
+Lorica,39.2500,16.5167
+Maicao,11.3832,-72.2432
+Malambo,10.8595,-74.7739
+Manizales,5.0689,-75.5174
+Neiva,2.9273,-75.2819
+Palmira,40.7833,16.0000
+Pasto,1.2136,-77.2811
+Pereira,4.8133,-75.6961
+Piedecuesta,6.9879,-73.0495
+Pitalito,1.8497,-76.0478
+Quibdo,5.6947,-76.6611
+Riohacha,11.5444,-72.9072
+Rionegro,6.1551,-75.3737
+Sandton,-26.0500,27.9667
+Andrespol,51.7333,19.6500
+city,latitude,longitude
+Tumaco,1.7986,-78.8156
+Santa Fe,35.7847,-105.8749
+Santa Marta,11.2408,-74.1990
+Sincelejo,9.3047,-75.3978
+Soacha,4.5794,-74.2168
+Sogamoso,5.7143,-72.9339
+Soledad,36.3952,-121.3047
+Tunja,5.5353,-73.3678
+Turbotville,41.1171,-76.7222
+Uribia,11.7167,-72.2694
+Valledupar,10.4631,-73.2532
+Villavicencio,4.1420,-73.6266
+Yopal,5.3378,-72.3959
+Ambato,-1.2500,-78.6167
+Calderon,-38.7227,-62.0549
+Cuenca,-2.8833,-78.9833
+Esmeraldas,-19.7623,-44.3116
+Guayaquil,-2.1667,-79.9000
+Ibarra,0.3500,-78.1167
+Loja,-4.0000,-79.2167
+Machala,-3.2667,-79.9667
+Manta,-0.9500,-80.7333
+Milagro,42.2416,-1.7659
+Portoviejo,-1.0500,-80.4500
+Quevedo,-1.0333,-79.4500
+Riobamba,-1.6667,-78.6333
+Santa Fe,35.7847,-105.8749
+Elena,9.5667,-82.7667
+Falkland,56.2500,-3.2000
+Islands,52.7344,-7.5931
+French Camp,37.8619,-121.2909
+Ciudad Real,38.9863,-3.9291
+Middelburg,-25.7751,29.4648
+Estes Park,40.3974,-105.6234
+San Fernando,34.2846,-118.4399
+city,latitude,longitude
+city,latitude,longitude
+Moran,37.9145,-95.1660
+Luque,37.5580,-4.2797
+Sandton,-26.0500,27.9667
+San Lorenzo,37.6812,-122.1345
+Arequipa,-16.3989,-71.5350
+Ayacucho,-13.1583,-74.2239
+Cajamarca,-7.1667,-78.5167
+Chiclayo,-6.7736,-79.8417
+Chimbote,-9.0833,-78.6000
+Chincha,-17.3397,-71.0047
+Altamonte Springs,28.6653,-81.4188
+Cuzco,-6.9833,-76.4667
+Huancayo,-12.0667,-75.2333
+Huaraz,-9.5333,-77.5333
+Icard,35.7274,-81.4707
+Iquitos,-3.7481,-73.2472
+Juliaca,-15.5000,-70.1333
+Pisco,-13.7000,-76.2167
+Piura,-5.2000,-80.6333
+Pucallpa,-8.3825,-74.5381
+Puno,-15.8333,-70.0333
+Sullana,-4.9039,-80.6853
+Tacna,-18.0056,-70.2483
+Tarapoto,-6.5014,-76.3656
+Trujillo,-8.1167,-79.0333
+Anacortes,48.4648,-122.6092
+Barcelona,41.3984,2.1741
+Laghouat,33.8000,2.8833
+Santa Cruz,37.0448,-122.1021
+Barinas,8.6292,-70.2072
+Barquisimeto,10.0739,-69.3228
+Cabimas,10.4019,-71.4461
+Ciudad Real,38.9863,-3.9291
+Ciudad Real,38.9863,-3.9291
+Ciudad Guayana,8.3533,-62.6528
+Ciudad Real,38.9863,-3.9291
+Corona,33.8778,-117.5344
+Port Elizabeth,-33.9180,25.5701
+Port Elizabeth,-33.9180,25.5701
+Guarenas,10.4667,-66.6167
+Los Angeles,34.0396,-118.2661
+Los Angeles,34.0396,-118.2661
+Los Teques,10.3500,-67.0333
+Maracaibo,10.6317,-71.6406
+Maracay,10.2469,-67.5958
+Ocumare Del Tuy,10.1217,-66.7717
+Delmar,38.4864,-75.5439
+Pozuelos,-27.3167,-64.7667
+Puerto Ordaz,8.2981,-62.7186
+Puerto Cabello,10.4731,-68.0125
+Puerto Ordaz,8.2981,-62.7186
+Laghouat,33.8000,2.8833
+Punto Fijo,11.6997,-70.1992
+Punto Fijo,11.6997,-70.1992
+Sandton,-26.0500,27.9667
+San Fernando,34.2846,-118.4399
+city,latitude,longitude
+Sandton,-26.0500,27.9667
+Santa Fe,35.7847,-105.8749
+Valencia,34.4180,-118.5662
+Valera,9.3178,-70.6036
+Lewis Center,40.1832,-82.9954
+Balkhash,46.8481,74.9950
+Lewis Center,40.1832,-82.9954
+Herat,34.3482,62.1997
+Lewis Center,40.1832,-82.9954
+Kandhar,31.6133,65.7101
+Lewis Center,40.1832,-82.9954
+Kunduz,36.7290,68.8570
+Lewis Center,40.1832,-82.9954
+Lewis Center,40.1832,-82.9954
+Gyumri,40.7942,43.8453
+Ganjam,19.3167,84.7833
+Barisal,22.7000,90.3667
+Bogra,24.8510,89.3711
+Brahmanbaria,24.4000,89.2667
+Chittagong,22.3384,91.8317
+Comillas,15.3992,120.7189
+Dinajpur,25.6333,88.6333
+Gazipur,23.7976,90.6435
+Jamalpur,24.9167,89.9333
+Jessore,23.1697,89.2137
+Khulna,22.8098,89.5644
+Mymensingh,24.7564,90.4065
+Naogaon,23.2449,90.4113
+Narayanganj,23.6135,90.5030
+Narsingdi,23.9230,90.7177
+Nawabganj,24.5903,88.2744
+Pabna,24.0064,89.2372
+Rajshahi,24.3740,88.6011
+Rangpur,25.75,89.25
+Saidpur,28.6167,77.9167
+Sirajganj,24.4500,89.7167
+Tangail,24.2498,89.9166
+Tongio,-37.1833,147.7333
+Batna,35.5553,6.1786
+Seaman,38.9681,-83.5601
+Reaburn,50.0833,-97.8667
+Korea,23.1500,83.9667
+Anjum,53.2315,5.6186
+Kimberling City,36.6291,-93.4440
+Sunchon,34.9481,127.4895
+Tokchong,37.8419,127.0669
+Batumi,41.6423,41.6339
+Kutaisi,42.2679,42.6946
+Rustavi,42.2894,43.8472
+Abohar,30.1500,74.1833
+Achalpur,21.2572,77.5086
+Adilabad,19.6667,78.5333
+Adoni,15.6333,77.2833
+Agartala,23.8364,91.2750
+Agra,35.8839,-96.8707
+Ahmedabad,23.0333,72.6167
+Ahmednagar,19.0833,74.7333
+Aizawl,23.7244,92.7175
+Ajmer,26.4500,74.6333
+Akola,20.7333,77.0000
+Alandur,13.0025,80.2061
+Alappuzha,9.4942,76.3275
+Aligarh,27.8833,78.0833
+Allahabad,25.4500,81.8500
+Alwar,27.5667,76.6000
+Ambalangoda,6.2355,80.0538
+Ambalangoda,6.2355,80.0538
+Jhang Sadar,31.2715,72.3284
+Ambarnath,19.2000,73.1667
+Ambattur,13.0767,80.0886
+Amravati,20.9333,77.7500
+Amritsar,31.6331,74.8656
+Amroha,28.9167,78.4667
+Anand,22.5667,72.9333
+Anantapur,14.6833,77.6000
+Anklesvar,21.6000,73.0000
+Arcot,12.9000,79.3333
+Arrah,25.5667,84.6667
+Asansol,23.6833,86.9833
+Ashoknagar,24.5667,77.7167
+Aurangabad,19.8833,75.3333
+Avadi,13.1156,80.1017
+Bahadurgarh,28.6833,76.9167
+Baharampur,24.1000,88.2500
+Bahraich,27.5833,81.6000
+Baidyabati,22.7850,88.3247
+Baleshwar,21.4942,86.9317
+Balliang,-37.8333,144.3667
+Bally,40.4009,-75.5871
+Balurghat,25.2167,88.7667
+Banda Del R�o Sal�,-26.8333,-65.1667
+Bangalore,12.9833,77.5833
+Bangaon,23.0667,88.8167
+Bankura,23.2500,87.0667
+Bansberia,22.9719,88.3994
+Baranagar,22.6433,88.3653
+Barasat,22.6842,88.4411
+Barddhaman,23.2406,87.8694
+Bareilly,28.3500,79.4167
+Baripada,21.9350,86.7214
+Basirhat,22.6572,88.8942
+Bastian,37.1578,-81.2167
+Batala,31.8186,75.2028
+Bathinda,30.2300,74.9500
+Beawar,26.1000,74.3167
+Begusarai,25.4167,86.1333
+Belgaum,15.8667,74.5000
+Bellary,15.1500,76.9333
+Bettiah,26.8000,84.5000
+Bhadravati,13.8667,75.7167
+Bhadreswar,22.8244,88.3506
+Bhagalpur,25.2500,87.0000
+Jahangirabad,28.4167,78.1000
+Purchase,41.0387,-73.7173
+Bharatpur,27.6833,84.4333
+Bharuch,21.7000,72.9667
+Bhatpara,22.8714,88.4089
+Bhavani,11.4500,77.6833
+Bhavnagar,21.7667,72.1500
+Bhilai,21.2167,81.4333
+Nagar,27.4333,77.1000
+Bhilwara,25.3500,74.6333
+Bhind,26.5642,78.7883
+Bhiwandi,19.3000,73.0667
+Bhiwani,28.7833,76.1333
+Bhopal,23.2667,77.4000
+Bhubaneswar,20.2333,85.8333
+Bhuj,23.2667,69.6667
+Bhusawal,21.0500,75.7667
+Biddeford,43.4961,-70.4886
+Bidart,43.4376,-1.5913
+Nagar,27.4333,77.1000
+Biharia,47.1500,21.9167
+Bijapur,16.8333,75.7000
+Bikaner,28.0167,73.3000
+Bilaspur,22.0833,82.1500
+Birnagar,24.5408,87.8221
+Bokaro,23.7833,85.9667
+Steelville,37.8591,-91.0031
+Jersey City,40.7291,-74.0386
+Bommanahalli,12.8848,76.0613
+Botad,22.1667,71.6667
+Brahmapur,19.3167,84.7833
+Budaun,28.0500,79.1167
+Bulandshahr,28.4000,77.8500
+Burhanpur,21.3000,76.2333
+Byatarayanapura,13.0611,77.5930
+Chakdaha,22.2631,88.3144
+Champdani,22.7978,88.3658
+Chandannagar,22.8692,88.3772
+Nagar,27.4333,77.1000
+Chandausi,28.4500,78.7667
+Chandigarh,30.7343,76.7933
+Chandrapur,19.9500,79.3000
+Chapra,22.7167,76.3333
+Chennai,13.0833,80.2833
+Cherthala,9.6844,76.3356
+Chhatarpur,24.9000,79.6000
+Chhindwara,22.0667,78.9333
+Chikmagalur,13.3167,75.7833
+Chirala,15.8167,80.3500
+Chitradurga,14.2333,76.4000
+Chittoor,13.2000,79.1167
+Churubusco,41.2335,-85.3315
+Coimbatore,10.9925,76.9614
+Coonoor,11.3500,76.8167
+Cuddalore,11.7500,79.7500
+Cuddapah,14.4667,78.8167
+Cuttack,20.5000,85.8333
+Dallon,49.8210,3.2411
+Pura,-7.0679,110.5222
+Damoh,23.8333,79.4500
+Darbhanga,26.1667,85.9000
+Darjiling,27.0333,88.2667
+Dasarahalli,13.6208,76.0426
+Davangere,14.4667,75.9167
+Dehradun,30.3229,78.0317
+Dehri,24.8667,84.1833
+Delhi,42.3179,-74.9308
+Delhi,42.3179,-74.9308
+Cantonment,30.6158,-87.3162
+Deoghar,24.4833,86.7000
+Deoli,25.5833,73.6167
+Deoria,26.5047,83.7872
+Dewas,22.9667,76.0667
+Dhanbad,23.8000,86.4500
+Dharmavaram,14.4333,77.7167
+Dhule,20.9000,74.7833
+Dibrugarh,27.4817,94.9028
+Dindigul,10.3500,77.9500
+Dohad,22.8333,74.2667
+Durgerdam,52.3780,4.9894
+Durgapur,23.4833,87.3167
+Nagar,27.4333,77.1000
+Eluru,16.7000,81.1000
+Englishtown,40.2787,-74.3683
+Bazar,48.9500,25.5667
+Erode,11.3500,77.7333
+Etah,27.6333,78.6667
+Etawah,26.7769,79.0239
+Faizabad,26.7833,82.1333
+Faridabad,28.4333,77.3167
+Fatehpur,33.2083,73.7556
+Firozabad,33.1000,46.1167
+Gajuwaka,17.7000,83.2167
+Gandhidham,23.0833,70.1333
+Gandhinagar,23.2167,72.6833
+Ganganagar,29.9167,73.8833
+Gangapur,26.4833,76.7167
+Jersey City,40.7291,-74.0386
+Gangawati,15.4333,76.5333
+Gayara,35.8003,43.2897
+Ghaziabad,28.6667,77.4333
+Ghazipur,25.5833,83.5667
+Giridih,24.1833,86.3000
+Godhra,22.7500,73.6333
+Gonda,27.1333,81.9333
+Gorakhpur,26.7550,83.3739
+Gudivada,16.4500,80.9833
+Gudiyatham,12.9460,78.8738
+Gulbarga,17.3333,76.8333
+Gunaydin,39.9667,28.0833
+Guntur,16.3000,80.4500
+Gurgaon,28.4667,77.0333
+Guruvayur,10.6000,76.0500
+Guwahati,26.1833,91.7333
+Gwalior,26.2236,78.1792
+La Habra,33.9414,-117.9555
+Hajipur,25.6833,85.2167
+Haldia,22.0253,88.0583
+Halisahar,22.9497,88.4194
+Hanumangarh,29.5833,74.3167
+Haora,22.5892,88.3103
+Hapur,28.7167,77.7833
+Hardoi,27.1167,80.1500
+Hardwar,29.9667,78.1667
+Hassan,13.0006,76.0994
+Hathras,27.6000,78.0500
+Hazaribag,23.9833,85.3500
+Hindupur,13.8289,77.4933
+Hisar,36.5167,33.5833
+Hoshiarpur,31.5322,75.9172
+Hospet,15.2667,76.4000
+Hyderabad,17.3753,78.4744
+Imphal,24.8167,93.9500
+Indore,22.7167,75.8333
+Itarsi,22.6167,77.7500
+Jabalpur,23.1667,79.9500
+Jagadhri,30.1667,77.3000
+Jagdalpur,19.0667,82.0333
+Jaipur,26.9167,75.8167
+Jalandhar,31.3256,75.5792
+Jalgaon,21.0486,76.5344
+Jalna,19.8333,75.8833
+Jalpaiguri,26.5167,88.7333
+Jammu,32.7333,74.8667
+Jamnagar,22.4667,70.0667
+Jamshedpur,22.8000,86.1833
+Jamuria,23.7000,87.0833
+Jaunpur,25.7333,82.6833
+Jetpur,21.7333,70.6167
+Jhansi,25.4333,78.5833
+Jhunjhunun,28.1307,75.4014
+Jindrichuv Hradec,49.1449,15.0025
+Jodhpur,26.2867,73.0300
+Jorhat,26.7500,94.2167
+Junagadh,21.5167,70.4667
+Kaithal,29.8000,76.3833
+Kakinada,16.9333,82.2167
+Kalol,23.2500,72.4833
+Kalyan,19.2500,73.1500
+Kamarhati,22.6711,88.3747
+Kamptee,21.2333,79.2000
+Kancheepuram,12.8333,79.7167
+Kanchrapara,22.9700,88.4319
+Kanhangad,12.3167,75.0667
+Kannur,11.8667,75.3653
+Kanpur,26.4667,80.3500
+Kapra,17.4867,78.5661
+Karaikkudi,10.0667,78.7833
+Nagar,27.4333,77.1000
+Karimnagar,18.4333,79.1500
+Karnala,18.8667,73.1000
+Karur,10.9500,78.0833
+Katihar,25.5333,87.5833
+Khammam,17.2500,80.1500
+Khandwa,21.8333,76.3333
+Khanna,30.7044,76.2231
+Kharagpur,22.3333,87.3333
+Khardaha,22.7186,88.3781
+Khargone,21.8167,75.6000
+Nagar,27.4333,77.1000
+Kishangarh,27.8167,76.7167
+Koch,51.1667,6.3333
+Biharia,47.1500,21.9167
+Kochi,33.5597,133.5311
+Kolari,67.3333,23.8000
+Kolhapur,16.7000,74.2167
+Kolkata,22.5697,88.3697
+Kollam,8.8806,76.5917
+Korbach,51.2833,8.8667
+Kota Bahru,6.1333,102.2386
+Kothagudem,17.5500,80.6333
+Kottayam,9.5833,76.5167
+Kozhikode,11.2500,75.7667
+Krishnanagar,23.4000,88.5000
+Kulti,23.7333,86.8500
+Kumbakonam,10.9667,79.3833
+Kurnool,15.8333,78.0500
+Lakhimpur,27.9500,80.7667
+Laleham,51.4000,-0.4833
+Bahadurgarh,28.6833,76.9167
+Nagar,27.4333,77.1000
+Lalitpur,27.6667,85.3333
+Latur,18.4000,76.5833
+Lonigo,45.3833,11.3833
+Lucknow,43.9600,-81.5125
+Ludhiana,30.9000,75.8500
+Machilipatnam,16.1667,81.1333
+Madanapalle,13.5500,78.5000
+Madhyamgram,22.7000,88.4500
+Madurai,9.9333,78.1167
+Mahadevapura,12.9923,77.6869
+Mahbubnagar,16.7333,77.9833
+Mahesana,23.6000,72.4000
+Mainpuri,27.2333,79.0167
+Malappuram,11.0667,76.0667
+Malegaon,20.5500,74.5333
+Malkajgiri,17.4478,78.5263
+Mancherial,18.8667,79.4333
+Mandsaur,24.0667,75.0667
+Mandya,12.5242,76.8958
+Mangalore,-36.9333,145.1833
+Mangotsfield,51.4931,-2.5086
+Mathura,27.5000,77.6833
+Maunath Bhanjan,25.9417,83.5611
+Bhanjanagar,19.9333,84.5833
+Medinipur,22.4333,87.3333
+Meerut,28.9833,77.7000
+Modinagar,28.8306,77.5730
+Mogadore,41.0299,-81.3367
+Moradabad,28.8333,78.7833
+Morena,26.4969,78.0000
+Morvillars,47.5487,6.9344
+Motihari,26.6500,84.9167
+Mumbai,18.9750,72.8258
+Munger,43.5225,-83.7590
+Murwara,23.8500,80.4000
+Muzaffarnagar,29.4667,77.6833
+Muzaffarpur,26.1167,85.4000
+Mysore,12.3072,76.6497
+Nabadwip,23.4167,88.3667
+Nadiad,22.7000,72.8667
+Nagaon,17.4667,73.6167
+Nagercoil,8.1939,77.4314
+Nagpur,21.1500,79.1000
+Naihati,22.9028,88.4169
+Nalagarh,31.0500,76.7167
+Sopara,19.4167,72.7833
+Nalgonda,17.0500,79.2667
+Nanded,19.1500,77.3333
+Nandyal,15.4833,78.4833
+Nangloi Jat,28.6833,77.0667
+Jata�,-17.8833,-51.7167
+Nashik,19.9973,73.7910
+Navira�,-23.1333,-54.2167
+Mumbai,18.9750,72.8258
+Navsari,20.8500,72.9167
+Neemuch,24.4764,74.8624
+Nellore,14.4333,79.9667
+Neyveli,11.5333,79.4833
+Nizamabad,18.6667,78.1167
+Noidans-le-ferroux,47.5700,5.9549
+Northcliff,-26.1540,27.9616
+Northcliff,-26.1540,27.9616
+Ongole,15.5000,80.0500
+Oraison,43.9161,5.9176
+Palakkad,10.7725,76.6514
+Palanpur,24.1667,72.4333
+Palisades,41.0178,-73.9090
+Pallavaram,12.9761,80.1836
+Palwal,28.1500,77.3333
+Panchkula,30.6946,76.8504
+Urbandale,41.6327,-93.7374
+Hoffman Estates,42.0793,-88.2237
+Panihati,22.6942,88.3744
+Panipat,29.3889,76.9681
+Panvel,18.9833,73.1000
+Parbhani,19.2667,76.7833
+Patancheru,17.5314,78.2650
+Pathankot,32.2833,75.6500
+Patiala,30.3267,76.4003
+Patna,25.6000,85.1167
+Phagwara,31.2178,75.7694
+Phusro,23.7564,86.0051
+Pilibhit,28.6333,79.8000
+Pimpri,18.6167,73.8000
+Chinchwad,18.6167,73.7833
+Pollachi,10.6667,77.0167
+Pondicherry,11.9300,79.8300
+Porbandar,21.6333,69.6000
+Proddatur,14.7333,78.5500
+Pudukkottai,10.3833,78.8167
+Pune,18.5333,73.8667
+Puri,-7.5425,112.4474
+Purnia,25.7833,87.4667
+Puruliya,23.3333,86.3667
+Mc Rae,31.9746,-82.8426
+Bareli,28.3500,79.4167
+Raichur,16.2000,77.3667
+Raiganj,25.6167,88.1167
+Raigarh,21.9000,83.4000
+Raipur,21.2333,81.6333
+Rajahmundry,16.9833,81.7833
+Rajapalayam,9.4500,77.5667
+Gopalpur,19.2667,84.9167
+Rajkot,22.3000,70.7833
+Rajpura,30.4831,76.5950
+Sonarpur,22.4333,88.4167
+Ramagundam,18.7550,79.4740
+Ramgarh,23.6333,85.5167
+Rampura,30.2500,75.2333
+Ranaghat,23.1833,88.5833
+Ranchicourt,50.4333,2.5500
+Raniganj,23.6167,87.1333
+Ratlam,23.3167,75.0667
+Raurkela,22.2000,84.8833
+Raurkela,22.2000,84.8833
+Rewal,54.0819,15.0186
+Rewari,28.1833,76.6167
+Rishra,22.7142,88.3478
+Robertson,-34.5874,150.5912
+Saint Petersburg,27.7207,-82.7376
+Rohtak,28.9000,76.5667
+Roorkee,29.8667,77.8833
+Nagar,27.4333,77.1000
+Sagar,23.8333,78.7167
+Saharanpur,29.9667,77.5500
+Winston Salem,36.1460,-80.3243
+Sambalpur,21.4500,83.9667
+Sambhal,28.5833,78.5500
+Santipur,23.2500,88.4333
+Sasaram,24.9500,84.0333
+Satara,17.6833,73.9833
+Satna,24.5833,80.8333
+Sawai Madhopur,25.9833,76.3667
+Sri Madhopur,27.4667,75.6000
+Secunderabad,17.4500,78.5000
+Serampore,22.7528,88.3422
+Shahjahanpur,27.8833,79.9167
+Shillong,25.5756,91.8731
+Shimla,31.1033,77.1722
+Shimoga,13.9222,75.5736
+Sikar,27.6167,75.1500
+Silchar,24.8167,92.8000
+Siliguri,26.7161,88.4236
+Singrauli,24.1997,82.6753
+Sirsa,29.5333,75.0167
+Sitapur,27.5667,80.6833
+Sivakasi,9.4500,77.8167
+Siwani,28.9102,75.6154
+Solapur,17.6833,75.9167
+Sonipat,28.9833,77.0167
+South Plainfield,40.5722,-74.4134
+Dumas,33.9155,-91.5232
+Dumas,33.9155,-91.5232
+Srikakulam,18.3000,83.9000
+Srinagar,34.0922,74.8022
+Sultan,47.8559,-121.7397
+Purchase,41.0387,-73.7173
+Dhingar Majra,29.5231,76.9981
+Sultanpur,29.7500,78.1167
+Surat,20.9667,72.9000
+Surendranagar,22.7000,71.6833
+Tadepalligudem,16.8333,81.5000
+Tambaram,12.9272,80.1106
+Tenali,16.2500,80.5833
+Tezpur,26.6333,92.8000
+Thane,19.2000,72.9667
+Thanesar,29.9833,76.8167
+Thanjavur,10.8000,79.1500
+Thiruvananthapuram,8.5069,76.9569
+Thrissur,10.5167,76.2167
+Tinsukia,27.5000,95.3667
+Tiruchchirappalli,10.8050,78.6856
+Tirunelveli,8.7333,77.7000
+Tirupati,13.6500,79.4167
+Tiruppur,11.1000,77.3500
+Tiruvannamalai,12.2167,79.0667
+Tiruvottiyur,13.1578,80.3042
+Titagarh,22.7364,88.3736
+Tonkawa,36.6052,-97.3260
+Tumkur,13.3422,77.1017
+Udaipur,27.7167,75.4833
+Udupi,13.3500,74.7500
+Ujjain,23.1833,75.7667
+Ulhasnagar,19.2167,73.1500
+Uluberia,22.4717,88.1136
+Unnao,26.5333,80.5000
+Uppal,15.9667,77.6667
+Kalanti,60.8167,21.5667
+Uttarpara,22.6683,88.3458
+Vadakarai,8.5969,77.5947
+Vadodara,22.3000,73.2000
+Valsad,20.6333,72.9333
+Vaniyambadi,12.6833,78.6167
+Varanasi,25.3333,83.0000
+Vasai,19.3500,72.8000
+Vejalpur,22.6833,73.5667
+Vellore,12.9333,79.1333
+Veraval,20.9000,70.3667
+Vidisha,23.5333,77.8167
+Vijayawada,16.5167,80.6167
+Virar,19.4667,72.8000
+Visakhapatnam,17.7000,83.3000
+Wadhwan,22.7000,71.6833
+Warangal,18.0000,79.5833
+Wardha,20.7500,78.6167
+Yamunanagar,30.1000,77.2833
+Yavatmal,20.4000,78.1333
+Ambon,-3.7167,128.2000
+Balikpapan,-1.2833,116.8333
+Banda Del R�o Sal�,-26.8333,-65.1667
+Banda Aceh,5.5577,95.3222
+Bandar,27.5479,56.4142
+Lampung,-1.8000,115.0667
+Bandung,-6.9039,107.6186
+Batam,1.2000,104.0000
+Bengkulu,-3.8000,102.2667
+Binjai,3.5640,98.7240
+Bitung,1.4451,125.1824
+Blitar,-8.0983,112.1681
+Bogor,-6.5897,106.7914
+Cirebon,-6.7333,108.5667
+Denpasar,-8.6500,115.2167
+Gorontalo,0.5412,123.0595
+Jambi,-1.6000,103.6167
+Jayapura,-2.5333,140.7000
+Kediri,-7.8167,112.0167
+Madiun,-7.6298,111.5239
+Magelang,-7.4706,110.2178
+Makasar,-5.1400,119.4221
+Malang,-7.9797,112.6304
+Manado,1.4870,124.8455
+Mataram,-8.5833,116.1167
+Medan,3.5833,98.6667
+Mojokerto,-7.4664,112.4338
+Padang,-0.9532,100.3677
+Pakanbaru,0.5333,101.4500
+Palangkaraya,-2.2000,113.8333
+Palembang,-2.9167,104.7500
+Pangkalan,1.0500,110.5500
+Pinang,5.4112,100.3354
+Parede,38.6928,-9.3541
+Parede,38.6928,-9.3541
+Pasuruan,-7.6453,112.9075
+Pematangsiantar,2.9595,99.0687
+Siantar,1.9826,98.8096
+Pontianak,-0.0333,109.3333
+Probolinggo,-7.7543,113.2159
+Salatiga,-7.3214,110.5078
+Samarinda,-0.5000,117.1500
+Semarang,-6.9932,110.4203
+Sukabumi,-6.9167,106.9272
+Surabaya,-7.2492,112.7508
+Surakarta,-7.5561,110.8317
+Tangerang,-6.1781,106.6300
+Tanjungpura,3.9000,98.4333
+Balaives,49.6724,4.7337
+Tebingtinggi,3.3285,99.1625
+Tinggi,4.5853,100.6800
+Tegal,-6.8694,109.1402
+Yogyakarta,-7.7828,110.3608
+Abadan,30.3392,48.3043
+Ahwaz,31.3203,48.6693
+Andimeshk,32.4615,48.3537
+Arak,34.0917,49.6892
+Ardabil,38.2498,48.2933
+Babol,36.5442,52.6789
+Bandar,27.5479,56.4142
+Bandar-e Anzali,37.4727,49.4622
+Behbahan,30.5959,50.2417
+Birjand,32.8663,59.2211
+Bojnurd,37.4775,57.3244
+Borujerd,33.8973,48.7516
+Bushehr,28.9684,50.8385
+Dezful,32.3825,48.4020
+Esfahan,32.6572,51.6776
+Golestan,27.4494,57.2181
+Gorgan,36.8387,54.4347
+Hamadan,34.7992,48.5146
+Ilam,53.0500,-1.8000
+Islamorada,24.8651,-80.7130
+Shahrak,36.4333,48.0833
+Izeh,31.8341,49.8672
+Jahrom,28.5024,53.5534
+Karaj,35.7214,51.1090
+Kashan,29.6257,52.4657
+Kerman,36.7144,-120.1561
+Kermanshah,34.3142,47.0650
+Behshahr,36.6944,53.5425
+Khoy,38.5525,44.9478
+Malard,35.6659,50.9767
+Malayer,34.2969,48.8235
+Marand,38.4281,45.7753
+Mashhad,36.2970,59.6062
+Masjed,29.6555,52.4791
+Soleyman,34.3572,45.9761
+Miandoab,36.9694,46.1027
+Najafabad,31.6424,51.4128
+Nasimerice,48.9667,16.3667
+Shahrak,36.4333,48.0833
+Neyshabur,36.2133,58.7958
+Orumiyeh,37.5550,45.1028
+Pakdasht,35.4816,51.6802
+Behshahr,36.6944,53.5425
+Qarchak,35.4394,51.5689
+Qazvin,36.2622,50.0169
+Qods,32.4016,48.1400
+Qom,34.6453,50.8808
+Quchan,37.1060,58.5095
+Rafsanjan,30.4067,55.9939
+Rasht,37.2808,49.5832
+Sanandaj,35.3144,46.9923
+Sari,36.5678,53.0586
+Saveh,35.0213,50.3566
+Semnan,35.5729,53.3971
+Shahreza,32.0089,51.8668
+Shahriar,31.3481,51.2244
+Shahrud,36.4167,55.0167
+Shiraz,29.6036,52.5388
+Sirjansland,51.6744,4.0321
+Tabriz,38.0800,46.2919
+Varamin,35.3242,51.6457
+Yasooj,30.6682,51.5880
+Yazd,31.8972,54.3675
+Zabol,31.0287,61.5012
+Zahedan,29.4978,60.8728
+Zanjan,36.6644,48.4856
+Ashdod,31.7361,34.6559
+Ashqelon,31.6693,34.5715
+Batna,35.5553,6.1786
+Qiryat Yam,32.8508,35.0703
+Be'er Sheva,31.2516,34.7863
+Sheva Nhava,18.9625,72.9664
+Saint Benedict,45.0565,-122.7844
+Bene Beraq,32.0903,34.8397
+Haifa,32.8156,34.9892
+Holon,32.0114,34.7722
+Netanya,32.3329,34.8599
+Petah Tiqwa,32.0886,34.8722
+Ganne Tiqwa,32.0603,34.8747
+Ramat Gan,32.0806,34.8142
+Gansevoort,43.1952,-73.6846
+Rehovot,31.8969,34.8186
+Rishon Le Zion,31.9642,34.8044
+Rishon Leziyyon,31.9642,34.8044
+Telford,40.3265,-75.3697
+Abiko,35.8667,140.0167
+Ageo,35.9697,139.5886
+Aizuwakamatsu-shi,37.4507,139.9681
+Akashi,34.6333,134.9833
+Akishima,35.7208,139.3800
+Akita,39.7167,140.1167
+Amagasaki,34.7167,135.4167
+Anjou,45.6000,-73.5333
+Aomori,40.8244,140.7400
+Asahikawa,43.7678,142.3703
+Asaka,35.8047,139.6019
+Ashikaga,36.3333,139.4500
+Atsugi,35.4389,139.3597
+Beppu,33.2736,131.4919
+Chiba,35.6047,140.1233
+Chigasaki,35.3261,139.4039
+Chikusei,36.3160,139.9824
+Chikushino-shi,33.4963,130.5156
+Chofu,35.6556,139.5522
+Daito,34.7000,135.6167
+Ebetsu,43.1081,141.5506
+Ebina,35.3812,139.3965
+Fuchu,35.6667,139.4833
+Fuji,35.1500,138.6500
+Fujieda,34.8667,138.2667
+Fujimi,42.8028,140.6869
+Fujimino,35.9020,139.5249
+Fujinomiya,35.2167,138.6167
+Fujisawa,35.3419,139.4700
+Fukaya,36.2000,139.2833
+Fukui,36.0653,136.2219
+Fukuoka,33.6064,130.4181
+Fukushima,37.7500,140.4678
+Fukuyama,34.4833,133.3667
+Funabashi,35.6931,139.9833
+Gifu,35.3911,136.7222
+Habikino,34.5341,135.5833
+Hachinohe,40.5050,141.4919
+Hachioji,35.6558,139.3239
+Hadano,35.3711,139.2236
+Hakodate,41.7758,140.7367
+Hakusan,36.4333,136.6333
+Hamamatsu,34.7000,137.7333
+Hanamaki,39.3833,141.1167
+Handan,36.5667,114.5333
+Hatsukaichi,34.3500,132.3333
+Higashihiroshima,34.4475,132.7612
+Higashikurume,35.7582,139.5295
+Higashimurayama-shi,35.7546,139.4685
+Higashiomi,35.1089,136.1792
+Higashiosaka,34.6667,135.5833
+Hikone,35.2500,136.2500
+Himeji,34.8167,134.7000
+Hino,35.6731,139.4003
+Hirakata,34.8000,135.6333
+Hiratsuka,35.3231,139.3422
+Hirosaki,40.5931,140.4725
+Hiroshima,34.3963,132.4594
+Hitachi,36.6000,140.6500
+Hitachinaka-shi,36.3960,140.5579
+Hofuf,25.3646,49.5653
+Ibaraki,34.8167,135.5667
+Ichihara,35.5167,140.0833
+Ichikawa,35.7197,139.9247
+Ichinomiya,35.3000,136.8000
+Ichinoseki,38.9167,141.1333
+Iida,35.5167,137.8333
+Iizuka,33.6333,130.6833
+Ikeda,34.8167,135.4167
+Ikoma,34.6833,135.7000
+Imabari,34.0667,132.9667
+Inazawa,35.2500,136.7833
+Iruma,34.6167,138.8000
+Isahaya,32.8411,130.0431
+Iselin,40.5692,-74.3157
+Isehara,35.3906,139.3078
+Isesaki,36.3167,139.2000
+Ishinomaki,38.4167,141.3000
+Itami,34.7667,135.4167
+Iwaki,37.0500,140.8833
+Iwakuni,34.1500,132.1833
+Iwata,34.7000,137.8500
+Izumi,34.4833,135.4333
+Izumisano-shi,34.3740,135.3368
+Izumo,35.3667,132.7667
+Joetsu,37.1117,138.2684
+Kadoma,34.7333,135.5833
+Kagoshima,31.5602,130.5581
+Kakamigahara,35.4167,136.8667
+Kakegawa,34.7667,138.0167
+Kakogawa,34.7667,134.8500
+Kamagaya,35.8030,140.0218
+Kamakura,35.3089,139.5503
+Kanazawa,36.5944,136.6256
+Kanoya,31.3833,130.8500
+Kanuma,36.5500,139.7333
+Karatsu,33.4425,129.9697
+Kariya,34.9833,136.9833
+Kashihara,34.4500,135.7667
+Kashiwa,35.8544,139.9689
+Kasuga,33.0333,130.0500
+Kasugai,35.2333,136.9833
+Kasukabe,35.9764,139.7536
+Kawachinagano,34.4055,135.5669
+Kawagoe,35.9086,139.4853
+Kawaguchi,35.8050,139.7206
+Kawanishi,34.8167,135.4167
+Kawasaki,35.5206,139.7172
+Kazo,36.1167,139.6000
+Kirishimashi,31.8056,130.7816
+Kiryu,36.4000,139.3333
+Kisarazu,35.3747,139.9225
+Kishiwada,34.4667,135.3667
+Kitakyushu,33.8333,130.8333
+Kitami,43.8031,143.8908
+Kobe,34.6913,135.1830
+Kodaira,35.7264,139.4839
+Kofu,35.6639,138.5683
+Kogalniceanu,47.1500,26.8333
+Koganei,35.6914,139.5011
+Kokubunji,35.7022,139.4756
+Komaki,35.2833,136.9167
+Komatsu,36.4000,136.4500
+Konosu,36.0500,139.5167
+Koriyama,37.4000,140.3833
+Koshigaya,35.8833,139.7833
+Kuki,36.0667,139.6667
+Kumagaya,36.1333,139.3833
+Kumamoto,32.7897,130.7417
+Kurashiki,34.5833,133.7667
+Kure Beach,33.9904,-77.9207
+Kurume,33.3167,130.5167
+Kusatsu,35.0167,135.9667
+Kushiro,42.9750,144.3747
+Kuwana,35.0667,136.7000
+Kyoto,35.0214,135.7556
+Machida,35.5403,139.4508
+Maebashi,36.3911,139.0608
+Marugame,34.2833,133.7833
+Matsubara,34.5667,135.5500
+Matsudo,35.7833,139.9000
+Matsue,35.4722,133.0506
+Matsumoto,36.2333,137.9667
+Matsusaka,34.5667,136.5333
+Matsuyama,33.8417,132.7661
+Mihara,34.4000,133.0833
+Minoh,34.8333,135.4667
+Misato,33.4000,129.7333
+Mishima,35.1167,138.9167
+Mitaka,35.6833,139.5500
+Mito,36.3414,140.4467
+Miyakonojo,31.7333,131.0667
+Miyazaki,31.9111,131.4239
+Moriguchi,34.7333,135.5667
+Morioka,39.7036,141.1525
+Musashino,35.7061,139.5594
+Nagahama,35.3833,136.2667
+Nagano,36.6514,138.1811
+Nagaoka,37.4500,138.8500
+Nagareyama,35.8506,139.8914
+Nagasaki,32.7447,129.8736
+Nagoya,35.1802,136.9067
+Nahariya,33.0059,35.0941
+Naranjos,21.3500,-97.6833
+Narashino,35.6833,140.0333
+Narita,35.7833,140.3167
+Nasushiobara,36.9768,140.0664
+Neyagawa,34.7500,135.6333
+Niigata,37.9022,139.0236
+Niihama,33.9593,133.3167
+Niiza,35.7979,139.5254
+Nishinomiya,34.7167,135.3333
+Nishio,34.8667,137.0500
+Nishitokyo-shi,35.7349,139.5462
+Nobeoka,32.5833,131.6667
+Noda,35.9411,139.8581
+Numazu,35.1000,138.8667
+Obihiro,42.9172,143.2044
+Odawara,35.2556,139.1597
+Ogaki,35.3500,136.6167
+Oita,33.2381,131.6125
+Okayama,34.6617,133.9350
+Okazaki,34.9167,137.1500
+Okinawa,26.3358,127.8014
+Omega,31.3274,-83.6051
+Omuta,33.0333,130.4500
+Onomichi,34.4167,133.2000
+Osaka,34.6864,135.5200
+Osakis,45.8784,-95.1089
+Oshu,39.1393,141.1685
+Otava,61.6500,27.0667
+Otaru,43.1894,141.0022
+Otsu,35.0044,135.8683
+Oyama,36.3000,139.8000
+Sagamore Beach,41.7922,-70.5210
+Sagamihara,35.5531,139.3544
+Saijo,33.9167,133.1833
+Saitama,35.8569,139.6489
+Sakado,35.9569,139.3889
+Sakai,34.5833,135.4667
+Sakata,38.9167,139.8550
+Sakura,35.7167,140.2333
+Sakura,35.7167,140.2333
+Kirk Sandall,53.5500,-1.0833
+Sanjo,37.6167,138.9500
+Sanok,49.5667,22.2000
+Sapporo,43.0642,141.3469
+Sasebo,33.1592,129.7228
+Sayama,35.8242,139.3764
+Sendai,38.2689,140.8719
+Seto,35.2333,137.1000
+Shibata,37.9500,139.3333
+Shimada,34.8167,138.1833
+Shimonoseki,33.9500,130.9500
+Shizuoka,34.9769,138.3831
+Shunan Shi,34.1514,131.8250
+Soka,35.8203,139.8044
+Suita,34.7500,135.5333
+Suzuka,34.8833,136.5833
+Tachikawa,35.6928,139.4181
+Tajimi,35.3167,137.1333
+Takamatsu,34.3403,134.0433
+Takaoka,36.7500,137.0167
+Takarazuka,34.8000,135.3500
+Takasaki,36.3333,139.0167
+Takatsuki,34.8500,135.6167
+Tamale,9.4000,-0.8333
+Tochigi,36.3833,139.7333
+Toda,35.8094,139.6925
+Tokai,-34.0605,18.4378
+Tokorozawa,35.7864,139.4678
+Tokushima,34.0658,134.5594
+Tomakomai,42.6369,141.6033
+Tondabayashi,34.5000,135.6000
+Toride,35.9000,140.0833
+Tottori,35.5036,134.2383
+Toyama,36.6953,137.2114
+Toyohashi,34.7667,137.3833
+Toyokawa,34.8167,137.4000
+Toyonaka,34.7833,135.4667
+Toyota,35.0833,137.1500
+Tsuen Wan,22.3667,114.1000
+Tsuchiura,36.0905,140.2105
+Tsukuba,36.0833,140.1167
+Tsuruoka,38.7217,139.8217
+Tsuyama,35.0500,134.0000
+Uberl�ndia,-18.9167,-48.3000
+Ueda,36.4000,138.2667
+Ujiie,36.6833,139.9667
+Urasoe,26.2590,127.7301
+Urayasu,35.6706,139.8886
+Uruma,26.3761,127.8591
+Utsunomiya,36.5658,139.8836
+Wakayama,34.2261,135.1675
+Yachiyo,42.7356,142.9889
+Yaizu,34.8667,138.3333
+Yamagata,38.2406,140.3633
+Yamaguchi,34.1858,131.4714
+Yamato,34.5667,135.8333
+Yaound�,3.8667,11.5167
+Yatsushiro,32.5000,130.6000
+Yokkaichi,34.9667,136.6167
+Yokohama,35.4478,139.6425
+Yokosuka,35.2836,139.6672
+Yonago,35.4333,133.3333
+Zamalek,30.0642,31.2201
+Aqaba,29.5267,35.0078
+Irbid,32.5556,35.8500
+Zarqa',32.0833,36.1000
+Aktau,50.2367,73.0628
+Aktobe,50.2981,57.1814
+Almaty,43.2565,76.9285
+Ekibastuz,51.7237,75.3229
+Karaganda,49.7989,73.0994
+Kustanai,53.2144,63.6246
+Kyzylorda,44.8528,65.5092
+Pavlodar,52.2740,77.0044
+Petropavlovsk,54.8728,69.1430
+Rudnik,46.0333,14.5667
+Semipalatinsk,50.4267,80.2667
+Shimkent,42.3000,69.6000
+Taldykorgan,45.0156,78.3739
+Taraz,42.9000,71.3667
+Temirtau,50.0549,72.9646
+Uralskiy,57.9399,55.5509
+Hawalli,29.3328,48.0286
+Salmiya,29.3339,48.0761
+South Plainfield,40.5722,-74.4134
+Oshkosh,43.9669,-88.5257
+Laon,49.5631,3.6271
+Republic,37.1291,-93.5151
+Cape Town,-33.9258,18.4232
+Sanford,35.5153,-79.2007
+Alor Star,6.1210,100.3601
+Alor Setar,6.1210,100.3601
+Kelang,3.0333,101.4500
+Bintulu,3.1667,113.0333
+Georgetown,38.2532,-84.5524
+Kajang,2.9927,101.7909
+Ibadan,7.3878,3.8964
+Sungai Buloh,3.2000,101.5833
+Chualar,36.5725,-121.4448
+Klang,3.0333,101.4500
+Kota Bahru,6.1333,102.2386
+Kota Kinabalu,5.9749,116.0724
+Kuala Lumpur,3.1667,101.7000
+Kuala Terengganu,5.3302,103.1408
+Kuantan,3.8077,103.3260
+Kuching,1.5500,110.3333
+Ipoh,4.5841,101.0829
+Johor,1.4655,103.7578
+Kota Bahru,6.1333,102.2386
+Mirim,-8.5333,-37.7000
+Kota Bahru,6.1333,102.2386
+Kota Bharu,4.3988,101.0787
+Petaling Jaya,3.0833,101.6500
+Petaling Jaya,3.0833,101.6500
+Sandakan,5.8402,118.1179
+Barueri,-23.5167,-46.8833
+Seremban,2.7297,101.9381
+Shah Alam,3.0833,101.5333
+Alameda,37.7735,-122.2788
+Sibu,2.3000,111.8167
+Subang,-6.5575,107.7578
+Petaling Jaya,3.0833,101.6500
+Sungai Buloh,3.2000,101.5833
+Sungai Petani,5.6470,100.4877
+Taiping,29.9017,106.0450
+Tawau,4.2498,117.8871
+Biratnagar,26.4833,87.2833
+Birgunj,27.0000,84.8667
+Butwal,27.7000,83.4500
+Dhangadhi,28.6833,80.6000
+Dharan,26.8167,87.2833
+Pokhara,28.2333,83.9833
+Ashburn,39.0180,-77.5390
+Seeboden,46.8219,13.4950
+Ashburn,39.0180,-77.5390
+Suwayq,23.8494,57.4386
+Al Bawshariyah,33.8833,35.5500
+Mutrah,23.6128,58.5644
+Salalah,17.0175,54.0828
+Sohar,24.3689,56.7439
+Bahawalnagar,29.9987,73.2536
+Bahawalpur,29.4000,71.6833
+Burewala,30.1614,72.6815
+Chiniot,31.7200,72.9789
+Kotha Chishtian,32.5389,74.2972
+Dadukou,29.4789,106.4856
+Daska,32.3243,74.3497
+Derazhnya,52.0239,33.7250
+Ghaziabad,28.6667,77.4333
+Khan,25.6181,68.9579
+Faisalabad,31.4167,73.0833
+Gojra,31.1487,72.6866
+Gujranwala,32.1617,74.1883
+Gujrat,22.4142,88.0167
+Hafizabad,32.0679,73.6854
+Jacobabad,28.2810,68.4388
+Jaranwala,31.3333,73.4333
+Jhang Sadar,31.2715,72.3284
+Jhelum,32.9331,73.7264
+Kamoke,31.9744,74.2244
+Karachi,24.9056,67.0822
+Kasur,31.1156,74.4467
+Khairpur,27.5295,68.7617
+Khanewal,30.3000,71.9333
+Khanpur,28.6453,70.6567
+Kohata,35.1333,139.9667
+Lahore,31.5497,74.3436
+Larkana,27.5551,68.2141
+Mardan,34.2019,72.0525
+Mirpur,25.0583,68.5083
+Khashmar,35.2364,58.4819
+Multan,30.1956,71.4753
+Muridke,31.7600,73.8357
+Nawabshah,26.2483,68.4096
+Okara,30.8081,73.4458
+Pakpattan,30.3410,73.3866
+Peshawar,34.0080,71.5785
+Quetta,30.1990,67.0097
+Rahimyar Khan,28.4199,70.3034
+Khan,25.6181,68.9579
+Rawalpindi,33.6007,73.0679
+Sadiqabad,28.3062,70.1306
+Sahiwal,30.6667,73.1000
+Sargodha,32.0836,72.6711
+Sheikhupura,30.6390,72.0464
+Pura,-7.0679,110.5222
+Sukkur,27.7052,68.8574
+Wahpeton,46.2900,-96.7258
+Cantonment,30.6158,-87.3162
+Los Angeles,34.0396,-118.2661
+Angono,14.5266,121.1536
+Antipolo,14.5886,121.1757
+Apalit,14.9505,120.7590
+Arayat,15.1512,120.7709
+Bacolod,10.6677,122.9533
+Bacoor,14.4594,120.9414
+Jersey City,40.7291,-74.0386
+Bagolino,45.8167,10.4667
+Baguio,16.4172,120.5910
+Baliuag,14.9557,120.8969
+Batangas,13.7567,121.0584
+Bayambang,15.8098,120.4548
+Bayawan,9.3649,122.8040
+Baybay,16.1000,120.0833
+Binangonan,14.4646,121.1929
+Bocaue,14.7979,120.9234
+Butuan,8.9492,125.5436
+Cabanatuan,15.4859,120.9665
+Cabuyao,14.1493,121.4052
+Cadiz,40.2612,-81.0199
+Cagayan De Oro,8.4811,124.6431
+city,latitude,longitude
+Oroville,39.4594,-121.3972
+Cainta,14.5786,121.1222
+Calamba,14.2118,121.1655
+Calapan,15.7078,120.5470
+Calbayog,12.0668,124.5962
+Calumpit,14.9212,120.7461
+Candaba,15.0932,120.8279
+Candelaria,28.3548,-16.3727
+Capasin,53.6000,-107.3833
+Carcare,44.3500,8.3000
+Cauayan,12.5141,124.6565
+Cavite,14.4837,120.8988
+Jersey City,40.7291,-74.0386
+Cebu,10.3111,123.8917
+Concepcion,15.3255,120.6572
+Consolacion,11.3284,122.6332
+Cotabato,7.2236,124.2464
+Dagupan,16.1000,120.5167
+Danao,10.5208,124.0272
+Jersey City,40.7291,-74.0386
+Daraga,13.1483,123.7124
+Davao,7.0731,125.6128
+Digos,6.7497,125.3572
+Dipolog,8.5883,123.3409
+Dumaguete,9.3070,123.3074
+Gapan,15.3081,120.9478
+Lake Geneva,42.5747,-88.3946
+Mariano Comense,45.7000,9.1833
+Villa De Alvarez,19.2500,-103.7333
+General Roca,-39.0280,-67.5737
+Santos,-23.9529,-46.3561
+General Roca,-39.0280,-67.5737
+General Trias,14.3851,120.8811
+Gingoog,8.8278,125.0997
+Glandorf,41.0289,-84.0791
+Guagua,14.9653,120.6325
+Guimba,15.6592,120.7667
+Hagonoy,14.8341,120.7327
+Himamaylan,10.0984,122.8705
+Ilagan,17.1485,121.8892
+Iligan,8.2308,124.2361
+Iloilo,10.6969,122.5644
+Imus,14.4297,120.9367
+Jersey City,40.7291,-74.0386
+Iriga,13.4324,123.4115
+Jolon,35.9708,-121.1760
+Kabankalan,9.9902,122.8142
+Kalookan,5.6942,120.8849
+Kidapawan,7.0083,125.0894
+Koronadal,6.5031,124.8469
+Laghouat,33.8000,2.8833
+Trinidad,37.2242,-104.3727
+Laoag,18.1978,120.5957
+Las Cruces,32.3047,-106.6417
+Legazpi,13.1387,123.7353
+Libmanan,13.6928,123.0596
+Liloan,10.1614,125.1303
+Lipan,32.5226,-98.0483
+Los Angeles,34.0396,-118.2661
+Lubao,14.9398,120.6011
+Lucena,13.9348,121.6127
+Jersey City,40.7291,-74.0386
+Mabalacat,15.2155,120.5780
+Magalang,15.2154,120.6617
+Makati,14.5667,121.0333
+Malabon,15.6361,119.9379
+Malasiqui,15.9181,120.4140
+Malolos,14.8443,120.8104
+Mandaluyong,14.5836,121.0336
+Mandaue,10.3236,123.9222
+Marawila,7.4106,79.8280
+Marikina,14.6481,121.1133
+Marilao,14.6233,120.4612
+Mariveles,14.4361,120.4857
+Port Matilda,40.8002,-78.0558
+Meycauayan,14.7368,120.9606
+Midsayap,7.1908,124.5303
+Minglanilla,10.2450,123.7964
+Muntinlupa City,14.4135,121.0263
+Nagar,27.4333,77.1000
+Nasugbu,14.0722,120.6332
+Navotas,14.4167,121.2268
+Norzagaray,14.9109,121.0493
+Olongapo,14.8389,120.2851
+Ormoc,11.0064,124.6075
+Ozamis City,8.1481,123.8405
+Pagadian,7.8257,123.4370
+Panabo,7.3081,125.6842
+Pasay City,14.5456,120.9958
+Pasig,15.0936,120.8120
+Pikit,7.0544,124.6719
+Plaridel,10.8974,123.4894
+Polomolok,6.2217,125.0640
+Porac,15.2520,120.0169
+Puerto Ordaz,8.2981,-62.7186
+Puerto Princesa,9.7392,118.7353
+Quezon,15.5512,120.8147
+Jersey City,40.7291,-74.0386
+Rodriguez,-31.7008,-61.2458
+Roxas,11.5853,122.7511
+Sagay,10.9427,123.4239
+Jersey City,40.7291,-74.0386
+Sandton,-26.0500,27.9667
+San Carlos,37.4980,-122.2672
+Sandton,-26.0500,27.9667
+San Fernando,34.2846,-118.4399
+Sandton,-26.0500,27.9667
+San Jose,37.3239,-121.9144
+Jersey City,40.7291,-74.0386
+Sandton,-26.0500,27.9667
+San Jose,37.3239,-121.9144
+Delmar,38.4864,-75.5439
+Monterey,36.3699,-121.8406
+Sandton,-26.0500,27.9667
+San Mateo,37.5550,-122.2687
+Sandton,-26.0500,27.9667
+San Pablo,37.9809,-122.3332
+Sandton,-26.0500,27.9667
+San Pedro,33.7352,-118.3150
+Santa Fe,35.7847,-105.8749
+Rosamond,34.9286,-118.4052
+Santiago,-33.4500,-70.6667
+Santo Domingo,18.4667,-69.9000
+Tomasz�w,52.3333,21.0167
+Sariaya,13.9624,121.5265
+Bagong Silang,13.9924,122.3247
+Silay,10.8003,122.9763
+Sorsogon,12.9708,124.0053
+Surigao,9.7839,125.4889
+Tabaco,13.3594,123.7321
+Tabuk,28.3998,36.5715
+Tacloban,11.2433,125.0047
+Taguig,14.5243,121.0792
+Tagumpay,13.8117,122.0397
+Talavera De La Reina,39.9635,-4.8308
+Talisay,10.2444,123.8473
+Tanauan,11.1094,125.0156
+Tanza,14.6753,120.9389
+Tarlac,15.4802,120.5979
+Taytay,14.5678,121.1394
+Trecenta,45.0333,11.4667
+Martires,8.4367,125.7925
+Tuguegarao,17.6158,121.7228
+Urdaneta,15.9775,120.5659
+Valenzuela,37.7754,-4.2215
+Zamboanga,6.9103,122.0717
+Republic,37.1291,-93.5151
+Kloof,-29.7853,30.8233
+Korea,23.1500,83.9667
+Busano,45.3333,7.6500
+Daegu,35.8703,128.5911
+Daejeon,36.3214,127.4197
+Gwangju,35.1547,126.9156
+Incheon,37.4536,126.7317
+Ulsan,35.5372,129.3167
+Abha,18.2164,42.5053
+Ar'ara,32.4955,35.0941
+Buraydah,26.3260,43.9750
+Hafar,28.4328,45.9708
+Ha'il,27.5219,41.6907
+Jiddah,21.5169,39.2192
+Jizan,16.8892,42.5511
+Khamis Mushayt,18.3064,42.7292
+Khamis Mushayt,18.3064,42.7292
+Makkah,21.4267,39.8261
+Najran,17.4667,44.1000
+Unayzah,26.0879,43.9637
+Yanbu Al Sinaiyah,23.9994,38.2275
+Mount Lavinia,6.8339,79.8644
+Kandyagash,49.4691,57.4191
+Moratuwa,6.7730,79.8816
+Negombo,7.2083,79.8358
+Srisaket,15.1148,104.3294
+Kotten,51.9389,6.7629
+Staten Island,40.5453,-74.1786
+Kloof,-29.7853,30.8233
+Palestine,31.8664,-95.6507
+Gaza,31.5000,34.4667
+Hebron,39.9737,-82.5091
+Khan,25.6181,68.9579
+Khan Yunis,31.3439,34.3025
+Nablus,32.2211,35.2544
+Rafah,31.2842,34.2508
+Aleppo,39.7848,-80.4884
+Deira,25.2731,55.3064
+Hamar,60.8000,11.1000
+Homs,34.7333,36.7167
+Lattakia,35.5167,35.7833
+Los Angeles,34.0396,-118.2661
+Thong,18.1167,100.1167
+Buri,-23.7966,-48.5982
+Ramsis,30.8358,30.6421
+Chachoengsao,13.6882,101.0716
+Wan Chai,22.1667,114.2500
+Hot Springs National Park,34.4179,-93.0493
+Chaiyaphum,15.8105,102.0288
+Chanthaburi,12.6096,102.1045
+Chiang Mai,18.7904,98.9847
+Maitland,28.6294,-81.3619
+Chiang Mai,18.7904,98.9847
+Raisio,60.4833,22.1833
+Chongqing,29.5628,106.5528
+Buri,-23.7966,-48.5982
+Chumphon,10.5000,99.1667
+Kalasin,16.4328,103.5066
+Kamphaeng Phet,16.4834,99.5215
+Kamphaeng Phet,16.4834,99.5215
+Kanchanaburi,14.0032,99.5501
+Khon Kaen,16.4467,102.8330
+Khon Kaen,16.4467,102.8330
+Lampang,18.2923,99.4928
+Lamphun,18.5805,99.0074
+Loei,17.4905,101.7275
+Lopez Island,48.4955,-122.8729
+Buri,-23.7966,-48.5982
+Mahanoy City,40.8413,-76.1089
+Maha Sarakham,16.1848,103.3007
+Mukdahan,16.5453,104.7235
+Nakhon Ratchasima,14.9716,102.0825
+Nakhon Pathom,13.8196,100.0443
+Nakhon Ratchasima,14.9716,102.0825
+Phanom,8.8547,98.8127
+Nakhon Ratchasima,14.9716,102.0825
+Nakhon Ratchasima,14.9716,102.0825
+Nakhon Ratchasima,14.9716,102.0825
+Nakhon Sawan,15.7047,100.1372
+Nakhon Ratchasima,14.9716,102.0825
+Silverton,-25.7259,28.3137
+Nakhon Si Thammarat,8.4333,99.9667
+Narathiwat,6.4264,101.8231
+Nongchang,35.6286,114.4675
+Buarcos,40.1660,-8.8768
+Lamar,34.1939,-80.1024
+Phuket,7.8333,98.3833
+Nongchang,35.6286,114.4675
+Ras Al Khaimah,25.7895,55.9432
+Nonthaburi,13.8622,100.5134
+Pathum Thani,14.0135,100.5305
+Pathum Thani,14.0135,100.5305
+Pattani,6.8749,101.2549
+Phatthalung,7.6179,100.0779
+Phayao,19.1920,99.8788
+Phetchabun,16.4433,101.1475
+Phetchaburi,13.1119,99.9447
+Phichit,16.4418,100.3488
+Phitsanulok,16.8248,100.2586
+Phra Khanong,13.7000,100.6000
+Nakhon Ratchasima,14.9716,102.0825
+Silverton,-25.7259,28.3137
+Ayutthaya,14.3517,100.5774
+Phrae,18.1459,100.1410
+Phuket,7.8333,98.3833
+Prachuap Khiri Khan,11.8086,99.7967
+Khiri Mat,16.8333,99.7667
+Khan,25.6181,68.9579
+Ranong,9.9658,98.6348
+Ratchaburi,13.5367,99.8171
+Rayong,12.6685,101.2755
+Roissy,48.7916,2.6475
+Ethridge,35.3292,-87.2717
+Sandton,-26.0500,27.9667
+Kaeo,-35.1000,173.7833
+Sakon Nakhon,17.1612,104.1473
+Nakhon Ratchasima,14.9716,102.0825
+Samut,13.6004,100.5968
+Prakanong,13.7019,100.6016
+Samut,13.6004,100.5968
+Samut Sakhon,13.5475,100.2736
+Saraburi,14.5333,100.9167
+Silverton,-25.7259,28.3137
+Sandton,-26.0500,27.9667
+Ketchikan,55.6153,-131.5848
+Songkhla,7.1988,100.5951
+Sukhothai,17.0078,99.8230
+Suphan Buri,14.4742,100.1222
+Buri,-23.7966,-48.5982
+Surat,20.9667,72.9000
+Pathum Thani,14.0135,100.5305
+Surindra,14.8833,103.4833
+Takoradi,4.8833,-1.7500
+Trattner,47.2500,14.4500
+Ubon,15.2333,104.9000
+Ubon Ratchathani,15.2384,104.8487
+Udon,17.4157,102.7859
+Pathum Thani,14.0135,100.5305
+Uttaradit,17.6256,100.0942
+Yalan,29.6611,113.3492
+Yasothon,15.7941,104.1451
+Adiyaman,37.9167,34.6500
+Afyon,38.7567,30.5433
+Aksaray,38.3725,34.0254
+Alanya,36.5437,31.9998
+Antalya,36.9081,30.6956
+Aydinli,40.8667,29.3283
+Balikesir,39.6492,27.8861
+Bandirma,40.3522,27.9767
+Batman,37.8828,41.1206
+Ceyhan,37.0247,35.8175
+Corumb�,-19.0167,-57.6500
+Denizli,37.7742,29.0875
+Diyarbakir,37.9158,40.2189
+Edirne,41.6757,26.5587
+Elazig,38.6743,39.2232
+Erzincan,39.7522,39.4928
+Erzurum,39.9086,41.2769
+Eskisehir,39.7767,30.5206
+Gebze,40.8028,29.4307
+Hatay,36.2066,36.1572
+Inegol,40.0781,29.5133
+Iskenderun,36.5872,36.1735
+Isparta,37.7644,30.5522
+Kahramanmaras,37.5847,36.9264
+Karamanl�,41.0833,24.6667
+Kirikkale,39.8453,33.5064
+Kiziltepe,37.1908,40.5697
+Kocaeli,40.7669,29.9169
+Konya,37.8714,32.4846
+Malatya,38.3502,38.3167
+Manavgat,36.7867,31.4431
+Manisa,38.6120,27.4265
+Nazilli,37.9163,28.3222
+Ordu,40.9847,37.8789
+Osmaniye,36.3233,36.5603
+Patnos,39.2336,42.8634
+Sakarya,41.1000,42.0000
+Samsun,41.2867,36.3300
+Sanliurfa,37.1671,38.7939
+Siirt,37.9283,41.9389
+Sivas,39.7483,37.0161
+Siverek,37.7550,39.3167
+Tarsus,36.9188,34.8784
+Tekirdag,40.9780,27.5085
+Tokat,40.3139,36.5544
+Trabzon,41.0050,39.7269
+Turgutlu,38.4953,27.6997
+Turhal,40.3875,36.0811
+Usak,38.6735,29.4058
+Vanderbijlpark,-26.7117,27.8379
+Viransehir,37.2353,39.7631
+Al Ajman,25.4069,55.4441
+Dubai,25.2582,55.3047
+Almalyk,40.8447,69.5983
+Andizhan,40.6531,72.3619
+Angren,41.0167,70.1436
+Bukhara,39.7747,64.4286
+Chirchik,41.3722,69.3817
+Fergana,40.3933,71.7794
+Karshi,38.8633,65.7978
+Kokand,40.5286,70.9425
+Margilan,40.4711,71.7247
+Namangan,40.9953,71.6725
+Navoi,40.0844,65.3792
+Nukus,42.4531,59.6103
+Samarkand,39.6542,66.9597
+Termez,37.2392,67.2764
+Adana,37.0017,35.3289
+Islands,52.7344,-7.5931
+Graz,47.0667,15.4500
+Innsbruck,47.2667,11.4000
+Linz,48.3000,14.3000
+Salzburg,47.8000,13.0333
+Baranovichi,53.1327,26.0139
+Bobruisk,53.1384,29.2214
+Borisov,48.8815,42.9368
+Brest,52.0975,23.6878
+Gomel,52.4054,30.7591
+Grodno,53.6884,23.8258
+Mogilev,53.9168,30.3449
+Mozirje,46.3394,14.9633
+Novopolotsk,55.5318,28.5987
+Orsha,54.5081,30.4172
+Pinsk,52.1214,26.0728
+Soligorsk,52.7876,27.5415
+Vitebsk,55.1904,30.2049
+Anderlecht,50.8333,4.3000
+Antwerpen,51.2167,4.4167
+Brugge,51.2167,3.2333
+Charleroi,40.1357,-79.9345
+Gentofte,55.7500,12.5500
+Namur,50.4667,4.8667
+Schaerbeek,50.8500,4.3833
+Burgas,42.5000,27.4667
+Pleven,43.4167,24.6167
+Plovdiv,42.1500,24.7500
+Ruse,46.5394,15.5158
+Stara Zagora,42.4328,25.6419
+Stara Zagora,42.4328,25.6419
+Varna,43.2167,27.9167
+Osijek,45.5511,18.6939
+Rijeka,45.3431,14.4092
+Split,43.5139,16.4558
+Brno,49.2000,16.6333
+Liberec,50.7639,15.0653
+Ostrava,49.8119,18.2553
+Plzen,49.7500,13.3667
+Esbjerg,55.4667,8.4500
+Frederiksberg,55.4167,11.5667
+Odense,55.4000,10.3833
+Vejle,55.7000,9.5333
+Tartu,58.3661,26.7361
+Islands,52.7344,-7.5931
+Espoo,60.2167,24.6667
+Lahti,60.9667,25.6667
+Oulunsalo,64.9333,25.4167
+Tampere,61.5000,23.7500
+Turku,60.4500,22.2833
+Vantaa,60.3000,24.8500
+Amiens,49.9000,2.3000
+Angers,47.4738,-0.5477
+Argenteuil,48.9394,2.2367
+Bordeaux,44.8404,-0.5805
+Caen,49.1972,-0.3268
+Dijon,47.3167,5.0167
+Grenoble,45.1715,5.7224
+Fort Lee,40.8483,-73.9725
+Havre,48.5666,-109.7389
+Fort Lee,40.8483,-73.9725
+Mansour,30.8833,-7.8167
+Lillestr�m,59.9500,11.0833
+Limoges,45.8315,1.2578
+Lyons,38.3770,-98.2110
+Marseilles,41.3839,-88.7075
+Metz,49.1155,6.1759
+Montpellier,43.6109,3.8772
+Montreuil,48.8642,2.4432
+Mulhouse,47.7381,7.3479
+Nancy,48.6921,6.1878
+Nantes,47.2165,-1.5524
+Niceville,30.5143,-86.4630
+Perpignan,42.6962,2.8971
+Reims,49.2500,4.0333
+Rennes,48.1120,-1.6743
+Rouen,49.4333,1.0833
+Strasbourg,48.6004,7.7874
+Toulon,43.1177,5.9417
+Toulouse,43.5995,1.4332
+Tours,47.3948,0.7040
+Villeurbanne,45.7655,4.8755
+Aachen,50.7708,6.1053
+Augsburg,48.3667,10.8833
+Bergisch Gladbach,50.9833,7.1333
+Bergisch Gladbach,50.9833,7.1333
+Bielefeld,52.0333,8.5333
+Bochum,51.4833,7.2167
+Bonney Lake,47.1771,-122.1865
+Bottrop,51.5167,6.9167
+Braunschweig,52.2667,10.5333
+Bremen,41.4631,-86.1701
+Bremerhaven,53.5500,8.5833
+Chemnitz,50.8333,12.9167
+Cottbus,51.7667,14.3333
+Darmstadt,49.8706,8.6494
+Dortmund,51.5167,7.4500
+Dresden,36.3365,-88.6714
+Duisburg,51.4333,6.7500
+Erfurt,50.9833,11.0333
+Erlangen,49.5897,11.0039
+Essen,51.4667,4.4667
+Frankfurt Am Main,50.1167,8.6833
+Grahamstown,-33.3042,26.5328
+Maine,42.2586,-76.0548
+Freiburg,48.0000,7.8500
+Primrose,-26.1869,28.1660
+Staufen Im Breisgau,47.8823,7.7282
+Gelsenkirchen,51.5167,7.0500
+Hagen,51.3500,7.4667
+Hallettsville,29.3525,-96.8281
+Hamburg,33.2265,-91.7912
+Hammonton,39.6363,-74.7633
+Hannoversch M�nden,51.4167,9.6833
+Heidelberg,-37.7500,145.0667
+Heilbronn,49.1403,9.2200
+Herne,51.5500,7.2167
+Hildesheim,52.1500,9.9667
+Ingolstadt,48.7667,11.4333
+Jena,31.6130,-92.0175
+Karlsruhe,49.0047,8.3858
+Kassel,51.3167,9.5000
+Kiel,43.9609,-87.9751
+Koblenz,50.3500,7.6000
+Krefeld,51.3333,6.5667
+Leipzig,51.3000,12.3333
+Leverkusen,51.0167,6.9833
+Ludwigshafen,49.4811,8.4353
+Grahamstown,-33.3042,26.5328
+Weil Am Rhein,47.5937,7.6298
+Magdeburg,52.1667,11.6667
+Mainz,50.0000,8.2711
+Mannheim,49.4883,8.4647
+Moers,51.4500,6.6500
+Durban,-29.8579,31.0292
+Vanderbijlpark,-26.7117,27.8379
+Ruhrort,51.4333,6.7500
+Neuss,51.2000,6.6833
+Oberhausen,51.4667,6.8500
+Offenbach,50.1000,8.7667
+Grahamstown,-33.3042,26.5328
+Maine,42.2586,-76.0548
+Oldenburg,53.1667,8.2000
+Paderborn,51.7167,8.7667
+Pforzheim,48.8833,8.7000
+Potsdam,44.6609,-74.9258
+Recklinghausen,51.6167,7.2000
+Regensburg,49.0150,12.0956
+Remscheid,51.1833,7.2000
+Reutlingen,48.4833,9.2167
+Rostock,54.0833,12.1333
+Salzgitter,52.0833,10.3333
+Siegen,50.8667,8.0333
+Solingen,51.1833,7.0833
+Stuttgart,34.4396,-91.5298
+Trier,49.7500,6.6333
+New Ulm,44.3041,-94.4356
+Wiesbaden,50.0833,8.2500
+Wolfsburg,52.4333,10.8000
+Wuppertal,51.2667,7.1833
+Guernsey,42.2796,-104.8028
+Holyoke,42.2238,-72.6409
+Seekonk,41.8387,-71.3187
+Debrecen,47.5333,21.6333
+Miskolc,48.1000,20.7833
+Szeged,46.2500,20.1667
+Cork,51.8986,-8.4958
+Presque Isle,46.6885,-67.9911
+Kloof,-29.7853,30.8233
+Mansour,30.8833,-7.8167
+Ancona,43.6333,13.5000
+Baring,47.7371,-121.4963
+Bergamo,45.6833,9.7167
+Bologna,44.4833,11.3333
+Bolzano,46.5167,11.3667
+Brescia,45.5500,10.2500
+Cagliari,39.2167,9.1167
+Catania,37.5000,15.1000
+Ferrara,44.8333,11.5833
+Firenze,43.7667,11.2500
+Foggia,41.4500,15.5667
+Forlimpopoli,44.1942,12.1411
+Genova,44.4167,8.9500
+Giugliano In Campania,40.9333,14.2000
+Bloemfontein,-29.1211,26.2140
+Palma Campania,40.8667,14.5500
+Latina,41.4667,12.8667
+Livorno,43.5500,10.3167
+Messina,-22.3513,30.0396
+Milano Marittima,44.2794,12.3528
+Modena,41.6601,-74.1105
+Monza,45.5833,9.2667
+Napoli,40.8333,14.2500
+Novara,45.4667,8.6333
+Padova,45.4167,11.8833
+Palermo,38.1167,13.3667
+Parma,43.8073,-116.9170
+Pescara,42.4667,14.2167
+Piacenza,45.0167,9.6667
+Prato,43.8833,11.1000
+Ravenna,41.1601,-81.1675
+Reggio Calabria,38.1000,15.6500
+Takoradi,4.8833,-1.7500
+Reggio Calabria,38.1000,15.6500
+Reggio Calabria,38.1000,15.6500
+Rimini,44.0633,12.5808
+Salerno,40.6833,14.7833
+Sassari,40.7272,8.5603
+Siracusa,37.0667,15.3000
+Taranto,40.4761,17.2297
+Terni,42.5667,12.6167
+Torino,45.0500,7.6667
+Trenton,38.6182,-89.7065
+Trieste,45.6486,13.7800
+Venezia,45.4386,12.3267
+Verona,42.9925,-89.5679
+Vicenza,45.5500,11.5500
+Jersey City,40.7291,-74.0386
+Daugavpils,55.8833,26.5333
+Kaunas,54.9000,23.9000
+Klaipeda,55.7172,21.1175
+Panevezhis,55.7333,24.3500
+Almere,52.3881,5.2354
+Amersfoort,52.1560,5.3895
+Apeldoorn,52.2167,5.9667
+Arnhem,51.9798,5.9256
+Breda,42.1804,-95.0308
+Dordrecht,51.8007,4.6982
+Edenvale,-26.1392,28.1658
+Eindhoven,51.4500,5.4667
+Emmen,47.0811,8.3048
+Enschede,52.2195,6.8912
+Groningen,53.2167,6.5500
+Haarlem,52.3667,4.6500
+Haarlemmermeer,52.3121,4.6931
+Leiden,52.1763,4.5282
+Maastricht,50.8500,5.6833
+Nijmegen,51.8333,5.8667
+Rotterdam,51.9167,4.5000
+The Colony,33.0735,-96.9032
+Haguenau,48.8142,7.7862
+Tilburg,51.5769,5.1063
+Utrecht,52.0938,5.1191
+Zaanstad,52.4500,4.8333
+Zoetermeer,52.0278,4.5123
+Zwolle,52.5058,6.0858
+North Bergen,40.7904,-74.0246
+Stavanger,58.9667,5.7500
+Trondheim,63.4167,10.4167
+Bialystok,53.1333,23.1500
+Bydgoszcz,53.1271,18.0200
+Bytom,50.3500,18.9667
+Czestochowa,50.8000,19.1167
+Dabrowa Gornicza,50.3333,19.2000
+Elblag,54.1667,19.3833
+Gdansk,54.3608,18.6583
+Gdynia,54.5000,18.5500
+Gliwice,50.2833,18.6667
+Gorz�w Wielkopolski,52.7333,15.2333
+Kalisz,51.7500,18.0833
+Katowice,50.2584,19.0275
+Kielce,50.8333,20.6667
+Koszalin,54.1936,16.1849
+Legnica,51.2000,16.2000
+Lublin,51.2500,22.5667
+Olsztyn,53.7799,20.4942
+Opole,50.6667,17.9500
+Plock,52.5500,19.7000
+Poznan,52.4167,16.9667
+Radom,51.4167,21.1500
+Ruda Slaska,50.3167,18.8500
+Ruda Slaska,50.3167,18.8500
+Rybnik,50.1167,18.5333
+Sosnowiec,50.3000,19.1667
+Szczecinska,53.4874,14.3861
+Torun,53.0333,18.6000
+Tychy,50.1333,18.9833
+Walbrzych,50.7667,16.2833
+Wloclawek,52.6500,19.0333
+Wroclaw,51.1000,17.0333
+Zabrze,50.3167,18.7833
+Zielona G�ra,51.9393,15.5058
+Amadora,38.7597,-9.2397
+Portola Valley,37.3702,-122.2145
+Baltimore,39.2904,-76.6122
+Arad,46.1833,21.3167
+Bacau,46.5667,26.9000
+Baia Mare,47.6667,23.5833
+Marenisco,46.4405,-89.6640
+Botosani,47.7500,26.6667
+Braila,45.2667,27.9833
+Brasov,45.6333,25.5833
+Buzau,45.1500,26.8333
+Constanta,44.1833,28.6500
+Craiova,44.3167,23.8000
+Drobeta-turnu Severin,44.6319,22.6561
+Galati,45.4500,28.0500
+Iasi,47.1667,27.6000
+Oradea,47.0667,21.9333
+Piatra Neamt,46.9167,26.3333
+Piatra Neamt,46.9167,26.3333
+Pitesti,44.8500,24.8667
+Ploiesti,44.9500,26.0167
+Rimnicu Vilcea,45.1000,24.3667
+Vilcea,45.7667,25.1667
+Sibiu,45.8000,24.1500
+Suceava,47.6333,26.2500
+Timisoara,45.7494,21.2272
+Abakan,53.7156,91.4292
+Achinsk,56.2694,90.4993
+Anapa,44.8908,37.3239
+Angarsk,52.5367,103.8864
+Arkhangelsk,64.5401,40.5433
+Armavir,40.0866,44.0536
+Artemus,36.7908,-83.8190
+Arzamas,55.3949,43.8399
+Astrakhan,46.3497,48.0408
+Balakovo,51.9284,47.9172
+Balashikha,55.8000,37.9400
+Barnaul,53.3606,83.7636
+Bataisk,47.1667,39.7333
+Belgorod,50.6107,36.5802
+Belovo,54.4165,86.2976
+Berezniki,59.4152,56.8124
+Biisk,52.5364,85.2072
+Blagoveshchensk,50.2796,127.5405
+Borger,35.6802,-101.4310
+Bratsk,56.1620,101.6218
+Bryansk,53.2521,34.3717
+Cheboksary,56.1322,47.2519
+Chelyabinsk,55.1540,61.4291
+Cherepovets,59.1333,37.9000
+Cherkessk,44.2233,42.0578
+Chita,52.0317,113.5009
+Derbent,42.0678,48.2899
+Dimitrovgrad,42.0500,25.6000
+Domodedovo,55.4413,37.7537
+Dzerzhinsk,56.2414,43.4554
+Ekaterinburg,56.8519,60.6122
+Elektrostal,55.7896,38.4467
+Elets,52.6237,38.5017
+Elista,46.3078,44.2558
+Engels,51.4839,46.1053
+Groznyi,43.3119,45.6890
+Gubkino,52.3436,36.6475
+Irkutsk,52.2978,104.2964
+Ivanovo,56.9972,40.9714
+Izhevsk,56.8498,53.2045
+Kaliningrad,54.7065,20.5110
+Kaluga,54.5293,36.2754
+Kamyshin,50.0983,45.4160
+Kaspiysk,42.8816,47.6392
+Kazan,55.7887,49.1221
+Kemerovo,55.3333,86.0833
+Khabarovsk,48.4827,135.0838
+Khimki,55.8970,37.4297
+Kirovohrad,48.5132,32.2597
+Kiselevsk,54.0000,86.6500
+Kislovodskaya,43.9333,42.7333
+Kolomna,55.0794,38.7783
+Kopeysk,55.1172,61.6282
+Korolevo,48.1525,23.1366
+Kostroma,57.7665,40.9269
+Kovrov,56.3572,41.3192
+Krasnodar,45.0448,38.9760
+Krasnogorsk,55.8204,37.3302
+Krasnoyarsk,56.0184,92.8672
+Kurgan,55.4500,65.3333
+Kursk,51.7373,36.1873
+Kyzyl,51.7147,94.4534
+Lipetsk,52.6031,39.5708
+Lyubertsy,55.6772,37.8932
+Magadan,59.5638,150.8035
+Magnitogorsk,53.4186,59.0472
+Maikop,44.6078,40.1058
+Makhachkala,42.9764,47.5024
+Mezhdurechensk,53.6942,88.0603
+Miass,55.0450,60.1083
+Murmansk,68.9792,33.0925
+Murom,55.5750,42.0426
+Mytishchi,55.9116,37.7308
+Nakhodka,42.8138,132.8735
+Neftekamsk,56.0920,54.2661
+Nefteyugansk,61.0833,72.7000
+Nevinnomyssk,44.6333,41.9444
+Nizhnekamsk,55.6366,51.8245
+Nizhnevartovsk,60.9344,76.5531
+Nizhnyaya,60.5611,39.3075
+Novgorod,42.6500,130.8031
+Nizhnyaya,60.5611,39.3075
+Tagil,56.0000,51.5000
+Noginsk,55.8665,38.4438
+Norilsk,69.3535,88.2027
+Novocheboksarsk,56.1109,47.4776
+Novocherkassk,47.4202,40.0913
+Novokuznetsk,53.7557,87.1099
+Novomoskovsk,48.6380,35.2455
+Novorossiysk,44.7244,37.7675
+Novoshakhtinsk,47.7604,39.9334
+Novosibirsk,55.0415,82.9346
+Novotroitskoye,47.7158,37.5919
+Novy,45.1569,38.8097
+Urengoy,65.9655,78.3693
+Noyabrsk,63.1667,75.6167
+Obninsk,55.0968,36.6101
+Odintsovo,55.6780,37.2777
+Oktyabrsky,55.6081,37.9774
+Omsk,55.0000,73.4000
+Oreland,40.1134,-75.1861
+Orenburg,51.7227,55.3637
+Orsk,51.2049,58.5668
+Penza,53.2007,45.0046
+Perm,58.0093,56.2841
+Pervouralsk,56.9053,59.9436
+Petrozavodsk,61.7961,34.3493
+Podolsk,55.4242,37.5547
+Prokopyevsk,53.9059,86.7190
+Pskov,57.8136,28.3496
+Pushkino,55.9961,37.9017
+Pyatigorsk,44.0486,43.0594
+Rubtsovsk,51.5000,81.2500
+Ryazan,54.6269,39.6916
+Rybinsk,58.0446,38.8426
+Salavat,53.3837,55.9077
+Samarate,45.6333,8.7833
+Saransk,54.1838,45.1749
+Saratov,51.5406,46.0086
+Sergievo,62.9000,36.0167
+Posadas,-27.3671,-55.8961
+Serov,59.4833,60.5167
+Serpukhov,54.9158,37.4111
+Severodvinsk,64.5635,39.8302
+Seversk,56.6006,84.8864
+Shakhty,47.7091,40.2144
+Shchelkovo,55.8930,38.0586
+Smolensk,54.7818,32.0401
+Sochi,43.5992,39.7257
+Stellenbosch,-33.9346,18.8668
+Saint Petersburg,27.7207,-82.7376
+Stary Sacz,49.5667,20.6500
+Stary Oskol,51.2967,37.8417
+Stavropol,45.0428,41.9734
+Sterlitamak,53.6246,55.9501
+Surgut,61.2500,73.4167
+Syzran,53.1585,48.4681
+Taganrog,47.2362,38.8969
+Tambov,52.7317,41.4433
+Tobolsk,58.1981,68.2546
+Tolyatti,53.5303,49.3461
+Tomsk,56.4977,84.9744
+Tulare,36.1815,-119.3623
+Tver,56.8605,35.8760
+Tyumen,57.1522,65.5272
+Ufa,54.7852,56.0456
+Ulyanovsk,54.3282,48.3866
+Velikiy,49.2333,40.4338
+Novgorod,42.6500,130.8031
+Vladikavkaz,43.0367,44.6678
+Vladimir,56.1365,40.3966
+Vladivostok,43.1211,131.9226
+Volgodonsk,47.5026,42.2350
+Volgograd,48.7194,44.5018
+Vologda,59.2187,39.8886
+Voronezh,51.6720,39.1843
+Yakutsk,62.0339,129.7331
+Yaroslavl,57.6198,39.8554
+Zheleznodorozhny,55.7440,38.0168
+Zlatoust,55.1711,59.6508
+Kragujevac,44.0167,20.9167
+Kraljevo,43.7258,20.6894
+Leskovac,42.9981,21.9461
+Novi,42.4634,-83.4646
+Saddle Brook,40.9028,-74.0960
+Pancevo,44.8708,20.6403
+Smederevo,44.6628,20.9300
+Subotica,46.1000,19.6667
+Zrenjanin,45.3836,20.3819
+Kosice,48.7139,21.2581
+Maribor,46.5547,15.6467
+Alger,36.7525,3.0420
+Albacete,38.9958,-1.8578
+city,latitude,longitude
+Alcal� De Henares,40.4820,-3.3600
+Alcobendas,40.5439,-3.6357
+Algeciras,36.1333,-5.4505
+Alicante,38.3462,-0.4877
+Badajoz,38.8779,-6.9706
+Badalona,41.4471,2.2448
+Baracaldo,43.2979,-2.9915
+Bilbao,43.2609,-2.9388
+Burgos,42.3502,-3.6753
+city,latitude,longitude
+city,latitude,longitude
+Planada,37.2908,-120.3185
+Donostia-san Sebasti�n,43.3136,-1.9819
+Doswell,37.8601,-77.4642
+Dos Hermanas,37.2829,-5.9209
+Elche,38.2650,-0.7061
+Fuenlabrada,40.2842,-3.7941
+Getafe,40.3084,-3.7060
+El Granada,37.5027,-122.4694
+Hospitalet,40.9918,0.9230
+city,latitude,longitude
+El Prat De Llobregat,41.3278,2.0947
+Huelva,37.2714,-6.9495
+city,latitude,longitude
+city,latitude,longitude
+Palos De La Frontera,37.2346,-6.8947
+Lleida,41.6167,0.6333
+Marbella,36.5105,-4.8857
+Murcia,37.9870,-1.1300
+Ourense,42.3399,-7.8257
+Oviedo,28.6766,-81.1991
+La Palma,33.8508,-118.0436
+Las Palmas,28.0997,-15.4134
+city,latitude,longitude
+Granville,41.2563,-89.2220
+Valsequillo De Gran Canaria,27.9856,-15.4973
+Pamplona,7.3756,-72.6479
+Parla,40.2360,-3.7675
+Reus,41.1559,1.1074
+Sabadell,41.5433,2.1094
+Sandton,-26.0500,27.9667
+city,latitude,longitude
+Laghouat,33.8000,2.8833
+Laguna Hills,33.6053,-117.7173
+Santa Fe,35.7847,-105.8749
+Coloma,44.0238,-89.5699
+city,latitude,longitude
+Santa Coloma De Gramanet,41.4500,2.2167
+Santa Fe,35.7847,-105.8749
+Santa Cruz,37.0448,-122.1021
+city,latitude,longitude
+Santa Cruz De Tenerife,28.4602,-16.2806
+Santander,8.6167,-74.6333
+Sevilla,37.3824,-5.9761
+Tarragona,41.1167,1.2500
+Telde,27.9924,-15.4192
+Terrassa,41.5611,2.0081
+city,latitude,longitude
+Torrej�n De Ardoz,40.4554,-3.4697
+Valladolid,41.6552,-4.7237
+Vigo,42.2328,-8.7226
+Zaragoza,41.6453,-0.8849
+Helsingborg,56.0500,12.7000
+Uppsala,59.8500,17.6333
+Fribourg,46.7957,7.1547
+Lausanne,46.5333,6.6667
+Lugano,46.0062,8.9511
+Luzerne,41.2863,-75.8953
+Stellenbosch,-33.9346,18.8668
+Sankt Gallen,47.6833,14.6000
+Winterthur,39.8029,-75.5916
+Zugdidi,42.5014,41.8614
+Alchevsk,48.4689,38.8167
+Belaya,51.0544,35.7161
+Belaya Tserkov,49.8094,30.1121
+Berdyansk,46.7663,36.7988
+Cherkassy,49.4285,32.0621
+Chernigov,51.5055,31.2849
+Chernovtsy,48.2915,25.9403
+Dneprodzerzhinsk,48.5113,34.6021
+Dnepropetrovsk,48.4630,35.0390
+Donetsk,47.9917,37.7759
+Enakievo,48.2333,38.2114
+Evpatoriya,45.2009,33.3665
+Gorlovka,45.6167,34.0167
+Kertch,45.3607,36.4706
+Kharkov,49.9808,36.2527
+Kherson,46.6558,32.6178
+Kirovograd,48.5132,32.2597
+Kramatorsk,48.7231,37.5563
+Krasny,54.2156,33.9925
+Lutcher,30.0496,-90.7029
+Kryvyy Rih,47.9097,33.3804
+Riga,56.9500,24.1000
+Lugansk,47.3667,37.1000
+Lutsk,50.7593,25.3424
+Lvov,49.8407,24.0305
+Makeyevka,51.2353,34.5925
+Mariupol,47.1057,37.5331
+Melitopol,46.8489,35.3653
+Mykolaivka,46.2598,33.1982
+Nikopol,47.5712,34.3964
+Odessa,31.8093,-102.4546
+Pavlograd,47.0000,35.0500
+Poltava,49.5681,37.2475
+Rivne,48.3667,22.4500
+Sevastopol,44.5888,33.5224
+Severodonetsk,48.9483,38.4917
+Simferopol,44.9572,34.1108
+Slavyanskiy,44.6944,40.5150
+Sumy,50.9216,34.8003
+Ternopol,49.5559,25.6056
+Uzhgorod,48.6167,22.3000
+Yevpatoriya,45.2009,33.3665
+Zaporozhye,47.2833,33.2000
+Zhitomir,50.2649,28.6767
+Aberdeen,39.4984,-76.1966
+Aldershot,51.2500,-0.7667
+Angus,44.3167,-79.8833
+Benfleet,51.5333,0.5500
+Birkenhead,53.4000,-3.0333
+Blackpool,53.8167,-3.0500
+Bournemouth,50.7167,-1.8833
+Bristol,41.6816,-72.9405
+Cambridge,42.3700,-71.0812
+Kings Mountain,35.2558,-81.3707
+Colchester,44.5500,-73.1552
+Crawley,51.1167,-0.1833
+Wath Upon Dearne,53.5000,-1.3500
+Lehigh Valley,40.6934,-75.4712
+Derby,41.3333,-73.1019
+Doncaster,-37.7833,145.1333
+Dumfries,38.5830,-77.3158
+Galloway,39.9377,-83.2043
+Dundee,42.1121,-88.3431
+East London,-33.0111,27.9100
+Ayrshire,43.0182,-94.8853
+East London,-33.0111,27.9100
+Eastbourne,50.8000,0.2500
+Exeter,42.9661,-70.9881
+Falkirk,56.0000,-3.7667
+Fife Lake,44.5643,-85.1681
+Glasgow,36.9376,-85.9463
+Gloucester,42.6179,-70.7154
+Highland,34.1359,-117.1553
+Wycombe,40.2823,-75.0188
+Highland,34.1359,-117.1553
+Ipswich,42.6825,-70.8470
+Leicester,35.6513,-82.7659
+Lincoln,40.8176,-96.7114
+Liverpool,43.1532,-76.2116
+Manchester,42.9403,-71.4435
+Mansfield,42.0166,-71.2231
+Milton Freewater,45.9029,-118.3401
+Milton Keynes,52.0333,-0.7000
+Newport Beach,33.6275,-117.8734
+Northcliff,-26.1540,27.9616
+Ayrshire,43.0182,-94.8853
+Northcliff,-26.1540,27.9616
+Northampton,42.3251,-72.6412
+Norwich,42.5452,-75.5588
+Nottingham,39.3892,-76.4920
+Nuneaton,52.5167,-1.4667
+Oxford,34.3402,-89.4833
+Perth Amboy,40.5214,-74.2752
+Kinross,56.2000,-3.4167
+Plymouth Meeting,40.1158,-75.2842
+Portsmouth,43.0677,-70.8008
+Preston,41.5174,-71.9904
+Sheffield Lake,41.4598,-82.0991
+Sloughhouse,38.5123,-121.1252
+South Plainfield,40.5722,-74.4134
+Ayrshire,43.0182,-94.8853
+South Plainfield,40.5722,-74.4134
+Southampton,40.9077,-72.4178
+Southend,55.3167,-5.6333
+Stellenbosch,-33.9346,18.8668
+Sunderland,54.9119,-1.3833
+Swansea,33.7458,-81.0665
+Swindon,51.5167,-1.7833
+Teesside County Borough,54.5667,-1.2333
+Telford,40.3265,-75.3697
+Thanet,51.3667,1.4167
+The Colony,33.0735,-96.9032
+Medway,42.1556,-71.4268
+Clinton Township,42.5991,-82.9312
+The Colony,33.0735,-96.9032
+Torbay,47.6500,-52.7333
+Warrington,40.2489,-75.1498
+Westville,-29.8255,30.9370
+Lothian,38.8011,-76.6469
+Westville,-29.8255,30.9370
+Midlands,-20.3325,57.5583
+Westville,-29.8255,30.9370
+Yorkshire,40.3253,-84.4955
+Wigan,53.5333,-2.6167
+New York,40.7528,-73.9725
+Adelaide,-34.9287,138.5986
+Brisbane,37.6861,-122.4107
+Cairns,-16.9230,145.7663
+Central Valley,41.3237,-74.1231
+Palm Coast,29.5706,-81.2175
+Darwin,-12.4572,130.8366
+Geelong,-38.1535,144.3581
+Goldsboro,35.3673,-77.9122
+Noosa Heads,-26.3943,153.0901
+City Of Greater Wollongong,-34.4240,150.8934
+Wollongong,-34.4240,150.8934
+Hobart,41.5179,-87.2353
+Melbourne,28.0782,-80.7534
+Newcastle,-27.7580,29.9318
+Perth Amboy,40.5214,-74.2752
+Sunshine,-33.1124,151.5616
+Palm Coast,29.5706,-81.2175
+Sydney,46.1500,-60.1667
+Toowoomba,-27.5606,151.9539
+Townsville,-19.2664,146.8057
+Cookeville,36.1920,-85.4559
+Islands,52.7344,-7.5931
+French Camp,37.8619,-121.2909
+Guamar�,-5.1064,-36.3203
+New Germany,-29.8018,30.8840
+Caledonia,42.8143,-87.9423
+Auckland,-36.8667,174.7667
+Christchurch,-43.5333,172.6333
+Dunedin,28.0288,-82.7689
+Newton Lower Falls,42.3329,-71.2596
+Hutto,30.5543,-97.5520
+Tauranga,-37.6861,176.1667
+Norfolk,42.0180,-97.4543
+Staten Island,40.5453,-74.1786
+Northern Cambria,40.6269,-78.8361
+Mariana,40.1672,-2.1460
+Islands,52.7344,-7.5931
+Pitcairn,40.4068,-79.7766
+Wallis,29.6143,-96.0417
+Sandton,-26.0500,27.9667
+Wallis Et Futuna,-13.3000,-176.2000
+Islands,52.7344,-7.5931
