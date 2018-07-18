@@ -18,7 +18,7 @@
 
 BEGIN{
     FS="qwqw"
-    OFS=":"
+    OFS=","
     IGNORECASE = 1
     # Field names
     id=1; title=2; num_authors=3; doi=4; fos_isbn=5; doctype_issn=6;
