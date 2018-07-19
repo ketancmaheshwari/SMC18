@@ -11,9 +11,9 @@ file outfiles_countries[];
 file outfiles_univs[];
 
 foreach v, i in aminer{
-    outfiles_cities[i] = myawk(input("/home/km0/SMC18/src/prob3.awk"), input("/home/km0/SMC18/data/cities.txt"), v, "topic=meditation");
-//  outfiles_countries[i] = myawk(input("/home/km0/SMC18/src/prob3.awk"), input("/home/km0/SMC18/data/countries.txt"), v, "topic=meditation");
-//  outfiles_univs[i] = myawk(input("/home/km0/SMC18/src/prob3.awk"), input("/home/km0/SMC18/data/universities.txt"), v, "topic=meditation");
+    outfiles_cities[i] = myawk(input("/home/km0/SMC18/src/prob3.awk"), input("/home/km0/SMC18/data/cities.txt"), v, "topic=birds");
+//  outfiles_countries[i] = myawk(input("/home/km0/SMC18/src/prob3.awk"), input("/home/km0/SMC18/data/countries.txt"), v, "topic=satellite");
+//  outfiles_univs[i] = myawk(input("/home/km0/SMC18/src/prob3.awk"), input("/home/km0/SMC18/data/universities.txt"), v, "topic=tropical");
 }
 
 file joined_cities <"joined_cities.txt"> = cat(outfiles_cities);
@@ -21,4 +21,7 @@ file joined_cities <"joined_cities.txt"> = cat(outfiles_cities);
 //file joined_univs <"joined_univs.txt"> = cat(outfiles_univs);
 
 // After running the swift app:
-// awk -F, '{a[$2]+=$1} END{for (k in a) print a[k],k}' joined.txt | sort -nr > freq.txt
+//awk -Fqwqw 'BEGIN{OFS="qwqw"} {a[$2]+=$1} END{for (k in a) print a[k],k}' joined_cities.txt | sort -nr > freq.txt
+
+//Finally to generate graphable input
+//awk -Fqwqw 'BEGIN{OFS=","} NR==FNR{a[$1]=$2 OFS $3;next} {print $2,a[$2],$1}' ~/SMC18/data/cities.txt freq.txt > bird_research_cities.txt
