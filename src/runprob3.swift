@@ -21,4 +21,4 @@ file joined_cities <"joined_cities.txt"> = cat(outfiles_cities);
 //file joined_univs <"joined_univs.txt"> = cat(outfiles_univs);
 
 // After running the swift app:
-// awk -F: '{a[$2]+=$1} END{for (k in a) print a[k],k}' joined.txt | sort -nr > freq.txt
+// awk -F, '{a[$2]+=$1} END{for (k in a) print a[k],k}' joined.txt | sort -nr > freq.txt
