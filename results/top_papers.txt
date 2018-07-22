@@ -1,0 +1,682 @@
+243576 : Molecular cloning: A laboratory manual : 1990
+241606 : Molecular cloning : a laboratory manual : 1989
+241539 : A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein-dye binding : 1976
+239352 : Cleavage of Structural Proteins during the Assembly of the Head of Bacteriophage T4 : 1970
+227497 : Protein Measurement with the Folin Phenol Reagent : 1951
+159348 : Applied multiple regression/correlation analysis for the behavioral sciences : 1975
+159049 : Applied multiple re-gression/correlation analysis for the behavioral sciences : 2003
+151543 : Applied multiple regression/correlation analysis for the behavioral sciences : 1975
+134452 : Competitive strategy: techniques for analyzing industries and competitors : 1980
+128494 : Numerical recipes: the art of scientific computing : 1986
+127049 : Global cancer statistics : 1999
+126544 : Global cancer statistics. : 2011
+124425 : The Art of Sci-entific Computing : 1997
+123299 : Numerical Recipes in C++ - The Art of Scientific Computing - Second Edition : 2002
+122876 : Numerical Recipes 3rd Edition: The Art of Scientific Computing : 2007
+118343 : Numerical recipes in C: The art of scientific computing, second edition : 1993
+113550 : Competitive Advantage : Creating and Sustaining Superior Performance : 1998
+112555 : Competitive advantage - creating and sustaining superior performance : 1985
+98139 : A mathematical theory of communication : 2001
+95684 : Qualitative data analysis : an expanded sourcebook : 1994
+91573 : GLOBAL CANCER STATISTICS : 2011
+91507 : Diagnostic and statistical manual of mental disorders. : 2011
+91213 : Fuzzy Sets : 1965
+88692 : The competitive advantage of nations : 1990
+87912 : Numerical Recipes in C: The Art of Scientific Computing : 1988
+87896 : The Competitive Advantage of Nations : 1964
+85155 : Generalized Gradient Approximation Made Simple : 1996
+84776 : Using multivariate statistics : 2007
+80220 : The interpretation of cultures : 1973
+78941 : The interpretation of cultures : selected essays : 1973
+78812 : Mind in Society: The Development of Higher Psycho-logical Processes : 1980
+78404 : Mind in society: The development of higher psychological processes : 1978
+77950 : A Revised Medium for Rapid Growth and Bio Assays with Tobacco Tissue Cultures : 1962
+77946 : The interpretation of cultures: selected essays : 1973
+77820 : A mathematical theory of communication : 1963
+76905 : Multivariate data analysis : 1998
+75570 : R: A language and environment for statistical computing. : 2014
+75054 : Multivariate Data Analysis : 2012
+74317 : The discovery of grounded theory: strategies for qualitative research : 1980
+73680 : The Comparative Advantage of Nations : 1990
+73609 : Genetic Algorithms in Search, Optimization and Machine Learning : 1989
+73529 : Physics of Semiconductor Devices : 1970
+72609 : Cultures and organizations: software of the mind : 1994
+72416 : CRC Handbook of chemistry and physics : 1990
+72190 : Cultures and organizations : software of the mind : 1991
+71983 : Human Agency in Social Cognitive Theory : 1989
+71400 : "Mini-mental state". A practical method for grading the cognitive state of patients for the clinician : 1975
+71126 : Mind in Society: The Development of Higher Psychological Processes : 1978
+70730 : Statistical power analysis for the behavioral sciences : 1989
+70614 : Development of the Colle-Salvetti correlation-energy formula into a functional of the electron density : 1988
+70589 : The Moderator-Mediator Variable Distinction in Social Psychological Research: Conceptual, Strategic, and Statistical Considerations : 1986
+70357 : “Mini-mental state” A practical method for grading the cognitive state of patients for the clinician : 1975
+69920 : SINGLE STEP METHOD OF RNA ISOLATION BY ACID GUANIDINIUM-THIOCYANATE-PHENOL-CHLOROFORM EXTRACTION : 1987
+69795 : DNA sequencing with chain-terminating inhibitors : 1977
+69278 : Nonparametric Estimation from Incomplete Observations : 1958
+67786 : Statistical Learning Theory : 1998
+67351 : Statistical learning theory : 1998
+67345 : A short history of SHELX : 2008
+67129 : A simple method for the isolation and purification of total lipides from animal tissues. : 1957
+66900 : Basic Local Alignment Search Tool : 1990
+66115 : Basic local alignment search tool : 1990
+65550 : The rat brain in stereotaxic coordinates : 1982
+65329 : Handbook of Mathematical Functions : 1966
+65159 : Case study research : design and methods : 2003
+64896 : Revised effective ionic radii and systematic studies of interatomic distances in halides and chalcogenides : 1976
+64301 : CRC Handbook of Chemistry and Physics  : 1992
+63668 : BIOEDIT: A USER-FRIENDLY BIOLOGICAL SEQUENCE ALIGNMENT EDITOR AND ANALYSIS PROGRAM FOR WINDOWS 95/98/ NT : 1999
+63570 : Neural Networks: A Comprehensive Foundation : 1994
+62849 : Gapped BLAST and PSI-BLAST: a new generation of protein database search pro-grams : 1992
+62399 : Density‐functional thermochemistry. III. The role of exact exchange : 1993
+62307 : Country as brand, product, and beyond: A place marketing and brand management perspective : 2002
+62139 : Economy and Society: An Outline of Interpretive Sociology : 2008
+61536 : AChE-stained horizontal sections of the rat brain in stereotaxic coordinates. : 1980
+60802 : Principles and procedures of statistics. : 1960
+59126 : Analysis of relative gene expression data using real-time quantitative PCR and the 2(-Delta Delta C(T)) Method. : 2001
+59036 : Fuzzy sets : 1996
+58889 : Gapped BLAST and PSI-BLAST: a new generation of protein database search programs : 1997
+57931 : Discipline and Punish: The Birth of the Prison : 1977
+57865 : CLUSTAL W: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice : 1994
+57791 : Situated Learning: Legitimate Peripheral Participation : 1991
+57332 : Power/knowledge : selected interviews and other writings, 1972-1977 : 1980
+57113 : La distinction: critique sociale du judgement : 1979
+56699 : Self-efficacy : the exercise of control : 1997
+56681 : Self-Efficacy: Toward a Unifying Theory of Behavioral Change. : 1977
+55889 : R: A language and environment for statistical computing : 2004
+55844 : Theory of the firm: Managerial behavior, agency costs and ownership structure : 1976
+55797 : Basics of qualitative research : techniques and procedures for developing grounded theory : 1998
+55743 : Electrophoretic transfer of proteins from polyacrylamide gels to nitrocellulose sheets: procedure and some applications : 1979
+54998 : Firm Resources and Sustained Competitive Advantage : 1991
+54882 : Institutions, institutional change and economic performance : 1990
+54551 : Gapped-BLAST and PSI-BLAST: a new generation of protein database search programs : 1991
+54505 : Crystal structure refinement with SHELXL : 2015
+54370 : Standard methods for the examination of water and wastewater : 1992
+53871 : Multivariate Data Analysis. : 1988
+53439 : Digital communications : 1988
+52602 : The pharmacological basis of therapeutics : 1941
+52193 : Detection of specific sequences among DNA fragments separated by gel electrophoresis : 1975
+51885 : Estimating the Dimension of a Model : 1978
+51090 : Maximum likelihood from incomplete data via the EM algorithm : 1976
+50617 : The discovery of grounded theory : strategies for qualitative research : 1968
+50521 : Maximum Likelihood from Incomplete Data via the EM Algorithm : 1977
+50498 : The theory of planned behavior : 1991
+50153 : Culture's consequences : international differences in work-related values : 1980
+49611 : Cancer statistics, 2008. : 2002
+49334 : The presentation of self in everyday life : 1959
+48686 : Distinction: a social critique of the judgement of taste : 1979
+48286 : Metaphors we live by : 2003
+48276 : The neighbor-joining method: a new method for reconstructing phylogenetic trees. : 1987
+48167 : MEGA5: Molecular Evolutionary Genetics Analysis Using Maximum Likelihood, Evolutionary Distance, and Maximum Parsimony Methods : 2011
+48134 : Computers and Intractability; A Guide to the Theory of NP-Completeness : 1990
+48105 : Particle swarm optimization : 1995
+47496 : metaphors we live by : 1980
+47381 : Official methods of analysis : 2000
+47054 : The neighbor-joining method: a new method for reconstructing phylogenetic trees. : 1987
+47016 : Stress: Appraisal and Coping : 2013
+46626 : MEGA5: molecular evolutionary genetics analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods. : 2011
+46459 : Diagnostic and Statistical Manual of Mental Disorders, 4th Ed. : 1994
+46246 : Introduction to algorithms : 1990
+46150 : Adaptation in natural and artificial systems : 1992
+46143 : C: Solid State Phys 5 : 1972
+46071 : A RATING SCALE FOR DEPRESSION : 1960
+45941 : Methods in enzymology : 1955
+45680 : Motivation and personality : 1954
+45556 : Methods in Enzymology , Vol : 1966
+45350 : The nature of statistical learning theory : 1995
+45335 : Communities of practice: Learning, meaning, and identity. : 1998
+45007 : Decision making with the analytic hierarchy process : 2008
+44703 : Research Design: Qualitative, Quantitative, and Mixed Methods Approaches : 2002
+44495 : Self-Consistent Equations Including Exchange and Correlation Effects : 1965
+44488 : Self-Consistent Equations Including Exchange and Correlation Effects : 1965
+44451 : Advances in experimental social psychology : 1964
+44441 : Maximum Likelihood from Incomplete Data via the EM Algorithm : 1976
+44229 : Prospect Theory: An Analysis of Decision Under Risk : 1979
+44202 : THE ASSESSMENT AND ANALYSIS OF HANDEDNESS: THE EDINBURGH INVENTORY : 1971
+43951 : Social foundations of thought and action: A social cognitive theory. : 1987
+43873 : Bowling alone: the collapse and revival of American community : 2000
+43468 : The CES-D Scale A Self-Report Depression Scale for Research in the General Population : 1977
+43436 : HELICAL MICROTUBULES OF GRAPHITIC CARBON : 1991
+43332 : Belief, attitude, intention, and behavior : an introduction to theory and research : 1975
+43267 : Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set : 1996
+43157 : Table of integrals, series and products : 1981
+42922 : An inventory for measuring depression : 1961
+42905 : Statistical principles in experimental design : 1962
+42856 : Elements of information theory : 1991
+42811 : An inquiry into the nature and causes of the wealth of nations : 1805
+42729 : Mating management. : 1992
+42727 : Basics of qualitative research : grounded theory procedures and techniques : 1992
+42713 : Cancer statistics, 2015. : 2012
+42707 : Review of Particle Physics : 2006
+42691 : Cancer statistics, 2015 : 2015
+42566 : The Strength of Weak Ties : 1973
+42508 : Distinctive Image Features from Scale-Invariant Keypoints : 2004
+42437 : Evaluating Structural Equation Models with Unobservable Variables and Measurement Error : 1981
+42429 : Judgment under Uncertainty: Heuristics and Biases : 1974
+42283 : Distinctive Image Features from Scale-Invariant Keypoints : 2004
+42276 : A new look at the statistical model identification : 1974
+42192 : Building Theories from Case Study Research : 1989
+42169 : A rapid method of total lipid extraction and purification : 1959
+41923 : Judgment under uncertainty: heuristics and biases : 1990
+41914 : PROSPECT THEORY: AN ANALYSIS OF DECISION UNDER RISK : 2007
+41894 : Estimation of the Concentration of Low-Density Lipoprotein Cholesterol in Plasma, Without Use of the Preparative Ultracentrifuge : 1972
+41816 : Optimization by simulated annealing. : 1983
+41720 : Evaluating structural equation models with unobservable variables and measurement error : 1981
+41596 : Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives : 1999
+41468 : Phylogenetic Inference. : 2011
+41465 : Lecture Notes in Math : 1967
+41450 : THE USE OF LEAD CITRATE AT HIGH pH AS AN ELECTRON-OPAQUE STAIN IN ELECTRON MICROSCOPY : 1963
+41352 : Institutions, Institutional Change and Economic Performance  : 1992
+41172 : Experiential learning : experience as the source of learning and development : 1984
+41129 : The MOS 36-item short-form health survey (SF-36). I. Conceptual framework and item selection. : 1992
+41049 : Rapid colorimetric assay for cellular growth and survival: Application to proliferation and cytotoxicity assays : 1983
+40789 : The Hospital Anxiety and Depression Scale : 1983
+40707 : Cuto criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alt : 1999
+40547 : Colorimetric method for determination of sugar and related substances : 1956
+40427 : The measurement of observer agreement for categorical data : 1977
+40391 : The measurement of observer agreement for categorical data : 1977
+40387 : Controlling the false discovery rate: a practical and powerful approach to multiple testing : 1995
+40353 : Stress: Appraisal and Coping : 2013
+40281 : Regression Models and Life-Tables : 1992
+40273 : Colorimetric method for determination of sugars and related substances : 1956
+39953 : Handbook of X-Ray Photoelectron Spectroscopy : 1992
+39852 : Controlling the False Discovery Rate: a Practical and Powerful Approach to Multiple Testing : 1995
+39794 : Multiple Regression: Testing and Interpreting Interactions : 1994
+39720 : Social Capital in the Creation of Human Capital : 1988
+39682 : The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields : 1983
+39511 : Capitalism, socialism, and democracy : 2006
+39425 : Inhomogeneous Electron Gas : 1964
+39405 : The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields : 1991
+39231 : STATISTICAL METHODS FOR ASSESSING AGREEMENT BETWEEN TWO METHODS OF CLINICAL MEASUREMENT : 1986
+39210 : Outline of a theory of practice : 1972
+39200 : Handbook of qualitative research : 1994
+39155 : The Forms of Capital : 2008
+39006 : Density-functional exchange-energy approximation with correct asymptotic behavior : 1988
+38879 : Making Democracy Work: Civic Traditions In Modern Italy : 1993
+38857 : Mind, self, and society : from the standpoint of a social behaviorist : 1967
+38761 : The Finite Element Method : 1989
+38708 : Pattern recognition : 1988
+38617 : The Forms of Capital : 1986
+38595 : The finite element method for fluid dynamics : 2005
+38342 : STATISTICAL METHODS FOR ASSESSING AGREEMENT BETWEEN TWO METHODS OF CLINICAL MEASUREMENT : 1986
+38334 : Equation of state calculations by fast computing machines : 1953
+38234 : The Wealth of Nations : 2003
+38170 : The History of Sexuality : 1990
+38054 : The Finite Element Method : 1991
+38047 : The Fractal Geometry of Nature : 1983
+37962 : On the Origin of Species:  : 1951
+37940 : Personality, Culture, and Subjective Well-Being: Emotional and Cognitive Evaluations of Life : 2003
+37878 : Model selection and multimodel inference : a practical information-theoretic approach : 2002
+37727 : The Fractal Geometry of Nature : 1983
+37630 : Childhood and society : 1963
+37565 : Neural Networks: A Comprehensive Foundation : 1994
+37538 : An introduction to the Bootstrap : 1993
+37432 : Processing of X-ray diffraction data collected in oscillation mode : 1997
+37367 : The CLUSTAL_X windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools. : 1997
+37000 : Model Selection and Multimodel Inference: A Practical Information-Theoretic Approach : 2002
+36940 : Law and Finance : 1998
+36907 : Origin of Species : 1949
+36821 : Convex Optimization : 2004
+36303 : Data mining: concepts and techniques : 2000
+36274 : Methods of soil analysis : 1982
+36009 : How to do things with words : 1975
+35995 : An evolutionary theory of economic change : 1982
+35958 : Nonparametric statistics for the behavioral sciences : 1957
+35930 : Convex Optimization : 2004
+35896 : Special points for Brillouin-zone integrations : 1976
+35758 : Electric Field Effect in Atomically Thin Carbon Films : 2004
+35747 : Performance standards for antimicrobial susceptibility testing : 2001
+35654 : Perturbation theory for linear operators : 1966
+35531 : Human Capital Revisited : 1994
+35477 : Perceived usefulness, perceived ease of use, and user acceptance of information technology : 1989
+35296 : An Introduction to the Bootstrap : 1971
+35175 : 20 Processing of X-ray diffraction data collected in oscillation mode : 1997
+35080 : The Theory of Economic Development: An Inquiry into Profits, Capital, Credit, Interest, and the Business Cycle : 1934
+35034 : Coefficient alpha and the internal structure of tests : 1951
+35012 : Discovering Statistics Using SPSS : 2005
+34870 : Economic Action and Social Structure: The Problem of Embeddedness : 1985
+34761 : Discovering Statistics Using SPSS : 2005
+34639 : A Coefficient of Agreement for Nominal Scales : 1960
+34627 : Classification and Regression Trees : 1984
+34513 : Multiple Regression: Testing and Interpreting Interactions : 1991
+34451 : Learning representations by back-propagating errors : 1986
+34402 : Introduction to Solid State Physics : 1953
+34391 : The general theory of employment, interest and money : 1935
+34305 : Overview of Supervised Learning : 2009
+34288 : Bowling alone: the collapse and revival of American community : 2000
+34149 : Neural Networks. : 2007
+34144 : Fuzzy sets as a basis for a theory of possibility : 1999
+33982 : A new method of classifying prognostic comorbidity in longitudinal studies: development and validation. : 1987
+33867 : Intrinsic Motivation and Self-Determination in Human Behavior : 1985
+33827 : Time Series Analysis, Forecasting and Control : 1990
+33651 : An Algorithm for Least-Squares Estimation of Nonlinear Parameters : 1963
+33533 : Confidence limits on phylogenies: an approach using the bootstrap : 1985
+33532 : Collective dynamics of 'small-world' networks : 1998
+33398 : Classification and regression trees : 1984
+33373 : Data Mining: Concepts and Techniques : 2011
+33356 : Experimental and quasi-experimental designs for research : 1963
+33292 : Fuzzy sets as a basis for a theory of possibility : 1978
+33166 : Absorptive Capacity: A New Perspective on Learning and Innovation : 1990
+33140 : Experimental and quasi-experimental designs for generalized causal inference : 2002
+33037 : Experimental and Quasi-Exper-imental Designs for Generalized Causal Inference : 2002
+33016 : LIBSVM: A library for support vector machines : 2011
+32976 : Experimental and Quasi-Experi-mental Designs for Research : 1990
+32901 : System identification: theory for the user : 1986
+32828 : Principles of marketing : 2008
+32761 : Review of particle physics : 2006
+32729 : Intrinsic motivation and self- determination in human behavior : 1985
+32700 : Introduction to Solid State Physics : 1968
+32558 : Co-integration and Error Correction: Representation, Estimation, and Testing : 1987
+32544 : Matrix analysis : 1985
+32457 : Libsvm : a library for support vector ma-chines : 2002
+32400 : Theory of games and economic behavior : 1964
+32345 : Biodiversity hotspots for conservation priorities : 2000
+32257 : Phylip - phylogeny inference package (version 3 : 1989
+32217 : Co-integration and error correction: representation, estimation, and testing : 2001
+32101 : The iron cage revisited: institutional isomorphism and collegctive rationality in organizational fields : 1983
+32091 : Principles of polymer chemistry : 1953
+32082 : Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement : 2009
+32004 : Climate change 2007: the physical science basis : 2010
+31902 : C4.5: Programs for Machine Learning : 1993
+31830 : A mathematical theory of communication : 1948
+31735 : Econometric Analysis of Cross Section and Panel Data : 2010
+31701 : Foundations of social theory : 1990
+31647 : Qualitative Evaluation and Research Methods : 1992
+31598 : Absorptive Capacity: A New Perspective on Learning and Innovation : 1990
+31516 : AI-A modern approach : 1995
+31364 : Artificial intelligence: a modern approach : 1995
+31261 : Principal Component Analysis : 1986
+31220 : Imagined Communities: Reflections on the Origin and Spread of Nationalism : 1991
+31166 : Aspects of the theory of syntax : 1964
+31110 : The Fractal Geometry of Nature : 2003
+31062 : Artificial in-telligence: a modern approach 2nd edition : 2003
+31053 : Data mining: practical machine learning tools and techniques with Java implementations : 2000
+31017 : Human capital: A theoretical and empirical analysis with special reference to education : 1971
+31014 : Data Mining: Practical Machine Learning Tools and Techniques : 2005
+30986 : Law and Finance : 1998
+30983 : Matrix computations : 2003
+30908 : Principal component analysis : 2005
+30813 : Using thematic analysis in psychology : 2008
+30394 : Econometric Analysis of Cross Section and Panel Data : 2002
+30251 : Biometry: The principles and practice of statistics in biological research : 1995
+30205 : Research Methods in Education, 7th Edition : 2011
+30002 : Co-integration and error correction: representation, estimation, and testing : 2001
+29980 : Use of avidin-biotin-peroxidase complex (ABC) in immunoperoxidase techniques: a comparison between ABC and unlabeled antibody (PAP) procedures. : 1981
+29882 : Development as Freedom : 2000
+29844 : Research design : Qualitative, Quantitative, and mixed methods approaches : 2003
+29815 : The nature of the chemical bond : 1940
+29763 : DEVELOPMENT AS FREEDOM : 1999
+29750 : Experiments in Molecular Genetics. : 1972
+29680 : Using thematic analysis in psychology : 2006
+29604 : LIBSVM: A library for support vector machines : 2002
+29550 : The evolution of cooperation. : 1981
+29501 : The Archaeology of Knowledge : 1970
+29443 : Unsupervised learning : 1999
+29439 : Quantum Computation and Quantum Information : 2002
+29370 : Stigma: Notes on the Management of Spoiled Identity : 1963
+29355 : Random Forests : 2001
+29301 : DYNAMIC CAPABILITIES AND STRATEGIC MANAGEMENT : 1997
+29285 : Reinforcement Learning: An Introduction : 1999
+29167 : The meaning and use of the area under a receiver operating characteristic (ROC) curve : 1982
+29123 : Qualitative research for education : 1992
+29118 : Probability,  random variables,  and stochastic processes : 1965
+29086 : Outline of a new approach to the analysis of complex systems and decision processes : 1973
+29081 : The fifth discipline : the art and practice of the learning organization : 1991
+29028 : Artificial Intelligence: A Modern Approach : 2001
+28956 : Diffusion of Innovations : 1983
+28924 : A new generation of Ca2+ indicators with greatly improved fluorescence properties. : 1985
+28885 : Quantum Computation and Quantum Information : 2002
+28885 : Applied logistic regression : 2000
+28881 : Emergence of scaling in random networks : 1999
+28866 : A modified single solution method for the determination of phosphate in natural waters. : 1962
+28823 : Dynamic Capabilities and Strategic Management : 1997
+28807 : Emergence of Scaling in Random Networks : 1999
+28679 : Random Forests : 2001
+28571 : Molecular cloning: A laboratory manual, 2nd edn: by J. Sambrook, E. F. Fritsch and T. Maniatis, Cold Spring Harbor Laboratory Press, 1989. $115.00 (3 vols; 1659 pages) ISBN 0 87969 309 6 : 1991
+28521 : Structural Equation Modeling in Practice: A Review and Recommended Two-Step Approach : 1988
+28450 : MEGA4: Molecular Evolutionary Genetics Analysis (MEGA) Software Version 4.0 : 2007
+28440 : Institutionalized Organizations: Formal Structure as Myth and Ceremony : 1977
+28364 : Social network analysis : methods and applications : 1994
+28352 : The three worlds of welfare capitalism : 1990
+28294 : Intermolecular and surface forces : 2011
+28254 : Como elaborar projetos de pesquisa : 2002
+28248 : Antibodies : a laboratory manual : 1988
+28137 : Social theory and social structure : 1968
+28127 : Introduction to quantitative genetics. : 1981
+28111 : Cultures and Organizations - Software of the Mind: Intercultural Cooperation and its Importance for Survival (3. ed.). : 2010
+28110 : Theory of Games and Economic Behavior : 2007
+28101 : Processing of X-ray diffraction data collected in oscillation mode : 1997
+27979 : Social Network Analysis: Methods and Ap-plications : 1997
+27846 : Cochrane handbook for systematic reviews of interventions : 2008
+27833 : Projector augmented-wave method : 1994
+27825 : A technique for radiolabeling DNA restriction endonuclease fragments to high specific activity : 1983
+27753 : An evolutionary theory or economic change : 1984
+27735 : THE ATTRACTIONS OF PROTEINS FOR SMALL MOLECULES AND IONS : 1949
+27735 : The properties of gases and liquids : 1959
+27712 : Principles of optics : 1980
+27695 : Linear structural equations with latent variables : 1980
+27630 : A Computational Approach to Edge Detection : 1986
+27621 : Intermolecular and Surface Forces : 1992
+27615 : A technique for radiolabeling DNA restriction endonuclease fragments to high specific activity : 1983
+27586 : A thousand plateaus : capitalism and schizophrenia : 1988
+27517 : Clinical diagnosis of Alzheimer's disease Report of the NINCDS‐ADRDA Work Group* under the auspices of Department of Health and Human Services Task Force on Alzheimer's Disease : 1984
+27393 : Improved patch-clamp techniques for high-resolution current recording from cells and cell-free membrane patches. : 1981
+27373 : Pattern recognition and machine learning : 2006
+27346 : A Behavioral Theory of the Firm : 1963
+27325 : A resource‐based view of the firm : 1984
+27296 : FROM ULTRASOFT PSEUDOPOTENTIALS TO THE PROJECTOR AUGMENTED-WAVE METHOD : 1999
+27288 : Methods of enzymatic analysis : 1963
+27280 : Conduction of heat in solids : 1962
+27251 : A power primer. : 1992
+27168 : Matrix analysis : 1985
+27123 : Categorical data analysis : 2002
+27103 : Linear structural equations with latent variables : 1980
+27083 : A Behavioral Theory of the Firm : 1963
+27078 : Explorations in parallel distributed processing: a handbook of models, programs, and exercises : 1988
+27047 : Projector augmented-wave method : 1994
+27032 : Cochrane handbook for systematic reviews of interventions : 2008
+27003 : A computational approach to edge detection. : 1986
+27001 : Atherosclerosis — An Inflammatory Disease : 1999
+26999 : Attachment and loss : 1973
+26981 : 2007 Guidelines for the Management of Arterial Hypertension: The Task Force for the Management of Arterial Hypertension of the European Society of Hypertension (ESH) and of the European Society of Cardiology (ESC) : 2007
+26956 : Methods for Dietary Fiber, Neutral Detergent Fiber, and Nonstarch Polysaccharides in Relation to Animal Nutrition : 1991
+26943 : The tacit dimension : 1966
+26880 : Cómo escribir una tesis : 2011
+26873 : Classification and Regression Trees : 2000
+26821 : Neural Networks for Pattern Recognition : 1995
+26788 : Strategic management: a stakeholder approach : 1984
+26776 : The concept of a linguistic variable and its application to approximate reasoning—I : 1975
+26574 : The External Control of Organizations: A Resource Dependence Perspective : 1978
+26557 : The magical number seven, plus or minus two : Some limits on our capacity for processing information : 1994
+26536 : A new and rapid colorimetric determination of acetylcholinesterase activity. : 1961
+26525 : The Pricing of Options and Corporate Liabilities : 1973
+26474 : A simple method for estimating evolutionary rates of base substitutions through comparative studies of nucleotide sequences. : 1980
+26440 : The hallmarks of cancer. : 2000
+26417 : The Interpretation of Cultures : 1974
+26413 : Ad hoc On-Demand Distance Vector (AODV) Routing : 2003
+26384 : Explorations in parallel distributed processing: a handbook of models, programs, and exercises : 1988
+26361 : Working memory. : 1992
+26357 : Ad-hoc on-demand distance vector routing : 1999
+26342 : The Psychology of Learning and Motivation : 1974
+26326 : Elements of X-Ray Diffraction : 1957
+26323 : Infrared and Raman spectra of inorganic and coordination compounds : 2008
+26276 : Design patterns: elements of reusable object-oriented software : 1995
+26273 : Pattern classification : 1998
+26262 : A low-cost, high-efficiency solar cell based on dye-sensitized colloidal TiO2 films : 1991
+26250 : Society and the Adolescent Self-Image : 1965
+26232 : SERVQUAL : A Multiple-Item Scale for Measuring Consumer Perceptions of Service Quality : 1988
+26189 : The rise of graphene : 2007
+26165 : Ad-hoc On-Demand Distance Vector Routing : 1999
+26158 : The external control of organizations: a resource dependency perspective : 1978
+26123 : A Simplex Method for Function Minimization : 1965
+26118 : Bone marrow transplant : 2001
+26114 : Support-Vector Networks : 1995
+26102 : DEVELOPMENT AND VALIDATION OF BRIEF MEASURES OF POSITIVE AND NEGATIVE AFFECT: THE PANAS SCALES : 1988
+26081 : The rise of graphene : 2007
+26000 : Sample Selection Bias as a Specification Error (with an Application to the Estimation of Labor Supply Functions) : 1977
+25937 : Support-Vector Networks : 1995
+25897 : Social research methods : 2001
+25845 : The organization of behavior : a neuropsychological theory : 1949
+25835 : Fuzzy identification of systems and its applications to modeling and control : 1985
+25815 : Economic Action and Social Structure: The Problem of Embeddedness : 1985
+25785 : Strategic management : a stakeholder approach : 2010
+25753 : A Threshold Selection Method from Gray-Level Histograms : 1979
+25719 : Theory of Elasticity: Vol. 7 of Course of Theoretical Physics : 1960
+25660 : Sample Selection Bias as a Specification Error with an Application to the Estimation of Labor Supply Functions : 1980
+25624 : Principles and practice of structural equation modeling : 1998
+25615 : Numerical heat transfer and fluid flow : 1980
+25612 : The Protein Data Bank, 1999– : 2006
+25599 : Social research methods : 2008
+25588 : COMMON METHOD BIASES IN BEHAVIORAL RESEARCH: A CRITICAL REVIEW OF THE LITERATURE AND RECOMMENDED REMEDIES : 2003
+25576 : The Protein Data Bank : 2000
+25554 : Projector augmented-wave method. : 1994
+25545 : The Magical Number Seven, Plus or Minus Two Some Limits on Our Capacity for Processing Information : 1994
+25526 : Molecular Cloning: A Laboratory Manual(1st edition) : 1982
+25509 : The reflective practitioner : how professionals think in action : 1986
+25492 : Distinction :a social critique of the judgement of taste : 1984
+25455 : A tutorial on hidden Markov models and selected applications in speech recognition : 1989
+25439 : Data Mining: Practical Machine Learning Tools and Techniques : 2011
+25358 : Solid state ionics) : 1989
+25343 : Wireless Communications: Principles and Practice : 2001
+25282 : Theory of Elasticity: Vol. 7 of Course of Theoretical Physics : 2009
+25258 : The Protestant ethic and the "spirit" of capitalism and other writings : 2002
+25239 : The Mathematical Theory of Communication : 1950
+25221 : A translation approach to portable ontology specifications : 1993
+25170 : A conceptual model of service quality and its implications for future research : 1985
+25077 : The Protein Data Bank. : 2003
+25076 : A Heteroskedasticity-Consistent Covariance Matrix Estimator and a Direct Test for Heteroskedasticity : 1980
+25067 : Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement : 2009
+25030 : System identification: theory for the user : 1986
+25007 : Information Theory and an Extension of the Maximum Likelihood Principle : 1992
+24995 : Subjective Well-Being: Three Decades of Progress : 1999
+24970 : Wireless Communications: Principles and Practice : 1996
+24861 : Subjective Well-being : 2013
+24792 : Statistical Power Analysis for the Behavioral Sciences (2nd ed.) : 1989
+24790 : Frame analysis : an essay on the organization of experience : 1975
+24788 : A conceptual model of service quality and its implications for future research : 1985
+24705 : Administrative behavior: a study of decision-making processes in administrative organization : 1976
+24692 : COPPER ENZYMES IN ISOLATED CHLOROPLASTS. POLYPHENOLOXIDASE IN BETA VULGARIS : 1949
+24649 : Computer simulation of liquids : 1988
+24560 : Optimization by simulated annealing : 1987
+24537 : Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference : 1988
+24496 : MicroRNAs: Genomics, Biogenesis, Mechanism, and Function : 2004
+24427 : Agency Costs of Free Cash Flow, Corporate Finance, and Takeovers : 1999
+24426 : Goodman & Gilman's the pharmacological basis of therapeutics : 2006
+24372 : Women, Fire, and Dangerous Things : 1987
+24300 : The Protein Data Bank. : 2002
+24250 : Machine Learning : 1997
+24245 : A fast and elitist multiobjective genetic algorithm: NSGA-II : 2002
+24182 : A theory for multiresolution signal decomposition: the wavelet representation : 1989
+24149 : Subjective well-being. : 1984
+24130 : Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. : 2009
+24089 : The NCEP/NCAR 40-Year Reanalysis Project : 1996
+24050 : Probabilistic reasoning in intelligent systems: networks of plausible inference : 1988
+24020 : The NCEP/NCAR 40-Year Reanalysis Project : 1996
+24014 : Neural networks for pattern recognition : 1996
+23974 : TNM classification of malignant tumours : 1987
+23954 : Women, Fire, and Dangerous Things : 1987
+23917 : Assay for lipid peroxides in animal tissues by thiobarbituric acid reaction : 1979
+23773 : Discipline and punish : the birth of the prison : 1977
+23722 : Mail and internet surveys : the tailored design method : 2007
+23692 : A fast and elitist multiobjective genetic algorithm: NSGA-II : 2002
+23678 : The Framing of Decisions and the Psychology of Choice : 1981
+23677 : Learning internal representations by error propagation : 1986
+23648 : Structural Holes: The Social Structure of Competition : 1992
+23636 : Molecular Cloning: A Laboratory Manual(2nd edition) : 1989
+23581 : A simple method for displaying the hydropathic character of a protein : 1982
+23502 : Administrative behaviour : 1950
+23491 : Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. : 2009
+23455 : The Nature of the Firm : 1937
+23398 : Homeostasis model assessment : Insulin resistance and beta-cell function from fasting plasma glucose and insulin concentrations in man : 1985
+23388 : Discrete Math : 1989
+23388 : The Minimalist Program : 2014
+23360 : Nonlinear Programming : 1972
+23354 : The Interpretation of Dreams : 1933
+23309 : Hallmarks of Cancer: The Next Generation : 2011
+23244 : Beyond the pleasure principle : 1961
+23230 : Self-determination theory and work motivation : 2005
+23208 : Mail and Internet Surveys: The Tailored Design Method : 1999
+23169 : Structural equations with latent variables : 1989
+23164 : Bowling Alone: America's Declining Social Capital : 1995
+23137 : DISC ELECTROPHORESIS – II METHOD AND APPLICATION TO HUMAN SERUM PROTEINS* : 2006
+23112 : Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement (Chinese edition) : 2009
+23083 : Gaussian basis sets for use in correlated molecular calculations. I. The atoms boron through neon and hydrogen : 1989
+23072 : Regression models and life tables (with discussion : 1972
+23052 : The magic number seven plus or minus two: some limits on our capability for processing information : 1956
+23045 : The Sciences of the Artificial : 1981
+23022 : Pattern classification and scene analysis : 1973
+22987 : Métodos e técnicas de pesquisa social : 2007
+22976 : Review of Particle Physics : 2010
+22976 : Sampling Techniques : 1963
+22949 : Learning internal representations by error propagation : 1986
+22898 : Determination of serum proteins by means of the biuret reaction. : 1949
+22896 : Ab Initio Calculation of Vibrational Absorption and Circular Dichroism Spectra Using Density Functional Force Fields : 1994
+22895 : Genetic Algorithms : 1999
+22861 : Some methods for classification and analysis of multivariate observations : 1967
+22844 : The Sciences of the Artificial : 1970
+22820 : The Elements of Statistical Learning : 2002
+22763 : Primer-directed enzymatic amplification of DNA with a thermostable DNA polymerase : 1988
+22753 : Bowling alone: America''s declining social capital : 1998
+22703 : Design and Analysis of Experiments : 2006
+22699 : Neural Networks for Pattern Recognition : 1998
+22670 : Review of particle physics : 1996
+22640 : The Organisation of Behaviour: A Neurophysiological Theory : 1949
+22484 : Econometric Analysis of Cross-Section and Panel Data : 2002
+22475 : Some Tests of Specification for Panel Data: Monte Carlo Evidence and an Application to Employment Equations : 1991
+22457 : The Semantic Web : 2001
+22396 : Microfísica del poder : 1978
+22395 : Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement (Chinese edition) : 2009
+22391 : Generalized autoregressive conditional heteroskedasticity : 1986
+22377 : Generalized autoregressive conditional heteroskedasticity : 1986
+22375 : The social system : 1951
+22338 : The commitment-trust theory of relationship marketing : 1994
+22322 : The advanced theory of statistics : 1958
+22319 : A quantitative description of membrane current and its application to conduction and excitation in nerve : 1952
+22270 : The commitment-trust theory of relationship marketing : 1994
+22248 : Fast algorithms for mining association rules : 1994
+22225 : Review of Particle Physics : 2002
+22183 : Distribution of the Estimators for Autoregressive Time Series with a Unit Root : 1979
+22176 : Advanced Inorganic Chemistry : 1999
+22172 : CHARMM: A program for macromolecular energy, minimization, and dynamics calculations : 1983
+22156 : Sample Selection Bias as a Specification Error : 1979
+22132 : Report of the expert committee on the diagnosis and classification of diabetes mellitus : 1999
+22120 : New Guidelines to Evaluate the Response to Treatment in Solid Tumors : 2000
+22107 : Statistical analysis with missing data : 1986
+22018 : International Tables for X-Ray Crystallography : 1963
+22000 : PYTHIA 6.4 Physics and Manual : 2003
+21956 : Gene ontology: tool for the unification of biology : 2005
+21919 : Interaction ritual : essays on face-to-face behavior : 1967
+21894 : HANDBOOK OF PHYSIOLOGY : 1963
+21866 : Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being : 2000
+21856 : Free radicals in biology and medicine : 1985
+21839 : National Committee for Clinical Laboratory Standards : 1980
+21836 : Statistical methods : 2003
+21827 : VMD : Visual molecular dynamics : 1996
+21823 : Neural networks and physical systems with emergent collective computational abilities : 1982
+21811 : Handbook of Mathematical Functions, With Formulas, Graphs, and Mathematical Tables, : 1974
+21810 : Antenna Theory: Analysis and Design : 2005
+21803 : Distribution of the Estimators for Autoregressive Time Series with a Unit Root : 1979
+21743 : A series of normal stages in the development of the chick embryo. : 1951
+21709 : MapReduce: simplified data processing on large clusters : 2008
+21694 : A new generation of Ca2+ indicators with greatly improved fluorescence properties. : 1985
+21681 : Reinforcement Learning: An Introduction : 1998
+21646 : Women, fire, and dangerous things : what categories reveal about the mind : 1990
+21644 : Mineral nutrition of higher plants. : 1986
+21634 : Comparison of simple potential functions for simulating liquid water : 1983
+21623 : Remington's pharmaceutical sciences : 1985
+21622 : Comparison of simple potential functions for simulating liquid water : 1983
+21620 : Measuring the efficiency of decision making units : 1978
+21612 : Apoptosis: A Basic Biological Phenomenon with Wide-ranging Implications in Tissue Kinetics : 1972
+21611 : Prediction of creatinine clearance from serum creatinine. : 1976
+21595 : Fundamentals of Heat and Mass Transfer : 1996
+21583 : Nitric oxide release accounts for the biological activity of endothelium-derived relaxing factor : 1987
+21576 : The order of things : an archaeology of the human sciences : 1970
+21560 : Machine learning : 1996
+21517 : A low-viscosity epoxy resin embedding medium for electron microscopy. : 1969
+21472 : Heart Disease and Stroke Statistics—2010 Update : 2010
+21459 : Heart Disease and Stroke Statistics—2009 Update A Report From the American Heart Association Statistics Committee and Stroke Statistics Subcommittee : 2009
+21458 : Sample Selection Bias as a Specification Error : 1979
+21435 : WinGX suite for small-molecule single-crystal crystallography : 1999
+21421 : A Contribution to the Theory of Economic Growth : 1956
+21412 : The ecological approach to visual perception : 1986
+21403 : Meta-analysis in clinical trials. : 1986
+21376 : Structural holes: the social structure of competition : 1992
+21360 : Amplifi-cation and direct sequencing of fungal ribosomal RNA genes for phylogenetics : 1990
+21349 : The Reliability of Molecular Weight Determinations by Dodecyl Sulfate-Polyacrylamide Gel Electrophoresis : 1969
+21339 : The order of things: An archaeology of the human sciences : 1970
+21317 : THE KNOWLEDGE-CREATING COMPANY : 1991
+21316 : Multiple View Geometry in Computer Vision : 2001
+21316 : Practical Statistics for Medical Research : 2006
+21314 : Multiple view geometry in computer vision : 2000
+21308 : Organizational Culture and Leadership : 1986
+21286 : Principal component analysis : 1998
+21286 : Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics : 1990
+21286 : Understanding attitudes and predicting social behavior : 1980
+21262 : Some Tests of Specification for Panel Data: Monte Carlo Evidence and an Application to Employment Equations : 1991
+21260 : The theory of social and economic organization : 1947
+21256 : Snakes: Active Contour Models : 1988
+21250 : The mathematics of diffusion : 1979
+21248 : Patterns of attachment : a psychological study of the strange situation : 1978
+21187 : Qualitative Research and Evaluation Methods : 1996
+21180 : Lectures on government and binding : the Pisa lectures : 1993
+21167 : Multilineage potential of adult human mesenchymal stem cells. : 1999
+21163 : Governing the commons: the evolution of institutions for collective action : 1990
+21160 : A Theory for Multiresolution Signal Decomposition: The Wavelet Representation : 1985
+21129 : Adaptive filter theory : 1986
+21119 : PCR protocols: a guide to methods and applications. : 1990
+21100 : Statistical mechanics of complex networks : 2001
+20958 : Multiple View Geometry in Computer Vision : 2004
+20915 : Compressed sensing : 2006
+20902 : Electrodynamics of continuous media : 1961
+20887 : A mathematical theory of communication : 1963
+20886 : A New Approach to Linear Filtering and Prediction Problems : 1960
+20885 : MrBayes 3: Bayesian phylogenetic inference under mixed models : 2003
+20885 : Markets and hierarchies : analysis and antitrust implications : 1976
+20884 : A Tutorial on Support Vector Machines for Pattern Recognition : 1998
+20878 : Introduction to Modern Information Retrieval : 1986
+20876 : Hierarchical linear models : applications and data analysis methods : 1993
+20873 : Gene ontology: tool for the unification of biology. The Gene Ontology Consortium. : 2000
+20867 : A new mathematical model for relative quantification in real-time RT–PCR : 2001
+20862 : Atoms, molecules, solids, and surfaces: Applications of the generalized gradient approximation for exchange and correlation : 1992
+20850 : The science of the artificial : 1978
+20796 : Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation : 1982
+20790 : Nonlinear Fiber Optics : 2000
+20775 : Snakes-active contour models : 1987
+20758 : Initial sequencing and analysis of the human genome : 2001
+20749 : Quantum Mechanics : 1993
+20746 : Manual for the State-Trait Anxiety Inventory : 1970
+20724 : Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography : 1981
+20722 : Max Weber, the theory of social and economic organization : 1947
+20711 : Adsorption of Gases in Multimolecular Layers : 1938
+20691 : Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC : 2012
+20680 : Common risk factors in the returns on stocks and bonds : 1993
+20667 : Numerical recipes : 1990
+20660 : Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images : 1984
+20636 : Applied Regression Analysis : 1968
+20621 : Regression Shrinkage and Selection Via the Lasso : 1994
+20619 : High resolution two-dimensional electrophoresis of proteins. : 1975
+20584 : A simple salting out procedure for extracting DNA from human nucleated cells : 1988
+20578 : Alternative ways of assessing model fit : 1993
+20572 : Research Methods in Education. : 2000
+20570 : The Semantic Web : 2005
+20543 : C4.5: programs for machine learning : 1992
+20539 : Electrochemical photolysis of water at a semiconductor electrode. : 1972
+20534 : Flow : the psychology of optimal experience : 1990
+20532 : Elliptic partial differential equations of second order : 1977
+20519 : The Descent of Man, and Selection in relation to Sex : 1874
+20511 : Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set : 1996
+20505 : Methods of Mathematical Physics : 1947
+20491 : Sample Selection Bias as a Specification Error : 1976
+20467 : Initial sequencing and analysis of the human genome : 2001
+20465 : Linear Matrix Inequalities in System and Control Theory : 1994
+20453 : Pattern Recognition with Fuzzy Objective Function Algorithms : 1981
+20434 : Regression Shrinkage and Selection via the Lasso : 1996
+20411 : Introduction to fourier optics : 1968
+20384 : The American Rheumatism Association 1987 revised criteria for the classification of rheumatoid arthritis : 1988
+20370 : Basics of Qualitative Research : 1992
+20326 : The balanced scorecard--measures that drive performance. : 1992
+20319 : EFFICIENT CAPITAL MARKETS: A REVIEW OF THEORY AND EMPIRICAL WORK : 1970
+20309 : Absorption and scattering of light by small particles : 1984
+20292 : Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC : 2012
+20287 : Common risk factors in the returns on stocks and bonds : 1993
+20287 : PROCHECK-a program to check the stereochemical quality of protein structures : 1993
+20263 : From Intentions to Actions: A Theory of Planned Behavior : 1985
+20257 : Electrochemical methods : fundamentals and applications : 2001
+20244 : Electrodynamics of Continuous Media : 1961
+20225 : Statistical methods in medical research : 2002
+20185 : The logic of practice : 1990
+20171 : Thought and language : 1962
+20156 : Continuous cultures of fused cells secreting antibody of predefined specificity : 1975
+20149 : Culture and imperialism : 1994
+20148 : Applied multivariate statistical analysis : 1988
+20140 : Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC : 2012
+20137 : Inference of population structure using multilocus genotype data. : 2000
+20131 : Inference of Population Structure Using Multilocus Genotype Data : 2004
+20129 : FIRST-YEAR WILKINSON MICROWAVE ANISOTROPY PROBE (WMAP) OBSERVATIONS: DETERMINATION OF COSMOLOGICAL PARAMETERS : 2003
+20125 : The clash of civilizations and the remaking of world order : 2003
+20075 : Statistical mechanics of complex networks : 2001
+20057 : The logic of practice : 1990
+20048 : The Positive and Negative Syndrome Scale (PANSS) for Schizophrenia : 1987
+20045 : The value of the world's ecosystem services and natural capital : 1997
+20026 : Letter: Aetiology of striae gravidarum. : 1974
+20011 : Linear Matrix Inequalities in Systems and Control Theory : 1994
+20002 : Accurate and simple analytic representation of the electron-gas correlation energy : 1992
