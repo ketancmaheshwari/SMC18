@@ -32,7 +32,9 @@ platform.
 
 The report describes the tools used, their rationale, solutions to the problems
 and a glance at the results. Source code for solutions and results may be found
-at https://github.com/ketancmaheshwari/SMC18.
+at https://github.com/ketancmaheshwari/SMC18. The source code for the core
+solutions are in files \texttt{src/prob*.awk}. The source code for the Swift
+parallelization of the core solutions are in files \texttt{src/runprob*.swift}.
 
 \section*{Tools used}
 \subsection*{Software}
@@ -53,10 +55,10 @@ all the processing.
 
 \subsection*{Rationale}
 \begin{enumerate}
-\item \texttt{Awk} is concise, efficient and expressive for text processing.
-\item Alternative tools such as modern Python libraries have speed limitations, portability concerns and considerable learning curve.
-\item SQL based tools and databases are hard to parallelize.
+\item \texttt{Awk} is concise, fast, and expressive -- especially for text processing applications.
+\item SQL based tools and databases are hard to port, parallelize, and maintain.
 \item Traditional Linux tools are portable and available on almost all the standard Linux distributions.
+\item Alternative tools such as modern Python libraries have speed limitations, portability concerns and considerable learning curve. Some of them are still evolving.
 \item Swift was used over GNU parallel for its portability to both shared memory systems and distributed memory clusters.
 \end{enumerate}
 
@@ -144,9 +146,9 @@ The third part find the top 10 most frequently occurring terms each year to
 find how the topics get in and out of trend over the years. An animation
 showing a bubble plot of words changing between the year 1800 and 2017 may be
 found at \texttt{results/freqwordsoveryrs.mkv}. A file list of all the words
-may be found in the directory \texttt{results/trending_words_by_year}.
+may be found in the directory \texttt{results/trending\_words\_by\_year}.
 
-Parallelizing part-3 was most challenging because it involved a
+Parallelizing the third part was most challenging because it involved a
 two-level parallel nested foreach loop.  The outer loop iterates over the years
 and the inner loop iterates over the input files. The parallel implementation
 of the task finishes in 48 minutes.
