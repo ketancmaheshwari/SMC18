@@ -9,7 +9,7 @@ file aminer[]=glob("/dev/shm/aminer_mag_papers/*.txt");
 file outfiles[];
 
 foreach v, i in aminer{
-    outfiles[i] = myawk(input("/home/km0/SMC18/src/prob5.awk"), v, "topic1=science", "topic2=general", "topic3=cell", "topic4=energy");
+    outfiles[i] = myawk(input("/home/km0/SMC18/src/prob5.awk"), v, "topic1=battery", "topic2=electronics", "topic3=lithium", "topic4=energy");
 }
 
 file joined <"joined.txt"> = cat(outfiles);
