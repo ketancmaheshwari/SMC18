@@ -62,12 +62,13 @@ all the processing.
 \section*{Data and Problems}
 The data was originally in two sets of 167 json files (total 334 files) each
 containing a million records. The data also consisted of a file that recorded
-the list of duplicate records. An \texttt{awk} script (\texttt{src/filterdup.awk}) was used to exclude the
-duplicate records from the aminer dataset. As a result, there are over 256
-million (256,382,605 to be exact) unique records to process. The data occupies
-329G of disk space. Several fields in the data are \texttt{null}. Those records
-were avoided where relevant. Additionally, records related to non-English
-publications were avoided where needed.
+the list of duplicate records. An \texttt{awk} script
+(\texttt{src/filterdup.awk}) was used to exclude the duplicate records from the
+aminer dataset. As a result, there are over 256 million (256,382,605 to be
+exact) unique records to process. The data occupies 329G of disk space. Several
+fields in the data are \texttt{null}. Those records were avoided where
+relevant. Additionally, records related to non-English publications were
+avoided where needed.
 
 The json files were converted to tabular files with 19 original columns and one
 additional column called ``num\_authors" showing the number of authors for a given
@@ -98,9 +99,8 @@ all the entries with citations higher than 500 for a given search topic. The
 second part (\texttt{src/prob1\_p2.awk}) finds the names of authors whose names
 are repeating for queried topics with atleast a hundred citations in each
 entry. This will give a reasonable idea of who are the expert figures in a
-given research area. 
-
-The parallel implementation of the task finishes in 25 seconds.
+given research area. The parallel implementation of the task finishes in 25
+seconds.
 
 \subsection*{Problem2}
 This problem is solved by identifying most frequently used words in the
@@ -118,7 +118,7 @@ three databases--cities, universities and countries to find out the geographic
 locations for that research. The results are aggregated to present a list of
 centers for which a given keyword appears most frequently. For cities, the
 results are plotted on world map. One such example is shown in
-\texttt{/results/bird_research_cities.png} for the keyword ``birds''. The
+\texttt{/results/bird\_research\_cities.png} for the keyword ``birds''. The
 directory also contains other similar example results such as epilepsy, opioid,
 meditation research by universities and by countries. The parallel
 implementation of the task finishes in 25 seconds.
@@ -127,28 +127,31 @@ implementation of the task finishes in 25 seconds.
 This problem may be solved in three distinct ways. Parallelizing part-3 was
 most challenging because it involved a two-level parallel nested foreach loop.
 The outer loop iterates over the years and the inner loop iterates over the
-input files.
+input files. The parallel implementation of the task finishes in 48 minutes.
 
-The parallel implementation of the task finishes in 48 minutes.
 \subsection*{Problem5}
 This problem has a simple solution: Find the keywords on a new proposal. If
 those keywords appear in an existing publication record, it is a suspect. A
 broad list of suspects may be found with logical OR between keywords which
 could be narrowed with logical AND. The keywords may be arbitrarily combined in
-logical ORs and ANDs. The parallel implementation of the task finishes in 26
-seconds.
+logical ORs and ANDs. The results file \texttt{/results/suspects.txt} shows
+over 1,400 suspects for an AND combination of keywords:  battery, electronics,
+lithium, and energy from English language papers. The parallel implementation
+of the task finishes in 26 seconds.
 
 \subsection*{Postprocessing}
-Some of the results obtained were postprocessed for visulization using D3
+Some results were postprocessed for sorting and merging purposes using Linux
+\texttt{sort, uniq} commands which took negligible time. Some of the results
+obtained were postprocessed for visulization using the \texttt{D3} (d3js.org)
 graphics framework and ffmpeg libraries.
 
 \section*{Results}
 
 \section*{Summary}
-In this work I show how the time tested Linux tools can be leveraged to solve
-modern problems. I show that hundreds or millions of records may be processed
-in under a minute using Swift. I show the results that offer insight into the
-data without employing any formal sophisticated algorithms.
+In this work I show how the classical Linux tools may be leveraged to solve
+modern problems. I show that hundreds of millions of records may be processed
+in under a minute at scale using Swift. I show the results that offer insight
+into the data without employing any formal sophisticated algorithms.
 
 \section*{Acknowledgements.}
 I acknowledge Brian Zachary, Suhas Somnath, Drew Schmidt for their helpful
@@ -158,7 +161,7 @@ inputs. I acknowledge CADES.
 data $ wc -l stop_words.txt 
      161 stop_words.txt
 data $ wc -l cities.txt 
-    3527 cities.txt
+    3517 cities.txt
 data $ wc -l countries.txt 
      198 countries.txt
 data $ wc -l universities.txt 
