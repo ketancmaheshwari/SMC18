@@ -6,12 +6,12 @@ https://smc-datachallenge.ornl.gov
 
 . Run awk code:
 
-`awk -f prob1.awk data_dir/*.txt`
+`awk -f prob2.awk data_dir/*.txt`
 
 . Compile Swift code:
 
-`stc runprob1.swift`
+`stc runprob2.swift #will generate tic file`
 
 . Run Swift code:
 
-`turbine -n 340 runprob1.tic`
+`turbine -n 340 runprob2.tic`
