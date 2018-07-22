@@ -106,11 +106,23 @@ The parallel implementation of the task finishes in 25 seconds.
 This problem is solved by identifying most frequently used words in the
 collection. Several common words (aka stop-words) are filtered from title,
 abstract and keywords and top 1,000 words across the whole collection was
-found. At over 23 million, the word ``patients'' has most frequent occurrence. The full list of top 1,000 words may be found in \texttt{/results/top_1K_words_kw_abs_title.txt}.
-The parallel implementation of the task finishes in 9 minutes.
+found. At over 23 million, the word ``patients'' has most frequent occurrence.
+The full list of top 1,000 words may be found in
+\texttt{/results/top\_1K\_words\_kw\_abs\_title.txt}.  The parallel
+implementation of the task finishes in 9 minutes.
 
 \subsection*{Problem3}
-The parallel implementation of the task finishes in 25 seconds.
+This problem is solved by identifying the author's affiliations for the records
+that has user supplied keyword in them. The affiliation is searched against
+three databases--cities, universities and countries to find out the geographic
+locations for that research. The results are aggregated to present a list of
+centers for which a given keyword appears most frequently. For cities, the
+results are plotted on world map. One such example is shown in
+\texttt{/results/bird_research_cities.png} for the keyword ``birds''. The
+directory also contains other similar example results such as epilepsy, opioid,
+meditation research by universities and by countries. The parallel
+implementation of the task finishes in 25 seconds.
+
 \subsection*{Problem4}
 This problem may be solved in three distinct ways. Parallelizing part-3 was
 most challenging because it involved a two-level parallel nested foreach loop.
@@ -119,7 +131,12 @@ input files.
 
 The parallel implementation of the task finishes in 48 minutes.
 \subsection*{Problem5}
-The parallel implementation of the task finishes in 26 seconds.
+This problem has a simple solution: Find the keywords on a new proposal. If
+those keywords appear in an existing publication record, it is a suspect. A
+broad list of suspects may be found with logical OR between keywords which
+could be narrowed with logical AND. The keywords may be arbitrarily combined in
+logical ORs and ANDs. The parallel implementation of the task finishes in 26
+seconds.
 
 \subsection*{Postprocessing}
 Some of the results obtained were postprocessed for visulization using D3
