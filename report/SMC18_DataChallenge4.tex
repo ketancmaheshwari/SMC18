@@ -125,10 +125,31 @@ meditation research by universities and by countries. The parallel
 implementation of the task finishes in 25 seconds.
 
 \subsection*{Problem4}
-This problem may be solved in three distinct ways. Parallelizing part-3 was
-most challenging because it involved a two-level parallel nested foreach loop.
-The outer loop iterates over the years and the inner loop iterates over the
-input files. The parallel implementation of the task finishes in 48 minutes.
+This problem may be solved in three distinct ways.
+
+The first part processes the database to find out yearwise occurence of user
+defined topics. It generates a list of years and the number of times
+\textbf{both} topics has occured in a single publication in that year. For
+example, the result in \texttt{results/obesity\_sugar\_trend.txt} shows how the
+terms ``obesity'' and ``sugar'' have trended together in publications over the
+years.
+
+The second part finds the papers that has highest impact in each year and
+extracts the keywords in those papers. The impact is computed by the paper that
+was cited the most in that year. The result for this task are in
+\texttt{results/yearwise\_trending\_keywords.txt} in the form of year,
+keywords, citations triplet.
+
+The third part find the top 10 most frequently occurring terms each year to
+find how the topics get in and out of trend over the years. An animation
+showing a bubble plot of words changing between the year 1800 and 2017 may be
+found at \texttt{results/freqwordsoveryrs.mkv}. A file list of all the words
+may be found in the directory \texttt{results/trending_words_by_year}.
+
+Parallelizing part-3 was most challenging because it involved a
+two-level parallel nested foreach loop.  The outer loop iterates over the years
+and the inner loop iterates over the input files. The parallel implementation
+of the task finishes in 48 minutes.
 
 \subsection*{Problem5}
 This problem has a simple solution: Find the keywords on a new proposal. If
@@ -156,7 +177,7 @@ into the data without employing any formal sophisticated algorithms.
 
 \section*{Acknowledgements.}
 I acknowledge Brian Zachary, Suhas Somnath, Drew Schmidt for their helpful
-inputs. I acknowledge CADES.
+inputs. I acknowledge CADES for the resources for this project.
 \end{document}
 
 data $ wc -l stop_words.txt 
@@ -167,5 +188,4 @@ data $ wc -l countries.txt
      198 countries.txt
 data $ wc -l universities.txt 
     8984 universities.txt
-
 

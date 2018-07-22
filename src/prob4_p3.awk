@@ -17,7 +17,7 @@
 
 # Solution 2 is to find the highest cited paper yearwise and figure out the topics it was based on
 
-# Solution 3 is to find the top 5 trending topics yearwise and see how they appear/disappear in the trend
+# Solution 3 is to find the top 10 trending topics yearwise and see how they appear/disappear in the trend
 # We achieve this by writing keywords, titles and abstract to files named after the year they appeared and do postprocessing on those files
 BEGIN{
     FS = "qwqw"
