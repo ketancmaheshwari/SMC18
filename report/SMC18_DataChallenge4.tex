@@ -97,15 +97,18 @@ description of the solutions in the sections below, none of the solution has
 taken more than an hour of runtime.
 
 \subsection*{Problem1}
-This problem is solved in two ways. First part (\texttt{src/prob1\_p1.awk}) identifies
-all the entries with citations higher than 500 for a given search topic. The
-second part (\texttt{src/prob1\_p2.awk}) finds the names of authors whose names
-are repeating for queried topics with atleast a hundred citations in each
-entry. This will give a reasonable idea of who are the expert figures in a
-given research area. The parallel implementation of the task finishes in 25
-seconds.
+\textit{Identify the individual or group of individuals who appear to be the expert in a particular field or sub-field.}
+
+This problem is solved in two ways. First part identifies all the entries with
+citations higher than 500 for a given search topic. The second part finds the
+names of authors whose names are repeating for queried topics with atleast a
+hundred citations in each entry. This will give a reasonable idea of who are
+the expert figures in a given research area. The parallel implementation of the
+task finishes in 25 seconds.
 
 \subsection*{Problem2}
+\textit{Identify topics that have been researched across all publications.}
+
 This problem is solved by identifying most frequently used words in the
 collection. Several common words (aka stop-words) are filtered from title,
 abstract and keywords and top 1,000 words across the whole collection was
@@ -115,6 +118,8 @@ The full list of top 1,000 words may be found in
 implementation of the task finishes in 9 minutes.
 
 \subsection*{Problem3}
+\textit{visualize the geographic distribution of the topics in the publications.}
+
 This problem is solved by identifying the author's affiliations for the records
 that has user supplied keyword in them. The affiliation is searched against
 three databases--cities, universities and countries to find out the geographic
@@ -127,6 +132,8 @@ meditation research by universities and by countries. The parallel
 implementation of the task finishes in 25 seconds.
 
 \subsection*{Problem4}
+\textit{Identify how topics have shifted over time.}
+
 This problem may be solved in three distinct ways.
 
 The first part processes the database to find out yearwise occurence of user
@@ -154,6 +161,9 @@ and the inner loop iterates over the input files. The parallel implementation
 of the task finishes in 48 minutes.
 
 \subsection*{Problem5}
+\textit{Given a research proposal, determine whether the proposed work has been
+accomplished previously.}
+
 This problem has a simple solution: Find the keywords on a new proposal. If
 those keywords appear in an existing publication record, it is a suspect. A
 broad list of suspects may be found with logical OR between keywords which
