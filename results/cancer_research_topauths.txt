@@ -1,0 +1,1845 @@
+39	O. P. van Diggelen
+38	Y. A. Ioannou and M. E. Higgins
+38	T.-Y. Chang
+38	S. L. Sturley
+38	S. K. Loftus
+38	R. Carmi
+38	M. Zeigler
+38	M. T. Vanier
+38	M. Elleder
+38	M. C. Patterson
+38	L. Liscum
+38	K. Ohno
+38	J. Sokol
+38	J. F. Strauss III
+38	E. J. Blanchette-Mackie
+38	D. Markie
+38	D. B. Krizman
+21	T. Fojo and S. E. Bates are in the Medicine Branch
+21	S. H. Friend is at the Fred Hutchinson Cancer Research Center-NCI
+21	R. E. Wittes is in the Office of the Director
+21	N. L. Anderson is with Large Scale Biology
+21	L. V. Rubinstein is in the Biometric Research Branch
+21	G. S. Johnson is in the Grants and Contracts Operations Branch
+21	E. A. Sausville is in the Developmental Therapeutics Program (DTP)
+21	D. W. Zaharevitz and K. D. Paull are in the Information Technology Branch
+21	A. P. Monks and D. A. Scudiero are at the SAIC-NCI-Frederick Cancer Research and Development Center (FCRDC)
+20	P. ten Dijke
+20	M. Takagi
+20	K. Irie and K. Matsumoto
+20	E. Nishida
+13	Medical Research Council (MRC) Centre for Neuropsychiatric Genetics and Genomics
+13	 Cancer Diagnosis Program
+13	 Boston
+11	Tor Vergata&quot
+11	 Division of Hematology
+11	Canada’s Michael Smith Genome Sciences Centre
+10	X. Meng
+10	Wellcome Trust Centre for Human Genetics
+10	These authors contributed equally to this work.
+10	M. Swartz
+10	Hugh M. Robertson
+10	H. Ichijo
+10	George M. Weinstock
+10	Christine G. Elsik
+9	Division of Genetics
+8	Wellcome Trust Centre for Human Genetics
+8	These authors contributed equally to this work.
+8	Stanley Center for Psychiatric Research
+8	Analytic and Translational Genetics Unit
+7	Ryszard Maleszka
+7	Molecular Pathology Unit
+7	 Harvard Medical School
+7	Gene E. Robinson
+7	Elaine R. Mardis
+6	The Lundbeck Foundation Initiative for Integrative Psychiatric Research
+6	Philip L. De Jager
+6	Justin T. Reese
+6	John A. Todd
+6	 INSERM
+6	Eric S. Lander
+6	David G. Clayton
+6	Center for Cancer Research
+5	Wellcome Trust Centre for Human Genetics
+5	 University of Michigan
+5	These authors contributed equally.
+5	Steven J. M. Jones
+5	Richard K. Wilson
+5	R. Herrera
+5	Medical and Population Genetics Program
+5	Harvard Medical School
+5	 Genome Sequencing Center
+5	Framingham Heart Study
+5	Ewan Birney
+5	Ewan Birney
+5	Epigenome Center
+5	Emmanouil T. Dermitzakis
+5	Divisions of Genetics and Endocrinology and Program in Genomics
+5	David Haussler
+5	Daniel B. Weaver
+5	 Comprehensive Cancer Center
+4	 University of Rome “Tor Vergata”
+4	Todd Lencz
+4	These authors contributed equally to this work.
+4	Richard A. Gibbs
+4	Psychiatry Section
+4	Program in Medical and Population Genetics
+4	Peter Donnelly
+4	Peter Donnelly
+4	Paul R. Burton
+4	Paul Flicek
+4	Ole Mors
+4	Nilesh J. Samani
+4	Natalia V. Milshina
+4	MRC Centre for Neuropsychiatric Genetics and Genomics
+4	 Michigan Urology Center
+4	Michael W. Bevan
+4	M Health Science Center
+4	Mark S. Guyer
+4	Mark Gerstein
+4	Marco A. Marra
+4	Manuel Mattheisen
+4	Manolis Kellis
+4	L. Spallanzani&quot
+4	Lon R. Cardon
+4	Li Ding
+4	Leena Peltonen
+4	 La Trobe University
+4	Kim C. Worley
+4	Jun Wang
+4	J. Spencer Johnston
+4	Jose C Florez
+4	J Keith Joung
+4	Jay D. Evans
+4	Jane Peterson
+4	James Taylor
+4	Jainab Khatun
+4	Istituto di Ricerca Genetica e Biomedica
+4	Ian Dunham
+4	 Georgia Regents University
+4	Genetics of Complex Traits
+4	David F. Garvin
+4	David Altshuler
+4	Daryl J. Thomas
+4	Computational Medicine Research Group
+4	Charmaine D. M. Royal
+4	Chang-Jiun Wu
+4	Center for Statistical Genetics
+4	Center for Human Genetic Research
+4	Center for Human Genetic Research
+4	Center for Applied Genomics
+4	Carlo Bo&quot
+4	 Albano (Rome) 00041
+4	Aarno Palotie
+3	Zhiping Weng
+3	Yusuke Nakamura
+3	Yosef Yarden
+3	Yong Q. Gu
+3	Yan Zhou
+3	Xinchen Wang
+3	Willett W C
+3	Willem H. Ouwehand
+3	Wei Wang
+3	Walter C. Willett
+3	 Université Paris Descartes/Paris V
+3	Toshihiro Tanaka
+3	Todd C. Mockler
+3	Toby Bloom
+3	Thomas R. Gingeras
+3	Thomas L. Madden
+3	These authors contributed equally to this work.
+3	Tatiana A. Tatusova
+3	Sven Cichon
+3	Steven A. McCarroll
+3	Stephen T. Sherry
+3	Stephen G. Landt
+3	Stephen F. Schaffner
+3	Stephen B. Baylin
+3	 Stem Cell Center
+3	Shih-Jen Hwang
+3	Severo Ochoa&quot
+3	School of Psychiatry and Clinical Neurosciences
+3	Sarah Nutland
+3	Samuel E. Fox
+3	Royal Melbourne Hospital
+3	Ross C. Hardison
+3	Ross C. Hardison
+3	Roel A Ophoff
+3	Roderic Guigó
+3	Roderic Guigó
+3	Robert S. Fulton
+3	Robert E. Page
+3	Robert E. Handsaker
+3	Robert A. Weinberg
+3	Richard M. Myers
+3	Richard M. Myers
+3	Richard A. Gibbs
+3	Rameen Beroukhim
+3	Pui-Yan Kwok
+3	Philipp Kapranov
+3	Peter J. Park
+3	Paul Flicek
+3	Pardis C. Sabeti
+3	Panos Deloukas
+3	Pamela Sklar
+3	NORMENT
+3	Nils Gehlenborg
+3	Nick Craddock
+3	Neil M. Walker
+3	Nazneen Rahman
+3	Nationwide Children’s Hospital Biospecimen Core Resource
+3	M University 
+3	Morgan C. Giddings
+3	Microbes
+3	Michael Snyder
+3	Michael R. Stratton
+3	Michael Quail
+3	Michael P. Snyder
+3	Michael Mayo
+3	Michael J. Ziller
+3	Michael C. Wendl
+3	Miaoxin Li
+3	McGill University and Genome Québec Innovation Centre
+3	Massachusetts General Hospital
+3	Martin Hirst
+3	Martin D. Tobin
+3	Martin Beye
+3	Mark Lathrop
+3	Mark J. Daly
+3	Mark I. McCarthy
+3	Mark Gerstein
+3	Mari Nelis
+3	Marcella Rietschel
+3	Lukas Wagner
+3	Lucinda Fulton
+3	Lon R. Cardon
+3	Lineberger Comprehensive Cancer Center
+3	Lincoln D. Stein
+3	Kristin Ardlie
+3	Kristian Cibulskis
+3	Kevin Struhl
+3	Kai Wang
+3	Jubao Duan
+3	John W. Belmont
+3	John Burton
+3	John A. Stamatoyannopoulos
+3	Joel Rozowsky
+3	Joel Rozowsky
+3	Jie Wang
+3	Jeffrey M. Kidd
+3	Jane Worthington
+3	James B. Brown
+3	Instituto Nacional de Saude Dr Ricardo Jorge 1649-016 Lisbon and Instituto Gulbenkian de Cîencia
+3	Ingrid Melle
+3	Ina Giegling
+3	Human Genome Sequencing Center
+3	Helen E. Stevens
+3	 Gustave Roussy Cancer Campus
+3	Gro V. Amdam
+3	Gregory D. Schuler
+3	Greg J. Hunt
+3	Gonçalo R. Abecasis
+3	Ghislain Rocheleau
+3	Georgi K. Marinov
+3	Georgia Chenevix-Trench
+3	Genomic Analysis Laboratory
+3	Gary Donohoe
+3	Frank B. Hu
+3	Frank B Hu
+3	Francis S. Collins
+3	Folkhalsan Research Centre
+3	Evgeny M. Zdobnov
+3	Estonian Genome Center
+3	Estonian Biocenter
+3	Eric D. Green
+3	Eric D. Green
+3	Eric Chuah
+3	Erica Sodergren
+3	Emmanouil T. Dermitzakis
+3	Elliott H. Margulies
+3	Elizabeta Gjoneska
+3	Donna M. Muzny
+3	Dominic P. Kwiatkowski
+3	D. Hubbard
+3	Deyou Zheng
+3	Deanna M. Church
+3	David L. Wheeler
+3	David Altshuler
+3	David Altshuler
+3	Daniel C. Koboldt
+3	Damian Keefe
+3	Chris Sander
+3	Chao Cheng
+3	Chad J. Creighton
+3	Centre for Integrative Sequencing
+3	Center for Human Genetic Research
+3	Center for Computational and Integrative Biology
+3	Carlo M. Croce
+3	Bryan R. Lajoie
+3	Brien P Riley
+3	Bradley E. Bernstein
+3	Benjamin F Voight
+3	Barbara J. Wold
+3	Ayman Fanous
+3	Audrey Duncanson
+3	Aravinda Chakravarti
+3	Anil K Malhotra
+3	Angela Tam
+3	Andy Chu
+3	Andrew J. Mungall
+3	 and Litton‐Bionetics
+3	 and
+3	 and
+3	Amartya Sanyal
+3	Ali Mortazavi
+3	Aiden Corvin
+3	Aaron McKenna
+2	Zoya Kingsbury
+2	Zoltán Kutalik
+2	Zhiping Weng
+2	Zhining Wang
+2	Zheng Zhi-Jie
+2	Zhengdong Zhang
+2	Zhang Lin
+2	Zhang Jian
+2	Zhang Hong
+2	Zemin Ning
+2	Zamin Iqbal
+2	Yutao Fu
+2	Yunjung Kim
+2	Yumi Yamamoto
+2	Yuman Fong
+2	Yuko Yoshinaga
+2	Yujun Zhang
+2	Yuan Chen
+2	Yongjun Zhao
+2	Yi Zhang
+2	Yingrui Li
+2	Ying Du
+2	Yijun Ruan
+2	Yijun Ruan
+2	Yidi J. Turman
+2	Yeyang Su
+2	Yevgeniy Antipin
+2	Yevgeniy Antipin
+2	Yeh Pon-Hsiu
+2	Yaron S. N. Butterfield
+2	Yan Shi
+2	Yan Li
+2	Yang-Yu Liu
+2	Yanbao Yu
+2	Yali Xue
+2	Xuan Van Le
+2	Xinqiong Yang
+2	Xinmeng Jasmine Mu
+2	Xinghua Shi
+2	Xiaosen Guo
+2	Xiaole Zheng
+2	Xiaojia Ren
+2	Xiaodong Fang
+2	Xiaoan Ruan
+2	Xianjun Dong
+2	Xiangqun Zheng-Bradley
+2	Xian Chen
+2	Xavier Castellsagué
+2	Xavier Castellsagué
+2	Wulf Sarah
+2	W. Richard McCombie
+2	Woolf Anthony D
+2	Wolfgang Maier
+2	Wolchok Jedd D
+2	W. James Kent
+2	W. James Kent
+2	W. James Kent
+2	Wing-Kin Sung
+2	William S. Noble
+2	William M. McLaren
+2	William M. Gelbart
+2	William L. Gerald
+2	Wilkinson James D
+2	Wiepke Cahn
+2	Whitehead S
+2	Wen Fung Leong
+2	Wendy Winckler
+2	Wendy Winckler
+2	Weisheng Wu
+2	Weintraub Robert
+2	Weinstock Martin A
+2	Wedad Hanna
+2	Watt Kerrianne
+2	Wan-Ping Lee
+2	Wang Wenzhi
+2	Wang Mengru
+2	Walter C. Willett
+2	Walter C. Willett
+2	Walter C. Willett
+2	Vyacheslav S. Amstislavskiy
+2	Vos Theo
+2	Vogelstein B
+2	Vladimir Makarov
+2	Vivian Ota Wang
+2	Vito J. Palombella
+2	Virpi Leppä
+2	Virginia K Lasseter
+2	Viollet Benoit
+2	Vinsensius B. Vega
+2	Vincent Vatin
+2	Vihra Milanova
+2	Victor M. Markowitz
+2	Victoria M. Richon
+2	Victor E. Velculescu
+2	Vera Golimbet
+2	Venketasubramanian N
+2	Veikko Salomaa
+2	V. Delvart
+2	Unnur Thorsteinsdottir
+2	Unnur Thorsteinsdottir
+2	Unnur Thorsteinsdottir
+2	 University of Texas
+2	 University of Porto
+2	University of Milan
+2	University Medical Center Utrecht
+2	 Université Paris-Sud
+2	Undurraga Eduardo A
+2	Ulrich Schall
+2	Ulaş Karaöz
+2	U. Heinzmann
+2	 (UAM/CSIC)
+2	Truelsen Thomas
+2	Troy W. Whitfield
+2	Troy Shelton
+2	Towbin Jeffrey A
+2	Tony Kwan
+2	Tony Cox
+2	Tõnu Esko
+2	Tomonori Okamura
+2	Tom Bodenheimer
+2	Tom Blackwell
+2	Todd Wylie
+2	Todd R. Golub
+2	Todd R. Golub
+2	Todd R. Golub
+2	Todd R. Golub
+2	Todd P. Michael
+2	Todd D. Pihl
+2	Tod Casasent
+2	T. Murray
+2	Tleyjeh Imad M
+2	Timothy Triche Jr
+2	Timothy J. Hubbard
+2	Timothy A. Richmond
+2	Timo Lassmann
+2	Tim Iveson
+2	Tim Hubbard
+2	Tiina Paunio
+2	Tiinamaija Tuomi
+2	Thor Aspelund
+2	Thor Aspelund
+2	Thor Aspelund
+2	Thompson J F
+2	Thompson J A
+2	Thomas Zeng
+2	Thomas Werge
+2	Thomas R. Gingeras
+2	Thomas M. Keane
+2	Thomas J. Hudson
+2	Thomas Hansen
+2	Thomas D. Tullius
+2	Thomas Bernadette
+2	Thierry Calandra
+2	Thierry Boon
+2	These authors contributed equally to this work.
+2	Theresa Kadlecek
+2	Theodore W. Thannhauser
+2	Terrence S. Furey
+2	Terena James
+2	ten Dijke P
+2	Ted Goldstein
+2	Taylor Jennifer A
+2	Tatsuhiko Tsunoda
+2	Tatsuhiko Kadowaki
+2	Tatiana A. Borodina
+2	Taru Tukiainen
+2	Tanya Barrett
+2	Tanja Davidsen
+2	T. A. Lister
+2	Tak W. Mak
+2	Tabernero Josep
+2	Taane G. Clark
+2	Sylvain Fort
+2	Sven Bergmann
+2	Susan Munemitsu
+2	Susan M. Russo
+2	Suganthi Balasubramanian
+2	Suganthi Balasubramanian
+2	Stylianos E. Antonarakis
+2	Stuart R. Jefferys
+2	Struan F. A. Grant
+2	Steven T. Sherry
+2	Stevens K
+2	Steven R. Cummings
+2	Steven P. Wilder
+2	Steven A. Rosenberg
+2	Steven A. Rosenberg
+2	Stephen T. Sherry
+2	Stephen Richards
+2	Stephen H. Bryant
+2	Stephen F. Schaffner
+2	Stephen E. Schumacher
+2	Stephen C. L. Gough
+2	Stephen C J Parker
+2	Stephen B. Hulley
+2	Stephen B. Baylin
+2	Stephen B. Baylin
+2	Stephen B. Baylin
+2	Stephan Ripke
+2	Stephanie Godard
+2	Stefan Washietl
+2	Stefan Schreiber
+2	Stefano Volinia
+2	Steer Andrew
+2	Stan Zammit
+2	Stanley R. Hamilton
+2	Stanley Girshik
+2	Stampfer M J
+2	Stacy Steinberg
+2	Stacey Gabriel
+2	Stacey Gabriel
+2	Stacey Gabriel
+2	Stacey B. Gabriel
+2	Stacey B. Gabriel
+2	Stacey B. Gabriel
+2	Srinka Ghosh
+2	Sridhar Ramaswamy
+2	Sridhar Ramaswamy
+2	Srdjan Djurovic
+2	Spring Yingchun Liu
+2	Sowmya Iyer
+2	Soonmyung Paik
+2	Soong S J
+2	Sol J. Katzman
+2	Smith Emma
+2	Sliwa Karen
+2	Skelton J
+2	S. Jones
+2	Singleton Jessica
+2	Singh David
+2	Simon Myers
+2	Simon Heath
+2	Simon Gravel
+2	Simmonds M
+2	Silvia de Sanjosé
+2	Silvana Martino
+2	Siegel Rebecca L
+2	Shuaishuai Tai
+2	Shripad A. Sinari
+2	Shibuya Kenji
+2	Shervin Tabrizi
+2	Sherman Weissman
+2	Shepard Donald S
+2	Shelley Alonso
+2	Sheila Seal
+2	Sheila Bingham
+2	Shaun Purcell
+2	Shaun Purcell
+2	Sharon R. Grossman
+2	Shaowu Meng
+2	Shane C. Dillon
+2	Seungtai C. Yoon
+2	Seth Frietze
+2	Sergei A. Filichkin
+2	Serafim Batzoglou
+2	 Seoul National University College of Medicine
+2	Senduran Balasubramaniam
+2	Semin Lee
+2	Sekar Kathiresan
+2	Sekar Kathiresan
+2	Segui-Gomez Maria
+2	Sean P. Barletta
+2	Sean Humphray
+2	Scot Waring
+2	Scott W. Lowe
+2	Scott Morris
+2	Scott L. Carter
+2	Scott Kahn
+2	Scott Federhen
+2	Scott A. Tenenbaum
+2	Schwebel David C
+2	Schultz Nikolaus
+2	Scalbert Augustin
+2	Saverio Minucci
+2	Sarah Wilcox
+2	Sarah Tosato
+2	Sarah K. Highlander
+2	Sarah Djebali
+2	Sante Gnerre
+2	Sanman Ella
+2	Sandra C. Tomaszek
+2	Sandeep Patel
+2	Samuli Ripatti
+2	Samuel P. Hazen
+2	Sampson Uchechukwu
+2	Sam Ng
+2	Salomon Joshua A
+2	Sailaja Vedantam
+2	Saianand Balu
+2	Sachet Shukla
+2	Sacco Ralph L
+2	Sabine Tejpar
+2	Ryan E. Poplin
+2	Ryan E. Mills
+2	Ryan D. Hernandez
+2	Ruth Jamieson
+2	Rutherford K
+2	Rushton Lesley
+2	Rui Jing
+2	Ruibin Xi
+2	Ruibang Luo
+2	R. Siegel
+2	R Peto
+2	Ross M I
+2	Ross Graham
+2	Rosenfeld Lisa C
+2	Rosa Karlic
+2	Rory Collins
+2	Ron Stewart
+2	Ronglai Shen
+2	Ron Edgar
+2	Ronald P. DeMatteo
+2	Ronald A. DePinho
+2	Roman L. Tatusov
+2	Roman Laslo
+2	Rohini Raman
+2	Roger P. Alexander
+2	Rodney J. Scott
+2	Roderic Guigó
+2	Robin J. N. Coope
+2	Roberts Thomas
+2	Robert Sfeir
+2	Robert Penny
+2	Robert M. Andrews
+2	Robert L. Nussbaum
+2	Robert Kucharski
+2	Robert J. Motzer
+2	Robert Fulton
+2	Robert Freedman
+2	Robert E. Thurman
+2	Robert C. Onofrio
+2	Robert C. Onofrio
+2	Robert C Green
+2	Robert C. Altshuler
+2	Robert B. Livingston
+2	Robert B. Livingston
+2	Robert B. Jenkins
+2	Robert A. Weinberg
+2	Robert A. Weinberg
+2	Robert A. Weinberg
+2	Robert A. Holt
+2	R. Kienberger
+2	R. Keira Cheetham
+2	Rivero Andrea Panozo
+2	Rivara Frederick P
+2	Rileen Sinha
+2	Rick Twee-Hee Ong
+2	Richa Saxena
+2	Richard Varhol
+2	Richard Thorp
+2	Richard M. Goldberg
+2	Richard M. Durbin
+2	Richard I. Fisher
+2	Richard G. Margolese
+2	Richard G. Margolese
+2	Richard E. Smith
+2	Richard Doll
+2	Richard Doll
+2	Richard Bruggeman
+2	Richard A. Moore
+2	Richard A. Gibbs
+2	Richard A. Gibbs
+2	Richa Agarwala
+2	Richa Agarwala
+2	René Adam
+2	Remuzzi Guiseppe
+2	Reintgen D S
+2	Rein David B
+2	Rehm Jürgen T
+2	Rehan Akbani
+2	Rebecca J. Leary
+2	R. Craig Cason
+2	Raymond N. DuBois
+2	Rayaz A. Malik
+2	Rasko Leinonen
+2	Rashmi N. Sanbhadti
+2	Raquelle I. Mesholam-Gately
+2	Ranganathan Dharani
+2	Randy L. Buckner
+2	Ranabir Guin
+2	Ralph H. Hruban
+2	Ralf Herwig
+2	Raju Kucherlapati
+2	Rajiv Dhir
+2	Rajinder Kaul
+2	Rajesh Radhakrishnan
+2	Raghu Kalluri
+2	Rafn Benediktsson
+2	Rafael Rosell
+2	Qunyuan Zhang
+2	Qasim Ayub
+2	Puigserver P
+2	Psychiatric and Neurodevelopmental Genetics Unit
+2	Psalm Haseley
+2	Program in Computational Biology and Bioinformatics
+2	Prevo R
+2	Preben B. Mortensen
+2	Prachi Kothiyal
+2	Pourmalek Farshad
+2	Porter David L
+2	Porrini Esteban
+2	Pope C Arden
+2	Plant Genome Mapping Laboratory
+2	Piyush B. Gupta
+2	Piotr A. Mieczkowski
+2	Pinglei Zhou
+2	Pilar N. Ossorio
+2	Pieter J. de Jong
+2	Pierre van der Bruggen
+2	Pierre D. Delmas
+2	Pier Paolo Pandolfi
+2	Pier Giuseppe Pelicci
+2	Pierce Kelsey
+2	Pienkowski Tadeusz
+2	Phillips David
+2	Philippe Rougier
+2	Philip A. Pizzo
+2	Petr Danecek
+2	Peter W. Laird
+2	Peter Shrader
+2	Peter Rzehak
+2	Peter J. Elliott
+2	Peter D. Stenson
+2	Peter Donnelly
+2	Peter Dolina
+2	Peter D. Kwong
+2	Peter Bickel
+2	Peter A. Kigonya
+2	Peter A. Jones
+2	Petar Stojanov
+2	Perico Norberto
+2	Per Hoffmann
+2	Perez-Ruiz Fernando
+2	Peng-Chieh Chen
+2	Pei Lin
+2	Peggy Yena
+2	Peggy J. Farnham
+2	Peer Bork
+2	Pawel Mroz
+2	Pawandeep Dhami
+2	Paul T. Spellman
+2	Paul S. Meltzer
+2	Paul S. Meltzer
+2	Paul R. Burton
+2	Paul Polakis
+2	Paul G. Giresi
+2	Paul Cormican
+2	Paul Anderson
+2	Paul A. Marks
+2	Patrick L. Fitzgibbons
+2	Patrick J. Collins
+2	Patrick F. Sullivan
+2	Patrick D Hsu
+2	Patrick C. Walsh
+2	Patrick C. Walsh
+2	Patrick C. Roche
+2	Patricia T Michie
+2	Patricia A. Spears
+2	Patricia A. Marshall
+2	Patrice Codogno
+2	Park
+2	Panos Roussos
+2	Panos Deloukas
+2	Panos Deloukas
+2	P. Andrew Futreal
+2	Pandian Jeyaraj Durai
+2	Pamela B. Mangu
+2	Pahari Bishnu
+2	Padilla Rogelio Perez
+2	Ozgediz Doruk
+2	Osborne Richard
+2	Ortblad Katrina
+2	Ophir Shalem
+2	 Oncology Programme
+2	Omer Saad B
+2	Olli Pietiläinen
+2	Olli P H Pietiläinen
+2	Olli Kallioniemi
+2	Oleg Khovayko
+2	Ole A Andreassen
+2	Ohno Summer Lockett
+2	O'Donnell Martin
+2	Nubia Muñoz
+2	Norman Wolmark
+2	Norman Wolmark
+2	Norman Wolmark
+2	Norman Paul
+2	Noreen Dhalla
+2	Noam Shoresh
+2	Noah Fahlgren
+2	Nisha Rajagopal
+2	Nina Thiessen
+2	Nilsa C. Ramirez
+2	Nikolaus Schultz
+2	Nikolaus Schultz
+2	Ni Huang
+2	Nigel P. Carter
+2	Nicole Soranzo
+2	Nicole L Glazer
+2	Nickolas Papadopoulos
+2	Nicholas P. Restifo
+2	Nicholas Petrelli
+2	Nicholas L. Smith
+2	Nicholas J. Vogelzang
+2	Nicholas D. Socci
+2	Nicholas C. Clemm
+2	Nianxiang Zhang
+2	Nelson B. Freimer
+2	Neil W Kowall
+2	Neil McKenzie
+2	Neill R Graff-Radford
+2	Neda Gharani
+2	Neal J. Meropol
+2	Neal G. Copeland
+2	Nathan D. Trinklein
+2	Nathalie Walters
+2	Narayan K M Venkat
+2	Naomi P. O'Grady
+2	Nancy E. Davidson
+2	Nancy A. Jenkins
+2	Nam H. Pho
+2	Naldi Luigi
+2	Nair M Nathan
+2	Naghavi Mohsen
+2	Murray F. Brennan
+2	Murray Christopher J L
+2	M University Health Science Center
+2	Moule S
+2	Morten Mattingsdal
+2	Morris W. Foster
+2	Morris Sherman
+2	Morgan L Maeder
+2	Moran Andrew
+2	Monique Monnerot
+2	Mokdad Ali A
+2	Mocumbi Ana Olga
+2	M. Negrini
+2	M. Negrini
+2	Mitchell Guttman
+2	Mitch Dowsett
+2	Miruna Balasundaram
+2	Miriam K. Konkel
+2	Min Wang
+2	Min Jian
+2	Ming-Cheng Luo
+2	Miller Ted R
+2	Miller Matthew
+2	Miles Parkes
+2	Milan Mazúr
+2	Mikhail Nefedov
+2	Mika Ala-Korpela
+2	Mieczyslaw A. Piatyszek
+2	Michel Solignac
+2	Michaud Catherine
+2	Michael W. Bevan
+2	Michael S. Lawrence
+2	Michael S. Lawrence
+2	Michael R. Williamson
+2	Michael R. Hamblin
+2	Michael Noble
+2	Michael M. Hoffman
+2	Michael J. Thun
+2	Michael J. Thun
+2	Michael J. Thun
+2	Michael J. Owen
+2	Michael G. Rosenfeld
+2	Michael Gill
+2	Michael E. Greenberg
+2	Michael E. Greenberg
+2	Michael Egholm
+2	Michael Eberle
+2	Michael D. Topal
+2	Michael Dicuccio
+2	Michael C. Turchin
+2	Michael Boehnke
+2	Michael Boehnke
+2	Michael Bilous
+2	Michael Bevan
+2	Michael A. Province
+2	M Health Science Center 
+2	Merriman Tony R
+2	Mensah George A
+2	Memish Ziad A
+2	M. Elizabeth H. Hammond
+2	Melissa Southey
+2	Melissa C. Greven
+2	Mel Greaves
+2	Melanie Newport
+2	Meir J. Stampfer
+2	Meir J. Stampfer
+2	M. Drescher
+2	McMasters K M
+2	McGrath John
+2	McDermott Mary M
+2	M Carola Zillikens
+2	McAnulty John H
+2	M. Birrer
+2	Mayosi Bongani M
+2	Max S. Wicha
+2	Maxim Koriabine
+2	Maurizio F Facheris
+2	Matzopoulos Richard
+2	Matthew R. Smith
+2	Matthew Meyerson
+2	Matthew Meyerson
+2	Matthew D. Wilkerson
+2	Matthew C. Nicholls
+2	Matthew Bainbridge
+2	Matthew A. Brown
+2	Matsumori Akira
+2	Masayoshi Shimizu
+2	Mary M. Horowitz
+2	Martin Peifer
+2	Martin Hasselmann
+2	Martin Gore
+2	Martin Ferguson
+2	Martin Farrall
+2	Martin Farrall
+2	Martina Müller
+2	Martha Hatfield
+2	Marsel Mesulam
+2	Marks Robin
+2	Mark Sherman
+2	Mark S. Guyer
+2	Marks Guy B
+2	Mark Seielstad
+2	Mark Marriott
+2	Mark J. Daly
+2	Mark J. Daly
+2	Mark J. Daly
+2	Mark I. McCarthy
+2	Mark Hansen
+2	Mark G. Kris
+2	Mark E. Dudley
+2	Mark D. Fleming
+2	Mark Caulfield
+2	Mark B. Gerstein
+2	Mark Backus
+2	Mark A. Jensen
+2	Mark A. DePristo
+2	Marjo-Riitta Järvelin
+2	Maris Teder-Laving
+2	Marion Friedl
+2	Marilena V. Iorio
+2	Marika Kaakinen
+2	Marie Christine Aubry
+2	Marian Valko
+2	Margot Albus
+2	Margi Sheth
+2	Margaret McCredie
+2	Marcus W. Albrecht
+2	Marcus Pembrey
+2	Marcus E. Peter
+2	Marco A. Marra
+2	Marc Ladanyi
+2	Marc J. van de Vijver
+2	Marcin Imielinski
+2	March Lyn
+2	Marc D. McKee
+2	Marc-Danie Nazaire
+2	Manuel Spannagl
+2	Manuela Ferracin
+2	Manson J E
+2	Mann Matthias
+2	Manjinder S Sandhu
+2	Manel Esteller
+2	Manel Esteller
+2	Manel Esteller
+2	Mallinger Leslie
+2	Madhu Mazumdar
+2	Madeline Alexander
+2	MacIntyre Michael F
+2	Mabweijano Jacqueline
+2	Lyudmila Georgieva
+2	Lynn M. Schriml
+2	Lynn Jorde
+2	Lynne V. Nazareth
+2	Lynda Chin
+2	Luke Jostins
+2	Lukas Habegger
+2	Lucas D. Ward
+2	Luba Kalaydjieva
+2	Lozano Rafael
+2	Loukas Moutsianas
+2	Lorraine H. Toji
+2	Lora Lewis
+2	Lopez Alan D
+2	Lixing Yang
+2	Li Wei
+2	Liuda Ziaugra
+2	Lisle E. Mose
+2	Lisa Murray
+2	Lisa M. McShane
+2	Lisa D. Brooks
+2	Lisa D. Brooks
+2	L. I. R. Ehrlich
+2	Lipshultz Steven E
+2	Lipnick Michael
+2	Lior Pachter
+2	Lingyun Song
+2	Ling Li
+2	Lin Fang
+2	Line Olsen
+2	Liming Yang
+2	Liming Liang
+2	Li Min
+2	Lieuwe de Haan
+2	L. Glass
+2	Lewis C. Cantley
+2	Lewis C. Cantley
+2	Levine Bruce L
+2	Levi A. Garraway
+2	Leslie H. Blumgart
+2	Leonard A. Mermel
+2	Lee M. Kaplan
+2	Lee M Kaplan
+2	Leather S
+2	Laurie Ailles
+2	Laura A. L. Dillon
+2	Larry Norton
+2	Lan Zhang
+2	Lance D. Miller
+2	Kyle Ellrott
+2	Kuo Ping Chiu
+2	Kung-Yee Liang
+2	Kundu Mondira
+2	Kuljeet Singh Sandhu
+2	Krishnamurthi Rita
+2	Koranteng Adofo
+2	Kobusingye Olive
+2	Knowlton Lisa Marie
+2	Klaus Hartfelder
+2	Klaudia Walter
+2	K. J. Pienta
+2	Kirsi H. Pietiläinen
+2	Kirsi H Pietiläinen
+2	Kirkwood J M
+2	Kim D. Pruitt
+2	Kim C. Worley
+2	Kimberly H. Allison
+2	Khoo Jon-Paul
+2	Keygene N.V.
+2	Kevin P. White
+2	Kevin L. Childs
+2	Keri L Monda
+2	Keren Andre
+2	Kenny Ye
+2	Kenneth W. Kinzler
+2	Kenneth W. Kinzler
+2	Kenneth W. Kinzler
+2	Kenneth W. Kinzler
+2	Kenneth W. Kinzler
+2	Kenneth W. Kinzler
+2	Kenneth W. Kinzler
+2	Kenneth W. Kinzler
+2	Kenneth W. Kinzler
+2	Kenneth R. Hess
+2	Kenna R. Mills Shaw
+2	Ken Chen
+2	Ken Buetow
+2	Keith D. James
+2	Keith A. Baggerly
+2	Kazutoyo Osoegawa
+2	Kathleen M. Foley
+2	Kathi Canese
+2	Katherine A. Hoadley
+2	Katherine A. Aronstein
+2	Kate R. Rosenbloom
+2	Kate Rosenbloom
+2	Kassebaum Nicholas
+2	Karthikeyan Ganesan
+2	Karoline Faust
+2	Karl Sirotkin
+2	Karl H. J. Gordon
+2	Kari Stefansson
+2	Kalos Michael
+2	Kai Ye
+2	Kai Wang
+2	Kai-How Farh
+2	J. Xu
+2	Junyuan Wu
+2	June Carl H
+2	Julien Baboud
+2	Julie M. Gastier-Foster
+2	Julie A Schneider
+2	Julian Adams
+2	Judit Bene
+2	Juan P. Casas
+2	J. Todd Auman
+2	Joyce B. J. van Meurs
+2	Joungmok Kim
+2	Jouko Lönnqvist
+2	Joshua Telser
+2	Joshua M. Stuart
+2	Joshua M. Stuart
+2	Joseph Sodroski
+2	Joseph P. Costantino
+2	Joseph Paulauskis
+2	Joseph M. Connors
+2	Joseph F. Fraumeni
+2	Joseph D. Buxbaum
+2	Joseph D Buxbaum
+2	Josée Dupuis
+2	José Baselga
+2	José Baselga
+2	Jordi Bruix
+2	Jordan W. Smoller
+2	Jonathan Wright
+2	Jonathan V. Sweedler
+2	Jonathan Stephens
+2	Jonathan Pimm
+2	Jonathan L. Marchini
+2	Jonathan L. Marchini
+2	John W. Wallis
+2	John W. Belmont
+2	John Stewart
+2	Johns Nicole
+2	John Quackenbush
+2	John P. Vogel
+2	John P. Rice
+2	John N. Weinstein
+2	John N. Weinstein
+2	John M. Greene
+2	John J McGrath
+2	John H. Glick
+2	John Crowley
+2	John Bartlett
+2	John A. Stamatoyannopoulos
+2	John A. Demchok
+2	Johannes Kettunen
+2	Johan G. Eriksson
+2	Johan G Eriksson
+2	Johan Eriksson
+2	Joe W. Gray
+2	Joel N. Hirschhorn
+2	Job Dekker
+2	Joban S. Sehmi
+2	Joan U. Pontius
+2	Joan Pontius
+2	JoAnn E. Manson
+2	Joan Massagué
+2	Jin Yu
+2	Jin Soo Lee
+2	Jin Lian
+2	Jing Leng
+2	Jingchun Zhu
+2	Jinchuan Xing
+2	Jim Robinson
+2	Jill Mesirov
+2	Jill Cheng
+2	Jie Wu
+2	Jiaqian Wu
+2	Jianxin Shi
+2	Jiantao Wu
+2	Jianjun Liu
+2	Jianjiong Gao
+2	Jiang Xuejun
+2	J Godwin
+2	J.G.M. Klijn
+2	Jessica Walton
+2	Jesse Walsh
+2	Jerry W. Shay
+2	Jerilyn A. Walker
+2	Jeremy M. Simon
+2	Jeremiah Degenhardt
+2	Jennifer N. Bragg
+2	Jennifer L. Harrow
+2	Jennifer G. Sambrook
+2	Jennifer Bacik
+2	Jennie Hui
+2	Jennie Hui
+2	Jemal Ahmedin
+2	Jeffrey W. Pollard
+2	Jeffrey S. Weber
+2	Jeffrey S. Abrams
+2	Jeffrey M. Trent
+2	Jeffrey G. Reid
+2	Jeffrey C. Barrett
+2	Jeffrey A. Rosenfeld
+2	Jeff Reid
+2	Jeff H. Chang
+2	Jean Marie Cornuet
+2	Jean E. McEwen
+2	J. Bartek
+2	Jay D. Pearson
+2	Jayaraman Sudha
+2	Javier Herrero
+2	Javier Herrero
+2	Jasrasaria Rashmi
+2	Jason Walker
+2	Jason Gotlib
+2	Jason D. Lieb
+2	Jared R. Slobodan
+2	Jan O. Korbel
+2	Jan F. Prins
+2	Jane S. Kaye
+2	Jane Rogers
+2	Jane L. Peterson
+2	Jan Dvorak
+2	Janae V. Simons
+2	James Stalker
+2	James Spencer L
+2	James Ostell
+2	James O. Armitage
+2	James N. Ingle
+2	James L. Kennedy
+2	James Knight
+2	James Hartigan
+2	James D. Griffin
+2	James C. Yang
+2	James C. Nemesh
+2	James C. Mullikin
+2	James C. Carrington
+2	James B. Brown
+2	Jagels K
+2	Jacques Pouysségur
+2	Jacques Mallet
+2	Jacques Ferlay
+2	Jacqueline E. Schein
+2	Jacqueline D. Palchik
+2	Jacqueline Chrast
+2	Jacobsen Kathryn H
+2	Jackson D G
+2	Jaap Verweij
+2	Jaana Suvisaari
+2	 Istituto Toscano Tumori
+2	 Istituto di Fisiologia Clinica
+2	Issam Raad
+2	Irvin M. Modlin
+2	Irving L. Weissman
+2	Iris Albert
+2	INSERM UMR-S 631
+2	Ingrid Agartz
+2	Inez Myin-Germeys
+2	Inanc Birol
+2	Im Young-Hyuck
+2	Im Seock-Ah
+2	Iman Hajirasouliha
+2	Ignacio Varela
+2	Ida Surakka
+2	Icelandic Heart Association
+2	Icelandic Heart Association
+2	Icelandic Heart Association
+2	Ian Dunham
+2	Ian Bell
+2	Hyun Min Kang
+2	Hyman B. Muss
+2	Hye-Jung E. Chun
+2	Huy Nguyen
+2	Huyen Dinh
+2	Hui Zhao
+2	Hugh Gurling
+2	Hu F B
+2	 Huazhong Agricultural University
+2	Huanming Yang
+2	Hualin S. Xi
+2	Hreinn Stefansson
+2	Hoy Damian
+2	Howard I. Scher
+2	Hotez Peter J
+2	Honglong Wu
+2	Holroyd S
+2	Hoen Bruno
+2	Hitoshi Matsushime
+2	Hin-Tak Leung
+2	Henry T. Lynch
+2	Henrik B. Rasmussen
+2	Henri Bismuth
+2	Heng Li
+2	Helga Thorvaldsdottir
+2	Helen McConachie
+2	Heldin C H
+2	Heidi S. Feiler
+2	Heidi J. Sofia
+2	Heather Trumbower
+2	Heather A. Hirsch
+2	Hay Roderick J
+2	Havmoeller Rasmus
+2	Hartmut Juhl
+2	Hartmut Döhner
+2	Harsha P. Gunawardena
+2	Harry J. de Koning
+2	Harrison James E
+2	Haring Diana
+2	Harald Grallert
+2	Hans Lehrach
+2	Hanne F. Harbo
+2	Hanjun Jin
+2	Hancheng Zheng
+2	Hamlin N
+2	Halasa Yara A
+2	Haiyan I. Li
+2	Hailei Zhang
+2	Hagop Kantarjian
+2	Gyungah Jun
+2	Guoqing Li
+2	Guoliang Li
+2	Guillaume Lettre
+2	Guillaume Lettre
+2	Guido Kroemer
+2	Guido Kroemer
+2	Grigory Starchenko
+2	Gregory M. Cooper
+2	Gregory E. Crawford
+2	Gregory C. Lefebvre
+2	Gregory A. Buck
+2	Greg Eley
+2	Granger G. Sutton
+2	Graham A. Colditz
+2	Graham A. Colditz
+2	Graham A. Colditz
+2	Graham A. Colditz
+2	Gordon Saksena
+2	Gordon Lowe
+2	Goodman S N
+2	Gonçalo R. Abecasis
+2	Giuseppe Viale
+2	Giuseppe Cazzamali
+2	Giulio Genovese
+2	Giovanni Parmigiani
+2	Giovanni Ciriello
+2	Giorgio Sirugo
+2	Gini F. Fleming
+2	Gillum Richard F
+2	Gil A. McVean
+2	Gerton Lunter
+2	Gershenwald J E
+2	Gerhard Christofori
+2	Gerard R. Lazo
+2	Gérard Pascal
+2	Gerald Nestadt
+2	Gerald Fowler
+2	Georg Haberer
+2	George M. Weinstock
+2	George A. Calin
+2	George A. Calin
+2	Georg B. Ehret
+2	Gayle K. Clelland
+2	Gaurav Jain
+2	Gaspari Flavio
+2	Gary M. Clark
+2	Gary K. Scott
+2	Gary E. Goodman
+2	Gary D. Bader
+2	Garrett M. Brodeur
+2	Gakidou Emmanuela
+2	Gail H. Vance
+2	Gad Getz
+2	Gad Getz
+2	Gad Getz
+2	Gabriel Sherine E
+2	Gabriel Nuñez
+2	F. Xavier Bosch
+2	Fulvio Ricceri
+2	Fuli Yu
+2	Freeman Michael K
+2	Fredrik Karpe
+2	Freddie Bray
+2	Fransen Marlene
+2	Frank M. You
+2	Frank L. Meyskens
+2	Franklin Richard
+2	Frank Hauser
+2	Frank E. Speizer
+2	Frank Dudbridge
+2	Frank B. Hu
+2	Francis S. Collins
+2	Francis S. Collins
+2	Francis S. Collins
+2	Francis S. Collins
+2	Francis Lévi
+2	Francisco M. De La Vega
+2	France Denoeud
+2	Fowkes Francis Gerry R
+2	Fortunato Ciardiello
+2	Forouzanfar Mohammad H
+2	Foreman Kyle
+2	Floyd E. Dewhirst
+2	Florian Mertes
+2	Florencia Pauli
+2	Florencia Bullrich
+2	Flaxman Abraham D
+2	F. Krausz
+2	Fiona Cunningham
+2	Ferlay Jacques
+2	Fereydoun Hormozdiari
+2	Feltwell T
+2	Fei Pan
+2	Feigin Valery
+2	Farooq Amin
+2	Ezzati Majid
+2	E. Ward
+2	Evolutionary Analysis Group)
+2	Evan E. Eichler
+2	Eunjung Lee
+2	Eugene Yaschenko
+2	Eugene Kulesha
+2	Ethan Cerami
+2	Ethan Cerami
+2	Estonian Genome Center
+2	Estonian Biocenter
+2	Esteban Celis
+2	Espindola Patricia
+2	Eshelman School of Pharmacy
+2	Esben Agerbo
+2	Erwin Patricia J
+2	Erin Pleasance
+2	Erik P. Garrison
+2	Erika Salvi
+2	Eric Vittinghoff
+2	Eric Van Cutsem
+2	Eric Strengman
+2	Eric S. Lander
+2	Eric S. Lander
+2	Eric S. Lander
+2	Eric S. Lander
+2	Eric J. Hall
+2	Eric J. G. Sijbrands
+2	Eric J. Feuer
+2	Eric E. Snyder
+2	Eric D. Green
+2	Eric Collisson
+2	Eric Boerwinkle
+2	Eric Banks
+2	Engilbert Sigurdsson
+2	 Emory University
+2	Emili Montserrat
+2	Ellen L. Goode
+2	Elizabeth K. Speliotes
+2	Elizabeth K Speliotes
+2	Elizabeth Buda
+2	Elisabeth J. Chapman
+2	Eli A. Stahl
+2	Eleonora Porcu
+2	Ekta Khurana
+2	Eisen M B
+2	Edwin Sequeira
+2	Edwin R. Fisher
+2	Edward V. Ball
+2	Edward A. Sekinger
+2	Edith A. Perez
+2	Edith A. Perez
+2	Edison T. Liu
+2	Eden R Martin
+2	E. Christopher Partridge
+2	Ebel Beth
+2	D. Williams Parsons
+2	Duber Herbert
+2	Driscoll Tim
+2	Draga Toncheva
+2	Doug Voet
+2	Douglas Voet
+2	Douglas R. Smith
+2	Doug Easton
+2	Dorsey E Ray
+2	Donna R. Maglott
+2	Donna Muzny
+2	Donghui Tan
+2	Donald Maxwell Parkin
+2	Dominique Vautrin
+2	Dominique L. Berton
+2	Dominik Stoll
+2	D. Neil Hayes
+2	D. Lawrence Wickerham
+2	Division of Preventive Medicine
+2	Division of Preventive Medicine
+2	Division of Preventive Medicine
+2	Ditte Demontis
+2	Dimitris Dikeos
+2	Digby Quested
+2	Diane Trout
+2	Diabetes Research Centre
+2	Dharmaratne Samath D
+2	D. Gary Gilliland
+2	de Vaccaro Karen Courville
+2	Des Jarlais Don C
+2	Dermot Walsh
+2	Derek Y. Chiang
+2	Derek Y. Chiang
+2	Département de Génétique Médicale
+2	Dennis T. Maglinte
+2	Dennis M. Black
+2	Dennis A. Benson
+2	Deniz Kural
+2	Denis Castaing
+2	Denenberg Julie
+2	Delossantos Allyne
+2	De Leo Diego
+2	Degenhardt Louisa
+2	Deepak Srinivasan
+2	Deborah Grady
+2	Deborah A. Nickerson
+2	de Bono Johann S
+2	Debbie Laudencia-Chingcuanco
+2	Deanna M. Church
+2	D.C. Allred
+2	Davis P
+2	David Vetrie
+2	David Torrents
+2	David Schlipalius
+2	David R. Bentley
+2	David R. Bentley
+2	David R. Bentley
+2	David M. Sabatini
+2	David M. Livingston
+2	David J. Van Den Berg
+2	David J. Sugarbaker
+2	David J. Lipman
+2	David J. Hunter
+2	David J Hunter
+2	David J. Dooling
+2	David J. Brenner
+2	David Jayne
+2	David H. Johnson
+2	David Haussler
+2	David Haussler
+2	David G. Hicks
+2	David Forman
+2	David Evans
+2	David Dooling
+2	David Cunningham
+2	David B. Jaffe
+2	David B. Jaffe
+2	David A. Wheeler
+2	David A. Pot
+2	David Altshuler
+2	David Altshuler
+2	David A. Hafler
+2	Darshan Singh
+2	Darlene Lee
+2	Dan Rujescu
+2	Dan Rokhsar
+2	Danny Challis
+2	Dan L. Duncan Cancer Center
+2	Daniel Zerbino
+2	Danielle Posthuma
+2	Daniel J. Weisenberger
+2	Daniel J. Weisenberger
+2	Daniel J. Sargent
+2	Daniel J. Richter
+2	Daniel J. Hicklin
+2	Daniel J. George
+2	Daniel G. MacArthur
+2	Daniel F. Hayes
+2	Daniel D. Karp
+2	Daniel DiCara
+2	Daniel Azoulay
+2	Dan Davison
+2	Damian Keefe
+2	Dahodwala Nabila
+2	Dabhadkar Kaustubh C
+2	Curt D. Furberg
+2	Cross Marita
+2	Cronin A
+2	Cristyn Kells
+2	Cristina Sisu
+2	Criqui Michael H
+2	C Redmond
+2	Cowie Benjamin C
+2	Couser William
+2	Cortinovis Monica
+2	Corriere Matthew
+2	Cornelis J. P. Grimmelikhuijzen
+2	Cornelis A. Albers
+2	Cornelia M. van Duijn
+2	Corbin D. Jones
+2	Cooper Leslie T
+2	Connor Myles D
+2	Condon John
+2	Computational Biology Center
+2	 Comprehensive Cancer Center
+2	Colson K Ellicott
+2	Colquhoun Samantha
+2	Colin Mathers
+2	Colditz G A
+2	Colan Steven D
+2	Coit D G
+2	Coffeng Luc E
+2	 CNRS-UPR 2357
+2	CNRS
+2	C. M. Perou
+2	C. Michael Dickens
+2	Clement C. Zai
+2	Claudine Laurent
+2	C. J. Vörösmarty
+2	Cinzia Sevignani
+2	Churcher C
+2	Chunlin Xiao
+2	Chugh Sumeet S
+2	Chris Wakefield
+2	Chris Tyler-Smith
+2	Christos Pantelis
+2	Christoph M. Koch
+2	Christopher Wilks
+2	Christopher Szeto
+2	Christopher M. Taylor
+2	Christopher M. Sullivan
+2	Christopher K. Glass
+2	Christopher J. Rhodes
+2	Christopher J. O’Donnell
+2	Christopher J. L. Murray
+2	Christopher G. Mathew
+2	Christopher C. Benz
+2	Christine Emore
+2	Christine Czerwinski
+2	Christina Yau
+2	Christina Liquori
+2	Christie L. Kovar
+2	Christie Kovar
+2	Chris Sander
+2	Chris J. L. M. Meijer
+2	Chris Hartl
+2	Chris C. A. Spencer
+2	Chou David
+2	Chillingworth T
+2	Child and Adolescent Mental Health
+2	Chia-Lin Wei
+2	Chetan Lathia
+2	Chen Honglei
+2	Charles N. Rotimi
+2	Charles N. Rotimi
+2	Charles N. Rotimi
+2	Charles M. Perou
+2	Charles M. Perou
+2	Charles M. Perou
+2	Charles M. Perou
+2	Charles M. Perou
+2	Charles M. Perou
+2	Charles J. Sherr
+2	Charles J. Lowenstein
+2	Charles B. Epstein
+2	Changqing Zeng
+2	Changqing Zeng
+2	Chang Gong Liu
+2	Chandra Sekhar Pedamallu
+2	Chad Nusbaum
+2	Centre for Integrative Register-based Research
+2	Centre for Genetic Epidemiology and Biostatistics
+2	Centre for Genetic Epidemiology and Biostatistics
+2	 Center for Integrative Genomics
+2	 Cell Biology
+2	Cédric Howald
+2	Catrina C. Fronick
+2	Cascinelli N
+2	Carrie Hirst
+2	Carol Scott
+2	Carmel M. Loughland
+2	Carl Schaefer
+2	Carlo Sidore
+2	Carlos Cordon-Cardo
+2	Carlo M. Croce
+2	Carlo M. Croce
+2	Carapetis Jonathan
+2	Candace Shelton
+2	Can Alkan
+2	Calin Dan Dumitru
+2	Caligiuri M A
+2	Busselton Population Medical Research Foundation Inc.
+2	Busselton Population Medical Research Foundation Inc.
+2	Burney Peter
+2	Burch Michael
+2	Bucello Chiara
+2	Bryan Howie
+2	Bruce N. Ames
+2	Bruce M. Spiegelman
+2	Bruce E. Johnson
+2	Bruce A. Roe
+2	Bruce A. J. Ponder
+2	Brown P O
+2	Brooks K
+2	Brigham & Women's Hospital
+2	Brian L. Browning
+2	Brian G. M. Durie
+2	Brian D. O’Connor
+2	Brian Craft
+2	Brian A. Williams
+2	Brian A. Risk
+2	Brenda Rabeno
+2	Brenda Ayala
+2	Bray Freddie
+2	Brandon King
+2	Bradley M. Broom
+2	Bradley E. Bernstein
+2	Bradley A. Ozenberger
+2	Bo Wang
+2	Boufous Soufiane
+2	Botstein D
+2	Boris Reva
+2	Boris Reva
+2	Bonnee Rubinfeld
+2	Bolliger Ian
+2	Blyth Fiona
+2	Bloomfield C D
+2	Birbeck Gretchen
+2	 Bioinformatics Program
+2	Bin Abdulhak Aref
+2	Bikbov Boris
+2	Bharat B. Aggarwal
+2	Bhalla Kavi
+2	BGI-Shenzhen
+2	Bettina Konte
+2	Bert Vogelstein
+2	Bert Vogelstein
+2	Bert Vogelstein
+2	Bert Vogelstein
+2	Bert Vogelstein
+2	Bert Vogelstein
+2	Bert Vogelstein
+2	Bert Vogelstein
+2	Bert Vogelstein
+2	Bernd Timmermann
+2	Bernard Paule
+2	Bernard Fisher
+2	Bernard Fisher
+2	Bergkvist L
+2	Bennett Derrick
+2	Benjamin Gross
+2	Benjamin Emelia J
+2	Bell Michelle L
+2	Beat Thürlimann
+2	Basham D
+2	Baselga José
+2	Bartha M. Knoppers
+2	Bartha M. Knoppers
+2	Bartels David H
+2	Barry S. Taylor
+2	Barry S. Taylor
+2	Barry Halliwell
+2	Barrell B G
+2	B. Arman Aksoy
+2	Barker-Collo Suzanne
+2	Barcelona Supercomputing Center
+2	Barbara Tabak
+2	Barbara Fisher
+2	Baoli Zhu
+2	Balch C M
+2	Baker S
+2	Baikang Pei
+2	Bagg Adam
+2	Baddour Larry M
+2	Ayellet V. Segrè
+2	Axin Hua
+2	Axel Visel
+2	Atkinson Charles
+2	Atkins M B
+2	Atif Shahab
+2	Atif Shahab
+2	Athinoula A. Martinos Center
+2	Åslaug R. Lorentzen
+2	Asif T. Chinwalla
+2	Asif Chinwalla
+2	Arlene H. Sharpe
+2	Ari B. Kahn
+2	Arend Sidow
+2	Aravinda Chakravarti
+2	Anuj Goel
+2	Antonio Sica
+2	Antonio C. Wolff
+2	Antonette C. Preisinger
+2	Anthony J. Smith
+2	Ann Olincy
+2	Anneli Pouta
+2	Anneli Pouta
+2	Anna Unruh
+2	Anna L. Chu
+2	Annaick Carles
+2	Anita B. Roberts
+2	Anisha Gulabani
+2	Anirban Maitra
+2	Anindya Dutta
+2	Aniko Sabo
+2	Angelika Merkel
+2	Angela Hadjipanayis
+2	 and the West Haven Veterans Affairs Medical Center
+2	Andrey Sivachenko
+2	Andrew T. Turrisi
+2	Andrew T. Hattersley
+2	Andrew T Hattersley
+2	Andrews Kathryn G
+2	Andrew P. Morris
+2	Andrew M. McIntosh
+2	Andrew McQuillin
+2	Andrew G. Clark
+2	Andrew G. Clark
+2	Andrew D Morris
+2	Andrew D. Cherniack
+2	Andrew D. Cherniack
+2	Andrew Crenshaw
+2	Andrew C. Pike
+2	André Uitterlinden
+2	André Robidoux
+2	Andre G. Uitterlinden
+2	Andrea Tanzer
+2	Andrea Sboner
+2	 and Professor of Medicine
+2	Anderson Laurie M
+2	Anderson H Ross
+2	Anders Jacobsen
+2	Anders Hamsten
+2	Anders D Børglum
+2	 and Chief
+2	 and Center for Dementia Research
+2	 and Center for Dementia Research
+2	Ana F. Sequeira
+2	Amy Strange
+2	Amy L. McGuire
+2	Amanda B. Hummon
+2	Alvarado Miriam
+2	AlMazroa Mohammad A
+2	Allan Van Oosterom
+2	Allan Bradley
+2	Alkes Price
+2	Alistair S. Hall
+2	Alistair N. Ward
+2	Alfred J. Meijer
+2	Alexis Christoforides
+2	Alexias Safi
+2	Alex E. Lash
+2	Alexej Abyzov
+2	Alexej Abyzov
+2	Alexei Protopopov
+2	Alexandre Reymond
+2	Alexandre Reymond
+2	Alexander Meissner
+2	Alexander Meissner
+2	Alexander Meissner
+2	Alexander Kanapin
+2	Alberto Mantovani
+2	Alastair Kent
+2	Alan R. Sanders
+2	Alan P. Hoyle
+2	Alan D. Lopez
+2	A. K. Godwin
+2	A. Jemal
+2	Ahn Stephanie Y
+2	Ahmet A. Kurdoglu
+2	Ahmedin Jemal
+2	Ahmedin Jemal
+2	A. Gordon Robertson
+2	Aggarwal Rakesh
+2	Adrian V. S. Hill
+2	Adrian M. Stütz
+2	Adam Siepel
+2	Adam L. Felsenfeld
+2	Adam Butler
+2	Adam Auton
+2	Abraham Jerry
+2	Aboyans Victor
+2	A. Avogadro&quot

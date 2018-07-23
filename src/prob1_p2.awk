@@ -24,7 +24,7 @@ BEGIN{
     keywords=18; abstract=19; authors=20;
 }
 
-($0~topic && $num_authors > 0 && $n_citation!~/null/ && $n_citation>100){
+($0~topic && $num_authors > 0 && $n_citation!~/null/ && $n_citation>1000){
    #find out the authors whose names are repeating for a particular topic. Those authors will be considered experts. 
    gsub("\"","",$authors)
    split($authors, a, ";")
