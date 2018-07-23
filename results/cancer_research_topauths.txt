@@ -15,72 +15,53 @@
 38	E. J. Blanchette-Mackie
 38	D. Markie
 38	D. B. Krizman
-21	T. Fojo and S. E. Bates are in the Medicine Branch
-21	S. H. Friend is at the Fred Hutchinson Cancer Research Center-NCI
-21	R. E. Wittes is in the Office of the Director
-21	N. L. Anderson is with Large Scale Biology
-21	L. V. Rubinstein is in the Biometric Research Branch
-21	G. S. Johnson is in the Grants and Contracts Operations Branch
-21	E. A. Sausville is in the Developmental Therapeutics Program (DTP)
-21	D. W. Zaharevitz and K. D. Paull are in the Information Technology Branch
-21	A. P. Monks and D. A. Scudiero are at the SAIC-NCI-Frederick Cancer Research and Development Center (FCRDC)
+21	T. Fojo and S. E. Bates 
+21	S. H. Friend 
+21	R. E. Wittes 
+21	N. L. Anderson 
+21	L. V. Rubinstein 
+21	G. S. Johnson 
+21	E. A. Sausville 
+21	D. W. Zaharevitz and K. D. Paull 
+21	A. P. Monks and D. A. Scudiero 
 20	P. ten Dijke
 20	M. Takagi
 20	K. Irie and K. Matsumoto
 20	E. Nishida
-13	Medical Research Council (MRC) Centre for Neuropsychiatric Genetics and Genomics
 13	 Cancer Diagnosis Program
-13	 Boston
 11	Tor Vergata&quot
-11	 Division of Hematology
-11	Canada’s Michael Smith Genome Sciences Centre
 10	X. Meng
 10	Wellcome Trust Centre for Human Genetics
-10	These authors contributed equally to this work.
 10	M. Swartz
 10	Hugh M. Robertson
 10	H. Ichijo
 10	George M. Weinstock
 10	Christine G. Elsik
 9	Division of Genetics
-8	Wellcome Trust Centre for Human Genetics
-8	These authors contributed equally to this work.
 8	Stanley Center for Psychiatric Research
 8	Analytic and Translational Genetics Unit
 7	Ryszard Maleszka
 7	Molecular Pathology Unit
-7	 Harvard Medical School
 7	Gene E. Robinson
 7	Elaine R. Mardis
-6	The Lundbeck Foundation Initiative for Integrative Psychiatric Research
 6	Philip L. De Jager
 6	Justin T. Reese
 6	John A. Todd
-6	 INSERM
 6	Eric S. Lander
 6	David G. Clayton
 6	Center for Cancer Research
-5	Wellcome Trust Centre for Human Genetics
-5	 University of Michigan
-5	These authors contributed equally.
 5	Steven J. M. Jones
 5	Richard K. Wilson
 5	R. Herrera
 5	Medical and Population Genetics Program
 5	Harvard Medical School
-5	 Genome Sequencing Center
 5	Framingham Heart Study
-5	Ewan Birney
 5	Ewan Birney
 5	Epigenome Center
 5	Emmanouil T. Dermitzakis
-5	Divisions of Genetics and Endocrinology and Program in Genomics
 5	David Haussler
 5	Daniel B. Weaver
-5	 Comprehensive Cancer Center
-4	 University of Rome “Tor Vergata”
 4	Todd Lencz
-4	These authors contributed equally to this work.
 4	Richard A. Gibbs
 4	Psychiatry Section
 4	Program in Medical and Population Genetics
@@ -92,7 +73,6 @@
 4	Nilesh J. Samani
 4	Natalia V. Milshina
 4	MRC Centre for Neuropsychiatric Genetics and Genomics
-4	 Michigan Urology Center
 4	Michael W. Bevan
 4	M Health Science Center
 4	Mark S. Guyer
@@ -104,7 +84,6 @@
 4	Lon R. Cardon
 4	Li Ding
 4	Leena Peltonen
-4	 La Trobe University
 4	Kim C. Worley
 4	Jun Wang
 4	J. Spencer Johnston
@@ -116,7 +95,6 @@
 4	Jainab Khatun
 4	Istituto di Ricerca Genetica e Biomedica
 4	Ian Dunham
-4	 Georgia Regents University
 4	Genetics of Complex Traits
 4	David F. Garvin
 4	David Altshuler
@@ -129,7 +107,6 @@
 4	Center for Human Genetic Research
 4	Center for Applied Genomics
 4	Carlo Bo&quot
-4	 Albano (Rome) 00041
 4	Aarno Palotie
 3	Zhiping Weng
 3	Yusuke Nakamura
