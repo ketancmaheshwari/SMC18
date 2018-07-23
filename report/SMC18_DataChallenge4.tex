@@ -35,23 +35,23 @@ and a glance at the results. Source code for solutions and results may be found
 at https://github.com/ketancmaheshwari/SMC18. The source code for the core
 solutions are in files \texttt{src/prob*.awk}. The source code for the Swift
 parallelization of the core solutions are in files \texttt{src/runprob*.swift}.
+All the results are in \texttt{results/} directory.
 
 \section*{Tools used}
 \subsection*{Software}
 Classic Linux tools such as \texttt{awk}, \texttt{sort}, \texttt{grep},
-\texttt{tr}, \texttt{sed} and \texttt{bash} are used.  The \texttt{jq} tool is
-used for initial data conversion from json to awk-suitable tabular format. For
-the bulk of processing, \texttt{awk} is used. Syntax of awk programs is known
-to be terse and hard to read by some accounts. I have taken special care to
-make the programs as readable as possible.  ANL's Swift
-(\texttt{swift-lang.org/Swift-T}) parallel scripting tool was used to run the
+\texttt{tr}, \texttt{sed} and \texttt{bash} are used.  For the bulk of
+processing, \texttt{awk} is used. Syntax of awk programs is known to be terse
+and hard to read by some accounts. I have taken special care to make the
+programs as readable as possible.  ANL's Swift
+(\texttt{swift-lang.org/Swift-T}) parallel scripting tool is used to run the
 awk programs in parallel over the dataset to radically improve performance.
 Swift uses MPI based communication and load-balancing model to parallelize over
 shared as well as distributed memory architectures.
 
 \subsection*{Hardware}
 A large-memory (24 T) SGI system with 512-core Intel Xeon (2.5GHz) was used for
-all the processing.
+all the processing. All the IO is memory bound (\textit(/dev/shm).
 
 \subsection*{Rationale}
 \begin{enumerate}
@@ -63,29 +63,29 @@ all the processing.
 \end{enumerate}
 
 \section*{Data}
-The data was originally in two sets of json files (total 322 files) each
-containing a million records. The data also consisted of a file that recorded
-the list of duplicate records. An \texttt{awk} script
-(\texttt{src/filterdup.awk}) was used to exclude the duplicate records from the
+The original data was in two sets (\textit{aminer} and \textit{mag}) of json
+files (total 322 files) each file containing a million records. The data also
+consisted of a file with a list of duplicate records. An \texttt{awk} script
+(\texttt{src/filterdup.awk}) is used to exclude the duplicate records from the
 aminer dataset. As a result, there are over 256 million (256,382,605 to be
 exact) unique records to process. The data occupies 329G of disk space. Several
-fields in the data are \texttt{null}. Those records were avoided where
+fields in the data are \texttt{null}.  Those records were avoided where
 relevant. Additionally, records related to non-English publications were
 avoided where needed.
 
 The json files were converted to tabular files with 19 original columns and one
-additional column called ``num\_authors" showing the number of authors for a given
-publication record.
+additional column called \textit{``num\_authors"} showing the number of authors
+for a given publication record.
 
 \subsection*{Auxiliary data}
-In addition to the existing data, I use four lists: 1) List of cities and their
-lat-long coordinates (3,517) of world with population 100,000 or above; 2) List
-of countries (190); 3) List of all the universities and research institutes
-(8,984); 4) A list of common words to avoid in some of the results (161 words).
+In addition to the existing data, I use four lists: 1) A list of cities and their
+lat-long coordinates (3,517) of world with population 100,000 or above; 2) A list
+of countries (190); 3) A list of all the universities and research institutes
+(8,984); 4) A list of stop-words to avoid in some of the results (161 words).
 
 \section*{Solutions}
 \subsection*{Preprocessing}
-The original data is in json format. The jq tool was used to transform it to
+The \texttt{jq} (stedolan.github.io/jq) tool was used to transform json data to
 tabular format (\texttt{src/json2tabular.sh}). Further curation of table data
 was done by removing extraneous space, square brackets, escape characters and
 quotes using \texttt{sed}.
