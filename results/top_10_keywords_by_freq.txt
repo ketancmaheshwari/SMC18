@@ -1,10 +1,10 @@
-2692798 human
-2643443 homme
-2573529 hombre
-1581246 bioinformatics
-1564346 humans
-1498030 biomedical research
-1138396 vertebrata
-1128024 life sciences
-1058143 citation search
-1058143 biological patents
+23297683 patients
+20674538 results
+18796506 data
+17091811 method
+17071304 system
+14813895 analysis
+14396435 different
+14009283 high
+13996287 model
+13688859 based
