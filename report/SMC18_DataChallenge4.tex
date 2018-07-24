@@ -73,9 +73,6 @@ fields in the data are \texttt{null}.  Those records were avoided where
 relevant. Additionally, records related to non-English publications were
 avoided where needed.
 
-The json files were converted to tabular files with 19 original columns and one
-additional column called \textit{``num\_authors"} showing the number of authors
-for a given publication record.
 
 \subsection*{Auxiliary data}
 In addition to the existing data, I use four lists: 1) A list of cities and their
@@ -86,9 +83,12 @@ of countries (190); 3) A list of all the universities and research institutes
 \section*{Solutions}
 \subsection*{Preprocessing}
 The \texttt{jq} (stedolan.github.io/jq) tool was used to transform json data to
-tabular format (\texttt{src/json2tabular.sh}). Further curation of table data
-was done by removing extraneous space, square brackets, escape characters and
-quotes using \texttt{sed}.
+tabular format (\texttt{src/json2tabular.sh}).  The json files were converted
+to tabular files with 19 original columns and one additional column called
+\textit{``num\_authors"} showing the number of authors for a given publication
+record. The authors field has a semi-colon separator for multiple authors.
+Further curation of table data was done by removing extraneous space, square
+brackets, escape characters and quotes using \texttt{sed}.
 
 \subsection*{Parallelization and Speedup}
 Each of the solution is run in parallel over the 334 data files. This has
@@ -174,9 +174,10 @@ those keywords appear in an existing publication record, it is a suspect. A
 broad list of suspects may be found with logical OR between keywords which
 could be narrowed with logical AND. The keywords may be arbitrarily combined in
 logical ORs and ANDs. The results file \texttt{/results/suspects.txt} shows
-over 1,400 suspects for an AND combination of keywords:  battery, electronics,
-lithium, and energy from English language papers. The parallel implementation
-of the task finishes in 26 seconds.
+over 1,400 suspects for an AND combination of keywords:  \textit{battery},
+\textit{electronics}, \textit{lithium}, and \textit{energy} from English
+language papers. The parallel implementation of the task finishes in 26
+seconds.
 
 \subsection*{Postprocessing}
 Some results were postprocessed for sorting and merging purposes using Linux

@@ -20,12 +20,12 @@ BEGIN{
     doctype_issn=6;   lang=7;        n_citation=8;  issue=9;     url=10;
     volume=11;        page_start=12; page_end=13;   year=14;     venue=15; 
     publisher_pdf=16; references=17; keywords=18;   abstract=19; authors=20;
-    flag=0;
 }
 
 NR==FNR{topic[$1];next}
 
 $lang~/en/ && ($keywords!~/null/ || $title!~/null/ || $abstract!~/null/) {
+
     # treat title
     $title = tolower($title)
     lena=split($title, a, " ")
@@ -34,27 +34,36 @@ $lang~/en/ && ($keywords!~/null/ || $title!~/null/ || $abstract!~/null/) {
     $keywords = tolower($keywords)
     lenb=split($keywords, b, ",")
 
-     # treat abstract (Computationally expensive--ran once, results are in: top_1000_words_from_kw_abstract_title_by_freq.txt)
+     # treat abstract 
      $abstract = tolower($abstract)
      gsub("\"","",$abstract)
      gsub(",","",$abstract)
      lenc=split($abstract, c, " ")
-     
+
      for (i in topic){
-         for (n=0;n<alen;n++) 
-             if(a[n]==i){ topic[i]=topic[i]",1" }else{ topic[i]=topic[i]",0" }
+         flag=0
+         for (n=0;n<lena;n++) 
+             if(a[n]==i){ printf("%s:1\n",i); flag=1; break}
+         
+         if (flag==1) continue
 
-         for (n=0;n<blen;n++) 
-             if(b[n]==i){ topic[i]=topic[i]",1" }else{ topic[i]=topic[i]",0" }
+         for (n=0;n<lenb;n++) 
+             if(b[n]==i){ printf("%s:1\n",i); flag=1; break} 
 
-         for (n=0;n<clen;n++) 
-             if(c[n]==i){ topic[i]=topic[i]",1" }else{ topic[i]=topic[i]",0" }
+         if (flag==1) continue
+
+         for (n=0;n<lenc;n++) 
+             if(c[n]==i){ printf("%s:1\n",i); flag=1; break} 
+
+         if (flag==1) continue
+         
+         printf("%s:0\n",i)
     }
 }
 
 END{
-    for(i in topic){
-        print topic[i]"\n\n"
-    }
+    #for(i in topic){
+    #    print topic[i]"\n"
+    #}
 }
 
