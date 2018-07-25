@@ -42,7 +42,7 @@ uses MPI based communication and load-balancing model to parallelize over
 shared as well as distributed memory architectures.
 
 \subsection*{Hardware}
-A large-memory (24 T) SGI system with 512-core Intel Xeon (2.5GHz) was used for
+A large-memory (24 T) SGI system with 512-core Intel Xeon (2.5GHz) is used for
 all the processing. All the IO is memory (\textit{/dev/shm}) bound.
 
 \subsection*{Rationale}
@@ -74,12 +74,12 @@ of countries (190) 3) A list of world universities and research institutes
 
 \section*{Solutions}
 \subsection*{Preprocessing}
-The \texttt{jq} (stedolan.github.io/jq) tool was used to transform json data to
+The \texttt{jq} (stedolan.github.io/jq) tool is used to transform json data to
 tabular format (\texttt{src/json2tabular.sh}).  The json files were converted
 to tabular files with 19 original columns and one additional column called
 \textit{``num\_authors"} showing the number of authors for a given publication
 record. The authors field has a semi-colon separator for multiple authors.
-Further curation of tabular data was done by removing extraneous space, square
+Further curation of tabular data is done by removing extraneous space, square
 brackets, escape characters and quotes using \texttt{sed}.
 
 \subsection*{Parallelization and Speedup}
@@ -106,14 +106,15 @@ implementation of the solution finishes in \textbf{25 seconds}.
 \subsection*{Problem2}
 \textit{Identify topics that have been researched across all publications.}
 
-This problem is solved by identifying most frequently used words in the
-collection. Several common words (aka stop-words) are filtered from title,
-abstract and keywords and top 1,000 words across the whole collection was
-found. At over 23 million, the word ``patients'' has most frequent occurrence.
-The full list of top 1,000 words may be found in
-\texttt{/results/top\_1K\_words\_kw\_abs\_title.txt}. The target collection of
-publications may be narrowed down to criterions such as years range.  The
-parallel implementation of the task finishes in \textbf{9 minutes}.
+This problem is solved by identifying most frequently appearing words in the
+collection. Title, abstract and keywords are parsed and top 1,000 frequently
+occuring words across the whole collection is found. Several common words (aka
+stop-words) are filtered from the results. At over 23 million, the word
+``patients'' has most frequent occurrence. The full list of top 1,000 words
+may be found in \texttt{/results/top\_1K\_words\_kw\_abs\_title.txt}. The
+target collection of publications may be narrowed down to criterions such as
+years range.  The parallel implementation of the task finishes in \textbf{9
+minutes}.
 
 \subsection*{Problem3}
 \textit{visualize the geographic distribution of the topics in the publications.}
@@ -142,7 +143,7 @@ years.
 
 The second part finds the papers that has highest impact in each year and
 extracts the keywords in those papers. The impact is computed by the paper that
-was cited the most in that year. The result for this task are in
+is cited the most in that year. The result for this task are in
 \texttt{results/yearwise\_trending\_keywords.txt} in the form of year,
 keywords, citations triplet.
 
@@ -152,8 +153,8 @@ showing a bubble plot of words changing between the year 1800 and 2017 may be
 found at \texttt{results/freqwordsoveryrs.mkv}. A file list of all the words
 may be found in the directory \texttt{results/trending\_words\_by\_year}.
 
-Parallelizing the third part was most challenging because it involved a
-two-level parallel nested foreach loop.  The outer loop iterates over the years
+Parallelizing the third part was challenging because it involved a
+two-level parallel nested foreach loop. The outer loop iterates over the years
 and the inner loop iterates over the input files. The parallel implementation
 of the task finishes in \textbf{48 minutes}.
 
@@ -188,23 +189,23 @@ into the data without employing any formal sophisticated algorithms.
 \begin{table}
 \begin{center}
 % use packages: array
-\begin{tabular}{|c|c|c|}
+\begin{tabular}{|l|c|c|}
 \hline
 \textbf{Soln to} & \textbf{Description} & \textbf{Direct link} \\
 \hline
-prob1 & Top authors for cancer research & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/cancer_research_topauths.txt}{link} \\
-prob1 & Highly cited papers for meditation research & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/meditation_highly_cited.txt}{link} \\
-prob1 & Papers with 20K+ citations & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/top_papers.txt}{link} \\
-prob2 & Top 1K researched topics & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/top_1K_words_kw_abs_title.txt}{link} \\
-prob2 & Top 10 researched topics & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/top_10_keywords_by_freq.txt}{link} \\
-prob3 & HIV research by cities & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/HIV_AIDS_Research_Cities.txt
+p1 & Top authors for cancer research & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/cancer_research_topauths.txt}{link} \\
+p1 & Highly cited papers for meditation research & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/meditation_highly_cited.txt}{link} \\
+p1 & Papers with 20K+ citations & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/top_papers.txt}{link} \\
+p2 & Top 1K researched topics & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/top_1K_words_kw_abs_title.txt}{link} \\
+p2 & Top 10 researched topics & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/top_10_keywords_by_freq.txt}{link} \\
+p3 & HIV research by cities & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/HIV_AIDS_Research_Cities.txt
 }{link} \\
-prob3 & bird research at universities & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/birds_research_at_univs.txt}{link} \\
-prob3 & bird research cities on map & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/bird_research_cities.png}{link} \\
-prob4 & Obesity-sugar trend & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/obesity_sugar.pdf}{link} \\
-prob4 & animated evolution of top 10 keywords yearwise & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/freqwordsoveryears.mkv}{link} \\
-prob4 & yearwise trending keywords & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/yearwise_trending_keywords.txt}{link} \\
-prob5 & Possible suspects for proposal with given keywords & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/suspects.txt}{link} \\
+p3 & bird research at universities & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/birds_research_at_univs.txt}{link} \\
+p3 & bird research cities on map & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/bird_research_cities.png}{link} \\
+p4 & Obesity-sugar trend & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/obesity_sugar.pdf}{link} \\
+p4 & animated evolution of top 10 keywords yearwise & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/freqwordsoveryears.mkv}{link} \\
+p4 & yearwise trending keywords & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/yearwise_trending_keywords.txt}{link} \\
+p5 & Possible suspects for proposal with given keywords & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/suspects.txt}{link} \\
 -- & Best paper's citation network & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/best_papers.svg}{link} \\
 \hline
 \end{tabular}
