@@ -1,5 +1,5 @@
 \documentclass{article}
-
+\usepackage{hyperref}
 \usepackage{listings}
 \pagenumbering{gobble}
 \usepackage[english]{babel}
@@ -199,8 +199,18 @@ into the data without employing any formal sophisticated algorithms.
 % use packages: array
 \begin{tabular}{|l|l|l|}
 \hline
-soln to & Description & link \\
-prob1 & desc & link \\
+\textbf{Soln to} & \textbf{Description} & \textbf{Direct link} \\
+\hline
+prob & Top 10 researched topics & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/top_10_keywords_by_freq.txt}{link} \\
+prob & HIV research by cities & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/HIV_AIDS_Research_Cities.txt
+}{link} \\
+prob & bird research at universities & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/birds_research_at_univs.txt}{link} \\
+prob & bird research cities on map & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/bird_research_cities.png}{link} \\
+prob & animated evolution of top 10 keywords yearwise & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/freqwordsoveryears.mkv}{link} \\
+prob & Top authors for cancer research & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/cancer_research_topauths.txt}{link} \\
+prob & Obesity-sugar trend & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/obesity_sugar.pdf}{link} \\
+prob & Best paper's citation network & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/best_papers.svg}{link} \\
+prob5 & Possible suspects for proposal & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/suspects.txt}{link} \\
 \hline
 \end{tabular}
 \end{center}
@@ -208,18 +218,9 @@ prob1 & desc & link \\
 \label{tbl:results}
 \end{table}
 
-
 \section*{Acknowledgements.}
 I acknowledge Brian Zachary, Suhas Somnath, Drew Schmidt for their helpful
 inputs. I acknowledge CADES for the resources for this project.
 \end{document}
 
-data $ wc -l stop_words.txt 
-     161 stop_words.txt
-data $ wc -l cities.txt 
-    3517 cities.txt
-data $ wc -l countries.txt 
-     198 countries.txt
-data $ wc -l universities.txt 
-    8984 universities.txt
 
