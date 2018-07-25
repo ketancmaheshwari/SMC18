@@ -25,50 +25,50 @@
 \maketitle
 \section*{Introduction}
 
-This report presents my response to the SMC 2018 Data Challenge 4--Acedamic
-Data Mining. The challenge is addressed by combining the simplicity of the
-classic Linux tools with the power of a modern scalable parallel scripting
+This report presents my response to the SMC 2018 Data Challenge 4--Scientific
+Publication Mining. I address the challenge by combining the simplicity of the
+classic Linux tools with the power of a modern scalable HPC workflow
 platform.
 
 The report describes the tools used, their rationale, solutions to the problems
-and a glance at the results. Source code for solutions and results may be found
+and a glance at the results. Source code and results may be found
 at https://github.com/ketancmaheshwari/SMC18. The source code for the core
-solutions are in files \texttt{src/prob*.awk}. The source code for the Swift
+solutions are in files \texttt{src/prob*.awk}. The source code for the HPC
 parallelization of the core solutions are in files \texttt{src/runprob*.swift}.
-All the results are in \texttt{results/} directory.
+All the results are in the \texttt{results/} directory. A summary of the results and their description and direct links is in table \ref{tbl:results}.
 
 \section*{Tools used}
 \subsection*{Software}
 Classic Linux tools such as \texttt{awk}, \texttt{sort}, \texttt{grep},
-\texttt{tr}, \texttt{sed} and \texttt{bash} are used.  For the bulk of
-processing, \texttt{awk} is used. Syntax of awk programs is known to be terse
-and hard to read by some accounts. I have taken special care to make the
-programs as readable as possible.  ANL's Swift
-(\texttt{swift-lang.org/Swift-T}) parallel scripting tool is used to run the
-awk programs in parallel over the dataset to radically improve performance.
-Swift uses MPI based communication and load-balancing model to parallelize over
+\texttt{tr}, \texttt{sed} and \texttt{bash} are used. Awk is used for the bulk
+of processing.  Syntax of awk programs is known to be terse and hard to read by
+some accounts. I have taken special care to make the programs as readable as
+possible. ANL's Swift (\texttt{swift-lang.org/Swift-T}) is used to run the awk
+programs in parallel over the dataset to radically improve performance.  Swift
+uses MPI based communication and load-balancing model to parallelize over
 shared as well as distributed memory architectures.
 
 \subsection*{Hardware}
 A large-memory (24 T) SGI system with 512-core Intel Xeon (2.5GHz) was used for
-all the processing. All the IO is memory bound (\textit(/dev/shm).
+all the processing. All the IO is memory bound (\textit{/dev/shm}.
 
 \subsection*{Rationale}
+The following list offers the rationale for the choice of tools especially software.
 \begin{enumerate}
 \item \texttt{Awk} is concise, fast, and expressive -- especially for text processing applications.
 \item SQL based tools and databases are hard to port, parallelize, and maintain.
 \item Traditional Linux tools are portable and available on almost all the standard Linux distributions.
 \item Alternative tools such as modern Python libraries have speed limitations, portability concerns and considerable learning curve. Some of them are still evolving.
-\item Swift was used over GNU parallel for its portability to both shared memory systems and distributed memory clusters.
+\item Swift is used over other tools such as GNU parallel for its portability to both shared and distributed memory clusters.
 \end{enumerate}
 
 \section*{Data}
 The original data was in two sets (\textit{aminer} and \textit{mag}) of json
 files (total 322 files) each file containing a million records. The data also
-consisted of a file with a list of duplicate records. An \texttt{awk} script
+consisted of a file with a list of records appearing in both sets. An \texttt{awk} script
 (\texttt{src/filterdup.awk}) is used to exclude the duplicate records from the
 aminer dataset. As a result, there are over 256 million (256,382,605 to be
-exact) unique records to process. The data occupies 329G of disk space. Several
+exact) unique records to process. The total data size is 329G. Several
 fields in the data are \texttt{null}.  Those records were avoided where
 relevant. Additionally, records related to non-English publications were
 avoided where needed.
@@ -76,9 +76,9 @@ avoided where needed.
 
 \subsection*{Auxiliary data}
 In addition to the existing data, I use four lists: 1) A list of cities and their
-lat-long coordinates (3,517) of world with population 100,000 or above; 2) A list
-of countries (190); 3) A list of all the universities and research institutes
-(8,984); 4) A list of stop-words to avoid in some of the results (161 words).
+lat-long coordinates (3,517) with population 100,000 or above 2) A list
+of countries (190) 3) A list of world universities and research institutes
+(8,984) 4) A list of stop-words to avoid in some of the results (161 words).
 
 \section*{Solutions}
 \subsection*{Preprocessing}
@@ -87,14 +87,14 @@ tabular format (\texttt{src/json2tabular.sh}).  The json files were converted
 to tabular files with 19 original columns and one additional column called
 \textit{``num\_authors"} showing the number of authors for a given publication
 record. The authors field has a semi-colon separator for multiple authors.
-Further curation of table data was done by removing extraneous space, square
+Further curation of tabular data was done by removing extraneous space, square
 brackets, escape characters and quotes using \texttt{sed}.
 
 \subsection*{Parallelization and Speedup}
-Each of the solution is run in parallel over the 334 data files. This has
-resulted in radical speedup of each of the problems. As mentioned in the
+Each of the solution is run in parallel over the 322 data files. This has
+resulted in radical speedup of solutions. As mentioned in the
 description of the solutions in the sections below, none of the solution has
-taken more than an hour of runtime.
+taken more than an hour of runtime--some taking less than a minute.
 
 \subsection*{Problem1}
 \textit{Identify the individual or group of individuals who appear to be the expert in a particular field or sub-field.}
@@ -106,10 +106,10 @@ names of authors whose names are repeating for queried topic with atleast a
 certain number of citations in each entry. This will give a reasonable idea of
 who are the expert figures in a given research area. One such result in
 \texttt{results/cancer\_research\_topauths.txt} shows authors in cancer
-research with more than one publication with at least a 1,000 citations.  Along
-side is a result of a query the all-time list of most cited papers with a
+research with more than one publication with at least 1,000 citations.  Along
+side is a result of a query for all-time list of most cited papers with a
 threshold of 20,000 in \texttt{results/top\_papers.txt}. The parallel
-implementation of the task finishes in 25 seconds.
+implementation of the solution finishes in \textbf{25 seconds}.
 
 \subsection*{Problem2}
 \textit{Identify topics that have been researched across all publications.}
@@ -119,34 +119,34 @@ collection. Several common words (aka stop-words) are filtered from title,
 abstract and keywords and top 1,000 words across the whole collection was
 found. At over 23 million, the word ``patients'' has most frequent occurrence.
 The full list of top 1,000 words may be found in
-\texttt{/results/top\_1K\_words\_kw\_abs\_title.txt}.  The parallel
-implementation of the task finishes in 9 minutes.
+\texttt{/results/top\_1K\_words\_kw\_abs\_title.txt}. The target collection of
+publications may be narrowed down to criterions such as years range.  The
+parallel implementation of the task finishes in \textbf{9 minutes}.
 
 \subsection*{Problem3}
 \textit{visualize the geographic distribution of the topics in the publications.}
 
 This problem is solved by identifying the author's affiliations for the records
-that has user supplied keyword in them. The affiliation is searched against
+that has search topic in them. The affiliation is searched against
 three databases--cities, universities and countries to find out the geographic
 locations for that research. The results are aggregated to present a list of
 centers for which a given keyword appears most frequently. For cities, the
 results are plotted on world map. One such example is shown in
-\texttt{/results/bird\_research\_cities.png} for the keyword ``birds''. The
-directory also contains other similar example results such as epilepsy, opioid,
+\texttt{results/bird\_research\_cities.png} for the topic ``birds''. The \texttt{results/}
+directory contains other similar results such as epilepsy, opioid,
 meditation research by universities and by countries. The parallel
-implementation of the task finishes in 25 seconds.
+implementation of the task finishes in \textbf{25 seconds}.
 
 \subsection*{Problem4}
 \textit{Identify how topics have shifted over time.}
 
-This problem may be solved in three distinct ways.
-
-The first part processes the database to find out yearwise occurence of user
-defined topics. It generates a list of years and the number of times
-\textbf{both} topics has occured in a single publication in that year. For
-example, the result in \texttt{results/obesity\_sugar.pdf} (plot courtsey S.
-Somnath) shows how the terms ``obesity'' and ``sugar'' have trended together in
-publications over the years.
+This problem may be solved in three distinct ways. The first part processes the
+database to find out yearwise occurence of two topics. It generates a
+list of years and the number of times \textit{both} topics has occured in a
+single publication in that year. For example, the result in
+\texttt{results/obesity\_sugar.pdf} (plot courtsey S.  Somnath) shows how the
+terms ``obesity'' and ``sugar'' have trended together in publications over the
+years.
 
 The second part finds the papers that has highest impact in each year and
 extracts the keywords in those papers. The impact is computed by the paper that
@@ -154,7 +154,7 @@ was cited the most in that year. The result for this task are in
 \texttt{results/yearwise\_trending\_keywords.txt} in the form of year,
 keywords, citations triplet.
 
-The third part find the top 10 most frequently occurring terms each year to
+The third part finds the top 10 most frequently occurring terms each year to
 find how the topics get in and out of trend over the years. An animation
 showing a bubble plot of words changing between the year 1800 and 2017 may be
 found at \texttt{results/freqwordsoveryrs.mkv}. A file list of all the words
@@ -172,7 +172,7 @@ accomplished previously.}
 This problem has a simple solution: Find the keywords on a new proposal. If
 those keywords appear in an existing publication record, it is a suspect. A
 broad list of suspects may be found with logical OR between keywords which
-could be narrowed with logical AND. The keywords may be arbitrarily combined in
+could be narrowed down with logical AND. The keywords may be arbitrarily combined in
 logical ORs and ANDs. The results file \texttt{/results/suspects.txt} shows
 over 1,400 suspects for an AND combination of keywords:  \textit{battery},
 \textit{electronics}, \textit{lithium}, and \textit{energy} from English
@@ -183,7 +183,7 @@ seconds.
 Some results were postprocessed for sorting and merging purposes using Linux
 \texttt{sort, uniq} commands which took negligible time. Some of the results
 obtained were postprocessed for visulization using the \texttt{D3} (d3js.org)
-graphics framework and ffmpeg libraries.
+graphics framework and \texttt{ffmpeg} libraries.
 
 %\section*{Results}
 
@@ -192,6 +192,21 @@ In this work I show how the classical Linux tools may be leveraged to solve
 modern problems. I show that hundreds of millions of records may be processed
 in under a minute at scale using Swift. I show the results that offer insight
 into the data without employing any formal sophisticated algorithms.
+
+\begin{table}
+\begin{center}
+% use packages: array
+\begin{tabular}{|l|l|l|}
+\hline
+soln to & Description & link \\
+prob1 & desc & link \\
+\hline
+\end{tabular}
+\end{center}
+\caption{Summary of results}
+\label{tbl:results}
+\end{table}
+
 
 \section*{Acknowledgements.}
 I acknowledge Brian Zachary, Suhas Somnath, Drew Schmidt for their helpful
