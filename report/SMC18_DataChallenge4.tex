@@ -14,14 +14,6 @@
 \author{Ketan Maheshwari (km0@ornl.gov)}
 
 \begin{document}
-%\begin{titlepage}
-%   \vspace*{\stretch{1.0}}
-%   \begin{center}
-%      \Large\textbf{SMC 2018 Data Challenge \#4}\\
-%      \large\textit{Ketan Maheshwari, km0@ornl.gov}
-%   \end{center}
-%   \vspace*{\stretch{2.0}}
-%\end{titlepage}
 \maketitle
 \section*{Introduction}
 
@@ -32,7 +24,7 @@ platform.
 
 The report describes the tools used, their rationale, solutions to the problems
 and a glance at the results. Source code and results may be found at
-https://github.com/ketancmaheshwari/SMC18. The source code for the core
+\texttt{github.com/ketancmaheshwari/SMC18}. The source code for the core
 solutions are in files \texttt{src/prob*.awk}. The source code for the HPC
 parallelization of the core solutions are in files \texttt{src/runprob*.swift}.
 All the results are in the \texttt{results/} directory. A summary of the
@@ -73,7 +65,6 @@ exact) unique records to process. The total data size is 329G. Several
 fields in the data are \texttt{null}.  Those records were avoided where
 relevant. Additionally, records related to non-English publications were
 avoided where needed.
-
 
 \subsection*{Auxiliary data}
 In addition to the existing data, I use four lists: 1) A list of cities and their
@@ -201,16 +192,20 @@ into the data without employing any formal sophisticated algorithms.
 \hline
 \textbf{Soln to} & \textbf{Description} & \textbf{Direct link} \\
 \hline
-prob & Top 10 researched topics & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/top_10_keywords_by_freq.txt}{link} \\
-prob & HIV research by cities & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/HIV_AIDS_Research_Cities.txt
+prob1 & Top authors for cancer research & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/cancer_research_topauths.txt}{link} \\
+prob1 & Highly cited papers for meditation research & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/meditation_highly_cited.txt}{link} \\
+prob1 & Papers with 20K+ citations & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/top_papers.txt}{link} \\
+prob2 & Top 1K researched topics & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/top_1K_words_kw_abs_title.txt}{link} \\
+prob2 & Top 10 researched topics & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/top_10_keywords_by_freq.txt}{link} \\
+prob3 & HIV research by cities & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/HIV_AIDS_Research_Cities.txt
 }{link} \\
-prob & bird research at universities & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/birds_research_at_univs.txt}{link} \\
-prob & bird research cities on map & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/bird_research_cities.png}{link} \\
-prob & animated evolution of top 10 keywords yearwise & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/freqwordsoveryears.mkv}{link} \\
-prob & Top authors for cancer research & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/cancer_research_topauths.txt}{link} \\
-prob & Obesity-sugar trend & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/obesity_sugar.pdf}{link} \\
-prob & Best paper's citation network & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/best_papers.svg}{link} \\
-prob5 & Possible suspects for proposal & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/suspects.txt}{link} \\
+prob3 & bird research at universities & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/birds_research_at_univs.txt}{link} \\
+prob3 & bird research cities on map & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/bird_research_cities.png}{link} \\
+prob4 & Obesity-sugar trend & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/obesity_sugar.pdf}{link} \\
+prob4 & animated evolution of top 10 keywords yearwise & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/freqwordsoveryears.mkv}{link} \\
+prob4 & yearwise trending keywords & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/yearwise_trending_keywords.txt}{link} \\
+prob5 & Possible suspects for proposal with given keywords & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/suspects.txt}{link} \\
+-- & Best paper's citation network & \href{https://github.com/ketancmaheshwari/SMC18/blob/master/results/best_papers.svg}{link} \\
 \hline
 \end{tabular}
 \end{center}
@@ -222,5 +217,4 @@ prob5 & Possible suspects for proposal & \href{https://github.com/ketancmaheshwa
 I acknowledge Brian Zachary, Suhas Somnath, Drew Schmidt for their helpful
 inputs. I acknowledge CADES for the resources for this project.
 \end{document}
-
 
