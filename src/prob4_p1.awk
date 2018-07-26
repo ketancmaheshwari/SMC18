@@ -13,6 +13,7 @@
 # Solution 1 below will search for any two topics mentioned and show the number of occurence of both the topics yearwise
 
 BEGIN{
+    # Field Separator
     FS = "qwqw"
     IGNORECASE = 1
     # Field names
@@ -32,8 +33,8 @@ END{
     for (i=1;i<=n;i++) printf("%d :- %d\n", b[i], a[b[i]])
 }
 
-# The way to run this code is as follows:
-#  awk -v topic1=obesity -v topic2=sugar -f code/prob4.awk aminer_papers_allcols_excl/aminer_papers_*.allcols.excl.txt mag_papers_allcols/mag_papers_*.allcols.txt
+# Run this code is as follows:
+# awk -v topic1=obesity -v topic2=sugar -f code/prob4.awk aminer_mag_papers/*.txt
 
 # Solution 2 is to find the highest cited paper yearwise and figure out the topics it was based on
 

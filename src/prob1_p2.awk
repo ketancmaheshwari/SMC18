@@ -13,6 +13,7 @@
 #   used to produce the output. 
 
 BEGIN{
+    # Field seperator
     FS="qwqw"
     OFS="\t"
     IGNORECASE=1
@@ -25,12 +26,16 @@ BEGIN{
 }
 
 ($0~topic && $num_authors > 0 && $n_citation!~/null/ && $n_citation>1000){
-   #find out the authors whose names are repeating for a particular topic. Those authors will be considered experts. 
+   
+   # find out the authors whose names are repeating for a particular topic.
+   # Those authors will be considered experts. 
+   
    gsub("\"","",$authors)
    split($authors, a, ";")
+   
    for (i in a){
        split(a[i], b, ",")
-       if(b[1]!~/null/) auths[b[1]]++
+       if(b[1]!~/null/) auths[b[1]]++ # auths array will have keys as auth names and the element value increases if the key repeats
    }
 }
 

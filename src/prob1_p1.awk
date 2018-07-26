@@ -13,7 +13,10 @@
 #   used to produce the output. 
 
 BEGIN{
+
+    # Field Seperator
     FS="qwqw"
+    # Output field seperator
     OFS="\t"
     IGNORECASE=1
 
