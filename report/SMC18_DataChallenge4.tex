@@ -23,7 +23,7 @@ classic Linux tools with the power of a modern scalable HPC workflow
 platform.
 
 The report describes the tools used, their rationale, solutions to the problems
-and a glance at the results. Source code and results may be found at
+and a glance at the results. Source code and results are at
 \texttt{github.com/ketancmaheshwari/SMC18}. The source code for the core
 solutions are in files \texttt{src/prob*.awk}. The source code for the HPC
 parallelization of the core solutions are in files \texttt{src/runprob*.swift}.
@@ -111,7 +111,7 @@ collection. Title, abstract and keywords are parsed and top 1,000 frequently
 occuring words across the whole collection is found. Several common words (aka
 stop-words) are filtered from the results. At over 23 million, the word
 ``patients'' has most frequent occurrence. The full list of top 1,000 words
-may be found in \texttt{/results/top\_1K\_words\_kw\_abs\_title.txt}. The
+is found in \texttt{/results/top\_1K\_words\_kw\_abs\_title.txt}. The
 target collection of publications may be narrowed down to criterions such as
 years range.  The parallel implementation of the task finishes in \textbf{9
 minutes}.
@@ -149,9 +149,9 @@ keywords, citations triplet.
 
 The third part finds the top 10 most frequently occurring terms each year to
 find how the topics get in and out of trend over the years. An animation
-showing a bubble plot of words changing between the year 1800 and 2017 may be
+showing a bubble plot of words changing between the year 1800 and 2017 is
 found at \texttt{results/freqwordsoveryrs.mkv}. A file list of all the words
-may be found in the directory \texttt{results/trending\_words\_by\_year}.
+is found in the directory \texttt{results/trending\_words\_by\_year}.
 
 Parallelizing the third part was challenging because it involved a
 two-level parallel nested foreach loop. The outer loop iterates over the years
