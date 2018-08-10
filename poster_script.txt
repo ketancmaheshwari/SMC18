@@ -1,0 +1,37 @@
+Header:
+
+Box1: 
+Ketan M (Linux Systems Engineer) reading email about the SMC Datachallenge
+Thought Bubble (T/B): This is cool, let's do it! Ahh challenge 4 looks fun, and the data is in plain-text format; cool to play with Linux tools and awk the most fun of them all!
+
+Box2: 
+T/B: Ahh the data is in json format! Need to get it to a friendly format--tabular format! yes, awk likes it in tabular format! I know a tool to get this done: jq
+
+Box3:
+T/B: [the jq command line] Yo! all the data is now in tabular format! phew! was it hard to chose a right column seperator! All possible 3-char combinations were present in the data!
+
+Box4:
+T/B: Let's choose appropriate hardware -- I think 'Brut' will be suitable, it has large memory (24T) and is relatively less busy! And let's give it a go by eliminating duplicate data between the aminer and mag datasets
+[the filterdup.awk code]
+Wow! 64M less records to worry about! Still they're 264M+ records occupying 329G+ in 322 files! That's quite a bit of data! Let me straighten it up by eliminating useless quotes and square brackets!
+
+Box5:
+T/B: Looking at the problems, looks like some more data will be needed, let's get countries, cities and universities data. And a list of common words to filter out.
+
+Box6:
+[Suhas visits]: Hey dude! it's cool that you're using classical linux tools to address the challenge. So unconventional. Me: Feeling encouraged! Thanks Suhas. Fiddles more with data--fun fact: 22,000+ papers with Ramanujan in title!
+
+Box7:
+T/B: Alright, enough fiddling, time to solve problem # 1! "Identify folks who are experts in a field". hmmm if papers in a field has a lot of citations, that would mean the auths know a thing or two about what they are saying! Here is how I will find them:
+[awk code prob1_p1]
+Similarly, if an auth's name is appearing more than once on highly cited papers on a given topic--they would be considered experts. Here is a way to find those authors:
+[awk code prob1_p2]
+
+Box8:
+T/B: Curious how the reference network of top papers would look like. Let me actually plot it with graphviz. Boy! does it look busy!
+[top paper citation graph]
+
+Box9:
+[Meeting with Brian] Brian: Cool that you are doing this challenge! I wonder if it would be interesting to find how topics evolve over the years by looking at how often they appear in the data for a given year! Me: Good idea! "Feeling encouraged and driven".
+
+ 
