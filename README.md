@@ -3,6 +3,7 @@ SMC Data Challenge 4 Academic Data Mining
 
 https://smc-datachallenge.ornl.gov
 
+A pdf report may be found in the /report folder.
 
 . Run awk code:
 
