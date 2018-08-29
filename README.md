@@ -1,9 +1,10 @@
 # SMC18
-SMC Data Challenge 4 Academic Data Mining
+## A pdf report may be found in the /report folder.
+
+SMC Data Challenge 4 Scientific Publications Mining
 
 https://smc-datachallenge.ornl.gov
 
-A pdf report may be found in the /report folder.
 
 . Run awk code:
 
