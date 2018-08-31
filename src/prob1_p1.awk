@@ -27,6 +27,9 @@ BEGIN{
     keywords=18; abstract=19; authors=20;
 }
 
-($0~topic && $num_authors > 0 && $n_citation!~/null/ && $n_citation>500){
+($0~topic && $num_authors > 0 && $n_citation!~/null/ && $n_citation>100){
     print $n_citation, $title, $authors, $year
 }
+
+# How to run:
+# awk -v topic=environment -f src/prob1_p1.awk data/mag_papers_sample.allcols.txt

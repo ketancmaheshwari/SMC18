@@ -10,12 +10,6 @@
 #    certain locations which focus on specific topics? The solution should again
 #    contain a description of how was the output produced.
 
-# HOW TO RUN:
-# awk -v topic=birds -f prob3.awk cities.txt ../mag_papers_allcols/mag_papers_*.allcols.txt ../aminer_papers_allcols_excl/aminer_papers_*.allcols.excl.txt
-# awk -v topic=crows -f prob3.awk countries.txt ../mag_papers_allcols/mag_papers_*.allcols.txt ../aminer_papers_allcols_excl/aminer_papers_*.allcols.excl.txt
-# awk -v topic=crows -f prob3.awk universities.txt ../mag_papers_allcols/mag_papers_*.allcols.txt ../aminer_papers_allcols_excl/aminer_papers_*.allcols.excl.txt
-
-
 BEGIN{
     # Field seperator
     FS="qwqw"
@@ -47,6 +41,11 @@ END{
       if(a[k]) print a[k], k
    }
 }
+
+# HOW TO RUN:
+# awk -v topic=birds -f prob3.awk cities.txt ../mag_papers_allcols/mag_papers_*.allcols.txt ../aminer_papers_allcols_excl/aminer_papers_*.allcols.excl.txt
+# awk -v topic=crows -f prob3.awk countries.txt ../mag_papers_allcols/mag_papers_*.allcols.txt ../aminer_papers_allcols_excl/aminer_papers_*.allcols.excl.txt
+# awk -v topic=crows -f prob3.awk universities.txt ../mag_papers_allcols/mag_papers_*.allcols.txt ../aminer_papers_allcols_excl/aminer_papers_*.allcols.excl.txt
 
 # Run the following pipeline on the results:
 # sort -nr -k 1 citywise_papers.txt > tmp && mv tmp citywise_papers.txt 

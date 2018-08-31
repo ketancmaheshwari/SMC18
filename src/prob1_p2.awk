@@ -25,7 +25,7 @@ BEGIN{
     keywords=18; abstract=19; authors=20;
 }
 
-($0~topic && $num_authors > 0 && $n_citation!~/null/ && $n_citation>1000){
+($0~topic && $num_authors > 0 && $n_citation!~/null/ && $n_citation>100){
    
    # find out the authors whose names are repeating for a particular topic.
    # Those authors will be considered experts. 
@@ -42,3 +42,6 @@ BEGIN{
 END{
    for (k in auths) if(auths[k]>1) print auths[k], k
 }
+
+#How to run:
+# awk -v topic=environment -f src/prob1_p2.awk data/mag_papers_sample.allcols.txt 
