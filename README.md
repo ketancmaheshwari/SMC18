@@ -8,7 +8,7 @@ https://smc-datachallenge.ornl.gov
 
 . Run awk code:
 
-`awk -f prob2.awk data_dir/*.txt`
+`awk -f prob2.awk stop_words.txt data_dir/*.txt`
 
 . Compile Swift code:
 
