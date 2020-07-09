@@ -1,4 +1,4 @@
-# SMC18
+# Running Awk in Parallel to process 256M Records
 
 I wrote a [blog post](https://ketancmaheshwari.github.io/posts/2020/05/24/SMC18-Data-Challenge-4.html) about this work.
 
