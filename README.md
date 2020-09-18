@@ -1,6 +1,6 @@
 # Running Awk in Parallel to process 256M Records
 
-I wrote a [blog post](https://ketancmaheshwari.github.io/posts/2020/05/24/SMC18-Data-Challenge-4.html) about this work.
+I wrote a [blog post](https://ketancmaheshwari.github.io/posts/2020/05/24/SMC18-Data-Challenge-4.html) about this work. It was discussed some at [Hacker News](https://news.ycombinator.com/item?id=23394024).
 
 This repo contains the artefacts about the [Smoky Mountains Data Challenge](https://smc-datachallenge.ornl.gov) 2018 that I solved (and won first prize). In the following, I describe the approach, method and some interesting tidbits.
 
